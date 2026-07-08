@@ -1,0 +1,22 @@
+{
+  "name": "ssangbak-static",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "import:ssangbak": "node scripts/import-ssangbak.mjs"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@astrojs/sitemap": "^3.5.1",
+    "astro": "^5.11.0",
+    "cheerio": "^1.1.0",
+    "he": "^1.2.0",
+    "turndown": "^7.2.0",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {}
+}

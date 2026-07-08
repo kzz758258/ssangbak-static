@@ -1,0 +1,42 @@
+---
+import "../styles/global.css";
+
+const {
+  title = "SsangBak",
+  description = "정부 지원금, 정책, 혜택, 생활 정보를 정리합니다.",
+  canonical
+} = Astro.props;
+
+const canonicalUrl = canonical ? new URL(canonical, Astro.site).toString() : Astro.url.toString();
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <slot name="head" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="주요 메뉴">
+        <a class="brand" href="/">SsangBak</a>
+        <div class="nav-links">
+          <a href="/category/subsidy/">지원금</a>
+          <a href="/category/living-information/">생활정보</a>
+          <a href="/category/broadcasting/">방송</a>
+          <a href="/category/concert-musical/">콘서트·뮤지컬</a>
+          <a href="/category/ai-job/">AI 직업</a>
+          <a href="/category/ai-stocks/">AI 주식</a>
+        </div>
+      </nav>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">© 2026 SsangBak</footer>
+  </body>
+</html>
