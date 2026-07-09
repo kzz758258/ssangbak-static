@@ -1,9 +1,12 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import { absoluteUrl, slugifyHeading } from "../lib/seo";
+import { getRelatedPosts, inferCategory } from "../lib/taxonomy";
 
-const { post } = Astro.props;
+const { post, allPosts = [] } = Astro.props;
 const { Content, headings } = await post.render();
+const category = inferCategory(post);
+const relatedPosts = getRelatedPosts(post, allPosts, 5);
 const title = `${post.data.title} | SsangBak`;
 const description = post.data.description ?? post.data.title;
 const site = Astro.site ?? new URL("https://ssangbak.com");
@@ -34,6 +37,7 @@ const articleJsonLd = {
   dateModified: modified,
   mainEntityOfPage: canonicalUrl,
   image: imageUrl ? [imageUrl] : undefined,
+  articleSection: category.title,
   author: {
     "@type": "Organization",
     name: "SsangBak"
@@ -57,6 +61,12 @@ const breadcrumbJsonLd = {
     {
       "@type": "ListItem",
       position: 2,
+      name: category.title,
+      item: absoluteUrl(`/category/${category.slug}/`, site)
+    },
+    {
+      "@type": "ListItem",
+      position: 3,
       name: post.data.title,
       item: canonicalUrl
     }
@@ -68,6 +78,7 @@ const breadcrumbJsonLd = {
   <Fragment slot="head">
     {imageUrl && <meta property="og:image" content={imageUrl} />}
     <meta property="og:type" content="article" />
+    <meta property="article:section" content={category.title} />
     <meta property="article:published_time" content={published} />
     <meta property="article:modified_time" content={modified} />
     <script is:inline type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
@@ -76,6 +87,8 @@ const breadcrumbJsonLd = {
   <article class="article">
     <nav class="breadcrumb" aria-label="브레드크럼">
       <a href="/">홈</a>
+      <span aria-hidden="true">/</span>
+      <a href={`/category/${category.slug}/`}>{category.title}</a>
       <span aria-hidden="true">/</span>
       <span>{post.data.title}</span>
     </nav>
@@ -97,5 +110,18 @@ const breadcrumbJsonLd = {
       </nav>
     )}
     <Content />
+    {relatedPosts.length > 0 && (
+      <section class="related-posts" aria-label="함께 보면 좋은 글">
+        <h2>함께 보면 좋은 글</h2>
+        <div class="related-grid">
+          {relatedPosts.map((related: any) => (
+            <a class="related-card" href={related.data.permalink}>
+              <span>{inferCategory(related).title}</span>
+              <strong>{related.data.title}</strong>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
   </article>
 </BaseLayout>
