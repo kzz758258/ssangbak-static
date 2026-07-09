@@ -11,17 +11,20 @@ const canonicalUrl = absoluteUrl(post.data.permalink, site);
 const imageUrl = absoluteUrl(post.data.heroImage, site);
 const published = post.data.pubDate.toISOString();
 const modified = (post.data.updatedDate ?? post.data.pubDate).toISOString();
+
 type RenderedHeading = {
   depth: number;
   slug?: string;
   text: string;
 };
+
 const tocHeadings = (headings as RenderedHeading[])
   .filter((heading: RenderedHeading) => heading.depth === 2 || heading.depth === 3)
   .map((heading: RenderedHeading) => ({
     ...heading,
     slug: heading.slug || slugifyHeading(heading.text)
   }));
+
 const articleJsonLd = {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -40,6 +43,7 @@ const articleJsonLd = {
     name: "SsangBak"
   }
 };
+
 const breadcrumbJsonLd = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -70,6 +74,11 @@ const breadcrumbJsonLd = {
     <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   </Fragment>
   <article class="article">
+    <nav class="breadcrumb" aria-label="브레드크럼">
+      <a href="/">홈</a>
+      <span aria-hidden="true">/</span>
+      <span>{post.data.title}</span>
+    </nav>
     <h1>{post.data.title}</h1>
     <p class="meta">
       <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
