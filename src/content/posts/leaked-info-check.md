@@ -7,22 +7,17 @@ permalink: "/leaked-info-check/"
 slugPath: "leaked-info-check"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/leaked-info-check.jpg"
+heroImage: "/wp-content/uploads/2026/01/leaked-info-check.jpg"
 originalUrl: "https://ssangbak.com/leaked-info-check/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/leaked-info-check-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/leaked-info-check-1024x1024.jpg)
 
 나도 모르게 유출된 소중한 개인정보를 단 1분 만에 찾아내고, 금전적 피해를 완벽하게 차단할 수 있는 아주 기쁜 소식을 가져왔습니다.
 
 오늘 안내해 드리는 절차만 차근차근 따라오시면, 더 이상 해킹이나 스팸 걱정 없는 안전한 디지털 생활을 마음껏 누리실 수 있습니다.
 
 [👉 털린 내정보 찾기 서비스](https://kidc.eprivacy.go.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 서비스 대상

@@ -7,18 +7,13 @@ permalink: "/construction-retirement-savings/"
 slugPath: "construction-retirement-savings"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-41.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-41.png"
 originalUrl: "https://ssangbak.com/construction-retirement-savings/"
 ---
 
 [👉 건설 퇴직공제금 신청하기](https://eum.cw.or.kr/web/fir/WEBFIR020M00)
 
 건설 현장에서 땀 흘려 일했지만 정작 내가 받을 수 있는 혜택을 놓치고 있지는 않으신가요? 많은 분이 바쁜 일상 속에서 자신도 모르게 쌓여가는 소중한 자산인 **건설공제조합 퇴직금 조회**를 잊고 계시는 경우가 많습니다. 특히 2026년 들어 관련 규정이 더욱 명확해지면서, 본인의 권리를 정당하게 주장하고 적립금을 확인하는 과정이 어느 때보다 중요해졌습니다. 오늘은 복잡한 절차 없이 스마트하게 내 돈을 찾는 방법을 상세히 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 01\. 건설공제조합 퇴직공제금의 개념과 차별점
 
 흔히 알고 있는 일반 직장의 퇴직금과 건설 현장의 퇴직공제금은 운영 방식에서 큰 차이가 있습니다. 일반 퇴직금은 한 직장에서 1년 이상 계속 근무해야 고용주가 지급하지만, 건설업은 특성상 여러 현장을 이동하며 짧게 근무하는 경우가 많습니다.

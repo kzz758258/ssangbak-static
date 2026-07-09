@@ -7,16 +7,11 @@ permalink: "/miss-trot4-gwangju-concert-ticket-booking-guide/"
 slugPath: "miss-trot4-gwangju-concert-ticket-booking-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/miss-trot4-gwangju-concert-ticket-booking-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/miss-trot4-gwangju-concert-ticket-booking-guide-1.jpg"
 originalUrl: "https://ssangbak.com/miss-trot4-gwangju-concert-ticket-booking-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/miss-trot4-gwangju-concert-ticket-booking-guide-1.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/03/miss-trot4-gwangju-concert-ticket-booking-guide-1.jpg)
 ## 🎤 미스트롯4 광주 콘서트 공연 정보
 
 **2026년 5월 30일(토)**, 광주에서 미스트롯4 전국투어 콘서트가 개최됩니다.

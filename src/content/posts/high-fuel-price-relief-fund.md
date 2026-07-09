@@ -7,7 +7,7 @@ permalink: "/high-fuel-price-relief-fund/"
 slugPath: "high-fuel-price-relief-fund"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/high-fuel-price-relief-fund.jpg"
+heroImage: "/wp-content/uploads/2026/04/high-fuel-price-relief-fund.jpg"
 originalUrl: "https://ssangbak.com/high-fuel-price-relief-fund/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/high-fuel-price-relief-fund/"
 [👉 고유가 피해지원금 신청하기](https://www.mpb.go.kr/web/main/bbs/b_0001/1511)
 
 [👉 고유가 피해지원금 대상자 조회](https://www.nhis.or.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 💰 1인당 최대 60만 원, 지역별 차등 지급액 정리
 
 이번 지원금은 ‘지방으로 갈수록, 취약계층일수록 두텁게 지원한다’는 원칙에 따라 거주 지역별로 금액이 다르게 책정되었습니다.

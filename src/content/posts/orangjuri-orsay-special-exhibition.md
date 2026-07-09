@@ -7,11 +7,11 @@ permalink: "/orangjuri-orsay-special-exhibition/"
 slugPath: "orangjuri-orsay-special-exhibition"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-3.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-3.jpg"
 originalUrl: "https://ssangbak.com/orangjuri-orsay-special-exhibition/"
 ---
 
-![현재 이미지: 오랑주리 오르세 특별전](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-3-1024x1024.jpg)
+![현재 이미지: 오랑주리 오르세 특별전](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-3-1024x1024.jpg)
 
 2025년 하반기 서울 전시 중 가장 뜨거운 관심을 받고 있는 전시, 〈오랑주리 오르세 특별전 : 세잔, 르누아르〉가 드디어 개막했습니다.
 
@@ -29,12 +29,7 @@ originalUrl: "https://ssangbak.com/orangjuri-orsay-special-exhibition/"
 ✔ 자주 묻는 질문  
 까지 한 번에 정리해 보았습니다.
 
-![오랑주리 오르세 포스터](https://ssangbak.com/wp-content/uploads/2025/11/20251124_161200-1.jpg)
-
-목차
-
-[Toggle](#)
-
+![오랑주리 오르세 포스터](/wp-content/uploads/2025/11/20251124_161200-1.jpg)
 ## ⭐ 1. 전시 기본 정보
 
 ### 📌 전시명
@@ -153,7 +148,7 @@ Exhibition of the Musée de l’Orangerie and the Musée d’Orsay : Cézanne an
 
 보통 정해진 시간표에 따라 진행되며, **전시를 처음 접하는 관람객도 작품을 더 풍부하게 느낄 수 있도록 돕는 서비스**라고 생각하면 됩니다.
 
-![오랑주리 오르세 도슨트 일정](https://ssangbak.com/wp-content/uploads/2025/11/20251124_161301-1.jpg)
+![오랑주리 오르세 도슨트 일정](/wp-content/uploads/2025/11/20251124_161301-1.jpg)
 
 ## ⭐ 6. 이번 특별전 관람 포인트
 
@@ -203,7 +198,7 @@ Yes. 전 연령 관람가지만
 
 네 가능합니다. (11월 30일까지)
 
-![오랑주리 오르세 수험생 할인](https://ssangbak.com/wp-content/uploads/2025/11/20251124_161103-1.jpg)
+![오랑주리 오르세 수험생 할인](/wp-content/uploads/2025/11/20251124_161103-1.jpg)
 
 ## 🚗 오시는 길
 
@@ -224,7 +219,7 @@ Yes. 전 연령 관람가지만
 
 가능하다면 **지하철 또는 버스 이용**이 가장 빠르고 안정적입니다.
 
-![오랑주리 오르세 오시는 길](https://ssangbak.com/wp-content/uploads/2025/11/20251124_161330.jpg)
+![오랑주리 오르세 오시는 길](/wp-content/uploads/2025/11/20251124_161330.jpg)
 
 2025~2026년 서울에서 가장 주목받는 전시 중 하나인 **오랑주리·오르세 미술관 특별전 : 세잔, 르누아르**는 해외 명작을 국내에서 만나는 소중한 기회입니다.
 

@@ -7,21 +7,16 @@ permalink: "/mr-trot3-top7-concert-uijeongbu/"
 slugPath: "mr-trot3-top7-concert-uijeongbu"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/20251124_175841-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/20251124_175841-1.jpg"
 originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-uijeongbu/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251124_175841-2.jpg)
+![](/wp-content/uploads/2025/11/20251124_175841-2.jpg)
 
 미스터트롯3 TOP7 전국투어가 이어지는 가운데, **2026년 1월 10일(토)** 개최되는 _의정부 콘서트_ 역시 많은 팬들의 관심을 받고 있습니다.
 
   
 **예매 일정, 좌석 가격, 공연 시간, 티켓 배송·수령 방법, 주의사항, 할인 정보**까지 모든 내용을 최신 정보를 바탕으로 한 번에 정리해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🎫 티켓 예매 일정
 
 의정부 공연의 예매 일정은 아래와 같습니다.
@@ -60,7 +55,7 @@ S석
 ※ 회차별 1인 4매 구매 가능  
 ※ OP석은 제외(안전상의 이유로 오픈 불가)
 
-![미스터트롯3 의정부 콘서트 좌석배치도](https://ssangbak.com/wp-content/uploads/2025/11/20251124_175856-1.jpg)
+![미스터트롯3 의정부 콘서트 좌석배치도](/wp-content/uploads/2025/11/20251124_175856-1.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 
@@ -151,7 +146,7 @@ S석
 
 ## 🛑 오시는 길
 
-![미스터트롯3 의정부 콘서트 오시는 길](https://ssangbak.com/wp-content/uploads/2025/11/20251124_175920.jpg)
+![미스터트롯3 의정부 콘서트 오시는 길](/wp-content/uploads/2025/11/20251124_175920.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 

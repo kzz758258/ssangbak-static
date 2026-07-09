@@ -7,16 +7,11 @@ permalink: "/mobile-id-issuance-method/"
 slugPath: "mobile-id-issuance-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/mobile-id-issuance-method.jpg"
+heroImage: "/wp-content/uploads/2026/01/mobile-id-issuance-method.jpg"
 originalUrl: "https://ssangbak.com/mobile-id-issuance-method/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/mobile-id-issuance-method-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/mobile-id-issuance-method-1024x1024.jpg)
 ## 📱 지갑 없이도 신분 확인, 모바일 신분증 시대
 
 “지갑을 두고 나왔는데…”라는 당황스러운 순간, 이제 걱정하지 않아도 됩니다.  
@@ -133,7 +128,7 @@ IC 태그 / QR 촬영
 -   KB스타뱅킹
 -   NH올원뱅크
 
-![민간 개방 앱](https://ssangbak.com/wp-content/uploads/2026/01/image-10.png)
+![민간 개방 앱](/wp-content/uploads/2026/01/image-10.png)
 
 **2026년 추가 예정:**
 

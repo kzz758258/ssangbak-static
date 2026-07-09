@@ -7,7 +7,7 @@ permalink: "/estimated-height-calculator/"
 slugPath: "estimated-height-calculator"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/Estimated-height-Calculator.jpg"
+heroImage: "/wp-content/uploads/2026/05/Estimated-height-Calculator.jpg"
 originalUrl: "https://ssangbak.com/estimated-height-calculator/"
 ---
 

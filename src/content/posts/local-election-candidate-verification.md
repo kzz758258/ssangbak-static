@@ -7,7 +7,7 @@ permalink: "/local-election-candidate-verification/"
 slugPath: "local-election-candidate-verification"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/local-election-candidate-verification.jpg"
+heroImage: "/wp-content/uploads/2026/05/local-election-candidate-verification.jpg"
 originalUrl: "https://ssangbak.com/local-election-candidate-verification/"
 ---
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/local-election-candidate-verification/"
 [👉 6.3 지방선거 후보자 명부](https://info.nec.go.kr/main/showDocument.xhtml?electionId=0020260603&topMenuId=PC&secondMenuId=CPRI03)
 
 [👉6.3 지방선거 공약 확인](https://policy.nec.go.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 📋 선관위 후보자 정보 공개 서비스 활용법
 
 중앙선거관리위원회(선관위)에서는 유권자들의 현명한 선택을 돕기 위해 모든 후보자의 신상 정보를 투명하게 공개하고 있습니다.

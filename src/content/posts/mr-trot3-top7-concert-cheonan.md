@@ -7,11 +7,11 @@ permalink: "/mr-trot3-top7-concert-cheonan/"
 slugPath: "mr-trot3-top7-concert-cheonan"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/20251124_181053.jpg"
+heroImage: "/wp-content/uploads/2025/11/20251124_181053.jpg"
 originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-cheonan/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251124_181053-2.jpg)
+![](/wp-content/uploads/2025/11/20251124_181053-2.jpg)
 
 미스터트롯3 TOP7 전국투어 콘서트가 드디어 **천안** 공연 일정을 공개했습니다.
 
@@ -19,11 +19,6 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-cheonan/"
 충남·세종·대전 인근 팬들이 가장 기다리던 지역 중 하나인 만큼, 발표 직후부터 예매 관심도가 매우 높은 공연입니다.
 
 예매 전에 확인하여 실패 확률을 크게 줄일 수 있도록 **공연 일정, 티켓 가격, 예매 방법, 할인 정보, 현장 수령 안내, 주의사항**까지 한번에 정리해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🎤 공연 기본정보
 
 ### ✔ 장소
@@ -54,7 +49,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-cheonan/"
 
 전 지역 동일하게 적용되는 TOP7 투어의 대표적인 가격 체계이며, 인기 회차는 SR석 기준 **오픈 즉시 매진** 가능성이 매우 높습니다.
 
-![미스터트롯3 천안 콘서트 좌석배치도](https://ssangbak.com/wp-content/uploads/2025/11/20251124_181110.jpg)
+![미스터트롯3 천안 콘서트 좌석배치도](/wp-content/uploads/2025/11/20251124_181110.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 
@@ -186,7 +181,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-cheonan/"
 -   공연장 내 주차장 운영
 -   공연일에는 혼잡이 매우 심하므로 **조기 방문 추천**
 
-![미스터트롯3 천안 콘서트 오시는 길](https://ssangbak.com/wp-content/uploads/2025/11/20251124_181134-1.jpg)
+![미스터트롯3 천안 콘서트 오시는 길](/wp-content/uploads/2025/11/20251124_181134-1.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 

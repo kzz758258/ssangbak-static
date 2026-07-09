@@ -7,22 +7,17 @@ permalink: "/ai-semiconductor-top7/"
 slugPath: "ai-semiconductor-top7"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/AI-Semiconductor-TOP7.jpg"
+heroImage: "/wp-content/uploads/2026/01/AI-Semiconductor-TOP7.jpg"
 originalUrl: "https://ssangbak.com/ai-semiconductor-top7/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/AI-Semiconductor-TOP7-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/AI-Semiconductor-TOP7-1024x1024.jpg)
 
 2026년 글로벌 반도체 시장이 사상 처음으로 연간 매출 1조 달러(약 1,446조 원)를 돌파할 것으로 전망되면서, AI 반도체 대장주들에 대한 관심이 뜨겁습니다.  
   
 뱅크오브아메리카(BofA)는 “AI 붐은 아직 중간 지점에 불과하다”며 2030년까지 AI 데이터센터 시장이 **1조 2,000억 달러** 규모로 성장할 것으로 내다봤습니다.
 
 2026년 1월 현재 최신 정보를 바탕으로, 글로벌 AI 반도체 시장을 주도할 TOP7 대장주를 심층 분석하겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🎯 2026년 AI 반도체 관련주 한눈에 보기
 
 ### 🥇 엔비디아

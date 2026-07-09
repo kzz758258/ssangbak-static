@@ -7,7 +7,7 @@ permalink: "/kbo-pro-baseball-opening-schedule-guide/"
 slugPath: "kbo-pro-baseball-opening-schedule-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/kbo-pro-baseball-opening-schedule-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/kbo-pro-baseball-opening-schedule-guide-1.jpg"
 originalUrl: "https://ssangbak.com/kbo-pro-baseball-opening-schedule-guide/"
 ---
 
@@ -18,14 +18,9 @@ originalUrl: "https://ssangbak.com/kbo-pro-baseball-opening-schedule-guide/"
 [👉 2026 프로야구 경기 예매하기](https://www.koreabaseball.com/KBO/League/Map.aspx)
 
 [👉2026 프로야구 전체 경기 일정 보기](https://www.koreabaseball.com/Schedule/Schedule.aspx)
-
-목차
-
-[Toggle](#)
-
 ## 📅 2026 KBO 정규 시즌 및 시범경기 일정
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/kbo-pro-baseball-opening-schedule-guide-1.jpg)
+![](/wp-content/uploads/2026/02/kbo-pro-baseball-opening-schedule-guide-1.jpg)
 
 2026년 KBO 리그는 \*\***2026년 3월 28일(토)**\*\*에 화려한 막을 올리며 **9월 6일(일)까지** 대장정을 이어갑니다.
 
@@ -61,7 +56,7 @@ originalUrl: "https://ssangbak.com/kbo-pro-baseball-opening-schedule-guide/"
 
 ## ⚾ 시범경기 첫날 주요 대진표 확인
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/image-63-1024x267.png)
+![](/wp-content/uploads/2026/02/image-63-1024x267.png)
 
 시범경기가 시작되는 **3월 12일(목) 오후 1시**에는 전국 각지에서 흥미로운 매치업이 준비되어 있습니다.
 

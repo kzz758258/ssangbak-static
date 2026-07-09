@@ -7,16 +7,11 @@ permalink: "/ai-energy-top-5/"
 slugPath: "ai-energy-top-5"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/AI-Energy-Top-5.jpg"
+heroImage: "/wp-content/uploads/2026/01/AI-Energy-Top-5.jpg"
 originalUrl: "https://ssangbak.com/ai-energy-top-5/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/AI-Energy-Top-5-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/AI-Energy-Top-5-1024x1024.jpg)
 ## 📊 TOP5 종목 한눈에 보기
 
 ### 🥇 1위: 넥스트에라 에너지 (NextEra Energy)

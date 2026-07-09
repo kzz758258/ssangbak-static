@@ -7,7 +7,7 @@ permalink: "/travel-month-product-worker-discount/"
 slugPath: "travel-month-product-worker-discount"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/travel-month-product-worker-discount.jpg"
+heroImage: "/wp-content/uploads/2026/03/travel-month-product-worker-discount.jpg"
 originalUrl: "https://ssangbak.com/travel-month-product-worker-discount/"
 ---
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/travel-month-product-worker-discount/"
 [👉 근로자 휴가지원몰 할인쿠폰받기](https://korean.visitkorea.or.kr/travelmonth/benefits/special.do)
 
 [👉 2026 숙박페스타 할인쿠폰 발급](https://ssangbak.com/korea-accommodation-festa/)
-
-목차
-
-[Toggle](#)
-
 ## 🎒 2026 여행가는 달 여행상품 할인 대방출
 
 이번 **여행가는 달**에는 전국 구석구석을 탐방할 수 있는 163개의 국내 여행 패키지 상품이 포함되었습니다.

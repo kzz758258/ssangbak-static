@@ -7,22 +7,17 @@ permalink: "/housing-bond-bidding-system-analysis/"
 slugPath: "housing-bond-bidding-system-analysis"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/housing-bond-bidding-system-analysis.jpg"
+heroImage: "/wp-content/uploads/2026/03/housing-bond-bidding-system-analysis.jpg"
 originalUrl: "https://ssangbak.com/housing-bond-bidding-system-analysis/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/housing-bond-bidding-system-analysis.jpg)
+![](/wp-content/uploads/2026/03/housing-bond-bidding-system-analysis.jpg)
 
 고분양가와 대출 규제 속에서도 ‘로또 분양’의 꿈을 꾸던 청약 대기자들에게 새로운 고민이 생겼어요.
 
 최근 주택채권입찰제 재도입 논의가 활발히 진행 중인 거죠. 이는 주변 시세보다 저렴한 분양가로 얻는 시세차익 일부를 국가가 환수하는 제도예요.
 
 2026년 2분기 대규모 분양 물량이 예정된 지금, 주택채권입찰제가 청약 시장과 내집마련 전략에 어떤 변화를 가져올지 정확히 분석해 드릴게요.
-
-목차
-
-[Toggle](#)
-
 ## 주택채권입찰제 그 개념은 무엇인가요
 
 주택채권입찰제는 분양가상한제 적용 주택을 분양받을 때 일정 규모의 국민주택채권을 의무적으로 매입하게 하는 제도예요.

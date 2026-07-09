@@ -7,16 +7,11 @@ permalink: "/energy-voucher-additional-payment/"
 slugPath: "energy-voucher-additional-payment"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-16.jpg"
+heroImage: "/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-16.jpg"
 originalUrl: "https://ssangbak.com/energy-voucher-additional-payment/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-16-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-16-1024x1024.jpg)
 ## 💰 등유·LPG 가구, 평균 51만4천원 받는다
 
 2025년 12월 29일, 기후에너지환경부가 반가운 소식을 [공식 발표](https://www.korea.kr/news/policyNewsView.do?newsId=148957228)했습니다.  

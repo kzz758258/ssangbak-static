@@ -7,7 +7,7 @@ permalink: "/deundeun-jeonse-housing/"
 slugPath: "deundeun-jeonse-housing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/deundeun-jeonse-housing.jpg"
+heroImage: "/wp-content/uploads/2026/06/deundeun-jeonse-housing.jpg"
 originalUrl: "https://ssangbak.com/deundeun-jeonse-housing/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/deundeun-jeonse-housing/"
 확실한 당첨과 자금 부족으로 인한 계약 포기를 막기 위해 필수적으로 체크해야 하는 대출 연계 가이드와 지역별 공고 확인법을 상세히 안내해 드립니다.
 
 [👉 든든전세주택 신청하기](https://www.khug.or.kr/jeonse/web/s07/s070102.jsp)
-
-목차
-
-[Toggle](#)
-
 ## 🏠 1. 2026년형 든든전세주택 자격 조건 및 특징
 
 이 제도의 가장 강력한 장점은 까다로운 금융 심사 없이 오직 무주택 요건만 갖추면 누구나 동등하게 기회를 얻을 수 있다는 점입니다.

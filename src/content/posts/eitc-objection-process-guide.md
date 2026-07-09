@@ -7,7 +7,7 @@ permalink: "/eitc-objection-process-guide/"
 slugPath: "eitc-objection-process-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/eitc-objection-process-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/eitc-objection-process-guide.jpg"
 originalUrl: "https://ssangbak.com/eitc-objection-process-guide/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/eitc-objection-process-guide/"
 [👉 근로장려금 이의신청 바로가기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml)
 
 [👉 근로장려금 지급일 확인하기](https://ssangbak.com/earned-income-tax-credit-amount-payment-date/)
-
-목차
-
-[Toggle](#)
-
 ## ⚖️ 이의신청이 필요한 대표적인 사유
 
 가장 빈번하게 발생하는 사유는 소득 요건이나 재산 요건이 실제 본인의 상황과 다르게 반영된 경우입니다.

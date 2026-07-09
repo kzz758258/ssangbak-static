@@ -7,7 +7,7 @@ permalink: "/2026-worldcup-broadcast-roster/"
 slugPath: "2026-worldcup-broadcast-roster"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/2026-worldcup-broadcast-roster.png"
+heroImage: "/wp-content/uploads/2026/05/2026-worldcup-broadcast-roster.png"
 originalUrl: "https://ssangbak.com/2026-worldcup-broadcast-roster/"
 ---
 
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/2026-worldcup-broadcast-roster/"
 이번 월드컵은 중계 채널 구도부터 역대 명단 발표 역사상 가장 파격적인 변화가 일어났습니다. “당연히 지상파 3사에서 하겠지”라고 생각하셨다가는 대한민국 경기를 놓치는 불상사가 발생할 수 있습니다.
 
 어제 홍명보 감독이 직접 발표한 뜨끈뜨끈한 최종 엔트리 정보와 함께, 채널 돌리다 당황하지 않도록 **중계 채널 및 대표팀 명단**을 완벽하게 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 📺 2026 월드컵 중계 채널: MBC·SBS 본방 사수 불가능?
 
 이번 북중미 월드컵 국내 중계는 역대 선거만큼이나 치열한 중계권 협상 끝에 아주 이색적인 구도로 확정되었습니다. 결론부터 말씀드리면, 이번 대회는 오직 **JTBC**와 **KBS**를 통해서만 시청하실 수 있습니다.

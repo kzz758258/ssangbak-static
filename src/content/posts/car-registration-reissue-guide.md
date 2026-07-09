@@ -7,16 +7,11 @@ permalink: "/car-registration-reissue-guide/"
 slugPath: "car-registration-reissue-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-24.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-24.png"
 originalUrl: "https://ssangbak.com/car-registration-reissue-guide/"
 ---
 
 [자동차등록증 재발급 신청하기](https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=15000000338)
-
-목차
-
-[Toggle](#)
-
 ## 갑자기 사라진 자동차등록증, 당황하지 마세요
 
 자동차 정기 검사 시기가 돌아오거나 중고차 거래를 앞두고 서류를 챙기다 보면, 분명히 글로브 박스에 넣어두었던 **자동차등록증이 보이지 않아 당혹스러운 순간**이 있습니다. 예전 같으면 서류 한 장을 다시 받기 위해 연차를 쓰거나 점심시간에 급하게 구청이나 차량등록사업소를 찾아가야 했지만, 2026년 현재는 그럴 필요가 전혀 없습니다.

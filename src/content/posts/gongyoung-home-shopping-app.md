@@ -7,7 +7,7 @@ permalink: "/gongyoung-home-shopping-app/"
 slugPath: "gongyoung-home-shopping-app"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-22.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-22.png"
 originalUrl: "https://ssangbak.com/gongyoung-home-shopping-app/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/gongyoung-home-shopping-app/"
 [공영홈쇼핑 앱 설치 (갤럭시)](https://play.google.com/store/apps/details?id=com.pub.fm&hl=ko)
 
 [공영홈쇼핑 앱 설치 (애플)](https://apps.apple.com/kr/app/%EA%B3%B5%EC%98%81%EC%87%BC%ED%95%91-%EA%B3%B5%EC%98%81%ED%99%88%EC%87%BC%ED%95%91/id1043437583)
-
-목차
-
-[Toggle](#)
-
 ## 우리 중소기업의 든든한 파트너, 공영홈쇼핑
 
 **공영홈쇼핑은 우수한 품질을 갖춘 국내 중소기업과 소상공인의 제품을 합리적인 가격에 소개하는 믿음직한 쇼핑 채널입니다.** 최근 스마트폰을 통한 쇼핑 비중이 늘어남에 따라, TV 앞에 머물지 않고도 언제 어디서나 쇼핑을 즐길 수 있는 모바일 서비스의 중요성이 커지고 있습니다. **공영홈쇼핑 앱 설치**를 완료하면 실시간 방송 시청은 물론, 모바일에서만 누릴 수 있는 특별한 혜택까지 모두 챙길 수 있어 매우 경제적입니다.

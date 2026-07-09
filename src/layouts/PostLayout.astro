@@ -1,19 +1,92 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import { absoluteUrl, slugifyHeading } from "../lib/seo";
 
 const { post } = Astro.props;
-const { Content } = await post.render();
+const { Content, headings } = await post.render();
 const title = `${post.data.title} | SsangBak`;
 const description = post.data.description ?? post.data.title;
+const site = Astro.site ?? new URL("https://ssangbak.com");
+const canonicalUrl = absoluteUrl(post.data.permalink, site);
+const imageUrl = absoluteUrl(post.data.heroImage, site);
+const published = post.data.pubDate.toISOString();
+const modified = (post.data.updatedDate ?? post.data.pubDate).toISOString();
+type RenderedHeading = {
+  depth: number;
+  slug?: string;
+  text: string;
+};
+const tocHeadings = (headings as RenderedHeading[])
+  .filter((heading: RenderedHeading) => heading.depth === 2 || heading.depth === 3)
+  .map((heading: RenderedHeading) => ({
+    ...heading,
+    slug: heading.slug || slugifyHeading(heading.text)
+  }));
+const articleJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: post.data.title,
+  description,
+  datePublished: published,
+  dateModified: modified,
+  mainEntityOfPage: canonicalUrl,
+  image: imageUrl ? [imageUrl] : undefined,
+  author: {
+    "@type": "Organization",
+    name: "SsangBak"
+  },
+  publisher: {
+    "@type": "Organization",
+    name: "SsangBak"
+  }
+};
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "홈",
+      item: absoluteUrl("/", site)
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: post.data.title,
+      item: canonicalUrl
+    }
+  ]
+};
 ---
 
 <BaseLayout title={title} description={description} canonical={post.data.permalink}>
+  <Fragment slot="head">
+    {imageUrl && <meta property="og:image" content={imageUrl} />}
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content={published} />
+    <meta property="article:modified_time" content={modified} />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+  </Fragment>
   <article class="article">
     <h1>{post.data.title}</h1>
     <p class="meta">
       <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
     </p>
-    {post.data.heroImage && <img src={post.data.heroImage} alt={post.data.title} loading="eager" />}
+    {post.data.heroImage && <img class="hero-image" src={post.data.heroImage} alt={post.data.title} loading="eager" />}
+    {tocHeadings.length > 1 && (
+      <nav class="toc" aria-label="본문 목차">
+        <p class="toc-title">목차</p>
+        <ol>
+          {tocHeadings.map((heading: RenderedHeading) => (
+            <li class={`toc-depth-${heading.depth}`}>
+              <a href={`#${heading.slug}`}>{heading.text}</a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )}
     <Content />
   </article>
 </BaseLayout>

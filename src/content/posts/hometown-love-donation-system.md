@@ -7,16 +7,11 @@ permalink: "/hometown-love-donation-system/"
 slugPath: "hometown-love-donation-system"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-17.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-17.jpg"
 originalUrl: "https://ssangbak.com/hometown-love-donation-system/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-17-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-17-1024x1024.jpg)
 ## 💰 10만원 기부하면 정말 13만원 혜택?
 
 고향사랑 기부제는 2023년 도입된 이후 연말정산 시즌마다 큰 관심을 받고 있습니다.  
@@ -98,7 +93,7 @@ originalUrl: "https://ssangbak.com/hometown-love-donation-system/"
 -   소득이 없는 분 (주부, 학생 등)
 -   면세자 (연봉이 매우 낮아 소득세를 내지 않는 경우)
 
-![고향사랑기부제 안내](https://ssangbak.com/wp-content/uploads/2025/12/image-21.png)
+![고향사랑기부제 안내](/wp-content/uploads/2025/12/image-21.png)
 
 ## 📊 기부 금액별 세액공제 계산법
 
@@ -271,7 +266,7 @@ originalUrl: "https://ssangbak.com/hometown-love-donation-system/"
 -   ❌ 강남구 불가
 -   ✅ 부산, 제주, 경기 등 다른 모든 지역 가능
 
-![고향사랑기부제 기부 방법](https://ssangbak.com/wp-content/uploads/2025/12/image-22-1024x485.png)
+![고향사랑기부제 기부 방법](/wp-content/uploads/2025/12/image-22-1024x485.png)
 
 ## 📅 연말정산 절차
 

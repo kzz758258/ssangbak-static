@@ -7,7 +7,7 @@ permalink: "/2026-grandparent-care-allowance/"
 slugPath: "2026-grandparent-care-allowance"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-30.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-30.png"
 originalUrl: "https://ssangbak.com/2026-grandparent-care-allowance/"
 ---
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/2026-grandparent-care-allowance/"
 [손주돌봄수당 신청하기(경남)](https://baro.gyeongnam.go.kr/baro/policyView.es?mid=a10703000000&policy_no=1125)
 
 [손주돌봄수당 신청하기(제주)](https://www.jeju.go.kr/lifecycle/policy/list.htm?act=view&seq=103)
-
-목차
-
-[Toggle](#)
-
 ## 맞벌이 부부의 구원투수, 가족돌봄수당이란?
 
 최근 맞벌이 가구가 늘어나면서 ‘독박 육아’에 대한 두려움은 부모들에게 큰 스트레스로 다가옵니다. 다행히 조부모님이 아이를 돌봐주시는 경우 큰 힘이 되지만, 한편으로는 연세 드신 부모님의 고생에 마음이 무거워지기도 하죠. 이러한 미안함을 조금이나마 덜어드리고, 양육 공백을 메우기 위해 지자체에서 운영하는 제도가 바로 **가족돌봄수당**입니다.

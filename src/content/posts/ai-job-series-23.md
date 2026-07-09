@@ -7,11 +7,11 @@ permalink: "/ai-job-series-23/"
 slugPath: "ai-job-series-23"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-33.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-33.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-23/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-33-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-33-1024x1024.jpg)
 
 취업 준비는 해야 할 업무는 많지만,  
 막상 책상 앞에 앉으면 “무엇부터 해야 할지” 막막해지는 경우가 많습니다.  
@@ -25,11 +25,6 @@ originalUrl: "https://ssangbak.com/ai-job-series-23/"
 **초효율 취업 준비 시간관리 루틴**을 정리합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 🧭 **1) 시간 관리의 핵심은 ‘집중 종류를 분리하는 것’이다**
 
 취업 준비는 크게 4가지 집중 유형으로 나눌 수 있습니다:

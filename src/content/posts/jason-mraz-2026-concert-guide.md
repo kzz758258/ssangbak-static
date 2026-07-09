@@ -7,18 +7,13 @@ permalink: "/jason-mraz-2026-concert-guide/"
 slugPath: "jason-mraz-2026-concert-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-39.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-39.png"
 originalUrl: "https://ssangbak.com/jason-mraz-2026-concert-guide/"
 ---
 
 [제이슨 므라즈 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13649)
 
 제이슨 므라즈의 감미로운 목소리를 라이브로 들을 생각에 벌써 가슴이 두근거리시나요? 워낙 두터운 팬층을 보유한 아티스트인 만큼 **2026 제이슨 므라즈 내한 콘서트** 예매 전쟁에서 밀려날까 봐 걱정되시는 분들이 많을 것입니다. 하지만 걱정 마세요. 오늘 이 글 하나면 티켓팅 성공 전략부터 킨텍스 현장 꿀팁까지 한 번에 마스터할 수 있습니다. 이번 공연 예매를 반드시 성공시켜 드릴 테니 끝까지 집중해 주시기 바랍니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 이번 서울 공연은 아시아 투어의 일환으로 일산 킨텍스에서 펼쳐집니다. 공연에 대한 기본적인 개요를 표로 정리해 드립니다.

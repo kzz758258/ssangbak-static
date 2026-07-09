@@ -7,11 +7,11 @@ permalink: "/ai-job-series-19/"
 slugPath: "ai-job-series-19"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-24-1.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-24-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-19/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-24-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-24-1-1024x1024.jpg)
 
 커리어 초기 1~3년은 많은 사람들이 “그냥 경험 쌓는 시기”라고 생각합니다.  
 하지만 2025년 현재의 취업·이직 시장에서는 이 기간이 **커리어 전체의 방향성을 결정하는 핵심 구간**으로 분석되고 있습니다.
@@ -25,11 +25,6 @@ originalUrl: "https://ssangbak.com/ai-job-series-19/"
 그리고 **이 시기를 어떻게 설계해야 커리어 전체가 좋아지는지**를 깊이 있게 정리합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 🎯 **1) 초기 커리어는 ‘직무 정체성’을 만드는 시기이다**
 
 커리어 초기에는 누구나 “내가 어떤 일을 잘하는 사람인지”조차 불명확합니다.  

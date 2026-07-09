@@ -7,7 +7,7 @@ permalink: "/air-conditioner-cleaning/"
 slugPath: "air-conditioner-cleaning"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-44.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-44.png"
 originalUrl: "https://ssangbak.com/air-conditioner-cleaning/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/air-conditioner-cleaning/"
 [👉 삼성 에어컨 사전점검 신청](https://ssangbak.com/samsung-air-conditioner-inspection/)
 
 2026년 5월 26일, 벌써부터 한여름 무더위가 기승을 부리기 시작했습니다. 본격적인 여름 가동에 앞서 반드시 점검해야 할 것이 바로 에어컨의 위생 상태입니다. 많은 분이 간과하기 쉽지만, **깨끗한 에어컨은 단순히 시원함을 넘어 가족의 호흡기 건강과 직결되며 냉방 효율을 극대화하여 전기료를 획기적으로 줄여주는 역할**을 합니다. 오늘 이 가이드를 통해 초보자도 쉽게 따라 할 수 있는 에어컨 관리법을 상세히 살펴보겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 에어컨 청소가 건강과 경제에 미치는 영향
 
 에어컨은 실내 공기를 흡입하여 냉각한 뒤 다시 내보내는 순환 구조를 가지고 있습니다. 이 과정에서 내부에는 응축수가 발생하고, 열교환기와 송풍팬은 늘 습한 상태를 유지하게 됩니다.

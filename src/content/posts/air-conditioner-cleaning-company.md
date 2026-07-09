@@ -7,18 +7,13 @@ permalink: "/air-conditioner-cleaning-company/"
 slugPath: "air-conditioner-cleaning-company"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-45.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-45.png"
 originalUrl: "https://ssangbak.com/air-conditioner-cleaning-company/"
 ---
 
 [👉 LG 에어컨 사전 점검 신청](https://ssangbak.com/lg-air-conditioner-inspection/)
 
 [👉 삼성 에어컨 사전 점검 신청](https://ssangbak.com/samsung-air-conditioner-inspection/)
-
-목차
-
-[Toggle](#)
-
 ## 무더위 대비의 시작, 왜 에어컨 세척이 필수일까요?
 
 2026년 5월, 벌써 낮 기온이 크게 오르며 여름이 성큼 다가왔음을 실감하는 시기입니다. 많은 분이 **에어컨 청소**를 고민하시는데, 이는 단순히 기기를 깨끗하게 닦는 것 이상의 의미가 있습니다. 오랫동안 방치된 에어컨 내부에는 눈에 보이지 않는 먼지와 곰팡이가 가득하며, 이를 그대로 가동할 경우 가족의 호흡기 건강에 치명적일 수 있습니다. 오늘 포스팅에서는 합리적인 비용으로 쾌적한 여름을 준비할 수 있는 핵심 정보들을 정리해 드립니다.

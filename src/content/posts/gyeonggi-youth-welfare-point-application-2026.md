@@ -7,7 +7,7 @@ permalink: "/gyeonggi-youth-welfare-point-application-2026/"
 slugPath: "gyeonggi-youth-welfare-point-application-2026"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/07/gyeonggi-youth-welfare-point-application-2026.jpg"
+heroImage: "/wp-content/uploads/2026/07/gyeonggi-youth-welfare-point-application-2026.jpg"
 originalUrl: "https://ssangbak.com/gyeonggi-youth-welfare-point-application-2026/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/gyeonggi-youth-welfare-point-application-2026
 이번 모집은 7월 1일부터 7월 13일 오후 6시까지만 매우 짧게 청약 접수를 받기 때문에 완벽한 청년복지포인트 서류 준비와 신청방법 숙지가 필수적입니다.
 
 [👉 청년복지포인트 신청하기](https://youth.jobaba.net)
-
-목차
-
-[Toggle](#)
-
 ## 📋 1. 경기도 청년복지포인트 신청 자격 및 소득 기준
 
 올해 진행되는 복지포인트 사업은 경기도 거주 청년 중 자격 조건을 완벽히 충족하는 근로자만을 선발하여 집중 지원합니다.

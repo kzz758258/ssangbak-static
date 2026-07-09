@@ -7,18 +7,13 @@ permalink: "/2026-peppertone-gwangju-concert-guide/"
 slugPath: "2026-peppertone-gwangju-concert-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-47.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-47.png"
 originalUrl: "https://ssangbak.com/2026-peppertone-gwangju-concert-guide/"
 ---
 
 [페퍼톤스 광주 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13647)
 
 2026 페퍼톤스 광주 콘서트 티켓팅을 앞두고 내 자리가 없을까 봐 벌써부터 불안하신가요? 소규모 클럽 투어 특성상 눈 깜짝할 새 매진될 수 있지만, 이 글에서 정리해 드리는 전략만 잘 따라오시면 **예매 성공 확률을 획기적으로 높일 수 있습니다.** 팬분들이 가장 궁금해하는 티켓팅 꿀팁부터 문화공간 보헤미안의 시야 정보까지 지금 바로 확인해 보세요.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 페퍼톤스의 데뷔 20주년을 기념하는 이번 클럽 투어는 아티스트와 팬이 가장 가까운 거리에서 호흡할 수 있도록 기획되었습니다. 광주 공연의 상세 정보를 확인하세요.

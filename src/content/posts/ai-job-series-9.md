@@ -7,11 +7,11 @@ permalink: "/ai-job-series-9/"
 slugPath: "ai-job-series-9"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-10-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-10-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-9/"
 ---
 
-![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-10-1.jpg](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-10-1-1024x1024.jpg)
+![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-10-1.jpg](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-10-1-1024x1024.jpg)
 
 AI 시대의 채용 시장에서는  
 예전처럼 “경험 나열형 이력서”로는 절대 합격할 수 없습니다.
@@ -24,11 +24,6 @@ AI 시대의 채용 시장에서는
 이번 9편에서는 AI 시대에 합격률을 가장 높이는 **이력서 작성 전략 7가지**를 완전한 실전 기준으로 안내합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. 이력서 첫 줄은 “정체성 문장”으로 시작하라
 
 예전에는 이력서 첫 줄에  

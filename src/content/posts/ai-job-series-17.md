@@ -7,11 +7,11 @@ permalink: "/ai-job-series-17/"
 slugPath: "ai-job-series-17"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-22-1.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-22-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-17/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-22-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-22-1-1024x1024.jpg)
 
 비전공자가 테크 산업에 진입하는 것은 2020년대 초반까지만 해도 쉽지 않은 일이었습니다.  
 하지만 2025년 현재, AI 도구와 직무 세분화, 빠르게 변화하는 채용 방식 덕분에  
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/ai-job-series-17/"
 이번 글에서는 비전공자가 실제로 많이 선택하고 있으며, 성공률이 높은 **현실적인 진입 경로 5가지**를 완전히 새로운 관점에서 정리합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ **비전공자가 테크 산업에 진입하기 쉬운 이유**
 
 비전공자 진입 장벽이 낮아지고 있는 가장 큰 이유는 다음과 같습니다:

@@ -7,22 +7,17 @@ permalink: "/ai-related-stocks-top10/"
 slugPath: "ai-related-stocks-top10"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/ai-related-stocks-top10.jpg"
+heroImage: "/wp-content/uploads/2026/01/ai-related-stocks-top10.jpg"
 originalUrl: "https://ssangbak.com/ai-related-stocks-top10/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/ai-related-stocks-top10-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/ai-related-stocks-top10-1024x1024.jpg)
 
 2026년 1월 현재, 인공지능(AI) 산업은 기술 실험의 단계를 넘어 실제 수익 창출과 비즈니스 성과의 시대로 진입하고 있습니다.  
   
 국제 금융시장을 주도하는 대표적인 투자은행 겸 증권회사인 골드만삭스는 2026년 핵심 투자 테마로 “무작정 미국·AI 주식 비중만 늘릴 것이 아니라 옥석 가리기 및 지역·자산군·섹터별 분산 투자가 필수적” 이라고 강조했습니다.  
   
 2026년 현재 가장 주목받는 AI 관련주 TOP10을 글로벌과 국내로 나누어 상세히 분석해드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 📌 2026년 AI 투자 핵심 종목 한눈에
 
 -   **AI 칩·반도체**: 엔비디아, AMD, 삼성전자, SK하이닉스

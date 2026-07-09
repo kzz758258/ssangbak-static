@@ -7,22 +7,17 @@ permalink: "/daejeon-small-business-subsidy/"
 slugPath: "daejeon-small-business-subsidy"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/daejeon-small-business-subsidy.jpg"
+heroImage: "/wp-content/uploads/2026/02/daejeon-small-business-subsidy.jpg"
 originalUrl: "https://ssangbak.com/daejeon-small-business-subsidy/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/daejeon-small-business-subsidy.jpg)
+![](/wp-content/uploads/2026/02/daejeon-small-business-subsidy.jpg)
 
 대전 지역 소상공인분들이라면 이번 **대전 소상공인 지원금 30만원** 혜택을 통해 경영 부담을 덜고 실질적인 **현금 지원**을 즉시 받으실 수 있습니다.
 
 어려운 시기에 지급되는 소중한 지원금인 만큼, **신청방법**과 **자격 조건**을 꼼꼼히 확인하여 단 한 분도 빠짐없이 혜택을 누리시길 바랍니다.
 
 [👉 대전 소상공인 지원금 신청하기](https://hope.sinbo.or.kr/)
-
-목차
-
-[Toggle](#)
-
 ## ✅ 지원 대상 및 상세 자격 조건
 
 이번 지원금은 대전에서 성실히 영업 중인 **영세 소상공인**분들을 집중적으로 지원하기 위해 마련되었습니다.
@@ -34,7 +29,7 @@ originalUrl: "https://ssangbak.com/daejeon-small-business-subsidy/"
 
 ## 📅 홀짝제 적용 신청 기간 안내
 
-![대전 소상공인 지원금 신청 일정](https://ssangbak.com/wp-content/uploads/2026/02/image-32-1024x378.png)
+![대전 소상공인 지원금 신청 일정](/wp-content/uploads/2026/02/image-32-1024x378.png)
 
 시스템 혼잡을 방지하기 위해 2026년 2월 9일부터 **사업자번호 끝자리** 기준 홀짝제가 운영되고 있습니다.
 

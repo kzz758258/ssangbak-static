@@ -7,11 +7,11 @@ permalink: "/mr-trot3-top7-concert-gwangju/"
 slugPath: "mr-trot3-top7-concert-gwangju"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/image-72.png"
+heroImage: "/wp-content/uploads/2025/11/image-72.png"
 originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-gwangju/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/image-72.png)
+![](/wp-content/uploads/2025/11/image-72.png)
 
 2026년 1월, 전국적으로 이어지는 **미스터트롯3 TOP7 전국투어 콘서트**가 드디어 광주에서도 펼쳐집니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-gwangju/"
 
   
 예매 일정부터 가격, 공연 시간, 할인 정보까지 한눈에 볼 수 있도록 정리해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🎤 공연 기본 정보
 
 -   **공연명** : 미스터트롯3 TOP7 광주 콘서트

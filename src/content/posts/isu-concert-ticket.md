@@ -7,11 +7,11 @@ permalink: "/isu-concert-ticket/"
 slugPath: "isu-concert-ticket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/isu-concert-ticket.jpg"
+heroImage: "/wp-content/uploads/2026/06/isu-concert-ticket.jpg"
 originalUrl: "https://ssangbak.com/isu-concert-ticket/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/06/isu-concert-ticket.jpg)
+![](/wp-content/uploads/2026/06/isu-concert-ticket.jpg)
 
 명품 보컬의 신, 이수의 압도적인 가창력을 라이브로 들을 수 있는 기회가 드디어 찾아왔습니다.
 
@@ -27,7 +27,6 @@ originalUrl: "https://ssangbak.com/isu-concert-ticket/"
 
 > 목차
 > 
-> [Toggle](#)
 > 
 > ## **📅 공연 및 일정 정보**
 

@@ -7,7 +7,7 @@ permalink: "/yb-ulsan-concert-rescheduled-kbs-hall/"
 slugPath: "yb-ulsan-concert-rescheduled-kbs-hall"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/yb-ulsan-concert-rescheduled-kbs-hall-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/yb-ulsan-concert-rescheduled-kbs-hall-1.jpg"
 originalUrl: "https://ssangbak.com/yb-ulsan-concert-rescheduled-kbs-hall/"
 ---
 
@@ -16,14 +16,9 @@ originalUrl: "https://ssangbak.com/yb-ulsan-concert-rescheduled-kbs-hall/"
 보컬 윤도현 님의 쾌유를 기다려온 팬들에게 이번 공연은 그 어느 때보다 감동적이고 뜨거운 재회의 장이 될 것입니다.
 
 [👉YB 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/12804)
-
-목차
-
-[Toggle](#)
-
 ## 🎸 **YB 울산 콘서트 새로운 일정 안내**
 
-![YB 울산 콘서트 장소](https://ssangbak.com/wp-content/uploads/2026/02/image-50.png)
+![YB 울산 콘서트 장소](/wp-content/uploads/2026/02/image-50.png)
 
 기존 공연을 기다리셨던 분들의 아쉬움을 달래줄 이번 **YB 울산 콘서트**는 **KBS울산홀**에서 진행됩니다.
 
@@ -39,7 +34,7 @@ originalUrl: "https://ssangbak.com/yb-ulsan-concert-rescheduled-kbs-hall/"
 
 ## 🎟️ **티켓 가격 및 선예매 일정 확인**
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/yb-ulsan-concert-rescheduled-kbs-hall-1.jpg)
+![](/wp-content/uploads/2026/02/yb-ulsan-concert-rescheduled-kbs-hall-1.jpg)
 
 이번 공연은 기존 예매자들을 배려한 **선예매 시스템**을 도입하여 혼란을 최소화한 것이 특징입니다.
 

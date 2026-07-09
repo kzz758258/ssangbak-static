@@ -7,11 +7,11 @@ permalink: "/agri-food-voucher-items/"
 slugPath: "agri-food-voucher-items"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Agri-food-voucher-items.jpg"
+heroImage: "/wp-content/uploads/2026/01/Agri-food-voucher-items.jpg"
 originalUrl: "https://ssangbak.com/agri-food-voucher-items/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Agri-food-voucher-items-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Agri-food-voucher-items-1024x1024.jpg)
 
 농식품바우처로 무엇을 살 수 있는지 궁금하신가요? 국산 농산물, 축산물, 수산물, 임산물 등 다양한 국산 식품을 구매할 수 있지만, 수입 농산물이나 주류, 과자 등은 구매할 수 없습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/agri-food-voucher-items/"
 지금부터 구매 가능한 품목부터 구매 불가 품목까지 한눈에 확인할 수 있도록 안내해드리겠습니다.
 
 [👉 농식품바우처 구매가능 품목](https://www.foodvoucher.go.kr/view/fm/useguide/vucSprtItem)
-
-목차
-
-[Toggle](#)
-
 ## 🌾 지원품목 세부 기준
 
 **농식품바우처는 국내산 농식품만을 지원하고 있습니다.**

@@ -7,11 +7,11 @@ permalink: "/korea-black-friday-paypal-subscription-method/"
 slugPath: "korea-black-friday-paypal-subscription-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-26.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-26.jpg"
 originalUrl: "https://ssangbak.com/korea-black-friday-paypal-subscription-method/"
 ---
 
-![현재 이미지: 블랙프라이데이 페이팔](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-26-1024x1024.jpg)
+![현재 이미지: 블랙프라이데이 페이팔](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-26-1024x1024.jpg)
 
 11월은 전 세계 쇼핑족들의 최대 축제, **‘블랙프라이데이(Black Friday)’** 시즌입니다.
 
@@ -33,11 +33,6 @@ originalUrl: "https://ssangbak.com/korea-black-friday-paypal-subscription-method
 ✅ 실제 결제 과정,  
 ✅ 환불 시 유의사항까지  
 완벽하게 정리해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🛍️ 1. 블랙프라이데이 & 페이팔, 왜 함께 써야 할까?
 
 ### ✅ 블랙프라이데이란?
@@ -71,7 +66,7 @@ originalUrl: "https://ssangbak.com/korea-black-friday-paypal-subscription-method
 👉 PC : [페이팔 공식 홈페이지](https://www.paypal.com)  
 👉 모바일 : [앱스토어](https://apps.apple.com/kr/app/paypal/id283646709) / [구글플레이](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile&hl=ko_KR)
 
-![페이팔 가입 방법](https://ssangbak.com/wp-content/uploads/2025/11/image-49-1024x364.png)
+![페이팔 가입 방법](/wp-content/uploads/2025/11/image-49-1024x364.png)
 
 2️⃣ **가입 유형 선택(PC):**
 
@@ -79,15 +74,15 @@ originalUrl: "https://ssangbak.com/korea-black-friday-paypal-subscription-method
 -   **비즈니스(Business)** → 판매자용 (쇼핑몰 운영자 등)  
     💡 블랙프라이데이용이라면 _개인 계정_ 선택
 
-![페이팔 가입 방법2](https://ssangbak.com/wp-content/uploads/2025/11/image-50-1024x584.png)
+![페이팔 가입 방법2](/wp-content/uploads/2025/11/image-50-1024x584.png)
 
 3️⃣ **이메일 주소 & 전화번호** **& 비밀번호 입력**
 
-![페이팔 가입 방법 3](https://ssangbak.com/wp-content/uploads/2025/11/image-52.png)
+![페이팔 가입 방법 3](/wp-content/uploads/2025/11/image-52.png)
 
-![페이팔 가입 방법4](https://ssangbak.com/wp-content/uploads/2025/11/image-54.png)
+![페이팔 가입 방법4](/wp-content/uploads/2025/11/image-54.png)
 
-![페이팔 가입 방법 5](https://ssangbak.com/wp-content/uploads/2025/11/image-55.png)
+![페이팔 가입 방법 5](/wp-content/uploads/2025/11/image-55.png)
 
 4️⃣ **개인정보 입력:**
 
@@ -95,15 +90,15 @@ originalUrl: "https://ssangbak.com/korea-black-friday-paypal-subscription-method
 -   ID
 -   생년월일
 
-![페이팔 가입 방법 6](https://ssangbak.com/wp-content/uploads/2025/11/image-56.png)
+![페이팔 가입 방법 6](/wp-content/uploads/2025/11/image-56.png)
 
 5️⃣ **주소 입력**
 
-![페이팔 가입 방법 7](https://ssangbak.com/wp-content/uploads/2025/11/image-57.png)
+![페이팔 가입 방법 7](/wp-content/uploads/2025/11/image-57.png)
 
 6️⃣ **동의 & 계정 생성 완료**
 
-![페이팔 가입 방법 8](https://ssangbak.com/wp-content/uploads/2025/11/image-58.png)
+![페이팔 가입 방법 8](/wp-content/uploads/2025/11/image-58.png)
 
 * * *
 
@@ -134,9 +129,9 @@ BC글로벌, 하나 마스터, 삼성 비자
 
 ### ✅ 등록 절차
 
-![페이팔 가입 방법 9](https://ssangbak.com/wp-content/uploads/2025/11/image-60.png)
+![페이팔 가입 방법 9](/wp-content/uploads/2025/11/image-60.png)
 
-![페이팔 가입 방법 10](https://ssangbak.com/wp-content/uploads/2025/11/image-61.png)
+![페이팔 가입 방법 10](/wp-content/uploads/2025/11/image-61.png)
 
 💡 _참고:_  
 일부 카드는 인증 시 **소액(약 2달러) 결제 후 환불 방식**으로 확인됩니다.

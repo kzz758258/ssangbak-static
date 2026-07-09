@@ -7,11 +7,11 @@ permalink: "/ai-job-series-21/"
 slugPath: "ai-job-series-21"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-31.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-31.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-21/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-31-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-31-1024x1024.jpg)
 
 많은 신입 채용 공고에는 “비즈니스 이해력”, “비즈니스 감각”, “문제 해결 기반 사고”라는 문구가 등장합니다.  
 하지만 막상 취업 준비생들은 이것이 무엇인지, 어떻게 보여줘야 하는지 잘 모르는 경우가 많습니다.
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/ai-job-series-21/"
 가장 실전적으로, 채용 관점에서 해석해 정리합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 🧩 **1) 비즈니스 이해력의 핵심: ‘회사·사용자·상품·비용’이 연결되는 구조를 이해하는 능력**
 
 비즈니스는 결국 **문제 → 해결 → 가치 창출 → 수익**의 흐름으로 구성됩니다.  

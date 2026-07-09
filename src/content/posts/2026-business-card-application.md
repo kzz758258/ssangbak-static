@@ -7,16 +7,11 @@ permalink: "/2026-business-card-application/"
 slugPath: "2026-business-card-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-22.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-22.png"
 originalUrl: "https://ssangbak.com/2026-business-card-application/"
 ---
 
 [비즈플러스카드 신청하기](https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119801)
-
-목차
-
-[Toggle](#)
-
 ## 고물가 시대, 사장님들을 위한 든든한 지원군
 
 최근 고물가와 경기 침체가 지속되면서 임대료, 인건비, 공과금 등 매달 고정적으로 지출되는 운영비는 소상공인들에게 큰 심리적, 경제적 압박으로 다가옵니다. 이러한 자금난을 해소하기 위해 중소벤처기업부와 신용보증재단이 손을 잡고 **소상공인 비즈플러스카드** 사업을 본격적으로 시행하고 있습니다.

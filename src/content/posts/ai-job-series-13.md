@@ -7,11 +7,11 @@ permalink: "/ai-job-series-13/"
 slugPath: "ai-job-series-13"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-18.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-18.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-13/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-18-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-18-1024x1024.jpg)
 
 AI가 업무 속도를 올려준다는 사실은 이미 널리 알려져 있습니다.  
 그러나 실무에서는 \*\*“AI를 어떻게 하루 업무 루틴에 고정시켜야 하는가”\*\*가 해결되지 않아 속도 차이가 벌어집니다.
@@ -23,11 +23,6 @@ AI를 매일 쓰는 사람과 필요할 때만 쓰는 사람의 차이는 시간
 각 단계는 “이 루틴이 없으면 왜 느려지는가”를 기준으로 구성했습니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. 아침 10분: AI 브리핑으로 하루 업무를 ‘결정’하는 루틴
 
 업무 속도를 늦추는 가장 큰 요인은 **해야 할 일의 순서와 범위가 오전에 확정되지 않는 상태**입니다.  

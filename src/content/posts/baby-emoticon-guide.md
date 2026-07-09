@@ -7,16 +7,11 @@ permalink: "/baby-emoticon-guide/"
 slugPath: "baby-emoticon-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-25.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-25.png"
 originalUrl: "https://ssangbak.com/baby-emoticon-guide/"
 ---
 
 [아기 이모티콘 만들기](https://chatgpt.com/ko-KR/)
-
-목차
-
-[Toggle](#)
-
 ## 우리 아이 얼굴로 만드는 특별한 선물, 아기 이모티콘
 
 최근 SNS나 가족 채팅방에서 아이의 귀여운 얼굴을 활용한 커스텀 스티커가 큰 인기입니다. 많은 분들이 **아기 이모티콘 만들기** 방법을 궁금해하시는데, 사실 이 과정은 전문적인 디자인 기술 없이도 **챗GPT와 사진 한 장**만 있다면 누구나 쉽게 따라 할 수 있습니다. 아이의 성장을 기록하는 특별한 방식이자, 가족 간의 대화를 더욱 즐겁게 만들어주는 나만의 굿즈 제작 과정을 지금부터 자세히 소개해 드립니다.

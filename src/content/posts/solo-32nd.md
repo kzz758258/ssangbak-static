@@ -7,7 +7,7 @@ permalink: "/solo-32nd/"
 slugPath: "solo-32nd"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/solo-32nd.jpg"
+heroImage: "/wp-content/uploads/2026/06/solo-32nd.jpg"
 originalUrl: "https://ssangbak.com/solo-32nd/"
 ---
 

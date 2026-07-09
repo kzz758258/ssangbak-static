@@ -7,18 +7,13 @@ permalink: "/accommodation-festa-summer/"
 slugPath: "accommodation-festa-summer"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-38.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-38.png"
 originalUrl: "https://ssangbak.com/accommodation-festa-summer/"
 ---
 
 [👉 숙박페스타 여름 할인권 신청](https://ktostay.visitkorea.or.kr/)
 
 2026년 여름, 소중한 사람들과의 휴가를 계획하고 계신가요? 고물가 시대가 지속되면서 여행 비용에 대한 고민이 깊어지는 요즘, 반가운 소식이 전해졌습니다. 문화체육관광부와 한국관광공사가 힘을 합쳐 **여름맞이 숙박세일 페스타**를 개최합니다. 이번 행사는 비수도권 지역의 관광을 활성화하고 국민들에게 실질적인 숙박비 혜택을 제공하기 위해 마련되었습니다. 최대 7만 원까지 아낄 수 있는 이번 기회를 통해 부담 없이 시원한 여름 추억을 만들어보시기 바랍니다.
-
-목차
-
-[Toggle](#)
-
 ## 여름맞이 숙박세일 페스타 지원 대상 및 지역
 
 이번 페스타의 핵심은 인구 감소로 어려움을 겪고 있는 **비수도권 지역 85곳**을 집중적으로 지원한다는 점입니다. 단순히 관광지에 사람이 몰리는 것을 넘어, 지역 경제에 활력을 불어넣고자 하는 취지가 담겨 있습니다.

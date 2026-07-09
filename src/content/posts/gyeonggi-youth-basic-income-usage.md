@@ -7,14 +7,9 @@ permalink: "/gyeonggi-youth-basic-income-usage/"
 slugPath: "gyeonggi-youth-basic-income-usage"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/gyeonggi-youth-basic-income-usage.jpg"
+heroImage: "/wp-content/uploads/2026/03/gyeonggi-youth-basic-income-usage.jpg"
 originalUrl: "https://ssangbak.com/gyeonggi-youth-basic-income-usage/"
 ---
-
-목차
-
-[Toggle](#)
-
 ## 🛒 지역화폐 사용의 기본 원칙
 
 열심히 신청해서 받은 소중한 지원금을 제대로 활용하기 위해서는 가장 먼저 거주지 제한 규정을 이해해야 합니다.

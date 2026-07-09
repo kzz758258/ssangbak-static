@@ -7,11 +7,11 @@ permalink: "/sung-si-kyung-chukga-concert/"
 slugPath: "sung-si-kyung-chukga-concert"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/sung-si-kyung-chukga-concert-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/sung-si-kyung-chukga-concert-1.jpg"
 originalUrl: "https://ssangbak.com/sung-si-kyung-chukga-concert/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/sung-si-kyung-chukga-concert-1.jpg)
+![](/wp-content/uploads/2026/03/sung-si-kyung-chukga-concert-1.jpg)
 
 드디어 기다리고 기다리던 봄 2026 성시경 축가 콘서트 소식이 찾아왔습니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/sung-si-kyung-chukga-concert/"
 [👉 성시경 축가 콘서트 팬클럽 선예매](https://tickets.interpark.com/contents/notice/detail/13209)
 
 [👉성시경 축가 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13209)
-
-목차
-
-[Toggle](#)
-
 ## 📅 **2026 성시경 축가 콘서트 공연 정보**
 
 이번 공연은 야외 공연의 성지인 연세대학교 노천극장에서 3일간 펼쳐집니다.

@@ -7,22 +7,17 @@ permalink: "/carbon-point-car-registration/"
 slugPath: "carbon-point-car-registration"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/carbon-point-car-registration.jpg"
+heroImage: "/wp-content/uploads/2026/01/carbon-point-car-registration.jpg"
 originalUrl: "https://ssangbak.com/carbon-point-car-registration/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/carbon-point-car-registration-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/carbon-point-car-registration-1024x1024.jpg)
 
 주행거리를 줄인 만큼 현금으로 돌려받는 **탄소중립포인트 자동차** 제도는 매년 선착순으로 모집하여 조기 마감되는 경우가 많습니다.
 
 올해는 최대 **10만 원**의 인센티브를 챙길 수 있는 기회이므로, 아래 내용을 확인하여 신청 기간 내에 반드시 등록을 완료하시기 바랍니다.
 
 [👉 탄소중립포인트 자동차 신청](https://car.cpoint.or.kr/guide/registGuide.do)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 지원 금액
@@ -65,7 +60,7 @@ originalUrl: "https://ssangbak.com/carbon-point-car-registration/"
 
 과거에 촬영한 사진을 재사용하거나 조작할 경우 승인이 거절될 수 있음.
 
-![탄소중립포인트 자동차](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-14.jpg)
+![탄소중립포인트 자동차](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-14.jpg)
 
 ## 🛻인센티브 지급 기준
 

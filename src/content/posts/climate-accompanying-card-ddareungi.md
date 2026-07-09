@@ -7,11 +7,11 @@ permalink: "/climate-accompanying-card-ddareungi/"
 slugPath: "climate-accompanying-card-ddareungi"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-8.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-005-8.jpg"
 originalUrl: "https://ssangbak.com/climate-accompanying-card-ddareungi/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-8-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-005-8-1024x1024.jpg)
 
 서울 대중교통을 가장 경제적으로 이용할 수 있는 교통패스인 **기후동행카드**는 지하철, 버스, 따릉이는 물론 일부 경기도·인천 구간까지 사용할 수 있어 활용 범위가 매우 넓습니다.  
   
@@ -33,11 +33,6 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-ddareungi/"
 )
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ✅ **기후동행카드 통용구간**
 
 기후동행카드는 다음 네 가지 교통수단에서 사용할 수 있습니다.

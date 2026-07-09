@@ -7,22 +7,17 @@ permalink: "/gyeonggi-culture-pass-benefit/"
 slugPath: "gyeonggi-culture-pass-benefit"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/gyeonggi-culture-pass-benefit.jpg"
+heroImage: "/wp-content/uploads/2026/02/gyeonggi-culture-pass-benefit.jpg"
 originalUrl: "https://ssangbak.com/gyeonggi-culture-pass-benefit/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/gyeonggi-culture-pass-benefit.jpg)
+![](/wp-content/uploads/2026/02/gyeonggi-culture-pass-benefit.jpg)
 
 경기도 청년이라면 누구나 **연간 6만원**의 문화 혜택을 즉시 누릴 수 있는 **경기컬쳐패스**가 2026년 더 강력하게 돌아왔습니다.
 
 내 지갑 걱정 없이 영화, 공연, 도서 쇼핑까지 즐길 수 있는 특별한 기회를 절대 놓치지 마시고 지금 바로 **행복한 문화생활**을 시작해 보세요.
 
 [👉 경기컬쳐패스 쿠폰받기](https://www.culturepass.co.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 👤 신청자격 조건 및 대상
 
 이번 사업은 경기도 청년들의 문화적 갈증을 해소하기 위해 **소득 제한 없이** 문턱을 크게 낮춘 것이 특징입니다.

@@ -7,11 +7,11 @@ permalink: "/singagain-all-time-winner/"
 slugPath: "singagain-all-time-winner"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-25.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-25.jpg"
 originalUrl: "https://ssangbak.com/singagain-all-time-winner/"
 ---
 
-![현재 이미지: 싱어게인 역대 우승자](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-25-1024x576.jpg)
+![현재 이미지: 싱어게인 역대 우승자](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-25-1024x576.jpg)
 
 **_싱어게인 역대 우승자들은 누구일까?_**
 
@@ -20,11 +20,6 @@ JTBC 음악 경연 프로그램 **싱어게인** 시리즈는 ‘한 번 더 기
 시즌이 거듭될수록 **음악성·대중성·서사**가 조화된 참가자들이 시청자를 사로잡았고, 우승자와 결승 진출자 대부분이 방송 이후 **음원·공연·콘텐츠**에서 가시적 성과를 내며 커리어를 확장하고 있죠.
 
 이번 시즌 인기도 뜨거운 가운데 싱어게인 역대 우승자를 한 번 정리해 보았습니다
-
-목차
-
-[Toggle](#)
-
 ## 🏆 역대 우승자 한눈에 보기
 
 -   **시즌1 우승: 이승윤** – 독창적 편곡과 서사로 ‘포크록의 확장성’을 증명한 싱어송라이터.
@@ -33,7 +28,7 @@ JTBC 음악 경연 프로그램 **싱어게인** 시리즈는 ‘한 번 더 기
 
 ## 👑 우승자 3인의 음악 색·핵심 경쟁력·이후 행보
 
-![싱어게인 초대 우승자](https://ssangbak.com/wp-content/uploads/2025/11/image-16.png)
+![싱어게인 초대 우승자](/wp-content/uploads/2025/11/image-16.png)
 
 ### 1) 시즌1 우승자 — 이승윤
 
@@ -49,7 +44,7 @@ JTBC 음악 경연 프로그램 **싱어게인** 시리즈는 ‘한 번 더 기
 
 파이널에서 압도적인 몰입감의 무대를 기록하며 실시간 문자투표포함 최종 1위.
 
-![싱어게인2 우승자](https://ssangbak.com/wp-content/uploads/2025/11/image-19-1024x547.png)
+![싱어게인2 우승자](/wp-content/uploads/2025/11/image-19-1024x547.png)
 
 ### 2) 시즌2 우승자 — 김기태
 
@@ -65,7 +60,7 @@ JTBC 음악 경연 프로그램 **싱어게인** 시리즈는 ‘한 번 더 기
 
 락페스티벌·라이브투어 중심의 **공연 라인업 상위권**에 연달아 이름을 올렸고, 드라마·예능 OST 및 협업 싱글 등 **발매·콜라보 빈도**가 눈에 띄게 증가.
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/image-20.png)
+![](/wp-content/uploads/2025/11/image-20.png)
 
 ### 3) 시즌3 우승자 — 홍이삭
 

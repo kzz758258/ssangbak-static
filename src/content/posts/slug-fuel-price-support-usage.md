@@ -7,7 +7,7 @@ permalink: "/slug-fuel-price-support-usage/"
 slugPath: "slug-fuel-price-support-usage"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/slug_-fuel-price-support-usage.jpg"
+heroImage: "/wp-content/uploads/2026/04/slug_-fuel-price-support-usage.jpg"
 originalUrl: "https://ssangbak.com/slug-fuel-price-support-usage/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/slug-fuel-price-support-usage/"
 이 글을 통해 내 주변 사용지역을 빠르게 찾고 경제적 혜택을 온전히 누리시기 바랍니다.
 
 [👉 고유가 지원금 신청하기](https://ssangbak.com/high-fuel-price-relief-fund/)
-
-목차
-
-[Toggle](#)
-
 ## 📍 고유가 지원금 사용처 핵심 요약
 
 이번 지원금은 기본적으로 소상공인 보호와 지역 경제 활성화를 위해 전통시장과 골목상권 위주로 편성되었습니다.

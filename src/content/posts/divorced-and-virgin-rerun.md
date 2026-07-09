@@ -7,7 +7,7 @@ permalink: "/divorced-and-virgin-rerun/"
 slugPath: "divorced-and-virgin-rerun"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-53.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-53.png"
 originalUrl: "https://ssangbak.com/divorced-and-virgin-rerun/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/divorced-and-virgin-rerun/"
 [👉 연애기숙학교 다시보기 쿠팡플레이](https://www.coupangplay.com/titles/3f563f4b-a48b-4a80-aad4-b1372f7ad397)
 
 최근 연애 예능의 새로운 지평을 열고 있는 **연애기숙학교 돌싱n모솔**에 대한 대중의 관심이 뜨겁습니다. 바쁜 일상 때문에 본방 사수를 놓쳐 아쉬워하는 분들이 많으실 텐데요. 오늘은 시청자분들이 궁금해하시는 주간 편성 정보부터 개성 넘치는 출연진들의 닉네임 정보, 그리고 장소 제약 없이 감상할 수 있는 OTT 다시보기 플랫폼까지 알기 쉽게 정리해 드리겠습니다. 더 이상 정보를 찾느라 시간을 낭비하지 마세요. 이 글 하나로 모든 갈증을 해결해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 돌싱n모솔 방송 정보 및 프로그램 특징
 
 이 프로그램은 기존의 평범한 연애 예능과는 궤를 달리합니다. **연애의 쓴맛을 본 돌싱들과 연애를 한 번도 경험하지 못한 모솔들의 만남**이라는 파격적인 설정을 도입했기 때문입니다. 전혀 다른 삶의 궤적을 그려온 이들이 한 공간에 머물며 서로를 이해하고 감정을 쌓아가는 과정은 시청자들에게 신선한 충격과 깊은 몰입감을 선사합니다.

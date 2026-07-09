@@ -7,7 +7,7 @@ permalink: "/2026-worldcup-korea-match-schedule/"
 slugPath: "2026-worldcup-korea-match-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/2026-worldcup-korea-match-schedule.jpg"
+heroImage: "/wp-content/uploads/2026/05/2026-worldcup-korea-match-schedule.jpg"
 originalUrl: "https://ssangbak.com/2026-worldcup-korea-match-schedule/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/2026-worldcup-korea-match-schedule/"
 축구 팬들이 가장 궁금해하시는 것은 역시 **대한민국 국가대표팀의 경기 일정과 생중계 시간**일 텐데요, 다행히도 이번 조별리그 경기 시간대는 한국 팬들이 치킨을 뜯으며 응원하기에 최적의 ‘황금 시간대’로 짜였습니다.
 
 첫 단추를 꿸 조별리그 매치업부터 한국 시간(KST) 기준 킥오프 시간, 그리고 경기장 정보까지 핵심만 알차게 정리해 드립니다. 저도 벌써부터 달력에 경기 날짜를 다 체크해 두었는데, 이번엔 새벽잠을 설칠 필요가 없어서 벌써부터 마음이 편안합니다.
-
-목차
-
-[Toggle](#)
-
 ## ⚽ 2026 북중미 월드컵 전체 운영 일정
 
 대회의 전체적인 흐름을 먼저 파악해 두시면 태극전사들의 토너먼트 로드맵을 그리는 데 큰 도움이 됩니다.

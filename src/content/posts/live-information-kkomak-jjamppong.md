@@ -7,16 +7,11 @@ permalink: "/live-information-kkomak-jjamppong/"
 slugPath: "live-information-kkomak-jjamppong"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/20251118_012034-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/20251118_012034-1.jpg"
 originalUrl: "https://ssangbak.com/live-information-kkomak-jjamppong/"
 ---
 
-![현재 이미지: 생생정보 꼬막짬뽕](https://ssangbak.com/wp-content/uploads/2025/11/20251118_012034-1-1024x468.jpg)
-
-목차
-
-[Toggle](#)
-
+![현재 이미지: 생생정보 꼬막짬뽕](/wp-content/uploads/2025/11/20251118_012034-1-1024x468.jpg)
 ## 🔥 생생정보 2415회 소개! 여주 대표 중식당의 비밀
 
 날씨가 추워질수록 뜨끈한 국물 요리의 인기가 올라갑니다.

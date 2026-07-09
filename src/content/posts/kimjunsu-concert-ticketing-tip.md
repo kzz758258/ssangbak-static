@@ -7,11 +7,11 @@ permalink: "/kimjunsu-concert-ticketing-tip/"
 slugPath: "kimjunsu-concert-ticketing-tip"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/kimjunsu-concert-ticketing-tip-1.jpg"
+heroImage: "/wp-content/uploads/2026/04/kimjunsu-concert-ticketing-tip-1.jpg"
 originalUrl: "https://ssangbak.com/kimjunsu-concert-ticketing-tip/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/kimjunsu-concert-ticketing-tip-1.jpg)
+![](/wp-content/uploads/2026/04/kimjunsu-concert-ticketing-tip-1.jpg)
 
 독보적인 가창력과 화려한 퍼포먼스로 매 공연 레전드를 경신하는 김준수가 2026년 다시 한번 체조경기장을 뜨겁게 달굽니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/kimjunsu-concert-ticketing-tip/"
 [👉 김준수 콘서트 팬클럽 선예매](https://tickets.interpark.com/goods/26004836)
 
 [👉 김준수 콘서트 예매하기](https://tickets.interpark.com/goods/26004836)
-
-목차
-
-[Toggle](#)
-
 ## 📅 2026 김준수 콘서트 티켓팅 일정
 
 이번 공연은 멤버십 선예매와 일반 예매로 나뉘어 진행되므로 본인의 자격 요건에 맞춘 일정 확인이 필수입니다.

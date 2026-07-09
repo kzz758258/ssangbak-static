@@ -7,11 +7,11 @@ permalink: "/saedoyak-fund-check/"
 slugPath: "saedoyak-fund-check"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/saedoyak-fund-check-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/saedoyak-fund-check-1.jpg"
 originalUrl: "https://ssangbak.com/saedoyak-fund-check/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/saedoyak-fund-check-1.jpg)
+![](/wp-content/uploads/2026/02/saedoyak-fund-check-1.jpg)
 
 **새도약기금 대상자 조회 방법**만 미리 알아두면, 7년 넘게 따라다니던 빚이 나도 모르는 사이 **자동으로 소각**되었는지 확인하고 완벽한 경제적 자유를 얻을 수 있습니다.
 
@@ -21,12 +21,7 @@ originalUrl: "https://ssangbak.com/saedoyak-fund-check/"
 
 [👉 새도약기금 대상자 조회](https://www.newleap.or.kr/check/status.do)
 
-![새도약기금 신청](https://ssangbak.com/wp-content/uploads/2026/02/image-21.png)
-
-목차
-
-[Toggle](#)
-
+![새도약기금 신청](/wp-content/uploads/2026/02/image-21.png)
 ## 📊 새도약기금 자동 소각 요건 요약
 
 **항목**

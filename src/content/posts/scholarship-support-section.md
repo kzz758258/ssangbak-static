@@ -7,11 +7,11 @@ permalink: "/scholarship-support-section/"
 slugPath: "scholarship-support-section"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/scholarship-support-section-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/scholarship-support-section-1.jpg"
 originalUrl: "https://ssangbak.com/scholarship-support-section/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/scholarship-support-section-1.jpg)
+![](/wp-content/uploads/2026/02/scholarship-support-section-1.jpg)
 
 **학자금지원구간을** 미리 정확하게 파악하고 국가장학금 혜택을 받는다면 등록금 부담을 획기적으로 낮추고 경제적 여유를 얻을 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/scholarship-support-section/"
 [👉 학자금지원구간 확인하기](https://www.kosaf.go.kr/ko/tuition.do?pg=tuition04_09_07&type=null)
 
 [👉 소득인정액 모의계산기](https://www.kosaf.go.kr/ko/tuition.do?pg=tuition04_09_01&type=scholar&naviParam=JH,01,00,00)
-
-목차
-
-[Toggle](#)
-
 ## 🗓️ 산정 기간 및 전체 처리 절차
 
 학자금 지원을 받기 위한 첫걸음은 정확한 일정을 파악하여 **산정 기간** 내에 모든 서류를 완벽히 제출하는 것입니다.
@@ -66,7 +61,7 @@ originalUrl: "https://ssangbak.com/scholarship-support-section/"
 
 ## 📱 모바일 및 홈페이지 확인 방법
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/image-38-1024x501.png)
+![](/wp-content/uploads/2026/02/image-38-1024x501.png)
 
 본인의 구간이 몇 구간으로 결정되었는지 **확인 방법**은 한국장학재단의 디지털 채널을 이용하면 매우 간편합니다.
 

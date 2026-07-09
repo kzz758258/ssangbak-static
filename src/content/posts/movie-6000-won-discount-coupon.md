@@ -7,18 +7,13 @@ permalink: "/movie-6000-won-discount-coupon/"
 slugPath: "movie-6000-won-discount-coupon"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/Movie-6000-won-discount-coupon.jpg"
+heroImage: "/wp-content/uploads/2026/05/Movie-6000-won-discount-coupon.jpg"
 originalUrl: "https://ssangbak.com/movie-6000-won-discount-coupon/"
 ---
 
 영화 관람 6,000원 할인권 안내
 
 🎬 문화체육관광부 · 영화진흥위원회
-
-목차
-
-[Toggle](#)
-
 # 영화 관람  
 6,000원 할인권 배포
 

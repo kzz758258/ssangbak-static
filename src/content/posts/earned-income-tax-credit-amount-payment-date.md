@@ -7,7 +7,7 @@ permalink: "/earned-income-tax-credit-amount-payment-date/"
 slugPath: "earned-income-tax-credit-amount-payment-date"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/earned-income-tax-credit-amount-payment-date.jpg"
+heroImage: "/wp-content/uploads/2026/02/earned-income-tax-credit-amount-payment-date.jpg"
 originalUrl: "https://ssangbak.com/earned-income-tax-credit-amount-payment-date/"
 ---
 
@@ -20,14 +20,9 @@ originalUrl: "https://ssangbak.com/earned-income-tax-credit-amount-payment-date/
 [👉 2026 근로장려금 신청하기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml)
 
 [👉 2026 근로장려금 신청기간](https://ssangbak.com/earned-income-tax-credit-application-guide/)
-
-목차
-
-[Toggle](#)
-
 ## 💰 가구 유형별 지급금액 기준
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/image-80-1024x406.png)
+![](/wp-content/uploads/2026/02/image-80-1024x406.png)
 
 2026년 **근로장려금**은 가구의 형태와 총소득에 따라 차등 지급되며, 맞벌이 가구 기준으로 최대 **지급금액**은 330만 원에 달합니다.
 

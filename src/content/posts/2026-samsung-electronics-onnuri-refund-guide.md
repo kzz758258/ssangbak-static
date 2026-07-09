@@ -7,7 +7,7 @@ permalink: "/2026-samsung-electronics-onnuri-refund-guide/"
 slugPath: "2026-samsung-electronics-onnuri-refund-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/07/2026-samsung-electronics-onnuri-refund-guide.jpg"
+heroImage: "/wp-content/uploads/2026/07/2026-samsung-electronics-onnuri-refund-guide.jpg"
 originalUrl: "https://ssangbak.com/2026-samsung-electronics-onnuri-refund-guide/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/2026-samsung-electronics-onnuri-refund-guide/
 다만 모든 매장에서 적용되는 것이 아니므로 정확한 삼성전자 온누리 환급 신청 절차와 한도를 미리 파악해야 예산 초과 없이 혜택을 챙길 수 있습니다.
 
 [👉 삼성전자 온누리 환급 신청](https://www.samsung.com/sec/)
-
-목차
-
-[Toggle](#)
-
 ## 🛒 1. 삼성전자 온누리 환급액 지원 기준 및 한도
 
 이번 환급 제도는 온누리상품권 가맹점으로 등록된 특정 전통시장 내 삼성 매장에서 제품을 구매할 때 적용됩니다.

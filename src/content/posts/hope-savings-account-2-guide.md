@@ -7,11 +7,11 @@ permalink: "/hope-savings-account-2-guide/"
 slugPath: "hope-savings-account-2-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/hope-savings-account-2-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/hope-savings-account-2-guide.jpg"
 originalUrl: "https://ssangbak.com/hope-savings-account-2-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/hope-savings-account-2-guide.jpg)
+![](/wp-content/uploads/2026/02/hope-savings-account-2-guide.jpg)
 
 본인이 저축한 금액의 **두 배를 돌려받아 최대 1,440만 원**의 목돈을 마련할 수 있는 기회가 드디어 찾아왔습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/hope-savings-account-2-guide/"
 단순한 저축을 넘어 경제적 자유를 향한 첫걸음이 될 이 혜택을 놓치지 않도록 **신청 방법**부터 **조건**까지 상세히 안내해 드리겠습니다.
 
 [👉 희망저축계좌2 신청하기](https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000100)
-
-목차
-
-[Toggle](#)
-
 ## 💰 **희망저축계좌2 파격 혜택**
 
 이 제도의 가장 큰 매력은 본인이 매월 **10만 원**을 저축하면 정부가 동일하게 **10만 원**을 추가로 적립해준다는 점입니다.

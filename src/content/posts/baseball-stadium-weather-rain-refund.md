@@ -7,7 +7,7 @@ permalink: "/baseball-stadium-weather-rain-refund/"
 slugPath: "baseball-stadium-weather-rain-refund"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/baseball-stadium-weather-rain-refund.jpg"
+heroImage: "/wp-content/uploads/2026/02/baseball-stadium-weather-rain-refund.jpg"
 originalUrl: "https://ssangbak.com/baseball-stadium-weather-rain-refund/"
 ---
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/baseball-stadium-weather-rain-refund/"
 [👉 실시간 전국 야국장 날씨 보기](https://www.koreabaseball.com/Schedule/Weather.aspx#none)
 
 [👉 2026 프로야구 중계 바로보기](https://ssangbak.com/kbo-league-broadcasting-rights-tving-guide/)
-
-목차
-
-[Toggle](#)
-
 ## 🌤️ 실시간 기상 정보 확인
 
-![야구장 날씨](https://ssangbak.com/wp-content/uploads/2026/02/image-65-1024x793.png)
+![야구장 날씨](/wp-content/uploads/2026/02/image-65-1024x793.png)
 
 -   **KBO 홈페이지**: KBO 홈페이지에서 전국 야구장별 강수량과 습도, 풍향, 시간대별 예보 모두 확인 가능합니다.
 -   **기상청 날씨누리 초단기 강수 레이더:** 현재 비구름의 이동 경로를 10분 단위로 확인할 수 있어 가장 정확합니다.

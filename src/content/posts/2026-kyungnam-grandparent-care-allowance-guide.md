@@ -7,16 +7,11 @@ permalink: "/2026-kyungnam-grandparent-care-allowance-guide/"
 slugPath: "2026-kyungnam-grandparent-care-allowance-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-34.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-34.png"
 originalUrl: "https://ssangbak.com/2026-kyungnam-grandparent-care-allowance-guide/"
 ---
 
 [손주돌봄수당 신청하기](https://baro.gyeongnam.go.kr/baro/policyView.es?mid=a10703000000&policy_no=1125)
-
-목차
-
-[Toggle](#)
-
 ## 맞벌이 부부의 든든한 버팀목, 경남형 손주돌봄 지원사업
 
 최근 육아 현장에서 가장 뜨거운 화두 중 하나는 바로 조부모님의 도움입니다. 통계에 따르면 **‘손주 돌봄 수당’에 대한 이용자 만족도가 무려 99%**에 달할 정도로 그 실효성을 인정받고 있습니다. 맞벌이 가구에 있어 할머니, 할아버지의 손길은 무엇과도 바꿀 수 없는 소중한 자산이지만, 그 고마움을 매번 경제적으로 보답하기란 쉽지 않은 일입니다.

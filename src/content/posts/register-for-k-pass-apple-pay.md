@@ -7,16 +7,11 @@ permalink: "/register-for-k-pass-apple-pay/"
 slugPath: "register-for-k-pass-apple-pay"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Register-for-K-Pass-Apple-Pay.jpg"
+heroImage: "/wp-content/uploads/2026/01/Register-for-K-Pass-Apple-Pay.jpg"
 originalUrl: "https://ssangbak.com/register-for-k-pass-apple-pay/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Register-for-K-Pass-Apple-Pay-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/Register-for-K-Pass-Apple-Pay-1024x1024.jpg)
 ## 📱 K패스 애플페이
 
 2025년 애플페이 티머니 공식 지원 이후, 아이폰 사용자도 실물 교통카드 없이 대중교통을 이용하고 K패스 환급 혜택까지 받을 수 있게 되었습니다.  

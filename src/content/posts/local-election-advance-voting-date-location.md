@@ -7,7 +7,7 @@ permalink: "/local-election-advance-voting-date-location/"
 slugPath: "local-election-advance-voting-date-location"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/local-election-advance-voting-date-location.jpg"
+heroImage: "/wp-content/uploads/2026/05/local-election-advance-voting-date-location.jpg"
 originalUrl: "https://ssangbak.com/local-election-advance-voting-date-location/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/local-election-advance-voting-date-location/"
 [👉 6.3 지방선거 사전투표소 찾기](https://www.nec.go.kr/site/lvt/main.do#)
 
 [👉6.3 지방선거 선거일 투표소 찾기](https://www.nec.go.kr/site/lvt/main.do#)
-
-목차
-
-[Toggle](#)
-
 ## 📅 6.3 지방선거 사전투표 날짜 및 시간
 
 지방선거 당일(6월 3일 수요일)에 투표하기 어려운 유권자분들은 아래 지정된 이틀간의 사전투표 기간을 활용하시면 됩니다.

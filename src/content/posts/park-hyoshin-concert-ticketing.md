@@ -7,11 +7,11 @@ permalink: "/park-hyoshin-concert-ticketing/"
 slugPath: "park-hyoshin-concert-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/park-hyoshin-concert-ticketing.jpg"
+heroImage: "/wp-content/uploads/2026/01/park-hyoshin-concert-ticketing.jpg"
 originalUrl: "https://ssangbak.com/park-hyoshin-concert-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/park-hyoshin-concert-ticketing-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/park-hyoshin-concert-ticketing-1024x1024.jpg)
 
 꿈에 그리던 대장의 단독 콘서트가 드디어 우리 곁으로 돌아옵니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/park-hyoshin-concert-ticketing/"
 [👉 박효신 공식 팬클럽 가입 방법](https://ssangbak.com/park-hyoshin-soultree-presale-guide/)
 
 [👉 박효신 콘서트 예매](https://ticket.melon.com/csoon/detail.htm?csoonId=11691)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### 🗓️ 공연 및 예매 일정
@@ -51,7 +46,7 @@ originalUrl: "https://ssangbak.com/park-hyoshin-concert-ticketing/"
 
 ✅ **인천문학경기장 주경기장**
 
-![박효신 콘서트 2026](https://ssangbak.com/wp-content/uploads/2026/01/image-41.png)
+![박효신 콘서트 2026](/wp-content/uploads/2026/01/image-41.png)
 
 ## 📅 박효신 콘서트 예매 일정
 

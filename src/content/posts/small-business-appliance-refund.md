@@ -7,11 +7,11 @@ permalink: "/small-business-appliance-refund/"
 slugPath: "small-business-appliance-refund"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/small-business-appliance-refund.jpg"
+heroImage: "/wp-content/uploads/2026/02/small-business-appliance-refund.jpg"
 originalUrl: "https://ssangbak.com/small-business-appliance-refund/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/small-business-appliance-refund.jpg)
+![](/wp-content/uploads/2026/02/small-business-appliance-refund.jpg)
 
 소상공인 가전제품 지원금을 신청하고 최대 480만 원의 현금 환급을 받고 매달 지출되는 고정 전기료 부담을 확실하게 줄여보세요.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/small-business-appliance-refund/"
 지금 바로 신청 절차를 시작하여 사업장의 경쟁력을 높이는 확실한 혜택을 누리시기 바랍니다.
 
 [👉 소상공인 가전제품 지원금 신청](https://en-ter.co.kr/ac/main/main.do)
-
-목차
-
-[Toggle](#)
-
 ## 💰 **지원금액 상세한도**
 
 이번 사업은 소상공인 여러분의 에너지 비용 절감을 위해 총 398억 원의 대규모 예산을 투입하여 운영됩니다.
@@ -59,7 +54,7 @@ originalUrl: "https://ssangbak.com/small-business-appliance-refund/"
 
 ## 📅 **2026년 신청기간**
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/image-34.png)
+![](/wp-content/uploads/2026/02/image-34.png)
 
 2026년도 사업은 **2월 9일 월요일 오후 2시부터 공식적으로 오픈되어 예산 소진 시까지** 접수를 진행합니다.
 
@@ -73,7 +68,7 @@ originalUrl: "https://ssangbak.com/small-business-appliance-refund/"
 
 ## 🏢 **신청조건 및 대상**
 
-![소상공인 가전제품 지원금 지원대상](https://ssangbak.com/wp-content/uploads/2026/02/image-37.png)
+![소상공인 가전제품 지원금 지원대상](/wp-content/uploads/2026/02/image-37.png)
 
 지원을 받기 위해서는 중소벤처기업부에서 발급하는 유효한 **소상공인 확인서를 반드시 보유**하고 있어야 합니다.
 
@@ -89,7 +84,7 @@ originalUrl: "https://ssangbak.com/small-business-appliance-refund/"
 
 ## 💻 **홈페이지 신청방법**
 
-![소상공인 가전제품 지원금 신청방법](https://ssangbak.com/wp-content/uploads/2026/02/image-35-1024x287.png)
+![소상공인 가전제품 지원금 신청방법](/wp-content/uploads/2026/02/image-35-1024x287.png)
 
 소상공인 고효율 기기 지원 사업 누리집에 접속하여 모든 과정을 온라인으로 진행합니다.
 
@@ -99,7 +94,7 @@ originalUrl: "https://ssangbak.com/small-business-appliance-refund/"
 
 접수 완료 후에는 신청 내역 화면에서 수시로 진행 상황을 확인하여 보완 요청이 있는지 체크하는 것이 필수입니다.
 
-![소상공인 가전제품 지원금 신청서류](https://ssangbak.com/wp-content/uploads/2026/02/image-36-1024x382.png)
+![소상공인 가전제품 지원금 신청서류](/wp-content/uploads/2026/02/image-36-1024x382.png)
 
 서류 미비로 보완 요청을 받은 날로부터 14일 이내에 조치하지 않으면 신청이 무효 처리되니 각별히 유의하시기 바랍니다.
 

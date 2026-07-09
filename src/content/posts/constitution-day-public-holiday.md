@@ -7,11 +7,11 @@ permalink: "/constitution-day-public-holiday/"
 slugPath: "constitution-day-public-holiday"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/constitution-day-public-holiday.jpg"
+heroImage: "/wp-content/uploads/2026/02/constitution-day-public-holiday.jpg"
 originalUrl: "https://ssangbak.com/constitution-day-public-holiday/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/constitution-day-public-holiday-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/constitution-day-public-holiday-1024x1024.jpg)
 
 2026년부터는 7월 17일 제헌절에 **유급 휴식**을 즐기며 가족과 소중한 시간을 보낼 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/constitution-day-public-holiday/"
 국가적으로는 헌법 제정의 의미를 되새기고, 개인에게는 **재충전의 기회**를 제공하는 긍정적인 변화가 시작됩니다.
 
 [👉 공휴일 법정공휴일 차이](https://ssangbak.com/holiday-legal-rest-day-difference/)
-
-목차
-
-[Toggle](#)
-
 ## 📅 2026 제헌절 핵심 요약
 
 ### ✅ 재지정 확정:

@@ -7,11 +7,11 @@ permalink: "/ai-job-series-5/"
 slugPath: "ai-job-series-5"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-6.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-6.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-5/"
 ---
 
-![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-6.jpg](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-6-1024x1024.jpg)
+![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-6.jpg](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-6-1024x1024.jpg)
 
 AI 기술은 이제 선택이 아니라 필수입니다.  
 2025년 현재, 기업들은 단순히 “일을 잘하는 사람”보다 \*\*“AI를 활용해 더 큰 성과를 만드는 사람”\*\*을 원합니다.  
@@ -20,11 +20,6 @@ AI 기술은 이제 선택이 아니라 필수입니다.
 이번 6편에서는 앞으로의 취업 시장에서 반드시 요구되는 **핵심 역량 7가지**를 매우 구체적으로 설명합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. AI 활용 능력(AI Literacy)
 
 AI 시대 취업의 **1순위 역량**은 단연 AI 활용 능력입니다.  

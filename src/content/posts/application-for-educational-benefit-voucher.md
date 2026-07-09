@@ -7,11 +7,11 @@ permalink: "/application-for-educational-benefit-voucher/"
 slugPath: "application-for-educational-benefit-voucher"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Application-for-Educational-Benefit-Voucher.jpg"
+heroImage: "/wp-content/uploads/2026/01/Application-for-Educational-Benefit-Voucher.jpg"
 originalUrl: "https://ssangbak.com/application-for-educational-benefit-voucher/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Application-for-Educational-Benefit-Voucher-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Application-for-Educational-Benefit-Voucher-1024x1024.jpg)
 
 자녀 교육비 부담이 크신가요?
 
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/application-for-educational-benefit-voucher/"
 ❗교육급여 바우처는 교육급여 신청 후 **보장결정 통지를 받은 학생**(교육급여 수급권자)에게 지원되니 바우처 신청 전, 교육급여 수급 자격 여부를 먼저 확인하시기 바랍니다.
 
 👉 교육급여 수급 자격 여부 확인
-
-목차
-
-[Toggle](#)
-
 ## 📚 교육급여바우처란?
 
 교육급여바우처는 교육부와 한국장학재단이 교육급여 수급자(초·중·고 학생)에게 학용품비 및 부교재비 명목으로 지급하는 교육 지원금입니다.
@@ -170,7 +165,7 @@ originalUrl: "https://ssangbak.com/application-for-educational-benefit-voucher/"
 
 ## 💳 지원 수단
 
-![교육급여바우처 지원수단](https://ssangbak.com/wp-content/uploads/2026/01/image-37-1024x496.png)
+![교육급여바우처 지원수단](/wp-content/uploads/2026/01/image-37-1024x496.png)
 
 ## ❓ 자주 묻는 질문
 

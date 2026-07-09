@@ -7,16 +7,11 @@ permalink: "/medical-benefits-support-costs-abolition/"
 slugPath: "medical-benefits-support-costs-abolition"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-5.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-5.jpg"
 originalUrl: "https://ssangbak.com/medical-benefits-support-costs-abolition/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-5-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-5-1024x1024.jpg)
 ## 먼저 짧은 요약
 
 -   **기존**: 실제로 받지도 않는 **가족 도움비**를 있다고 가정해서 의료급여에서 떨어지는 경우가 많았습니다.
@@ -28,7 +23,7 @@ originalUrl: "https://ssangbak.com/medical-benefits-support-costs-abolition/"
 
 [👉 의료급여 신청방법 확인](https://ssangbak.com/2026-medical-benefits-application-method/)
 
-![의료급여부양비 제도 폐지 안내](https://ssangbak.com/wp-content/uploads/2025/12/image-14.png)
+![의료급여부양비 제도 폐지 안내](/wp-content/uploads/2025/12/image-14.png)
 
 ## ① 기존 의료급여는 어떻게 판단했나 (폐지 전)
 

@@ -7,11 +7,11 @@ permalink: "/small-business-voucher-guide/"
 slugPath: "small-business-voucher-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/small-business-voucher-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/small-business-voucher-guide.jpg"
 originalUrl: "https://ssangbak.com/small-business-voucher-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/small-business-voucher-guide-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/small-business-voucher-guide-1024x1024.jpg)
 
 고정비 지출이 부담스러운 소상공인분들에게 **최대 25만 원**의 실질적인 혜택을 드리는 소상공인 경영안정 바우처지원사업이 시작된다는 반가운 소식입니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/small-business-voucher-guide/"
 어려운 시기에 놓치면 아쉬운 **현금성 바우처 혜택**을 지금 바로 확인하고 빠르게 신청해 보시기 바랍니다.
 
 [👉 경영안정 바우처 지원금 신청](https://voucher.sbiz24.kr/landing-page)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 지원 금액

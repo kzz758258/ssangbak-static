@@ -7,22 +7,17 @@ permalink: "/road-traffic-law-changes/"
 slugPath: "road-traffic-law-changes"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/road-traffic-law-changes.jpg"
+heroImage: "/wp-content/uploads/2026/02/road-traffic-law-changes.jpg"
 originalUrl: "https://ssangbak.com/road-traffic-law-changes/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/road-traffic-law-changes-1-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/road-traffic-law-changes-1-1024x1024.jpg)
 
 **2026년 달라지는 도로교통법** 개정 내용을 미리 숙지하시면 본의 아니게 발생할 수 있는 **수천만 원의 과태료를 예방**하고, 더욱 편리해진 면허 행정 서비스 혜택을 누릴 수 있습니다.
 
 단순히 처벌이 강화되는 것을 넘어, 운전자의 편의를 돕는 실용적인 제도들이 대거 도입되니 오늘 내용을 꼭 확인하시기 바랍니다.
 
 [👉 운전자보험 개정 핵심내용](https://ssangbak.com/2026-driver-insurance-amendment/)
-
-목차
-
-[Toggle](#)
-
 ## 📌 핵심 요약 정보
 
 ### ✅ 약물운전:

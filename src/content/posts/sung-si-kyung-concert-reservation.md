@@ -7,13 +7,13 @@ permalink: "/sung-si-kyung-concert-reservation/"
 slugPath: "sung-si-kyung-concert-reservation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-004-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-004-1.jpg"
 originalUrl: "https://ssangbak.com/sung-si-kyung-concert-reservation/"
 ---
 
 * * *
 
-![현재 이미지: 성시경 콘서트 예매](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-004-1-1024x1024.jpg)
+![현재 이미지: 성시경 콘서트 예매](/wp-content/uploads/2025/11/제목을-입력해주세요_-004-1-1024x1024.jpg)
 
 올겨울, 가장 따뜻한 목소리와 함께할 단 하나의 무대 매년 연말, 수많은 팬들이 손꼽아 기다리는 이름이 있습니다.
 
@@ -30,14 +30,9 @@ originalUrl: "https://ssangbak.com/sung-si-kyung-concert-reservation/"
   
 아래에서 **예매 일정, 가격, 좌석 등급, 팬클럽 선예매 방법, 입장·수령 절차**까지 전부 정리했습니다.
 
-![성시경 콘서트 일정](https://ssangbak.com/wp-content/uploads/2025/11/20251118_153056.jpg)
+![성시경 콘서트 일정](/wp-content/uploads/2025/11/20251118_153056.jpg)
 
 출처: NOL티켓 성시경 콘서트 예매 공식 페이지
-
-목차
-
-[Toggle](#)
-
 ## 🎤 1. 공연 개요
 
 구분
@@ -190,11 +185,11 @@ NOL 티켓 단독 판매
 
 > ⚠️ 공연 시작 후 입장 시, 일부 구역(플로어, 무대 근처)은 안전상의 이유로 이동이 제한될 수 있습니다.
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251118_153218.jpg)
+![](/wp-content/uploads/2025/11/20251118_153218.jpg)
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251118_153232-1.jpg)
+![](/wp-content/uploads/2025/11/20251118_153232-1.jpg)
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251118_153249-1.jpg)
+![](/wp-content/uploads/2025/11/20251118_153249-1.jpg)
 
 * * *
 
@@ -257,7 +252,7 @@ KSPO DOME 특유의 원형 무대 구조를 활용해 **360도 관객 참여형 
 
 [👉 성시경 공식 응원봉 구매](https://www.yes24.com/product/goods/117390779)
 
-![성시경 공식 응원봉 구매 안내](https://ssangbak.com/wp-content/uploads/2025/11/20251118_153145.jpg)
+![성시경 공식 응원봉 구매 안내](/wp-content/uploads/2025/11/20251118_153145.jpg)
 
 ## 🪄 10. 예매 꿀팁 요약
 
@@ -274,7 +269,7 @@ KSPO DOME 특유의 원형 무대 구조를 활용해 **360도 관객 참여형 
 주차 공간이 매우 제한적이기 때문에,  
 가능한 한 **대중교통을 이용하는 것이 가장 안전하고 빠른 방법**입니다.
 
-![성시경 콘서트 주차 안내](https://ssangbak.com/wp-content/uploads/2025/11/20251118_153330-1.jpg)
+![성시경 콘서트 주차 안내](/wp-content/uploads/2025/11/20251118_153330-1.jpg)
 
 2025년 연말, 가장 따뜻한 목소리와 가장 깊은 감성이 KSPO DOME을 가득 채웁니다.
 

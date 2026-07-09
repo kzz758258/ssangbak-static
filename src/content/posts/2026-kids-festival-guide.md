@@ -7,7 +7,7 @@ permalink: "/2026-kids-festival-guide/"
 slugPath: "2026-kids-festival-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-2.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-2.png"
 originalUrl: "https://ssangbak.com/2026-kids-festival-guide/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/2026-kids-festival-guide/"
 아이들이 갓을 쓰고 도포 자락을 휘날리며 과거 시험에 도전하는 특별한 풍경을 상상해 보셨나요? 푸른 잔디밭 위에서 선비의 정신과 재미를 동시에 만끽할 수 있는 **2026 어린이선비축제**가 다가오는 어린이날 시즌에 맞춰 개최됩니다.
 
 가족 모두가 조선시대로 타임슬립 한 듯한 생생한 현장 분위기 속에서 잊지 못할 추억을 만들 수 있는 이번 축제는 교육적인 가치와 즐거움을 모두 잡은 최고의 가족 행사입니다. **어린이선비축제**의 상세 일정부터 티켓 예매 방법, 현장 꿀팁까지 지금 바로 확인해 보세요.
-
-목차
-
-[Toggle](#)
-
 ## 📅 축제 개요 및 일정
 
 축제 방문 전 전체적인 일정과 장소를 파악하는 것이 중요합니다. 아래 표를 통해 핵심 정보를 한눈에 확인하세요.

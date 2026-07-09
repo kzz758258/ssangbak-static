@@ -7,23 +7,18 @@ permalink: "/national-growth-fund-how-to-join/"
 slugPath: "national-growth-fund-how-to-join"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-41.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-41.jpg"
 originalUrl: "https://ssangbak.com/national-growth-fund-how-to-join/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-41-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-41-1024x1024.jpg)
 
 대한민국 경제의 새로운 도약을 위해 정부가 준비 중인 초대형 프로젝트가 바로 “국민성장펀드(150조)” 입니다.  
   
 **국민성장펀드의 개념, 목적, 구조, 투자 대상, 가입방법, 수익률 전망, 관련주·수혜주**까지 전체 그림을 이해하기 최대한 쉽게 정리해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🌏 국민성장펀드가 필요한 이유: 지금 우리는 어떤 상황인가?
 
-![국민성장펀드의 필요성](https://ssangbak.com/wp-content/uploads/2025/12/image-10-1024x576.png)
+![국민성장펀드의 필요성](/wp-content/uploads/2025/12/image-10-1024x576.png)
 
 가장 먼저 강조하는 메시지는 **대한민국 성장동력의 둔화**입니다.
 
@@ -77,7 +72,7 @@ originalUrl: "https://ssangbak.com/national-growth-fund-how-to-join/"
 
 ## 💸 국민성장펀드 150조 구조
 
-![국민성장펀드 150조원 구조](https://ssangbak.com/wp-content/uploads/2025/12/image-11-1024x576.png)
+![국민성장펀드 150조원 구조](/wp-content/uploads/2025/12/image-11-1024x576.png)
 
 가장 핵심적으로 강조하고 있는 구조는 다음과 같습니다.
 
@@ -164,7 +159,7 @@ originalUrl: "https://ssangbak.com/national-growth-fund-how-to-join/"
 
 즉, **한국 금융 전반을 혁신하는 구조적 변화의 중심에 국민성장펀드가 있음**을 뜻합니다.
 
-![국민성장펀드 생산적 금융](https://ssangbak.com/wp-content/uploads/2025/12/image-12-1024x573.png)
+![국민성장펀드 생산적 금융](/wp-content/uploads/2025/12/image-12-1024x573.png)
 
 ## 📈 국민성장펀드 수익률 전망
 

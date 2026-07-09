@@ -7,7 +7,7 @@ permalink: "/island-travel-subsidies/"
 slugPath: "island-travel-subsidies"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/kbank-yeopdduk-event-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/06/kbank-yeopdduk-event-guide-1.jpg"
 originalUrl: "https://ssangbak.com/island-travel-subsidies/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/island-travel-subsidies/"
 [👉 섬 여행 지원금 신청하기](https://www.visitisland.kr/promotion)
 
 [👉 섬 리스트 확인하기](https://buly.kr/8piNoSv)
-
-목차
-
-[Toggle](#)
-
 ## 2026 섬 여행 지원금 자격 요건 및 대상 기준
 
 이번 지원금은 성인 누구나 신청할 수 있으며 몇 가지 필수 기준을 만족해야 청구할 수 있습니다.

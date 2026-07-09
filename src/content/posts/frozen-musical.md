@@ -7,18 +7,13 @@ permalink: "/frozen-musical/"
 slugPath: "frozen-musical"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-52.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-52.png"
 originalUrl: "https://ssangbak.com/frozen-musical/"
 ---
 
 [👉 겨울왕국 뮤지컬 예매하기](https://tickets.interpark.com/contents/notice/detail/13884)
 
 브로드웨이를 뒤흔든 디즈니의 거대한 마법이 마침내 한국 초연으로 상륙합니다. 많은 뮤지컬 팬분들이 역대급 피켓팅을 우려하며 벌써부터 긴장하고 계실 텐데요. 오늘 포스팅은 **뮤지컬 겨울왕국 예매**를 완벽하게 성공하여 꿈에 그리던 아렌델 왕국으로 떠날 수 있는 핵심 열쇠를 제공해 드립니다. 티켓팅 실패에 대한 불안감은 내려놓으시고, 최고의 명당을 선점하기 위한 일정과 전략을 지금 바로 확인해 보세요.
-
-목차
-
-[Toggle](#)
-
 ## 뮤지컬 겨울왕국 한국 초연 공연 정보
 
 전 세계적인 신드롬을 일으켰던 디즈니의 명작이 드디어 국내 무대에서 펼쳐집니다. 이번 공연은 뮤지컬 전용 극장인 샤롯데씨어터에서 장기 공연으로 진행되어 관객들에게 잊지 못할 겨울의 마법을 선사할 예정입니다.

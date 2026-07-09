@@ -7,7 +7,7 @@ permalink: "/beyond-impressionism-exhibition/"
 slugPath: "beyond-impressionism-exhibition"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/beyond-impressionism-exhibition.jpg"
+heroImage: "/wp-content/uploads/2026/03/beyond-impressionism-exhibition.jpg"
 originalUrl: "https://ssangbak.com/beyond-impressionism-exhibition/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/beyond-impressionism-exhibition/"
 전시 정보부터 할인 혜택, 예매 꿀팁까지 이 글 하나로 완벽하게 정리해 드릴 테니 관람 기회를 놓치지 마세요.
 
 [👉 인상주의를 넘어 예매하기](https://tickets.interpark.com/contents/notice/detail/13176)
-
-목차
-
-[Toggle](#)
-
 ## 📅 **공연 및 일정 정보**
 
 **항목**

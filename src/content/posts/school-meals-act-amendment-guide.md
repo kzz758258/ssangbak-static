@@ -7,22 +7,17 @@ permalink: "/school-meals-act-amendment-guide/"
 slugPath: "school-meals-act-amendment-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/school-meals-act-amendment-2026-guide.jpg"
+heroImage: "/wp-content/uploads/2026/01/school-meals-act-amendment-2026-guide.jpg"
 originalUrl: "https://ssangbak.com/school-meals-act-amendment-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/school-meals-act-amendment-2026-guide-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/school-meals-act-amendment-2026-guide-1024x1024.jpg)
 
 우리 아이들이 매일 먹는 학교 밥상이 훨씬 더 건강하고 안전하게 업그레이드됩니다.
 
 **2026년 1월 29일**, 국회 본회의를 통과한 이번 개정안 덕분에 조리실의 공기는 쾌적해지고 식단의 영양은 더욱 꼼꼼해질 전망입니다.
 
 단순히 법이 바뀌는 것을 넘어, 급식 현장의 ‘행복한 변화’가 가져올 구체적인 혜택과 일정을 지금 바로 확인해 보세요.
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### 🗓️ 법안 통과 및 시행일

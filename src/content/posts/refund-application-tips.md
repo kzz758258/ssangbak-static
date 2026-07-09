@@ -7,18 +7,13 @@ permalink: "/refund-application-tips/"
 slugPath: "refund-application-tips"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-14.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-14.png"
 originalUrl: "https://ssangbak.com/refund-application-tips/"
 ---
 
 [출국납부금 환급 신청하기](https://www.tour-refund.kr/)
 
 해외여행을 다녀오고 나면 휴대폰에는 수많은 사진이, 지갑에는 영수증이 가득 남곤 하죠. 하지만 우리가 무심코 지나치는 비행기 티켓 안에도 돌려받을 수 있는 소중한 돈이 숨겨져 있다는 사실, 알고 계셨나요? 바로 **출국납부금 환급**에 관한 이야기입니다. 오늘은 몰라서 못 받고 있었던 내 돈을 스마트폰으로 단 1분 만에 조회하고 신청하는 방법을 상세히 알려드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 출국납부금 환급이란 무엇인가요?
 
 우리가 해외로 나갈 때 구매하는 항공권 가격에는 기본적으로 **‘관광진흥개발기금’**이라는 항목이 포함되어 있습니다. 이를 흔히 출국세 또는 출국납부금이라고 부르는데요. 정부 정책 변화에 따라 **2024년 7월부터 기존 10,000원이었던 금액이 7,000원으로 인하**되었습니다.

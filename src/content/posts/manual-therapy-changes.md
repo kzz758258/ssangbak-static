@@ -7,7 +7,7 @@ permalink: "/manual-therapy-changes/"
 slugPath: "manual-therapy-changes"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/manual-therapy-changes.jpg"
+heroImage: "/wp-content/uploads/2026/06/manual-therapy-changes.jpg"
 originalUrl: "https://ssangbak.com/manual-therapy-changes/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/manual-therapy-changes/"
 이번 변경 사항은 기존에 가입해 둔 실손보험 청구 방식과 환자 본인 부담금에도 직접적인 영향을 미치기 때문에 달라진 기준을 반드시 숙지해야 손해를 보지 않습니다.
 
 [👉 도수치료 실비 변경 관련 기사](https://www.hani.co.kr/arti/society/health/1261976.html)
-
-목차
-
-[Toggle](#)
-
 ## 🏢 1. 2026년 7월 도수치료 변경 핵심 내용 요약
 
 이번 개정안의 핵심은 정부가 가격과 진료 기준을 통제하는 ‘관리급여’ 제도를 도수치료에 사상 처음으로 도입했다는 점입니다.

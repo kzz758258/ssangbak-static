@@ -7,16 +7,11 @@ permalink: "/digital-tourism-id-card-issuance/"
 slugPath: "digital-tourism-id-card-issuance"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Digital-Tourism-ID-Card-Issuance.jpg"
+heroImage: "/wp-content/uploads/2026/01/Digital-Tourism-ID-Card-Issuance.jpg"
 originalUrl: "https://ssangbak.com/digital-tourism-id-card-issuance/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Digital-Tourism-ID-Card-Issuance-1-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/Digital-Tourism-ID-Card-Issuance-1-1024x1024.jpg)
 ## 📱 디지털관광주민증이란?
 
 디지털관광주민증은 특정 지역을 방문하는 관광객에게 주민과 유사한 혜택을 제공하는 모바일 증명서입니다.  
@@ -107,11 +102,11 @@ originalUrl: "https://ssangbak.com/digital-tourism-id-card-issuance/"
 
 ### 가맹점 쿠폰 이용방법 3가지
 
-![디지털관광주민증 사용 방법1](https://ssangbak.com/wp-content/uploads/2026/01/image-20.png)
+![디지털관광주민증 사용 방법1](/wp-content/uploads/2026/01/image-20.png)
 
-![디지털관광주민증 사용 방법2](https://ssangbak.com/wp-content/uploads/2026/01/image-21.png)
+![디지털관광주민증 사용 방법2](/wp-content/uploads/2026/01/image-21.png)
 
-![디지털관광주민증 사용 방법3](https://ssangbak.com/wp-content/uploads/2026/01/image-22.png)
+![디지털관광주민증 사용 방법3](/wp-content/uploads/2026/01/image-22.png)
 
 ### ⚠️ 이용 시 주의사항
 

@@ -7,7 +7,7 @@ permalink: "/child-support-prepayment-system-guide-2026/"
 slugPath: "child-support-prepayment-system-guide-2026"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/child-support-prepayment-system-guide-2026-3.jpg"
+heroImage: "/wp-content/uploads/2026/02/child-support-prepayment-system-guide-2026-3.jpg"
 originalUrl: "https://ssangbak.com/child-support-prepayment-system-guide-2026/"
 ---
 
@@ -18,14 +18,9 @@ originalUrl: "https://ssangbak.com/child-support-prepayment-system-guide-2026/"
 아동의 생존권과 직결된 문제인 만큼, 오늘 정리해 드리는 조건과 신청 방법을 꼼꼼히 확인하시어 정당한 권리를 찾으시길 바랍니다.
 
 [👉 양육비 선지급제 신청하기](https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=1659&ccfNo=2&cciNo=3&cnpClsNo=1)
-
-목차
-
-[Toggle](#)
-
 ## 📋 양육비 선지급제 신청 조건
 
-![양육비 선지급이란](https://ssangbak.com/wp-content/uploads/2026/02/image-56.png)
+![양육비 선지급이란](/wp-content/uploads/2026/02/image-56.png)
 
 이 제도는 모든 한부모 가정이 아닌, 일정한 소득 요건과 미지급 사실이 증명된 가구를 대상으로 합니다.
 
@@ -56,7 +51,7 @@ originalUrl: "https://ssangbak.com/child-support-prepayment-system-guide-2026/"
 
 ## 📑 신청 방법 및 필수 제출 서류
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/image-57-1024x267.png)
+![](/wp-content/uploads/2026/02/image-57-1024x267.png)
 
 신청은 온/오프라인 모두 가능하며, **양육비이행관리원**을 통해 접수할 수 있습니다.
 

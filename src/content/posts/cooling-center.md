@@ -7,7 +7,7 @@ permalink: "/cooling-center/"
 slugPath: "cooling-center"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/cooling-center-1.jpg"
+heroImage: "/wp-content/uploads/2026/06/cooling-center-1.jpg"
 originalUrl: "https://ssangbak.com/cooling-center/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/cooling-center/"
 정확한 무더위쉼터 뜻과 지자체별 이용 기준을 명확히 알고 있어야 가까운 지정 대피소를 신속하게 방문할 수 있습니다.
 
 [👉 근처 무더위 쉼터 찾기](https://safecity.seoul.go.kr/distFclt/cfMapDs/cfMapDs.page?menuId=MENU_SSNS_000191)
-
-목차
-
-[Toggle](#)
-
 ## 🏛️ 1. 무더위 쉼터 뜻과 지정 기준 안내
 
 우선 무더위쉼터 뜻은 폭염 기간에 취약계층과 일반 시민들이 더위를 피해 안전하게 휴식을 취할 수 있도록 냉방 시설이 잘 갖추어진 공식 지정 장소를 의미합니다.

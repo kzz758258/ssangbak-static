@@ -7,11 +7,11 @@ permalink: "/musical-lempicka-4th-ticket-open-coex/"
 slugPath: "musical-lempicka-4th-ticket-open-coex"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/musical-lempicka-4th-ticket-open-coex.jpg"
+heroImage: "/wp-content/uploads/2026/04/musical-lempicka-4th-ticket-open-coex.jpg"
 originalUrl: "https://ssangbak.com/musical-lempicka-4th-ticket-open-coex/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/musical-lempicka-4th-ticket-open-coex.jpg)
+![](/wp-content/uploads/2026/04/musical-lempicka-4th-ticket-open-coex.jpg)
 
 화려한 아르데코의 여왕, 타마라 드 렘피카의 뜨거운 삶을 그린 **뮤지컬 렘피카**가 어느덧 4차 티켓 오픈 소식을 알렸습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/musical-lempicka-4th-ticket-open-coex/"
 본 포스팅에서는 **뮤지컬 렘피카 4차 티켓팅**의 상세 일정과 코엑스아티움 우리은행홀의 좌석 선택 꿀팁 총정리해 드립니다.
 
 [👉 뮤지컬 렘피카 4차 예매하기](https://tickets.interpark.com/goods/26000685#)
-
-목차
-
-[Toggle](#)
-
 ## 📅 4차 티켓 오픈 상세 일정
 
 이번 **뮤지컬 렘피카** 4차 오픈은 5월 하순부터 6월 초순까지의 알짜배기 회차를 선점할 수 있는 마지막 기회입니다.

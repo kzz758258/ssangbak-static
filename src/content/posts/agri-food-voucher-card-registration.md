@@ -7,11 +7,11 @@ permalink: "/agri-food-voucher-card-registration/"
 slugPath: "agri-food-voucher-card-registration"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Agri-food-voucher-card-registration.jpg"
+heroImage: "/wp-content/uploads/2026/01/Agri-food-voucher-card-registration.jpg"
 originalUrl: "https://ssangbak.com/agri-food-voucher-card-registration/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Agri-food-voucher-card-registration-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Agri-food-voucher-card-registration-1024x1024.jpg)
 
 농식품바우처 전용 카드를 받으셨나요?
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/agri-food-voucher-card-registration/"
 단, 사용 기간은 매달 말일까지이며 당월 지원금액의 10% 이상 미사용 시 소멸되니 주의하세요.
 
 👉 농식품바우처 사용처
-
-목차
-
-[Toggle](#)
-
 ## ⚡ 카드 등록 (활성화)
 
 ### 자동 활성화

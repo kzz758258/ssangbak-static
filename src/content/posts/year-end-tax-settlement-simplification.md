@@ -7,11 +7,11 @@ permalink: "/year-end-tax-settlement-simplification/"
 slugPath: "year-end-tax-settlement-simplification"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-3.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-3.jpg"
 originalUrl: "https://ssangbak.com/year-end-tax-settlement-simplification/"
 ---
 
-![현재 이미지: 연말정산 간소화](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-1-3-1024x1024.jpg)
+![현재 이미지: 연말정산 간소화](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-3-1024x1024.jpg)
 
 연말정산 시즌이 다가오면 가장 먼저 떠오르는 고민이 있습니다.
 
@@ -35,11 +35,6 @@ originalUrl: "https://ssangbak.com/year-end-tax-settlement-simplification/"
 -   일정별 주의사항
 
 까지 모두 정리해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## ✔️ 연말정산 간소화 일괄제공 서비스란?
 
 간소화자료 일괄제공 서비스는 **근로자가 홈택스에서 내려받아 회사에 제출해야 하는 공제자료를**, 국세청이 회사로 직접 넘겨주는 서비스입니다.
@@ -87,7 +82,7 @@ originalUrl: "https://ssangbak.com/year-end-tax-settlement-simplification/"
 
 이 모든 일정은 **회사 신청 → 근로자 동의 → 국세청 제공** 순으로 흐르게 됩니다.
 
-![연말정산 간소화 일괄제공 서비스 일정](https://ssangbak.com/wp-content/uploads/2025/11/20251123_171820.jpg)
+![연말정산 간소화 일괄제공 서비스 일정](/wp-content/uploads/2025/11/20251123_171820.jpg)
 
 ## ✔️ 회사가 해야 할 신청 절차 (11월 30일까지)
 
@@ -219,7 +214,7 @@ originalUrl: "https://ssangbak.com/year-end-tax-settlement-simplification/"
 5️⃣ **(회사)** 연말정산 자동 진행  
 6️⃣ **(근로자)** 공제 요건 직접 확인 후 제출 마무리
 
-![연말정산 간소화 서비스 이용 모습](https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-1024x1024.jpg)
+![연말정산 간소화 서비스 이용 모습](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-1024x1024.jpg)
 
 ## ✔️ 근로자가 꼭 기억해야 할 점
 

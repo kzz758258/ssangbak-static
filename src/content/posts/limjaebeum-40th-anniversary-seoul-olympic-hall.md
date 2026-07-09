@@ -7,7 +7,7 @@ permalink: "/limjaebeum-40th-anniversary-seoul-olympic-hall/"
 slugPath: "limjaebeum-40th-anniversary-seoul-olympic-hall"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/limjaebeum-40th-anniversary-seoul-olympic-hall.jpg"
+heroImage: "/wp-content/uploads/2026/02/limjaebeum-40th-anniversary-seoul-olympic-hall.jpg"
 originalUrl: "https://ssangbak.com/limjaebeum-40th-anniversary-seoul-olympic-hall/"
 ---
 
@@ -16,14 +16,9 @@ originalUrl: "https://ssangbak.com/limjaebeum-40th-anniversary-seoul-olympic-hal
 이번 투어는 그가 직접 언급한 **은퇴**의 의미가 담긴 마지막 여정인 만큼, 지난 1월 서울 공연을 놓쳤던 팬들에게는 기적 같은 재회의 기회가 될 것입니다.
 
 [👉임재범 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/12779)
-
-목차
-
-[Toggle](#)
-
 ## 🎤 **임재범 40주년 콘서트 서울 공연 상세 일정**
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/limjaebeum-40th-anniversary-seoul-olympic-hall-1.jpg)
+![](/wp-content/uploads/2026/02/limjaebeum-40th-anniversary-seoul-olympic-hall-1.jpg)
 
 이번 서울 공연은 당초 알려진 장소와 달리 **올림픽공원 올림픽홀**에서 개최됩니다.
 
@@ -52,7 +47,7 @@ originalUrl: "https://ssangbak.com/limjaebeum-40th-anniversary-seoul-olympic-hal
 
 ## 💺 **올림픽홀 명당 좌석 및 시야 꿀팁**
 
-![임재범 콘서트 장소](https://ssangbak.com/wp-content/uploads/2026/02/image-52.png)
+![임재범 콘서트 장소](/wp-content/uploads/2026/02/image-52.png)
 
 **올림픽공원 올림픽홀**은 다른 대형 경기장에 비해 규모가 아담하여 어느 좌석에서도 시야가 훌륭한 편입니다.
 

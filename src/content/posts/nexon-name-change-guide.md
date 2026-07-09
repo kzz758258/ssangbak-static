@@ -7,18 +7,13 @@ permalink: "/nexon-name-change-guide/"
 slugPath: "nexon-name-change-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-19.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-19.png"
 originalUrl: "https://ssangbak.com/nexon-name-change-guide/"
 ---
 
 [넥슨 고객센터 바로가기](https://help.nexon.com/)
 
 넥슨 계정 명의 변경 문제로 고민 중이신가요? 과거 부모님 성함으로 가입했던 계정을 본인 명의로 바꿀 수 있는 최신 가이드를 준비했습니다. **마이핀 발급부터 서류 제출까지 2026년 기준 절차를 한눈에 확인하고 소중한 계정을 되찾아보세요.**
-
-목차
-
-[Toggle](#)
-
 ## 넥슨 고객센터 명의 변경이 필요한 이유
 
 90년대생 분들이라면 어린 시절 넥슨 게임을 즐기기 위해 부모님이나 가족의 명의를 빌려 아이디를 생성했던 경험이 한 번쯤은 있으실 겁니다. 2000년대 초반 큰 인기를 끌었던 **서든어택, 어둠의전설, 일랜시아** 등은 15세 이용가 게임이었으나, 당시 주 플레이 층은 이보다 어린 연령대였기 때문입니다.

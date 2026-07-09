@@ -7,16 +7,11 @@ permalink: "/where-to-use-culture-nuri-card/"
 slugPath: "where-to-use-culture-nuri-card"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Where-to-use-Culture-Nuri-Card.jpg"
+heroImage: "/wp-content/uploads/2026/01/Where-to-use-Culture-Nuri-Card.jpg"
 originalUrl: "https://ssangbak.com/where-to-use-culture-nuri-card/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Where-to-use-Culture-Nuri-Card-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/Where-to-use-Culture-Nuri-Card-1024x1024.jpg)
 ## 🏪 문화누리카드 사용처
 
 문화누리카드는 전국의 문화·관광·체육 분야 가맹점에서 사용할 수 있는 복지카드입니다.  

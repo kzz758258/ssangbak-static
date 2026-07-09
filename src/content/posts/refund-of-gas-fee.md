@@ -7,11 +7,11 @@ permalink: "/refund-of-gas-fee/"
 slugPath: "refund-of-gas-fee"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/refund-of-gas-fee.jpg"
+heroImage: "/wp-content/uploads/2025/11/refund-of-gas-fee.jpg"
 originalUrl: "https://ssangbak.com/refund-of-gas-fee/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/refund-of-gas-fee-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/refund-of-gas-fee-1024x1024.jpg)
 
 경차를 보유하고 있다면 올해도 놓치지 말아야 할 혜택이 있습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/refund-of-gas-fee/"
 하지만 정확한 신청 조건, 발급 가능한 카드 종류, 환급 방식 등을 모르면 놓치기 쉬운 제도이기도 합니다.
 
 2026년 최신 기준으로 **대상, 조건, 카드 선택법, 주유비 환급 적용 방식**, 그리고 **꼭 알아야 하는 주의사항**까지 정리해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## ✔ 주유비 30만원 환급 제도란?
 
 경차 소유자가 주유·충전할 때 **리터당 일정 금액의 유류세를 환급**해주는 제도입니다.

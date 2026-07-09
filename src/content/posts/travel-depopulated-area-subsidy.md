@@ -7,7 +7,7 @@ permalink: "/travel-depopulated-area-subsidy/"
 slugPath: "travel-depopulated-area-subsidy"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/travel-depopulated-area-subsidy-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/travel-depopulated-area-subsidy-1.jpg"
 originalUrl: "https://ssangbak.com/travel-depopulated-area-subsidy/"
 ---
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/travel-depopulated-area-subsidy/"
 [👉 인구감소지역 여행 경비 환급받기](https://korean.visitkorea.or.kr/travelmonth/benefits/depopulation.do)
 
 [👉 2026 숙박페스타 할인쿠폰 발급](https://ssangbak.com/korea-accommodation-festa/)
-
-목차
-
-[Toggle](#)
-
 ## 🚂 교통비 걱정 끝! 철도 100% 상당 환급
 
 가장 먼저 챙겨야 할 혜택은 인구감소지역 자유여행상품 구매 시 제공되는 철도 할인쿠폰입니다.

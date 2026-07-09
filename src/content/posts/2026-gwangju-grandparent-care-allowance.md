@@ -7,16 +7,11 @@ permalink: "/2026-gwangju-grandparent-care-allowance/"
 slugPath: "2026-gwangju-grandparent-care-allowance"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-32.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-32.png"
 originalUrl: "https://ssangbak.com/2026-gwangju-grandparent-care-allowance/"
 ---
 
 [손주돌봄수당 신청하기](https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005092)
-
-목차
-
-[Toggle](#)
-
 ## 광주광역시 맞벌이 가정을 위한 희소식: 손자녀가족돌보미 지원사업이란?
 
 현대 사회에서 맞벌이 부부나 한부모 가정의 가장 큰 고민 중 하나는 바로 **‘아이 돌봄’** 문제입니다. 특히 믿고 맡길 곳이 마땅치 않아 부모님(조부모님)의 도움을 받는 경우가 많은데요. 광주광역시에서는 이러한 양육 부담을 실질적으로 덜어드리기 위해 **‘광주 손자녀가족돌보미 지원사업’**을 운영하고 있습니다.

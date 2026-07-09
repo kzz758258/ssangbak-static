@@ -7,7 +7,7 @@ permalink: "/sbti-test-types-site/"
 slugPath: "sbti-test-types-site"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/sbti-test-types-site.jpg"
+heroImage: "/wp-content/uploads/2026/04/sbti-test-types-site.jpg"
 originalUrl: "https://ssangbak.com/sbti-test-types-site/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/sbti-test-types-site/"
 저도 처음엔 “또 유행하는 테스트인가?” 싶어 가벼운 마음으로 시작했는데, 제 평소 미루는 습관과 속마음을 그대로 맞히는 결과 유형을 보고 정말 깜짝 놀랐습니다.
 
 특히 친구들과 결과를 공유했을 때 서로의 ‘성격 궁합’이 MBTI보다 훨씬 현실적으로 체감되어 시간 가는 줄 모르고 대화를 나눴던 기억이 나네요.
-
-목차
-
-[Toggle](#)
-
 ## 🔗 SBTI 테스트 사이트 바로가기
 
 SBTI는 웹 기반의 무료 테스트로 제공되며 별도의 회원가입 없이 약 2~3분 내외로 모든 검사를 마칠 수 있습니다.

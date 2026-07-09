@@ -7,11 +7,11 @@ permalink: "/charlie-puth-seoul-concert-ticketing/"
 slugPath: "charlie-puth-seoul-concert-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/charlie-puth-seoul-concert-ticketing.jpg"
+heroImage: "/wp-content/uploads/2026/04/charlie-puth-seoul-concert-ticketing.jpg"
 originalUrl: "https://ssangbak.com/charlie-puth-seoul-concert-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/charlie-puth-seoul-concert-ticketing.jpg)
+![](/wp-content/uploads/2026/04/charlie-puth-seoul-concert-ticketing.jpg)
 
 **2026 찰리푸스 내한 콘서트 티켓팅** 소식이 전 세계 팬들의 마음을 설레게 하며 드디어 공식 확정되었습니다.
 
@@ -28,11 +28,6 @@ originalUrl: "https://ssangbak.com/charlie-puth-seoul-concert-ticketing/"
 [👉 라이브네이션 선예매](https://www.livenation.kr/charlie-puth-tickets-adp809419)
 
 [👉 찰리푸스 내한 콘서트 예매](https://tickets.interpark.com/contents/notice/detail/13571)
-
-목차
-
-[Toggle](#)
-
 ## 🎤 공연 예매 상세 일정
 
 이번 내한 공연은 총 세 번의 예매 기회가 주어지며 각 단계별 시간을 정확히 숙지하는 것이 무엇보다 중요합니다.

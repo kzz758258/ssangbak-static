@@ -7,11 +7,11 @@ permalink: "/g-dragon-concert-purchase-method-schedule/"
 slugPath: "g-dragon-concert-purchase-method-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-4-2.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-4-2.jpg"
 originalUrl: "https://ssangbak.com/g-dragon-concert-purchase-method-schedule/"
 ---
 
-![현재 이미지: 지드래곤 콘서트](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-4-2-1024x576.jpg)
+![현재 이미지: 지드래곤 콘서트](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-4-2-1024x576.jpg)
 
 드디어 \*\*지드래곤(G-DRAGON)\*\*이 돌아옵니다.
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/g-dragon-concert-purchase-method-schedule/"
 
 * * *
 
-![지드래곤 콘서트 일정](https://ssangbak.com/wp-content/uploads/2025/11/image-29-1024x446.png)
+![지드래곤 콘서트 일정](/wp-content/uploads/2025/11/image-29-1024x446.png)
 
 출처: 지드래곤 콘서트 예매 공식 홈페이지 (쿠팡플레이)
-
-목차
-
-[Toggle](#)
-
 ## 🗓️ 1. 공연 일정 & 장소
 
 -   **공연명:** G-DRAGON 2025 WORLD TOUR \[WE:VE MENSCH\]
@@ -75,7 +70,7 @@ PC나 다른 플랫폼에서는 예매가 불가능하니 반드시 앱을 설�
 
 💡 _TIP:_ 좌석 선택은 빠르게 진행되므로, 예매 전 결제카드를 미리 등록해두면 성공 확률이 높아집니다.
 
-![지드래곤 콘서트 주차 및 교통 안내](https://ssangbak.com/wp-content/uploads/2025/11/image-28.png)
+![지드래곤 콘서트 주차 및 교통 안내](/wp-content/uploads/2025/11/image-28.png)
 
 ## 🚗 4. 교통 및 주차 안내
 

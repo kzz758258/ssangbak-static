@@ -7,16 +7,11 @@ permalink: "/culture-nuri-card-charge/"
 slugPath: "culture-nuri-card-charge"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Culture-Nuri-Card-Charge.jpg"
+heroImage: "/wp-content/uploads/2026/01/Culture-Nuri-Card-Charge.jpg"
 originalUrl: "https://ssangbak.com/culture-nuri-card-charge/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Culture-Nuri-Card-Charge-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/Culture-Nuri-Card-Charge-1024x1024.jpg)
 ## 💰 문화누리카드 충전
 
 문화누리카드의 충전은 크게 **정부 지원금**과 **본인 충전금** 두 가지로 나뉩니다.  
@@ -130,15 +125,15 @@ originalUrl: "https://ssangbak.com/culture-nuri-card-charge/"
 
 ### **⚠️ 자동재충전 제외 대상자** **확인**
 
-![자동재충전 제외 대상자](https://ssangbak.com/wp-content/uploads/2026/01/image-30.png)
+![자동재충전 제외 대상자](/wp-content/uploads/2026/01/image-30.png)
 
 ### 🔔 자동재충전 여부 확인방법
 
-![자동재충전 여부 확인방법](https://ssangbak.com/wp-content/uploads/2026/01/image-25.png)
+![자동재충전 여부 확인방법](/wp-content/uploads/2026/01/image-25.png)
 
 ### ⚠️ 자동재충전 중요 안내사항
 
-![자동재충전이 되지 않은 경우](https://ssangbak.com/wp-content/uploads/2026/01/image-32.png)
+![자동재충전이 되지 않은 경우](/wp-content/uploads/2026/01/image-32.png)
 
 ## 💵 본인 충전금 충전 방법
 

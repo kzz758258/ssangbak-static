@@ -7,11 +7,11 @@ permalink: "/how-to-get-carbon-neutral-points/"
 slugPath: "how-to-get-carbon-neutral-points"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/how-to-get-carbon-neutral-points.jpg"
+heroImage: "/wp-content/uploads/2026/01/how-to-get-carbon-neutral-points.jpg"
 originalUrl: "https://ssangbak.com/how-to-get-carbon-neutral-points/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/how-to-get-carbon-neutral-points-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/how-to-get-carbon-neutral-points-1024x1024.jpg)
 
 평소처럼 전기를 아끼고 텀블러를 썼을 뿐인데 **매달 현금이 통장으로 자동 입금**되는 기분 좋은 경험을 시작해 보세요.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/how-to-get-carbon-neutral-points/"
 지금 바로 신청하지 않으면 받을 수 있는 내 돈을 놓치는 것과 다름없으니, 아래 가이드를 따라 딱 1분만 투자해서 현금 혜택을 선점하세요!
 
 [👉 탄소중립포인트 신청하기](https://cpoint.or.kr/user/guide/registGuide.do)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### 💰 지원 금액 및 대상
@@ -33,7 +28,7 @@ originalUrl: "https://ssangbak.com/how-to-get-carbon-neutral-points/"
 -   **✅ 참여 대상:** 가정의 세대주(세대원), 학교, 상업시설 실제 사용자
 
 ![탄소포인트 지급기준
-](https://ssangbak.com/wp-content/uploads/2026/01/image-40-1024x582.png)
+](/wp-content/uploads/2026/01/image-40-1024x582.png)
 
 ### 👤 참여 조건 및 준비물
 
@@ -110,7 +105,7 @@ originalUrl: "https://ssangbak.com/how-to-get-carbon-neutral-points/"
 -   서울 시민은 전용 사이트인 ‘에코마일리지’에서만 가입 가능
 -   홈페이지 주소: [ecomileage.seoul.go.kr](https://ecomileage.seoul.go.kr/home/#)
 
-![탄소중립포인트 텀블러](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-13-1-1024x1024.jpg)
+![탄소중립포인트 텀블러](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-13-1-1024x1024.jpg)
 
 ## 💡 성공적인 혜택 수령을 위해
 

@@ -7,18 +7,13 @@ permalink: "/2026-peppertones-seoul-concert/"
 slugPath: "2026-peppertones-seoul-concert"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-41.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-41.png"
 originalUrl: "https://ssangbak.com/2026-peppertones-seoul-concert/"
 ---
 
 [페퍼톤스 서울 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13642)
 
 매번 피켓팅이 펼쳐지는 페퍼톤스의 클럽 투어 소식에 벌써부터 내 자리가 없을까 봐 불안하신가요? 하지만 너무 걱정하지 마세요. **이 글 하나만 끝까지 읽으시면 예매 성공의 확률을 극적으로 높이실 수 있습니다.** 우울증을 위한 뉴테라피, **2026 페퍼톤스 클럽 투어** 서울 공연의 완벽한 예매 가이드를 지금 시작합니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 청량한 밴드 사운드를 가장 가까이서 느낄 수 있는 이번 공연의 상세 정보입니다. **2026 페퍼톤스 클럽 투어**는 팬들과의 밀접한 호흡을 위해 클럽형 공연장에서 진행됩니다.

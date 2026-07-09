@@ -7,11 +7,11 @@ permalink: "/accommodation-sale-festa-winter-edition/"
 slugPath: "accommodation-sale-festa-winter-edition"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-4.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-4.jpg"
 originalUrl: "https://ssangbak.com/accommodation-sale-festa-winter-edition/"
 ---
 
-![현재 이미지: 숙박세일페스타 겨울](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-4-1024x576.jpg)
+![현재 이미지: 숙박세일페스타 겨울](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-4-1024x576.jpg)
 
 11월이 시작되며 본격적인 겨울 여행 시즌도 다가오고 있습니다.
 
@@ -22,12 +22,7 @@ originalUrl: "https://ssangbak.com/accommodation-sale-festa-winter-edition/"
 
 * * *
 
-![숙박세일페스타 홍보배너](https://ssangbak.com/wp-content/uploads/2025/11/image-1024x751.png)
-
-목차
-
-[Toggle](#)
-
+![숙박세일페스타 홍보배너](/wp-content/uploads/2025/11/image-1024x751.png)
 ## ❄️ 숙박세일페스타 겨울편이란?
 
 ‘숙박세일페스타’는 2025년 하반기 정부가 추진하는 국가 단위 소비축제인 ‘코리아 그랜드 페스티벌’ 의 일환입니다.
@@ -77,7 +72,7 @@ originalUrl: "https://ssangbak.com/accommodation-sale-festa-winter-edition/"
 
 ※ 단, \*\*대실 상품 / 미등록 숙박업소 / 수도권 지역 숙소(서울·경기·인천)\*\*는 할인 대상에서 제외됩니다.
 
-![숙박세일페스타 일정](https://ssangbak.com/wp-content/uploads/2025/11/image-1.png)
+![숙박세일페스타 일정](/wp-content/uploads/2025/11/image-1.png)
 
 * * *
 

@@ -7,16 +7,11 @@ permalink: "/application-for-a-sports-course-ticket/"
 slugPath: "application-for-a-sports-course-ticket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Application-for-a-sports-course-ticket.jpg"
+heroImage: "/wp-content/uploads/2026/01/Application-for-a-sports-course-ticket.jpg"
 originalUrl: "https://ssangbak.com/application-for-a-sports-course-ticket/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Application-for-a-sports-course-ticket-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/Application-for-a-sports-course-ticket-1024x1024.jpg)
 ## 🏃 스포츠강좌이용권이란?
 
 스포츠강좌이용권은 유소년층(만 5~18세)의 건강한 삶과 스포츠 활동 참여 기회를 제공하기 위한 정부 지원 바우처 제도입니다.  

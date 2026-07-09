@@ -7,7 +7,7 @@ permalink: "/korea-accommodation-festa/"
 slugPath: "korea-accommodation-festa"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/korea-accommodation-festa-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/korea-accommodation-festa-1.jpg"
 originalUrl: "https://ssangbak.com/korea-accommodation-festa/"
 ---
 

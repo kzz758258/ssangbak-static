@@ -7,11 +7,11 @@ permalink: "/public-welfare-fund-application-for-objection-method/"
 slugPath: "public-welfare-fund-application-for-objection-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/09/제목을-입력해주세요_-001-3.jpg"
+heroImage: "/wp-content/uploads/2025/09/제목을-입력해주세요_-001-3.jpg"
 originalUrl: "https://ssangbak.com/public-welfare-fund-application-for-objection-method/"
 ---
 
-![현재 이미지: 민생지원금 이의신청](https://ssangbak.com/wp-content/uploads/2025/09/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-3-1024x576.jpg)
+![현재 이미지: 민생지원금 이의신청](/wp-content/uploads/2025/09/제목을-입력해주세요_-001-3-1024x576.jpg)
 
 민생지원금 이의신청 방법을 정리했습니다.
 
@@ -21,7 +21,7 @@ originalUrl: "https://ssangbak.com/public-welfare-fund-application-for-objection
 
 ### 🤔 “왜 나는 대상자에서 제외됐을까?”
 
-![민생지원금 지급제외 대상자 안내 예시 이미지](https://ssangbak.com/wp-content/uploads/2025/09/image-14-1024x338.png)
+![민생지원금 지급제외 대상자 안내 예시 이미지](/wp-content/uploads/2025/09/image-14-1024x338.png)
 
 2025년 \*\*민생회복 소비쿠폰(민생지원금)\*\*은 고물가, 고금리 시대에 국민 생활 안정을 돕고, 지역 내 소비를 촉진하기 위한 정부의 정책입니다.
 
@@ -35,11 +35,6 @@ originalUrl: "https://ssangbak.com/public-welfare-fund-application-for-objection
 이처럼 **행정 정보 누락, 시스템 오류, 기준일 착오 등**으로 인해 정당한 지원금을 받지 못한 경우, **정부는 ‘이의신청’ 제도를 통해 재검토 기회를 제공합니다.**
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ✅ 민생지원금 이의신청 대상자 유형
 
 아래 중 하나라도 해당된다면 이의신청이 가능합니다:
@@ -96,7 +91,7 @@ originalUrl: "https://ssangbak.com/public-welfare-fund-application-for-objection
 
 이의신청은 **온라인과 오프라인 모두 가능**하며, 본인인증 후 신청서 작성 + 증빙서류 제출 절차를 따릅니다.
 
-![민생지원금 이의신청](https://ssangbak.com/wp-content/uploads/2025/09/image-5.png)
+![민생지원금 이의신청](/wp-content/uploads/2025/09/image-5.png)
 
 ### ① 온라인 신청 경로
 

@@ -7,11 +7,11 @@ permalink: "/2026-medical-benefits-out-of-pocket-expenses/"
 slugPath: "2026-medical-benefits-out-of-pocket-expenses"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-6.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-6.jpg"
 originalUrl: "https://ssangbak.com/2026-medical-benefits-out-of-pocket-expenses/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-6-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-6-1024x1024.jpg)
 
 의료급여 수급자임에도 병원비가 계속 부담되는 경우가 있습니다.  
   
@@ -27,11 +27,6 @@ originalUrl: "https://ssangbak.com/2026-medical-benefits-out-of-pocket-expenses/
 ✔ 직접 신청해야 하는 경우와 자동 지급되는 경우의 차이  
   
 를 **중심으로 정리**해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 핵심 요약
 
 -   **의료급여 수급자라도 무조건 보상받는 제도는 아닙니다**
@@ -115,7 +110,7 @@ originalUrl: "https://ssangbak.com/2026-medical-benefits-out-of-pocket-expenses/
   
 특히 병원 이용 형태가 복잡한 경우 직접 신청이 필요합니다.
 
-![의료급여 본인부담금 보상제도 처리절차](https://ssangbak.com/wp-content/uploads/2025/12/image-16.png)
+![의료급여 본인부담금 보상제도 처리절차](/wp-content/uploads/2025/12/image-16.png)
 
 ## ⚠️ 반드시 알아야 할 실수 포인트
 

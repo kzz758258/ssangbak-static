@@ -7,7 +7,7 @@ permalink: "/dream-spoon-youth-scholarship/"
 slugPath: "dream-spoon-youth-scholarship"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/dream-spoon-youth-scholarship.jpg"
+heroImage: "/wp-content/uploads/2026/03/dream-spoon-youth-scholarship.jpg"
 originalUrl: "https://ssangbak.com/dream-spoon-youth-scholarship/"
 ---
 
@@ -20,14 +20,9 @@ originalUrl: "https://ssangbak.com/dream-spoon-youth-scholarship/"
 지금부터 2026년 새롭게 업데이트된 선발 기준과 지급 일정, 그리고 신청 노하우까지 상세히 정리해 드립니다.
 
 [👉 꿈수저청년장학금 신청하기](https://www.dreamspon.com/dreamscholarship/view.html?idx=8925)
-
-목차
-
-[Toggle](#)
-
 ## 🌟 조건 없는 파격적인 선발 기준
 
-![꿈수저청년장학금](https://ssangbak.com/wp-content/uploads/2026/03/image-7.png)
+![꿈수저청년장학금](/wp-content/uploads/2026/03/image-7.png)
 
 이번 **꿈수저청년장학금**의 가장 큰 매력은 이른바 ‘3무(無) 원칙’인 성적, 소득 분위, 스펙을 일절 보지 않는다는 점입니다.
 

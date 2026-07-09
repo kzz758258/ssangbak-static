@@ -7,11 +7,11 @@ permalink: "/application-for-a-lifetime-education-license/"
 slugPath: "application-for-a-lifetime-education-license"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-11-1.jpg"
+heroImage: "/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-11-1.jpg"
 originalUrl: "https://ssangbak.com/application-for-a-lifetime-education-license/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-11-1-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-11-1-1024x1024.jpg)
 
 배우고 싶은 것은 많은데 교육비 부담이 크신가요?
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/application-for-a-lifetime-education-license/
 지금부터 신청 자격부터 사용처까지 상세히 안내해드리겠습니다.
 
 [👉 평생교육이용권 신청](https://www.lllcard.kr/main)
-
-목차
-
-[Toggle](#)
-
 ## 📚 평생교육이용권이란?
 
 평생교육이용권은 학습자가 본인의 학습 요구에 따라 자율적으로 학습 활동을 결정하고 참여할 수 있도록 정부가 학습 비용을 지원하는 사업입니다.

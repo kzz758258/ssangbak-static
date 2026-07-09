@@ -7,7 +7,7 @@ permalink: "/starbucks-account-withdrawal-refund/"
 slugPath: "starbucks-account-withdrawal-refund"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/starbucks-account-withdrawal-refund-1.jpg"
+heroImage: "/wp-content/uploads/2026/05/starbucks-account-withdrawal-refund-1.jpg"
 originalUrl: "https://ssangbak.com/starbucks-account-withdrawal-refund/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/starbucks-account-withdrawal-refund/"
 저도 얼마 전 사용하지 않는 앱들을 정리하면서 스타벅스를 탈퇴했는데, 숨겨져 있던 잔액 만 원을 발견하고 야무지게 계좌로 환불받아 치킨 값에 보탰습니다. 여러분도 숨은 돈이 없는지 꼭 확인해 보세요.
 
 [👉 스타벅스 회원 탈퇴](https://play.google.com/store/apps/details?id=com.starbucks.co&hl=ko)
-
-목차
-
-[Toggle](#)
-
 ## 📱 스타벅스 앱 회원 탈퇴 방법 (5단계 초간단 가이드)
 
 스타벅스 코리아 공식 앱을 기준으로 탈퇴 진행 순서를 정리해 드립니다. 아래 단계를 그대로 따라 하시면 1분 안에 해지가 완료됩니다.

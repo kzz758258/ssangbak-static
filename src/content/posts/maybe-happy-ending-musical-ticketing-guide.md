@@ -7,11 +7,11 @@ permalink: "/maybe-happy-ending-musical-ticketing-guide/"
 slugPath: "maybe-happy-ending-musical-ticketing-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-1.jpg"
 originalUrl: "https://ssangbak.com/maybe-happy-ending-musical-ticketing-guide/"
 ---
 
-![현재 이미지: 어쩌면 해피엔딩 뮤지컬](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-1-1-1024x576.jpg)
+![현재 이미지: 어쩌면 해피엔딩 뮤지컬](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-1-1024x576.jpg)
 
 감성적이면서 철학적인 메시지로 많은 관객의 마음을 울린 뮤지컬 〈어쩌면 해피엔딩>은 한국 창작 뮤지컬의 대표작 중 하나로 손꼽힙니다.
 
@@ -23,12 +23,7 @@ originalUrl: "https://ssangbak.com/maybe-happy-ending-musical-ticketing-guide/"
   
 **어쩌면 해피엔딩 뮤지컬의 예매 방법, 티켓 가격, 출연진, 줄거리, 캐스팅 정보**까지 한눈에 볼 수 있게 정리해 보았습니다.
 
-![어쩌면 해피엔딩 포스터](https://ssangbak.com/wp-content/uploads/2025/11/image-23.png)
-
-목차
-
-[Toggle](#)
-
+![어쩌면 해피엔딩 포스터](/wp-content/uploads/2025/11/image-23.png)
 ## 🎟️ 1. 어쩌면 해피엔딩 뮤지컬 예매 꿀팁
 
 뮤지컬 〈어쩌면 해피엔딩〉은 인기와 작품성을 모두 갖춘 만큼,예매가 오픈되면 빠르게 매진되는 편입니다.
@@ -93,13 +88,13 @@ S석
 -   클레어 역: 전미도, 최수진, 박지연, 박진주, 방민아
 -   제임스 역: 이시안, 고훈정, 박세훈
 
-![어쩌면 해피엔딩 출연진](https://ssangbak.com/wp-content/uploads/2025/11/image-21-1024x159.png)
+![어쩌면 해피엔딩 출연진](/wp-content/uploads/2025/11/image-21-1024x159.png)
 
 배우들의 섬세한 연기와 가창력, 그리고 로봇 특유의 움직임 표현은 이 작품의 핵심 감동 포인트입니다.
 
 특히 올리버와 클레어의 듀엣 넘버는 매 시즌마다 유튜브 조회수와 음원 차트를 장식할 정도로 인기를 끌고 있습니다.
 
-![어쩌면 해피엔딩 배우 스케쥴](https://ssangbak.com/wp-content/uploads/2025/11/image-24-903x1024.png)
+![어쩌면 해피엔딩 배우 스케쥴](/wp-content/uploads/2025/11/image-24-903x1024.png)
 
 * * *
 

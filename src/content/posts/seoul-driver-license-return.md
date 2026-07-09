@@ -7,11 +7,11 @@ permalink: "/seoul-driver-license-return/"
 slugPath: "seoul-driver-license-return"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/seoul-driver-license-return.jpg"
+heroImage: "/wp-content/uploads/2026/02/seoul-driver-license-return.jpg"
 originalUrl: "https://ssangbak.com/seoul-driver-license-return/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/seoul-driver-license-return.jpg)
+![](/wp-content/uploads/2026/02/seoul-driver-license-return.jpg)
 
 **고령자 운전면허 반납 지원금 20만원 신청 방법**을 미리 확인하면 2026년부터 더욱 빨라지고 두터워진 혜택을 놓치지 않고 챙길 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/seoul-driver-license-return/"
 선착순으로 지급되는 만큼, 신청 대상과 준비물을 꼼꼼히 체크하여 가까운 주민센터에서 바로 혜택을 받으시길 바랍니다.
 
 [👉 운전면허 반납지원금 신청방법](https://news.seoul.go.kr/traffic/archives/516087)
-
-목차
-
-[Toggle](#)
-
 ## 📅 2026년 사업 조기 추진 안내
 
 서울특별시는 고령운전자 자진 반납 활성화를 위해 2026년 1월 28일(수)부터 신청 접수를 시작합니다.

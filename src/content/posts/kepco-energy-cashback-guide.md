@@ -7,7 +7,7 @@ permalink: "/kepco-energy-cashback-guide/"
 slugPath: "kepco-energy-cashback-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/kepco-energy-cashback-guide.jpg"
+heroImage: "/wp-content/uploads/2026/06/kepco-energy-cashback-guide.jpg"
 originalUrl: "https://ssangbak.com/kepco-energy-cashback-guide/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/kepco-energy-cashback-guide/"
 [👉 에너지 캐시백 신청하기](https://en-ter.co.kr/ec/main/main.do)
 
 [👉 에너지 캐시백 홈페이지](https://en-ter.co.kr/main.do)
-
-목차
-
-[Toggle](#)
-
 ## 💡 1. 한전 에너지 캐시백 제도 및 신청 자격
 
 한전 에너지 캐시백은 주택용 소비자의 자발적인 에너지 절약을 유도하기 위해 도입된 전 국민 대상 인센티브 제도입니다.

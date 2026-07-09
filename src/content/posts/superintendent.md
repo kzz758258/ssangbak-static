@@ -7,7 +7,7 @@ permalink: "/superintendent/"
 slugPath: "superintendent"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-48.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-48.png"
 originalUrl: "https://ssangbak.com/superintendent/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/superintendent/"
 [👉 지방선거 투표소 찾기](https://ssangbak.com/local-election-advance-voting-date-location/)
 
 오는 **2026년 6월 3일 지방선거**가 눈앞으로 다가오면서 유권자들의 관심이 그 어느 때보다 뜨겁습니다. 이번 선거에서는 최대 7장에 달하는 투표용지를 받게 되어 현장에서 당황할 수 있는데요. 특히 **교육감 단체장 차이**를 정확히 아는 것은 우리 아이들의 미래와 지역 사회의 행정 방향을 결정하는 핵심 지표가 됩니다. 각 후보의 공약만큼이나 중요한 직책별 역할과 선출 방식의 차이를 지금부터 알기 쉽게 정리해 드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 교육감과 지자체장의 핵심 역할과 책임 범위
 
 지역 사회를 지탱하는 두 축인 교육감과 지방자치단체장은 업무 영역에서 뚜렷한 경계를 가집니다. **교육감 단체장 차이**의 본질은 전문적 교육 행정이냐, 포괄적 지역 행정이냐에 있습니다.

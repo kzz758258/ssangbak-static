@@ -7,11 +7,11 @@ permalink: "/jamsil-christmas-market-third-reservation/"
 slugPath: "jamsil-christmas-market-third-reservation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-004-2.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-004-2.jpg"
 originalUrl: "https://ssangbak.com/jamsil-christmas-market-third-reservation/"
 ---
 
-![현재 이미지: 잠실 크리스마스 마켓](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-004-2-1024x1024.jpg)
+![현재 이미지: 잠실 크리스마스 마켓](/wp-content/uploads/2025/11/제목을-입력해주세요_-004-2-1024x1024.jpg)
 
 2025년 겨울도 롯데타워에서 가장 큰 시즌 이벤트인 **잠실 크리스마스 마켓**이 돌아왔습니다.
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/jamsil-christmas-market-third-reservation/"
 
 **3차 예약 일정, 입장권 종류, 패스트 패스, 프라이빗 라운지, 주요 라이트쇼·프로그램, 취소 규정, 유의사항**까지 모두 정리해 보았습니다.
 
-![잠실 크리스마스 마켓 포스터](https://ssangbak.com/wp-content/uploads/2025/11/20251123_184839-1.jpg)
+![잠실 크리스마스 마켓 포스터](/wp-content/uploads/2025/11/20251123_184839-1.jpg)
 
 출처: 롯데백화점 공식 홈페이지
-
-목차
-
-[Toggle](#)
-
 ## ⭐ 1. 잠실 크리스마스 마켓 3차 예약 일정
 
 첨부 이미지 기준 3차 예약 스케줄은 다음과 같습니다.
@@ -162,7 +157,7 @@ originalUrl: "https://ssangbak.com/jamsil-christmas-market-third-reservation/"
 
 -   실내 취식 공간(빅텐트 다이닝홀) 내 출입 불가
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251123_184858-1.jpg)
+![](/wp-content/uploads/2025/11/20251123_184858-1.jpg)
 
 출처: 롯데백화점 공식 홈페이지
 

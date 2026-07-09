@@ -7,7 +7,7 @@ permalink: "/jinhea-gunhangje-guide/"
 slugPath: "jinhea-gunhangje-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/jinhea-gunhangje-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/jinhea-gunhangje-guide-1.jpg"
 originalUrl: "https://ssangbak.com/jinhea-gunhangje-guide/"
 ---
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/jinhea-gunhangje-guide/"
 [👉 진해 군항제 공식 홈페이지](https://www.jgfestival.or.kr/)
 
 [👉 전국 벚꽃 명소와 축제 총정리](https://ssangbak.com/cherry-blossom-spots-festivals/)
-
-목차
-
-[Toggle](#)
-
 ## 1\. 진해 군항제, 봄의 시작을 알리다
 
-![제 64회 진해 군항제](https://ssangbak.com/wp-content/uploads/2026/03/image-3.png)
+![제 64회 진해 군항제](/wp-content/uploads/2026/03/image-3.png)
 
 매년 3월 말부터 4월 초, 진해는 분홍빛으로 물들어요.
 

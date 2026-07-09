@@ -7,7 +7,7 @@ permalink: "/hanriver-festival-2026-guide/"
 slugPath: "hanriver-festival-2026-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail.png"
 originalUrl: "https://ssangbak.com/hanriver-festival-2026-guide/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/hanriver-festival-2026-guide/"
 따스한 봄볕이 내리쬐는 5월, 서울의 상징인 한강이 웃음꽃으로 가득 피어납니다. 온 가족이 함께 즐길 수 있는 **2026 한강페스티벌**이 드디어 그 화려한 막을 올렸습니다. 시원한 강바람과 함께 펼쳐지는 다채로운 프로그램들은 지친 일상에 활력을 불어넣어 줄 것입니다.
 
 이번 축제는 가족, 연인, 친구와 함께 소중한 추억을 만들 수 있는 절호의 기회입니다. 지금부터 놓치면 후회할 축제의 모든 정보를 상세히 안내해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 축제 개요 및 일정
 
 **2026 한강페스티벌(봄)**은 ‘하하호호 봄’이라는 주제로 시민들을 찾아옵니다. 가족 단위 방문객을 위한 문화, 체험, 휴식 프로그램이 이촌, 여의도, 반포 등 3개 한강공원을 중심으로 펼쳐집니다.

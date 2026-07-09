@@ -7,11 +7,11 @@ permalink: "/hells-kitchen-musical-ticket/"
 slugPath: "hells-kitchen-musical-ticket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/image-2.png"
+heroImage: "/wp-content/uploads/2026/05/image-2.png"
 originalUrl: "https://ssangbak.com/hells-kitchen-musical-ticket/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/05/image-2.png)
+![](/wp-content/uploads/2026/05/image-2.png)
 
 에너지 넘치는 무대와 압도적인 가창력으로 브로드웨이를 뒤흔든 뮤지컬 <헬스키친>이 드디어 한국에 상륙합니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/hells-kitchen-musical-ticket/"
 오늘 제가 정리해 드리는 정보만 완벽히 숙지하신다면, 피켓팅 속에서도 원하는 좌석을 당당히 거머쥐실 수 있습니다.
 
 [👉 뮤제컬 헬스키친 예매하기](https://tickets.interpark.com/contents/notice/detail/13822)
-
-목차
-
-[Toggle](#)
-
 ## 📅 **공연 및 일정 정보**
 
 **항목**

@@ -7,16 +7,11 @@ permalink: "/energy-voucher-subsidies/"
 slugPath: "energy-voucher-subsidies"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-19.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-19.jpg"
 originalUrl: "https://ssangbak.com/energy-voucher-subsidies/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-19-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-19-1024x1024.jpg)
 ## 💰 에너지바우처, 최대 70만원 지원
 
 겨울철 난방비와 여름철 냉방비 부담, 에너지바우처로 해결하세요.  
@@ -305,7 +300,7 @@ originalUrl: "https://ssangbak.com/energy-voucher-subsidies/"
 
 **중요!** 사용기한(2026년 5월 25일) 이후 남은 잔액은 자동 소멸됩니다. 반드시 기한 내에 사용하세요.
 
-![에너지바우처 지원대상 확대 안내](https://ssangbak.com/wp-content/uploads/2025/12/image-24.png)
+![에너지바우처 지원대상 확대 안내](/wp-content/uploads/2025/12/image-24.png)
 
 ### 다자녀 가구 특별 안내
 

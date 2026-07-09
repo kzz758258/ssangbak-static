@@ -7,18 +7,13 @@ permalink: "/2026-2am-concert-guide/"
 slugPath: "2026-2am-concert-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-5.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-5.png"
 originalUrl: "https://ssangbak.com/2026-2am-concert-guide/"
 ---
 
 [2am 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13728)
 
 발라드의 계절이 돌아왔습니다. ‘이 노래’, ‘죽어도 못 보내’ 등 수많은 명곡으로 우리의 밤을 적셨던 2am이 드디어 **2026 2am Concert \[오늘, 2am\] in Seoul**로 우리 곁을 찾아옵니다. 이번 공연은 소극장 감성의 밀도 높은 구성으로 기획되어 티켓팅 경쟁이 그 어느 때보다 뜨거울 것으로 보이는데요. ‘광탈’의 공포에서 벗어나 포도알을 선점할 수 있도록, 예매 전략부터 공연장 시야 팁까지 핵심 정보만 꽉 눌러 담았습니다. 이 글과 함께라면 **2026 2am 콘서트** 예매 성공의 주인공은 바로 당신입니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 이번 서울 공연은 팬들과 더 가까이 호흡하기 위해 합정동에 위치한 **NOL씨어터**에서 진행됩니다. 아티스트의 숨소리까지 들릴 듯한 생생한 현장감을 기대하셔도 좋습니다.

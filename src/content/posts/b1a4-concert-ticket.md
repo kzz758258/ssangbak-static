@@ -7,11 +7,11 @@ permalink: "/b1a4-concert-ticket/"
 slugPath: "b1a4-concert-ticket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/b1a4-concert-ticket.jpg"
+heroImage: "/wp-content/uploads/2026/06/b1a4-concert-ticket.jpg"
 originalUrl: "https://ssangbak.com/b1a4-concert-ticket/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/06/b1a4-concert-ticket.jpg)
+![](/wp-content/uploads/2026/06/b1a4-concert-ticket.jpg)
 
 비원에이포의 감성적인 멜로디와 독보적인 라이브를 직접 느낄 수 있는 역대급 무대가 찾아옵니다.
 
@@ -27,7 +27,6 @@ originalUrl: "https://ssangbak.com/b1a4-concert-ticket/"
 
 > 목차
 > 
-> [Toggle](#)
 > 
 > ## **📅 공연 및 일정 정보**
 

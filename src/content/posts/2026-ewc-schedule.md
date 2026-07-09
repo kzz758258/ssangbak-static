@@ -7,16 +7,11 @@ permalink: "/2026-ewc-schedule/"
 slugPath: "2026-ewc-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-54.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-54.png"
 originalUrl: "https://ssangbak.com/2026-ewc-schedule/"
 ---
 
 [👉 ewc 중계 바로가기](https://ssangbak.com/2026-ewc-relay/)
-
-목차
-
-[Toggle](#)
-
 ## 전 세계가 주목하는 e스포츠의 새로운 정점
 
 리그 오브 레전드 팬들의 심장을 뛰게 할 세계 최고 권위의 축제, **롤 EWC 일정**과 진출 팀 정보가 모두 확정되었습니다. 이번 대회는 기존 개최지인 사우디 리야드를 떠나 예술과 낭만의 도시 프랑스 파리에서 개최된다는 소식에 더욱 뜨거운 관심을 받고 있습니다. 치열한 지역별 선발전인 ‘Road to EWC’를 통해 본선 무대에 오를 주인공들이 가려진 지금, 우리가 주목해야 할 핵심 관전 포인트와 상세 일정을 완벽하게 정리해 드립니다.

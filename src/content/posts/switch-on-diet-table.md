@@ -7,11 +7,11 @@ permalink: "/switch-on-diet-table/"
 slugPath: "switch-on-diet-table"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/switch-on-diet-table-1.jpg"
+heroImage: "/wp-content/uploads/2026/01/switch-on-diet-table-1.jpg"
 originalUrl: "https://ssangbak.com/switch-on-diet-table/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/switch-on-diet-table-1-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/switch-on-diet-table-1-1024x1024.jpg)
 
 “박용우 박사의 스위치온 다이어트, 들어는 봤는데 정확히 뭘 먹어야 할지 모르겠다고요?”
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/switch-on-diet-table/"
 같은 음식이라도 언제 먹느냐에 따라 체지방 연소 효과가 완전히 달라진다는 것이죠.
 
 오늘은 1주차부터 4주차까지의 실전 식단표를 한눈에 정리해드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🔄 박용우 박사의 스위치온 다이어트란?
 
 박용우 전문의가 개발한 스위치온 다이어트는 24시간 간헐적 단식과 탄수화물 타이밍 조절을 결합한 과학적 식이요법입니다.

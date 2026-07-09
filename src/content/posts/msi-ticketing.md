@@ -7,7 +7,7 @@ permalink: "/msi-ticketing/"
 slugPath: "msi-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/msi-ticketing.jpg"
+heroImage: "/wp-content/uploads/2026/05/msi-ticketing.jpg"
 originalUrl: "https://ssangbak.com/msi-ticketing/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/msi-ticketing/"
 치열한 티켓팅 전쟁에서 승리하고 경기장에 입성할 수 있는 핵심 정보들을 모았습니다.
 
 [👉 2026 msi 예매하기](https://tickets.interpark.com/special/sports/promotion/50)
-
-목차
-
-[Toggle](#)
-
 ## 📅 예매 일정과 예매처
 
 이번 대회의 티켓 오픈은 단계별로 나뉘어 진행되므로 일정을 미리 파악하는 것이 중요합니다.

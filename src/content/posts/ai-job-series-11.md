@@ -7,11 +7,11 @@ permalink: "/ai-job-series-11/"
 slugPath: "ai-job-series-11"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-12.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-12.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-11/"
 ---
 
-![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-12.jpg](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-12-1024x1024.jpg)
+![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-12.jpg](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-12-1024x1024.jpg)
 
 AI가 급격히 발전하면서 많은 사람들이  
 “내 직업이 사라지는 건 아닐까?”  
@@ -26,11 +26,6 @@ AI가 급격히 발전하면서 많은 사람들이
 직업 안정성을 높이는 **실질적인 전략 7가지**를 완전히 새로운 시각에서 설명합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. 불안을 없애려 하지 말고 “방향성”으로 전환하라
 
 AI 시대 불안의 핵심은 직무가 아니라 **방향성의 부재**입니다.  

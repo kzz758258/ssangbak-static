@@ -7,7 +7,7 @@ permalink: "/pension-fund-etf-portfolio/"
 slugPath: "pension-fund-etf-portfolio"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/pension-fund-etf-portfolio.jpg"
+heroImage: "/wp-content/uploads/2026/05/pension-fund-etf-portfolio.jpg"
 originalUrl: "https://ssangbak.com/pension-fund-etf-portfolio/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/pension-fund-etf-portfolio/"
 [👉 삼성증권 연금저축펀드 가입](https://ssangbak.com/samsung-pension-fund/)
 
 [👉 미래에셋 연금저축펀드 가입](https://ssangbak.com/miraeasset-pension-opening/)
-
-목차
-
-[Toggle](#)
-
 ## 📈 핵심 자산배분 전략
 
 장기 투자의 성패는 개별 종목의 선택보다 자산의 분산 비중에서 결정됩니다.

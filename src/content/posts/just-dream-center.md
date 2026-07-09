@@ -7,18 +7,13 @@ permalink: "/just-dream-center/"
 slugPath: "just-dream-center"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-56.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-56.png"
 originalUrl: "https://ssangbak.com/just-dream-center/"
 ---
 
 [👉 그냥드림센터 신청](https://www.foodbank1377.org/guide/useInfo.do)
 
 살다 보면 예기치 못한 순간에 경제적 어려움이 찾아오곤 합니다. 당장 끼니를 걱정해야 하거나 생필품이 부족한 절박한 상황에서 복잡한 증빙 서류나 까다로운 심사 절차는 큰 장벽이 될 수 있습니다. **2026년 현재 확대 운영 중인 그냥드림 사업은 이러한 복지 사각지대를 해소하기 위해 조건 없이 생필품을 지원하는 따뜻한 정책입니다.** 오늘은 이 사업의 구체적인 혜택과 신청 절차를 자세히 살펴보고자 합니다.
-
-목차
-
-[Toggle](#)
-
 ## 01\. 그냥드림 지원 대상 및 자격 조건
 
 이 사업의 가장 혁신적인 점은 바로 **‘무조건성’**에 있습니다. 과거의 선별적 복지 모델에서 벗어나 긴급한 도움이 필요한 시민에게 즉각적인 손길을 내미는 것이 핵심입니다.

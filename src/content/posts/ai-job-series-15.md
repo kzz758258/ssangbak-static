@@ -7,11 +7,11 @@ permalink: "/ai-job-series-15/"
 slugPath: "ai-job-series-15"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-20-1.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-20-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-15/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-20-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-20-1-1024x1024.jpg)
 
 AI는 “업무 효율 도구”를 넘어  
 이제 누구나 **소자본·저위험·고확장성**의 사이드 프로젝트를 만들 수 있는 핵심 도구가 되었습니다.  
@@ -23,11 +23,6 @@ AI를 활용해 **빠르게 만들고, 유지 비용 거의 없이 운영하며,
 현실적인 사이드 프로젝트 전략 7가지를 소개합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. **가장 먼저, ‘작은 문제 하나’를 찾는 것이 핵심이다**
 
 성공하는 사이드 프로젝트는 기술이 아니라  

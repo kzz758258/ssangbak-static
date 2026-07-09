@@ -7,11 +7,11 @@ permalink: "/2025-love-on-heating-cost-application-method/"
 slugPath: "2025-love-on-heating-cost-application-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-3.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-3.jpg"
 originalUrl: "https://ssangbak.com/2025-love-on-heating-cost-application-method/"
 ---
 
-![현재 이미지: 사랑온 난방비](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-3-1024x576.jpg)
+![현재 이미지: 사랑온 난방비](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-3-1024x576.jpg)
 
 겨울이 다가오면서 난방비 부담이 커지는 가운데, 에너지 복지 사각지대에 놓인 이웃과 시설을 위한 ‘사랑온 난방비’ 지원사업이 올해도 시행됩니다.
 
@@ -21,14 +21,9 @@ originalUrl: "https://ssangbak.com/2025-love-on-heating-cost-application-method/
 
 * * *
 
-![사랑온난방비 소개](https://ssangbak.com/wp-content/uploads/2025/11/image-4-1024x411.png)
+![사랑온난방비 소개](/wp-content/uploads/2025/11/image-4-1024x411.png)
 
-![사랑온 난방비 사업개요](https://ssangbak.com/wp-content/uploads/2025/11/image-6-1024x467.png)
-
-목차
-
-[Toggle](#)
-
+![사랑온 난방비 사업개요](/wp-content/uploads/2025/11/image-6-1024x467.png)
 ## 1\. 사랑온 난방비 대상
 
 ‘사랑온 난방비’는 난방비 마련에 어려움을 겪는 개인가구는 물론, 사회복지시설과 사회적기업에도 지원하는 복지 사업입니다.
@@ -76,7 +71,7 @@ originalUrl: "https://ssangbak.com/2025-love-on-heating-cost-application-method/
 3.  신청서 작성 및 필수 서류 업로드
 4.  접수 완료 후 선정 결과 확인
 
-![사랑온 난방비 신청 방법](https://ssangbak.com/wp-content/uploads/2025/11/image-7-1024x338.png)
+![사랑온 난방비 신청 방법](/wp-content/uploads/2025/11/image-7-1024x338.png)
 
 ### 📄 제출 서류
 

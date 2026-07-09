@@ -7,16 +7,11 @@ permalink: "/kpass-refund-and-account-change-method/"
 slugPath: "kpass-refund-and-account-change-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-9-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-9-1.jpg"
 originalUrl: "https://ssangbak.com/kpass-refund-and-account-change-method/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/kpass-refund-and-account-change-method-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2025/11/kpass-refund-and-account-change-method-1024x1024.jpg)
 # K패스 환급 방법과 계좌변경 방법 한눈에
 
 2026년 1월부터 K패스가 ‘모두의 카드’로 대폭 개편되면서 교통비 환급 혜택이 더욱 강화되었습니다.  

@@ -7,18 +7,13 @@ permalink: "/inventory-2026-ticket-tips/"
 slugPath: "inventory-2026-ticket-tips"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-12.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-12.png"
 originalUrl: "https://ssangbak.com/inventory-2026-ticket-tips/"
 ---
 
 [인벤타리오 문구페어 예매하기](https://booking.naver.com/booking/5/bizes/1630085)
 
 문구 덕후라면 절대 놓칠 수 없는 전시, **인벤타리오 2026** 소식을 전해드립니다! 코엑스에서 열리는 이번 페어의 티켓 일정, 슈퍼얼리버드 할인, 관람 유의사항까지 지금 바로 확인하고 미리 준비해 보세요.
-
-목차
-
-[Toggle](#)
-
 ## 드디어 돌아온 문구인의 축제, 인벤타리오 2026
 
 문구를 사랑하는 분들이라면 손꼽아 기다려온 전시, **인벤타리오 2026** 오픈 소식이 드디어 공개되었습니다! 작년에는 관람객이 너무 많아 티켓 조기 판매 중단 이슈까지 있었을 정도로 뜨거운 열기를 자랑했는데요. 올해는 작년의 아쉬움을 달래기 위해 **두 개의 관(The Platz 1&2)으로 규모를 확장**하여 더욱 쾌적하고 풍성하게 돌아왔다고 합니다.

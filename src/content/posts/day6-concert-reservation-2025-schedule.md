@@ -7,11 +7,11 @@ permalink: "/day6-concert-reservation-2025-schedule/"
 slugPath: "day6-concert-reservation-2025-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/001-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/001-1.jpg"
 originalUrl: "https://ssangbak.com/day6-concert-reservation-2025-schedule/"
 ---
 
-![현재 이미지: 데이식스 콘서트 예매](https://ssangbak.com/wp-content/uploads/2025/11/001-1-1024x1024.jpg)
+![현재 이미지: 데이식스 콘서트 예매](/wp-content/uploads/2025/11/001-1-1024x1024.jpg)
 
 대한민국 대표 밴드 **데이식스** 콘서트 예매가 시작되었습니다.
 
@@ -29,14 +29,9 @@ originalUrl: "https://ssangbak.com/day6-concert-reservation-2025-schedule/"
 ✅ 좌석 배치 및 입장 주의사항,  
 ✅ 예매 팁과 주의 포인트를 모두 한눈에 볼 수 있게 정리해 보습니다.
 
-![데이식스 콘서트 일정](https://ssangbak.com/wp-content/uploads/2025/11/image-65.png)
+![데이식스 콘서트 일정](/wp-content/uploads/2025/11/image-65.png)
 
 출처: YES24 공식 예매 페이지
-
-목차
-
-[Toggle](#)
-
 ## 🎤 1. 공연 기본정보 – 2025 DAY6 Special Concert ‘The Present’
 
 구분
@@ -149,7 +144,7 @@ YES24 공식 예매 사이트
 >   
 > QR 노출로 인한 입장 제한 사례가 매년 발생하고 있습니다.
 
-![데이식스 콘서트 좌석배치도](https://ssangbak.com/wp-content/uploads/2025/11/image-66.png)
+![데이식스 콘서트 좌석배치도](/wp-content/uploads/2025/11/image-66.png)
 
 ## 🎟️ 5. 좌석 배치 및 시야 안내
 
@@ -218,7 +213,7 @@ A. 예매자 본인 신분증과 예매내역 지참 후 현장 매표소에서 
 
 A. KSPO DOME 은 주변 혼잡이 심해 **대중교통 이용**이 가장 추천됩니다.
 
-![데이식스 콘서트 주차 안내](https://ssangbak.com/wp-content/uploads/2025/11/image-67.png)
+![데이식스 콘서트 주차 안내](/wp-content/uploads/2025/11/image-67.png)
 
 * * *
 

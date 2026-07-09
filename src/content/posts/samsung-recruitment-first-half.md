@@ -7,7 +7,7 @@ permalink: "/samsung-recruitment-first-half/"
 slugPath: "samsung-recruitment-first-half"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/samsung-recruitment-first-half-3.jpg"
+heroImage: "/wp-content/uploads/2026/02/samsung-recruitment-first-half-3.jpg"
 originalUrl: "https://ssangbak.com/samsung-recruitment-first-half/"
 ---
 
@@ -18,14 +18,9 @@ originalUrl: "https://ssangbak.com/samsung-recruitment-first-half/"
 지금부터 핵심 정보를 바탕으로 2026년 상반기 **삼성공채** 일정과 부문별 디테일을 전략적으로 분석해 드리겠습니다.
 
 [👉 삼성 실시간 채용공고 확인하기](https://www.samsungcareers.com/hr/)
-
-목차
-
-[Toggle](#)
-
 ## 🗓️ 2026 상반기 신입사원 공채 일정
 
-![삼성전자](https://ssangbak.com/wp-content/uploads/2026/02/image-82.png)
+![삼성전자](/wp-content/uploads/2026/02/image-82.png)
 
 삼성은 대학교 개강 시기에 맞춰 캠퍼스 리크루팅을 시작으로 3월 중순부터 신입사원 공채 절차를 본격화합니다.
 

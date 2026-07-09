@@ -7,18 +7,13 @@ permalink: "/youth-savings-account-criteria/"
 slugPath: "youth-savings-account-criteria"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-15.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-15.png"
 originalUrl: "https://ssangbak.com/youth-savings-account-criteria/"
 ---
 
 [청년내일저축계좌 신청하기](www.bokjiro.go.kr)
 
 사회에 첫발을 내딛는 청년들에게 자산 형성은 미래를 설계하는 가장 중요한 토대입니다. 하지만 높은 물가와 주거비 부담 속에서 홀로 목돈을 마련하기란 쉽지 않은 일입니다. 보건복지부에서는 이러한 청년들의 경제적 자립을 지원하기 위해 **‘2026년 청년내일저축계좌’ 신규 가입자 2만 5,000명을 모집**합니다. 본인의 저축액에 정부의 파격적인 지원금이 더해지는 이번 기회를 놓치지 않도록 주요 내용을 상세히 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 청년내일저축계좌란 무엇인가요?
 
 **청년내일저축계좌 2026** 사업은 일하는 저소득층 청년이 안정적으로 사회에 안착할 수 있도록 돕는 자산 형성 지원 제도입니다. 가입자가 매월 일정 금액을 저축하면 정부가 매칭 지원금을 추가로 적립해 주는 방식입니다.

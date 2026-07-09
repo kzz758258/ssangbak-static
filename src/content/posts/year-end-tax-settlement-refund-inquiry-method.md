@@ -7,11 +7,11 @@ permalink: "/year-end-tax-settlement-refund-inquiry-method/"
 slugPath: "year-end-tax-settlement-refund-inquiry-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/year-end-tax-settlement-refund-inquiry-method.jpg"
+heroImage: "/wp-content/uploads/2025/11/year-end-tax-settlement-refund-inquiry-method.jpg"
 originalUrl: "https://ssangbak.com/year-end-tax-settlement-refund-inquiry-method/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/year-end-tax-settlement-refund-inquiry-method-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/year-end-tax-settlement-refund-inquiry-method-1024x1024.jpg)
 
 2025년 연말정산 시즌이 다가오면서 많은 직장인들이 가장 궁금해하는 건 바로 “나는 환급금을 얼마나 받을까?”입니다.
 
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/year-end-tax-settlement-refund-inquiry-method
 ✅ 환급금 계산법,  
 ✅ 자주 묻는 질문(FAQ)까지  
 모두 한 번에 정리했습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🗓️ 1. 2025년 연말정산 환급 일정 한눈에 보기
 
 구분
@@ -74,7 +69,7 @@ originalUrl: "https://ssangbak.com/year-end-tax-settlement-refund-inquiry-method
 → 2~3월 회사가 정산  
 → **3~4월 급여일에 환급금 입금**이 이루어집니다.
 
-![연말정산간소화 유의사항](https://ssangbak.com/wp-content/uploads/2025/11/image-34.png)
+![연말정산간소화 유의사항](/wp-content/uploads/2025/11/image-34.png)
 
 ## 🧾 2. 연말정산 환급금 조회는 언제부터 가능할까?
 
@@ -103,9 +98,9 @@ originalUrl: "https://ssangbak.com/year-end-tax-settlement-refund-inquiry-method
 3.  공동인증서, 간편인증(카카오·네이버·PASS 등)으로 로그인
 4.  환급금 내역 및 입금 예정일 확인
 
-![연말정산 환급금 조회 방법 1](https://ssangbak.com/wp-content/uploads/2025/11/image-37-1024x376.png)
+![연말정산 환급금 조회 방법 1](/wp-content/uploads/2025/11/image-37-1024x376.png)
 
-![연말정산 환급금 조회 방법 2](https://ssangbak.com/wp-content/uploads/2025/11/image-38-1024x246.png)
+![연말정산 환급금 조회 방법 2](/wp-content/uploads/2025/11/image-38-1024x246.png)
 
 > ⚠️ 단, 회사가 대납·정산하는 일반 직장인은 직접 조회가 아닌 **회사 급여시스템**에서 확인하는 것이 빠를 수 있습니다.
 
@@ -113,7 +108,7 @@ originalUrl: "https://ssangbak.com/year-end-tax-settlement-refund-inquiry-method
 
 국세청 **손택스(Sontax)** 앱은 아쉽게도 24년 12월 20일부로 연말정산 미리보기 서비스가 종료되어 이용이 불가한 상태입니다.
 
-![손택스 연말정산 미리보기 서비스 종료 안내](https://ssangbak.com/wp-content/uploads/2025/11/KakaoTalk_20251113_170333156-1-461x1024.jpg)
+![손택스 연말정산 미리보기 서비스 종료 안내](/wp-content/uploads/2025/11/KakaoTalk_20251113_170333156-1-461x1024.jpg)
 
 ## 🏢 5. 정부24에서 연말정산용 증명서 5종  
 무료 발급 (1월 13일~31일 한정)
@@ -261,7 +256,7 @@ A. 아닙니다.
 
 💡 이 다섯 가지만 챙겨도 평균 30~50만 원의 추가 환급 효과가 있다는 분석이 있습니다.
 
-![연말정산 환급금 온라인 조회하고 있는 모습](https://ssangbak.com/wp-content/uploads/2025/11/002-1024x1024.jpg)
+![연말정산 환급금 온라인 조회하고 있는 모습](/wp-content/uploads/2025/11/002-1024x1024.jpg)
 
 연말정산 환급금은 단순히 “돈을 돌려받는 보너스”가 아닙니다.  
   

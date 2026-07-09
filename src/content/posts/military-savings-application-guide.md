@@ -7,7 +7,7 @@ permalink: "/military-savings-application-guide/"
 slugPath: "military-savings-application-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-26.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-26.png"
 originalUrl: "https://ssangbak.com/military-savings-application-guide/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/military-savings-application-guide/"
 군 생활의 안정성을 기반으로 자산을 형성하고 싶은 간부님들에게 반가운 소식이 전해졌습니다. 올해 3월, **원금을 무려 2배로 불려주는 ‘장기간부 도약적금’**이 새롭게 출시되었기 때문입니다.
 
 이 상품은 본인이 저축한 금액만큼 정부가 동일한 금액을 매칭 지원해 주는 파격적인 혜택을 담고 있습니다. 오늘은 장기복무 간부라면 놓쳐서는 안 될 이 적금의 상세 조건과 신청 방법, 그리고 기대 수익까지 꼼꼼하게 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 장기간부 도약적금이란 무엇인가?
 
 **장기간부 도약적금**은 장기복무에 선발된 군 간부들의 주거 마련 및 자산 형성을 돕기 위해 마련된 정부 지원 금융 상품입니다. 군인공제회와 협력하여 진행되는 이 사업은 시중의 일반 적금과는 비교할 수 없는 높은 수익률을 자랑합니다.

@@ -7,11 +7,11 @@ permalink: "/mobile-lotto-winnings-guide/"
 slugPath: "mobile-lotto-winnings-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/mobile-lotto-winnings-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/mobile-lotto-winnings-guide.jpg"
 originalUrl: "https://ssangbak.com/mobile-lotto-winnings-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/mobile-lotto-winnings-guide.jpg)
+![](/wp-content/uploads/2026/02/mobile-lotto-winnings-guide.jpg)
 
 2026년 2월 9일부터 본격적으로 시행되는 **모바일 로또 구매** 서비스 덕분에 이제 스마트폰 하나로 행운을 잡는 시대가 열렸습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/mobile-lotto-winnings-guide/"
 [👉 동행복권 구매하기](https://www.dhlottery.co.kr/)
 
 [👉 동행복권 어플 설치하기](https://ssangbak.com/lottery-mobile-purchase/)
-
-목차
-
-[Toggle](#)
-
 ## 📊 당첨 등수별 수령 장소 및 방법
 
 모바일(또는 인터넷)로 구매한 복권은 당첨 금액에 따라 수령 절차가 명확히 구분됩니다.

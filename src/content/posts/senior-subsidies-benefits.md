@@ -7,11 +7,11 @@ permalink: "/senior-subsidies-benefits/"
 slugPath: "senior-subsidies-benefits"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/senior-subsidies-benefits.jpg"
+heroImage: "/wp-content/uploads/2026/02/senior-subsidies-benefits.jpg"
 originalUrl: "https://ssangbak.com/senior-subsidies-benefits/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/senior-subsidies-benefits-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/senior-subsidies-benefits-1024x1024.jpg)
 
 65세라는 나이는 단순히 숫자가 아니라 **국가가 준비한 수많은 현금성 지원과 할인**이 시작되는 생애 최고의 혜택 구간입니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/senior-subsidies-benefits/"
 [👉 65세 이상 교통카드 발급방법](https://ssangbak.com/senior-transportation-card-guide/)
 
 [👉65세이상 지원금 신청](https://www.bokjiro.go.kr/ssis-tbu/index.do)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 현금 지원금

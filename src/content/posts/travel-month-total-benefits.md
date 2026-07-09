@@ -7,7 +7,7 @@ permalink: "/travel-month-total-benefits/"
 slugPath: "travel-month-total-benefits"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/travel-month-total-benefits-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/travel-month-total-benefits-1.jpg"
 originalUrl: "https://ssangbak.com/travel-month-total-benefits/"
 ---
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/travel-month-total-benefits/"
 👉여행가는 달 항공권 포인트 받기
 
 [👉 2026 숙박페스타 할인쿠폰 받기](https://ssangbak.com/korea-accommodation-festa/)
-
-목차
-
-[Toggle](#)
-
 ## 🚂 2026 여행가는 달 철도 할인 혜택
 
 이번 시즌 **철도할인**은 인구감소지역 방문객과 테마 열차 이용객에게 엄청난 혜택을 제공합니다.

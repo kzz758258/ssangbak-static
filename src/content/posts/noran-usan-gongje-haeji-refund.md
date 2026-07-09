@@ -7,7 +7,7 @@ permalink: "/noran-usan-gongje-haeji-refund/"
 slugPath: "noran-usan-gongje-haeji-refund"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/noran-usan-gongje-haeji-refund-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/noran-usan-gongje-haeji-refund-1.jpg"
 originalUrl: "https://ssangbak.com/noran-usan-gongje-haeji-refund/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/noran-usan-gongje-haeji-refund/"
 본 포스팅에서는 손해를 최소화하는 **노란우산공제 해지** 방법과 해약환급금 계산 시 주의해야 할 불이익을 상세히 정리해 드립니다.
 
 [👉 노란우산공제 해지하기](https://www.8899.or.kr/yuma/index.do?gad_source=1&gad_campaignid=23534121560&gbraid=0AAAAA9pJIlILvogpr8Da-gjyLmLnBSEZB&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEHh1-fO_OlloQK_wn1IOGmXYtTudD8TXIzgEyNZhR-_w0PfUBhtgKYaAn0nEALw_wcB)
-
-목차
-
-[Toggle](#)
-
 ## 📌 해지 전 불이익 체크리스트
 
 가장 먼저 확인해야 할 점은 본인이 신청하려는 해지의 종류가 무엇인지 파악하는 것입니다.

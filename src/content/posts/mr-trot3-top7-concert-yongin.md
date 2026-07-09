@@ -7,18 +7,13 @@ permalink: "/mr-trot3-top7-concert-yongin/"
 slugPath: "mr-trot3-top7-concert-yongin"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/20251124_174743.jpg"
+heroImage: "/wp-content/uploads/2025/11/20251124_174743.jpg"
 originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-yongin/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251124_174743-2.jpg)
+![](/wp-content/uploads/2025/11/20251124_174743-2.jpg)
 
 미스터트롯3 TOP7의 열기를 현장에서 직접 느끼고 싶은 팬들을 위해, **용인 포은아트홀 공연 예매 일정·가격·예매방법·티켓배송·현장수령 안내까지 최신 정보를 바탕으로모두 한 번에 정리**해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🎫 공연 기본 정보
 
 -   **공연명** : 미스터트롯3 TOP7 콘서트
@@ -33,7 +28,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-yongin/"
 -   **R석** : 143,000원
 -   **S석** : 121,000원
 
-![미스터트롯3 용인 콘서트 좌석 배치도](https://ssangbak.com/wp-content/uploads/2025/11/20251124_174802-1.jpg)
+![미스터트롯3 용인 콘서트 좌석 배치도](/wp-content/uploads/2025/11/20251124_174802-1.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 
@@ -119,7 +114,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-yongin/"
 -   주차 : 공연장 내 유료 주차(혼잡 예상 → 대중교통 권장)
 -   지하철/버스 정보는 공연장 공지사항 참고
 
-![미스터트롯3 용인 콘서트 오시는 길](https://ssangbak.com/wp-content/uploads/2025/11/20251124_174821-1.jpg)
+![미스터트롯3 용인 콘서트 오시는 길](/wp-content/uploads/2025/11/20251124_174821-1.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 

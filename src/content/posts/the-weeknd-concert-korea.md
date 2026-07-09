@@ -7,11 +7,11 @@ permalink: "/the-weeknd-concert-korea/"
 slugPath: "the-weeknd-concert-korea"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/image.png"
+heroImage: "/wp-content/uploads/2026/05/image.png"
 originalUrl: "https://ssangbak.com/the-weeknd-concert-korea/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/05/image.png)
+![](/wp-content/uploads/2026/05/image.png)
 
 역대급 스케일을 자랑하는 위켄드(The Weeknd)가 드디어 현대카드 슈퍼콘서트로 우리 곁을 찾아옵니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/the-weeknd-concert-korea/"
 [👉 위켄드 콘서트 선예매](https://tickets.interpark.com/contents/notice/detail/13790)
 
 [👉 위켄드 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13790)
-
-목차
-
-[Toggle](#)
-
 ## 📅 **위켄드 내한** **공연 및 일정 정보**
 
 **항목**

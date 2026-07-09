@@ -7,7 +7,7 @@ permalink: "/student-loan-early-repayment-guide/"
 slugPath: "student-loan-early-repayment-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/student-loan-early-repayment-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/student-loan-early-repayment-guide.jpg"
 originalUrl: "https://ssangbak.com/student-loan-early-repayment-guide/"
 ---
 
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/student-loan-early-repayment-guide/"
 [👉 학자금대출 취업후 상환 바로가기](https://www.icl.go.kr/websquare/websquare.jsp?w2xPath=/xml/index.xml)
 
 [👉 학자금대출 이자지원 신청하기](https://ssangbak.com/seoul-student-loan-interest-2026-guide/)
-
-목차
-
-[Toggle](#)
-
 ## 💡학자금대출 중도상환 방법
 
 가장 대중적인 **방법**은 한국장학재단 홈페이지나 모바일 앱을 이용하는 것입니다.

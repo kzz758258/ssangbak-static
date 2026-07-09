@@ -7,7 +7,7 @@ permalink: "/monsoon-period-forecast/"
 slugPath: "monsoon-period-forecast"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/monsoon-period-forecast.jpg"
+heroImage: "/wp-content/uploads/2026/05/monsoon-period-forecast.jpg"
 originalUrl: "https://ssangbak.com/monsoon-period-forecast/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/monsoon-period-forecast/"
 이번에 발표된 **2026 장마기간** 기상청 전망 자료를 상세히 살펴보면 평년보다 매우 복잡하고 변동성이 큰 양상을 보이고 있습니다.
 
 [👉 지역별 장마시기 조회](https://data.kma.go.kr/climate/rainySeason/selectRainySeasonList.do)
-
-목차
-
-[Toggle](#)
-
 ## 🌦️ 기상청 장마 전망 분석
 
 올해 여름철 기후 전망은 북태평양 고기압의 확장 패턴과 지구 온난화의 여파로 인해 예측이 매우 까다로워졌습니다.

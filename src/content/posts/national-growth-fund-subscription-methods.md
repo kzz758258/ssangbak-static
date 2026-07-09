@@ -7,18 +7,13 @@ permalink: "/national-growth-fund-subscription-methods/"
 slugPath: "national-growth-fund-subscription-methods"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/https___ssangbak.com_national-growth-fund-subscription-methods_.png"
+heroImage: "/wp-content/uploads/2026/05/https___ssangbak.com_national-growth-fund-subscription-methods_.png"
 originalUrl: "https://ssangbak.com/national-growth-fund-subscription-methods/"
 ---
 
 국민참여형 국민성장펀드 가입 안내
 
 🇰🇷 정책펀드 · 2026 출시
-
-목차
-
-[Toggle](#)
-
 # 국민참여형  
 국민성장펀드 가입 안내
 

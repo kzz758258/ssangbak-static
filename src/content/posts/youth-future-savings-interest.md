@@ -7,7 +7,7 @@ permalink: "/youth-future-savings-interest/"
 slugPath: "youth-future-savings-interest"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/youth-future-savings-interest.jpg"
+heroImage: "/wp-content/uploads/2026/06/youth-future-savings-interest.jpg"
 originalUrl: "https://ssangbak.com/youth-future-savings-interest/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/youth-future-savings-interest/"
 [👉 청년미래적금 신청하기](https://ssangbak.com/youth-future-savings-bank/)
 
 [👉 금리/수수료 비교하기](https://portal.kfb.or.kr/main/main.php)
-
-목차
-
-[Toggle](#)
-
 ## 💰 2026 청년미래적금 이자 구조 및 실질 수익률
 
 청년미래적금은 기본적으로 만기 3년 동안 월 최대 50만 원까지 납입할 수 있는 고정금리형 정책 금융 상품입니다.

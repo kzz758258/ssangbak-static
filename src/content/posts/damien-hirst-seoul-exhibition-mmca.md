@@ -7,11 +7,11 @@ permalink: "/damien-hirst-seoul-exhibition-mmca/"
 slugPath: "damien-hirst-seoul-exhibition-mmca"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/damien-hirst-seoul-exhibition-mmca.jpg"
+heroImage: "/wp-content/uploads/2026/02/damien-hirst-seoul-exhibition-mmca.jpg"
 originalUrl: "https://ssangbak.com/damien-hirst-seoul-exhibition-mmca/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/damien-hirst-seoul-exhibition-mmca.jpg)
+![](/wp-content/uploads/2026/02/damien-hirst-seoul-exhibition-mmca.jpg)
 
 현대 미술의 거장, **데이미언 허스트 전시**가 2026년 국립현대미술관 서울에서 ‘진실은 없어 그러나 모든 것은 가능하지’라는 타이틀로 개최됩니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/damien-hirst-seoul-exhibition-mmca/"
 예술적 충격과 철학적 사유를 동시에 선사할 이번 전시의 정확한 **일정**과 **예매 정보**를 지금 바로 확인해 보세요.
 
 [👉 데이미언 허스트 전시 예매하기](https://www.ticketlink.co.kr/product/61601?n_media=27758&n_query=%EB%8D%B0%EC%9D%B4%EB%AF%B8%EC%96%B8%ED%97%88%EC%8A%A4%ED%8A%B8%EC%98%88%EB%A7%A4&n_rank=1&n_ad_group=grp-a001-01-000000062892248&n_ad=nad-a001-01-000000479185095&n_campaign_type=1&n_ad_group_type=1&n_match=2&NaPm=ct%3Dmm33cjun%7Cci%3DER9c5080ff%2D12dd%2D11f1%2Da8d3%2Daa58ee3fd7e7%7Ctr%3Dsa%7Chk%3Dfeac79bc6c3a9d20488a1e33ca5b9800c54e562d%7Cnacn%3D11EZB8wJA6dE)
-
-목차
-
-[Toggle](#)
-
 ## 🗓️ 데이미언 허스트 전시 일정 및 장소
 
 이번 **데이미언 허스트 전시**는 국립현대미술관 서울의 여러 전시실을 아우르는 대규모 전시로 진행됩니다.
@@ -60,7 +55,7 @@ originalUrl: "https://ssangbak.com/damien-hirst-seoul-exhibition-mmca/"
 
 ## 🕔 미술관 운영 시간 및 무료 관람 팁
 
-![데이미언 허스트 전시](https://ssangbak.com/wp-content/uploads/2026/02/image-76.png)
+![데이미언 허스트 전시](/wp-content/uploads/2026/02/image-76.png)
 
 전시 관람 계획을 세울 때 운영 시간과 무료 관람 기회를 미리 파악해 두면 더욱 알찬 하루를 보낼 수 있습니다.
 

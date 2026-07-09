@@ -7,16 +7,11 @@ permalink: "/culture-nuri-card-lost/"
 slugPath: "culture-nuri-card-lost"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Culture-Nuri-Card-Lost.jpg"
+heroImage: "/wp-content/uploads/2026/01/Culture-Nuri-Card-Lost.jpg"
 originalUrl: "https://ssangbak.com/culture-nuri-card-lost/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Culture-Nuri-Card-Lost-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/Culture-Nuri-Card-Lost-1024x1024.jpg)
 ## 🚨 카드 분실 시 즉시 해야 할 일
 
 문화누리카드를 분실했을 때는 신속한 대응이 중요합니다.  

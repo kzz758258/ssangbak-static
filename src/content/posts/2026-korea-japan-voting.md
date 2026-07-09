@@ -7,18 +7,13 @@ permalink: "/2026-korea-japan-voting/"
 slugPath: "2026-korea-japan-voting"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-17.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-17.png"
 originalUrl: "https://ssangbak.com/2026-korea-japan-voting/"
 ---
 
 [한일가왕전 투표하기](https://www.tiktok.com/@k_trot_king)
 
 2026년 한일 양국의 자존심을 건 음악 전쟁, ‘한일가왕전’의 열기가 뜨겁습니다. 팬들의 소중한 한 표는 단순히 순위를 정하는 것을 넘어 가수들의 대중적 영향력과 화제성을 입증하는 척도가 됩니다. 이번 시간에는 누구나 3분이면 마칠 수 있는 **2026 한일가왕전 투표방법**을 단계별로 자세히 살펴보겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 2026 한일가왕전 투표 전 필수 준비물: 틱톡라이트 앱
 
 이번 투표의 가장 중요한 특징은 일반적인 투표 플랫폼이 아닌 **틱톡라이트(TikTok Lite)** 앱을 통해서만 참여가 가능하다는 점입니다. 따라서 투표 시작 전 앱 설치와 계정 생성이 선행되어야 합니다.

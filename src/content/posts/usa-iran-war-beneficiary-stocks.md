@@ -7,14 +7,9 @@ permalink: "/usa-iran-war-beneficiary-stocks/"
 slugPath: "usa-iran-war-beneficiary-stocks"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/usa-iran-war-beneficiary-stocks.jpg"
+heroImage: "/wp-content/uploads/2026/03/usa-iran-war-beneficiary-stocks.jpg"
 originalUrl: "https://ssangbak.com/usa-iran-war-beneficiary-stocks/"
 ---
-
-목차
-
-[Toggle](#)
-
 ## 🛡️ 방산주 섹터 대장주
 
 중동의 지정학적 리스크가 불거질 때마다 가장 먼저 반응하는 곳은 역시 국방 관련 섹터입니다.
@@ -87,9 +82,9 @@ S-Oil, SK이노베이션
 
 급등락이 심한 장세일수록 펀더멘털이 튼튼한 종목이 결국 하락장에서의 방어력도 좋다는 점을 명심하시길 바랍니다.
 
-![미국 수혜주](https://ssangbak.com/wp-content/uploads/2026/03/image-1.png)
+![미국 수혜주](/wp-content/uploads/2026/03/image-1.png)
 
-![이란 수혜주](https://ssangbak.com/wp-content/uploads/2026/03/image-2.png)
+![이란 수혜주](/wp-content/uploads/2026/03/image-2.png)
 
 ## 📌 미국 이란 전쟁 수혜주 FAQ
 

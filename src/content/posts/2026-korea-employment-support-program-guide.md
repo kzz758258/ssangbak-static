@@ -7,7 +7,7 @@ permalink: "/2026-korea-employment-support-program-guide/"
 slugPath: "2026-korea-employment-support-program-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/2026-korea-employment-support-program-guide.jpg"
+heroImage: "/wp-content/uploads/2026/06/2026-korea-employment-support-program-guide.jpg"
 originalUrl: "https://ssangbak.com/2026-korea-employment-support-program-guide/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/2026-korea-employment-support-program-guide/"
 본인의 소득과 재산 수준에 맞는 정확한 국민취업지원제도 조건을 파악하고 1유형과 2유형의 차이점을 알아야 탈락 없이 한 번에 승인받을 수 있습니다.
 
 [👉 국민취업지원제도 신청하기](https://www.work24.go.kr/ua/z/z/1300/selectEmssRqutIntro.do)
-
-목차
-
-[Toggle](#)
-
 ## 📊 1. 국민취업지원제도 1유형 및 2유형 자격 조건 비교
 
 국민취업지원제도는 참여자의 소득과 재산 규모에 따라 크게 두 가지 유형으로 분류되어 맞춤형 구직 서비스를 제공합니다.

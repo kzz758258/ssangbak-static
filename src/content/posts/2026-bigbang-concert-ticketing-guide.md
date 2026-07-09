@@ -7,11 +7,11 @@ permalink: "/2026-bigbang-concert-ticketing-guide/"
 slugPath: "2026-bigbang-concert-ticketing-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/2026-bigbang-concert-ticketing-guide.jpg"
+heroImage: "/wp-content/uploads/2026/06/2026-bigbang-concert-ticketing-guide.jpg"
 originalUrl: "https://ssangbak.com/2026-bigbang-concert-ticketing-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/06/2026-bigbang-concert-ticketing-guide.jpg)
+![](/wp-content/uploads/2026/06/2026-bigbang-concert-ticketing-guide.jpg)
 
 이번 공연은 전석 매진이 확실시되는 만큼 선예매 조건을 완벽하게 충족하는 것만이 좌석을 확보할 수 있는 유일한 방법입니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/2026-bigbang-concert-ticketing-guide/"
 [👉 빅뱅 콘서트 예매하기](https://play.google.com/store/apps/details?id=com.coupang.mobile.play&hl=ko)
 
 [👉 빅뱅 팬클럽 가입하기](https://play.google.com/store/apps/details?id=com.bmf.bstage.browser&hl=ko)
-
-목차
-
-[Toggle](#)
-
 ## 🎤 1. 2026 빅뱅 콘서트 일정 및 장소 안내
 
 이번 20주년 기념 공연은 대규모 야외 경기장인 고양종합운동장에서 총 3일간 성대하게 개최됩니다.

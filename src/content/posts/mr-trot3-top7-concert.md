@@ -7,7 +7,7 @@ permalink: "/mr-trot3-top7-concert/"
 slugPath: "mr-trot3-top7-concert"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/mr-trot3-top7-concert.jpg"
+heroImage: "/wp-content/uploads/2025/11/mr-trot3-top7-concert.jpg"
 originalUrl: "https://ssangbak.com/mr-trot3-top7-concert/"
 ---
 

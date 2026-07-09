@@ -7,11 +7,11 @@ permalink: "/ai-job-series-8/"
 slugPath: "ai-job-series-8"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-9-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-9-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-8/"
 ---
 
-![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-9-1.jpg](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-9-1-1024x1024.jpg)
+![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-9-1.jpg](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-9-1-1024x1024.jpg)
 
 AI 기술이 빠르게 확산되면서  
 기업들은 더 이상 “기술만 잘하는 사람”을 뽑지 않습니다.  
@@ -23,11 +23,6 @@ AI 기술이 빠르게 확산되면서
 어떤 요소에서 합격이 갈리는지를 깊이 있게 다룹니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. “문제를 제대로 정의할 줄 아는 사람”
 
 AI 시대의 경쟁력은 ‘문제 해결’보다 **문제 정의 능력**에서 갈립니다.

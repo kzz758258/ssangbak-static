@@ -7,7 +7,7 @@ permalink: "/samsung-electronics-dividend-schedule-2026/"
 slugPath: "samsung-electronics-dividend-schedule-2026"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/samsung-electronics-dividend-schedule-2026.jpg"
+heroImage: "/wp-content/uploads/2026/06/samsung-electronics-dividend-schedule-2026.jpg"
 originalUrl: "https://ssangbak.com/samsung-electronics-dividend-schedule-2026/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/samsung-electronics-dividend-schedule-2026/"
 지급을 놓치지 않기 위해 꼭 알아야 할 2026년도 분기별 주식 매수 마감일과 은행 계좌 입금일까지 핵심 일정 정보만 직관적으로 정리해 드립니다.
 
 [👉 삼성전자 배당 조회 바로가기](https://dividend.samsung.com/)
-
-목차
-
-[Toggle](#)
-
 ## 📅 2026년 삼성전자 분기별 배당금 핵심 일정 안내
 
 삼성전자의 배당 투자를 성공적으로 마치려면 배당기준일 당일이 아닌, 주식 시장의 결제 시스템을 감안한 실제 ‘매수 마감일’을 기준으로 거래를 끝내야 합니다.

@@ -7,21 +7,16 @@ permalink: "/ai-job-series-2/"
 slugPath: "ai-job-series-2"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-3-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-3-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-2/"
 ---
 
-![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-3-1.jpg](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-3-1-1024x1024.jpg)
+![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-3-1.jpg](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-3-1-1024x1024.jpg)
 
 AI 기술의 발전은 모든 산업에 영향을 주고 있지만, 특히 **반복·규칙 기반 업무**가 중심인 직업들은 가장 먼저 변화의 직격탄을 맞고 있습니다.  
 이번 2편에서는 **AI가 빠르게 대체하고 있는 직업 10가지**를 실제 산업 흐름과 함께 분석해, 앞으로 어떤 준비가 필요한지 방향을 제시합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 1\. 사무보조·데이터 입력원
 
 **대체 위험도: ★★★★★ (최고 위험)**  

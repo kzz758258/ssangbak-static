@@ -7,11 +7,11 @@ permalink: "/lottery-mobile-purchase/"
 slugPath: "lottery-mobile-purchase"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/lottery-mobile-purchase.jpg"
+heroImage: "/wp-content/uploads/2026/02/lottery-mobile-purchase.jpg"
 originalUrl: "https://ssangbak.com/lottery-mobile-purchase/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/lottery-mobile-purchase.jpg)
+![](/wp-content/uploads/2026/02/lottery-mobile-purchase.jpg)
 
 **동행복권 어플 설치 인터넷 구매 방법**을 미리 익혀두면 눈이 오나 비가 오나 판매점을 찾을 필요 없이 집에서 편안하게 **행운의 주인공**이 될 수 있습니다.
 
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/lottery-mobile-purchase/"
 [👉 복똑방 앱스토어 설치하기](https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563)
 
 [👉 동행복권 당첨금 수령방법](https://ssangbak.com/mobile-lotto-winnings-guide/)
-
-목차
-
-[Toggle](#)
-
 ## 📱 동행복권 어플 설치 가이드
 
 **동행복권 앱**은 구글 플레이스토어나 애플 앱스토어에서 검색하여 누구나 무료로 설치할 수 있습니다.

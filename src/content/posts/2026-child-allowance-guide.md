@@ -7,18 +7,13 @@ permalink: "/2026-child-allowance-guide/"
 slugPath: "2026-child-allowance-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-13.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-13.png"
 originalUrl: "https://ssangbak.com/2026-child-allowance-guide/"
 ---
 
 [자녀장려금 신청하기](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=238977&mi=40397)
 
 2026년 자녀장려금 신청 시즌이 다가오고 있습니다. **부부 합산 소득 기준이 7,000만 원으로 상향**되면서 더 많은 가구가 혜택을 받을 수 있게 되었는데요. 아이 1인당 최대 100만 원을 받을 수 있는 이번 기회를 놓치지 않도록 신청 대상부터 방법까지 핵심 내용을 알기 쉽게 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 1\. 2026 자녀장려금이란?
 
 **2026 자녀장려금**은 저소득 가구의 양육 부담을 덜어주기 위해 국가에서 지원하는 제도입니다. 18세 미만의 부양 자녀가 있는 경우 지급되며, 소득 요건만 충족한다면 자녀 1인당 **최소 50만 원에서 최대 100만 원**까지 지원받을 수 있습니다.

@@ -7,16 +7,11 @@ permalink: "/gyeongnam-pension-guide/"
 slugPath: "gyeongnam-pension-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-21.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-21.png"
 originalUrl: "https://ssangbak.com/gyeongnam-pension-guide/"
 ---
 
 [경남도민연금 신청하기](https://xn--289aoyu1d8seu1n24o.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 경남도민연금 신청, 의욕보다 ‘순서’가 중요한 이유
 
 노후 준비를 위한 파격적인 혜택으로 주목받고 있는 **경남도민연금 신청** 소식에 많은 분이 서둘러 은행 앱부터 실행하고 계십니다. 하지만 전문가들은 입을 모아 경고합니다. **“절대로 IRP 계좌부터 먼저 개설하지 마세요!”**

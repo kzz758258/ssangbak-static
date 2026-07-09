@@ -7,11 +7,11 @@ permalink: "/climate-accompanying-card-missing/"
 slugPath: "climate-accompanying-card-missing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-7.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-005-7.jpg"
 originalUrl: "https://ssangbak.com/climate-accompanying-card-missing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-7-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-005-7-1024x1024.jpg)
 
 기후동행카드는 서울 대중교통을 정액제로 이용할 수 있는 최고의 교통 패스지만, 매일 쓰는 카드이다 보니 **분실·도난 사고**가 종종 발생합니다.  
   
@@ -33,11 +33,6 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-missing/"
 
 [전체 가이드 보기 →](https://ssangbak.com/climate-accompanying-card-all-things/
 )
-
-목차
-
-[Toggle](#)
-
 ## 🚨 **카드 분실 시 해야 할 첫 조치**
 
 기후동행카드 분실 시 가장 먼저 해야 할 일은 **카드 사용 중지**입니다.  
@@ -76,7 +71,7 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-missing/"
 
 ## 📝 **기후동행카드 분실 환불 신청 절차**
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/image-3.png)
+![](/wp-content/uploads/2025/12/image-3.png)
 
 ### **① 모바일 티머니 앱 접속**
 
@@ -133,7 +128,7 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-missing/"
 -   3월 20일 카드 발견 후 ‘재사용 등록’  
     → **4월 2일 이후 재사용 가능**
 
-![기후동행카드 환불 신청 후 카드 발견](https://ssangbak.com/wp-content/uploads/2025/12/image-4-1024x121.png)
+![기후동행카드 환불 신청 후 카드 발견](/wp-content/uploads/2025/12/image-4-1024x121.png)
 
 ## 🆕 **새카드 재발급 후 등록 방법**
 

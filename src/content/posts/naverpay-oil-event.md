@@ -7,7 +7,7 @@ permalink: "/naverpay-oil-event/"
 slugPath: "naverpay-oil-event"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/naverpay-oil-event.jpg"
+heroImage: "/wp-content/uploads/2026/05/naverpay-oil-event.jpg"
 originalUrl: "https://ssangbak.com/naverpay-oil-event/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/naverpay-oil-event/"
 지갑 사정이 가벼워지는 시기에 이런 고효율 정보는 놓치면 무조건 손해라고 생각합니다.
 
 [👉 네이버페이 주유이벤트 참여](https://campaign.nbilly.pay.naver.com/oilpromotion_2605)
-
-목차
-
-[Toggle](#)
-
 ## 🚗 이벤트 참여 절차
 
 네이버페이 앱을 열고 이벤트 페이지에 접속하는 것이 첫 단추입니다.

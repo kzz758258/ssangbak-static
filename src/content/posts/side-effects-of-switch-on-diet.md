@@ -7,11 +7,11 @@ permalink: "/side-effects-of-switch-on-diet/"
 slugPath: "side-effects-of-switch-on-diet"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Side-effects-of-switch-on-diet.jpg"
+heroImage: "/wp-content/uploads/2026/01/Side-effects-of-switch-on-diet.jpg"
 originalUrl: "https://ssangbak.com/side-effects-of-switch-on-diet/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Side-effects-of-switch-on-diet-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Side-effects-of-switch-on-diet-1024x1024.jpg)
 
 “다이어트 시작하고 머리가 너무 아파요”,  
 “어지럽고 힘이 하나도 없어요”
@@ -235,11 +235,6 @@ originalUrl: "https://ssangbak.com/side-effects-of-switch-on-diet/"
 심각도
 
 ⭐ ⭐
-
-목차
-
-[Toggle](#)
-
 ## 📅 1주차 부작용 (도입기)
 
 ### 🤕 케토플루 (Keto Flu)

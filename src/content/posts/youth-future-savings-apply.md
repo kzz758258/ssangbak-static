@@ -7,22 +7,17 @@ permalink: "/youth-future-savings-apply/"
 slugPath: "youth-future-savings-apply"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/youth-future-savings-apply.jpg"
+heroImage: "/wp-content/uploads/2026/02/youth-future-savings-apply.jpg"
 originalUrl: "https://ssangbak.com/youth-future-savings-apply/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/youth-future-savings-apply.jpg)
+![](/wp-content/uploads/2026/02/youth-future-savings-apply.jpg)
 
 **청년미래적금 신청기간**을 미리 파악하는 것만으로도 여러분은 3년 뒤 약 **2,200만 원**이라는 압도적인 목돈을 가장 빠르게 손에 쥘 수 있습니다.
 
 기존 5년 만기가 길어 중도 해지를 고민했던 분들에게 이번 **3년 만기** 상품은 중도 포기 없이 자산을 불릴 최고의 기회가 될 것입니다.
 
 정부가 지원하는 **12% 기여금**과 비과세 혜택을 놓치지 않고 챙길 수 있도록 핵심 정보만 정밀하게 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 📌 청년미래적금 핵심 요약
 
 **항목**

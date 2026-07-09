@@ -7,16 +7,11 @@ permalink: "/expected-key-calculation/"
 slugPath: "expected-key-calculation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-28.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-28.png"
 originalUrl: "https://ssangbak.com/expected-key-calculation/"
 ---
 
 [예상키 계산기 바로가기](https://ssangbak.com/estimated-height-calculator/)
-
-목차
-
-[Toggle](#)
-
 ## 우리 아이 성장의 모든 것: 표준치와 미래의 키 확인하기
 
 부모라면 누구나 우리 아이가 또래 사이에서 어느 정도 위치에 있는지, 그리고 성인이 되었을 때 최종적으로 얼마나 클지 궁금해하기 마련입니다. 아이의 성장은 단순히 유전뿐만 아니라 영양, 수면, 운동 등 다양한 요소가 결합된 결과물입니다. 오늘은 많은 분이 궁금해하시는 **예상키계산법**부터 시기별 표준 키 정보까지 상세히 정리해 보겠습니다.

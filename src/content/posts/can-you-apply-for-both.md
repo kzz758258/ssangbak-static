@@ -7,7 +7,7 @@ permalink: "/can-you-apply-for-both/"
 slugPath: "can-you-apply-for-both"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-13.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-13.png"
 originalUrl: "https://ssangbak.com/can-you-apply-for-both/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/can-you-apply-for-both/"
 [자녀장려금 신청하기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&menuCd=index3)
 
 경제적인 어려움을 겪고 있는 저소득 가구에게 가장 큰 힘이 되는 정책 중 하나는 단연 장려금 제도입니다. 특히 많은 분이 궁금해하시는 **근로장려금 자녀장려금 중복신청**은 요건만 충족한다면 두 가지 혜택을 모두 받을 수 있어 가계 소득 보전에 매우 효과적입니다. 이번 글에서는 개편된 소득 기준부터 재산 요건, 그리고 놓치기 쉬운 신청 방법까지 상세하게 정리해 보겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 근로장려금과 자녀장려금, 동시 수령이 가능한가요?
 
 많은 분이 두 제도 중 하나만 선택해야 한다고 생각하시지만, 실제로는 **근로장려금과 자녀장려금을 동시에 신청하고 수령하는 것이 가능**합니다. 근로장려금은 저소득 근로자의 근로 의욕을 높이기 위한 제도이며, 자녀장려금은 자녀 양육의 경제적 부담을 덜어주기 위한 제도이므로 각 목적에 부합하는 요건을 모두 갖추었다면 중복 수혜의 대상이 됩니다.

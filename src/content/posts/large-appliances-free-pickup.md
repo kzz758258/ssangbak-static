@@ -7,11 +7,11 @@ permalink: "/large-appliances-free-pickup/"
 slugPath: "large-appliances-free-pickup"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/large-appliances-free-pickup.jpg"
+heroImage: "/wp-content/uploads/2026/02/large-appliances-free-pickup.jpg"
 originalUrl: "https://ssangbak.com/large-appliances-free-pickup/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/large-appliances-free-pickup-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/large-appliances-free-pickup-1024x1024.jpg)
 
 이제 무거운 냉장고를 밖으로 옮길 걱정은 접어두셔도 좋습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/large-appliances-free-pickup/"
 복잡한 절차 없이 클릭 몇 번으로 집 안까지 찾아오는 **전문 인력의 무상 서비스**를 통해 쾌적한 주거 공간을 만드실 수 있습니다.
 
 [👉 대형가전 무상수거 신청](https://15990903.or.kr/portal/main/main.do)
-
-목차
-
-[Toggle](#)
-
 ## 📌 핵심 정보 30초 요약
 
 정부가 운영하는 **폐가전 무상 방문수거 서비스**는 별도의 수수료 없이 가전제품을 수거해가는 공공 서비스입니다.

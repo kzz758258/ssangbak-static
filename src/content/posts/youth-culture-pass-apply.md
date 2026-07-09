@@ -7,11 +7,11 @@ permalink: "/youth-culture-pass-apply/"
 slugPath: "youth-culture-pass-apply"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/youth-culture-pass-apply-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/youth-culture-pass-apply-1.jpg"
 originalUrl: "https://ssangbak.com/youth-culture-pass-apply/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/youth-culture-pass-apply-1.jpg)
+![](/wp-content/uploads/2026/02/youth-culture-pass-apply-1.jpg)
 
 스무 살을 맞이한 당신의 일상에 최대 **20만 원**의 문화 선물을 선사합니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/youth-culture-pass-apply/"
 [👉 청년문화예술패스 신청하기](https://youthculturepass.or.kr/kr/subPage.do?menuSn=204972)
 
 [👉 청년문화예술패스 사용처](https://youthculturepass.or.kr/kr/fstvlList.do?fstvlOnlnCd=T100&menuSn=204975)
-
-목차
-
-[Toggle](#)
-
 ## 🎫 2026년 지원 대상 및 상세 자격
 
 올해 **청년문화예술패스 신청** 자격은 19세와 20세를 아우르는 **2006년~2007년생** 청년들로 대폭 확대되었습니다.
@@ -61,7 +56,7 @@ originalUrl: "https://ssangbak.com/youth-culture-pass-apply/"
 
 ## ⏰ 신청 기간 및 주의사항
 
-![청년문화예술패스 지원금액](https://ssangbak.com/wp-content/uploads/2026/02/image-27.png)
+![청년문화예술패스 지원금액](/wp-content/uploads/2026/02/image-27.png)
 
 2026년 **청년문화예술패스 기간**은 2월 25일부터 시작되며, 지역별 예산이 소진될 경우 조기에 마감됩니다.
 
@@ -101,7 +96,7 @@ originalUrl: "https://ssangbak.com/youth-culture-pass-apply/"
 
 ## 🗂️ 청년문화예술패스 사용방법
 
-![청년문화예술패스 사용방법](https://ssangbak.com/wp-content/uploads/2026/02/image-28.png)
+![청년문화예술패스 사용방법](/wp-content/uploads/2026/02/image-28.png)
 
 협력예매처에서 공연 · 전시 · 영화 관람권 온라인 예매 시 사용할 수 있습니다.
 

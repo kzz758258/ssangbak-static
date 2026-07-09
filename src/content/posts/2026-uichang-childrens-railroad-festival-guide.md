@@ -7,7 +7,7 @@ permalink: "/2026-uichang-childrens-railroad-festival-guide/"
 slugPath: "2026-uichang-childrens-railroad-festival-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-1.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-1.png"
 originalUrl: "https://ssangbak.com/2026-uichang-childrens-railroad-festival-guide/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/2026-uichang-childrens-railroad-festival-guid
 [셔틀버스 시간표 확인하기](https://www.uwtrain.kr/2026/html/?p=0105)
 
 가정의 달 5월, 사랑하는 아이들에게 평생 잊지 못할 특별한 하루를 선물하고 싶으신가요? 국내 유일의 철도 특화 도시, 의왕시에서 펼쳐지는 **2026 의왕어린이철도축제**가 여러분을 기다립니다. 푸른 왕송호수공원을 배경으로 기차 여행의 낭만과 화려한 축하 공연, 그리고 밤하늘을 수놓는 불꽃놀이까지 완벽한 코스가 준비되어 있습니다. 이번 포스팅에서는 축제 방문 전 반드시 알아야 할 일정, 라인업, 주차 및 셔틀버스 정보를 상세히 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 2026 의왕어린이철도축제 개요 및 일정
 
 이번 축제는 어린이날 당일인 **2026년 5월 5일(화)** 딱 하루 동안 집중적으로 진행됩니다. 장소는 의왕시의 명소인 왕송호수공원과 철도박물관 일대입니다.

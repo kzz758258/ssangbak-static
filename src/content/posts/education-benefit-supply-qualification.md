@@ -7,22 +7,17 @@ permalink: "/education-benefit-supply-qualification/"
 slugPath: "education-benefit-supply-qualification"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Education-benefit-supply-qualification.jpg"
+heroImage: "/wp-content/uploads/2026/01/Education-benefit-supply-qualification.jpg"
 originalUrl: "https://ssangbak.com/education-benefit-supply-qualification/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Education-benefit-supply-qualification-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Education-benefit-supply-qualification-1024x1024.jpg)
 
 2026년 교육급여는 기준 중위소득이 역대 최대 폭인 **6.51%(4인 가구 기준)** 인상됨에 따라 수급 자격 범위가 이전보다 넓어졌습니다.
 
 소득이 작년과 비슷하더라도 인상된 기준 덕분에 올해는 새롭게 대상에 포함될 수 있으니, 아래 자격 요건을 반드시 체크해 보시기 바랍니다.
 
 [👉 교육급여 수급 자격 확인](https://www.bokjiro.go.kr/ssis-tbu/twatbz/mkclAsis/mkclInsertEmhecsPage.do)
-
-목차
-
-[Toggle](#)
-
 ## 2026년 교육급여 수급 자격 기준
 
 교육급여는 가구의 ‘소득인정액’\*\*이 기준 중위소득의 **50% 이하**인 경우 지원받을 수 있습니다.

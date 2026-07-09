@@ -7,7 +7,7 @@ permalink: "/youth-future-savings-bank/"
 slugPath: "youth-future-savings-bank"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/Youth-Future-Savings-Bank.jpg"
+heroImage: "/wp-content/uploads/2026/06/Youth-Future-Savings-Bank.jpg"
 originalUrl: "https://ssangbak.com/youth-future-savings-bank/"
 ---
 

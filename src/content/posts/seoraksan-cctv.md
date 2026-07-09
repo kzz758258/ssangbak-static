@@ -7,18 +7,13 @@ permalink: "/seoraksan-cctv/"
 slugPath: "seoraksan-cctv"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-42.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-42.png"
 originalUrl: "https://ssangbak.com/seoraksan-cctv/"
 ---
 
 [👉 설악산 실시간 CCTV 보기](https://www.knps.or.kr/portal/main/contents.do?menuNo=8000168)
 
 2026년 5월 26일, 푸른 녹음이 짙어가는 설악산으로 산행을 계획하고 계신가요? 설악산은 그 웅장한 자태만큼이나 기상 변화가 매우 심해, 숙련된 산악인조차 철저한 준비 없이는 곤란을 겪기 쉬운 곳입니다. 산행의 성공 여부는 당일의 정확한 현장 정보를 얼마나 잘 파악하느냐에 달려 있습니다. **설악산 CCTV**를 통해 실시간 기상 상태와 탐방로 상황을 미리 체크하면, 예상치 못한 입산 통제나 기상 악화로부터 안전을 지키고 더욱 즐거운 산행을 즐길 수 있습니다.
-
-목차
-
-[Toggle](#)
-
 ## 설악산 CCTV 실시간 중계 확인 및 접속 방법
 
 설악산의 현재 모습을 가장 정확하게 확인하는 방법은 **국립공원공단 공식 홈페이지**나 **가상공원 시스템**을 활용하는 것입니다. 홈페이지에 접속하여 설악산 국립공원 섹션을 선택하면 누구나 쉽게 실시간 영상을 시청할 수 있습니다.

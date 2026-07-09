@@ -7,7 +7,7 @@ permalink: "/exchange-fee-saving-card/"
 slugPath: "exchange-fee-saving-card"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/temp_1776149314.png"
+heroImage: "/wp-content/uploads/2026/04/temp_1776149314.png"
 originalUrl: "https://ssangbak.com/exchange-fee-saving-card/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/exchange-fee-saving-card/"
 2026년 해외여행을 계획 중이라면 가장 먼저 챙겨야 할 것은 무엇일까요? 바로 **해외여행 환전 수수료 아끼는 체크카드 신청 및 발급 절차**를 미리 숙지하는 것입니다. 이제는 비싼 환전 수수료 대신 100% 우대 혜택을 제공하는 트래블 카드가 여행의 필수 준비물로 자리 잡았습니다.
 
 여행 경비를 획기적으로 줄여줄 나만의 맞춤형 카드를 지금 바로 확인하고 신청해 보세요!
-
-목차
-
-[Toggle](#)
-
 ## 2026년 해외여행 필수템, 트래블 체크카드가 인기 있는 이유
 
 최근 해외여행 트렌드는 ‘현금 없는 여행’입니다. 과거처럼 은행에서 비싼 수수료를 내고 외화를 현찰로 바꿀 필요가 없어졌기 때문인데요.
@@ -56,7 +51,7 @@ originalUrl: "https://ssangbak.com/exchange-fee-saving-card/"
 
 ### 3\. 모바일 카드 및 실물 카드 신청
 
-![섹션 1 이미지](https://ssangbak.com/wp-content/uploads/2026/04/temp_1776149314.png)
+![섹션 1 이미지](/wp-content/uploads/2026/04/temp_1776149314.png)
 
 회원가입이 완료되면 즉시 사용 가능한 모바일 카드가 발급됩니다. 하지만 해외 현지 ATM 이용이나 일부 가맹점 결제를 위해 **실물 카드 신청은 필수**입니다.
 

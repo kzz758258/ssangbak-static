@@ -7,11 +7,11 @@ permalink: "/ulsan-music-festival-lineup/"
 slugPath: "ulsan-music-festival-lineup"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/image-3.png"
+heroImage: "/wp-content/uploads/2026/05/image-3.png"
 originalUrl: "https://ssangbak.com/ulsan-music-festival-lineup/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/05/image-3.png)
+![](/wp-content/uploads/2026/05/image-3.png)
 
 울산의 여름밤을 뜨겁게 달굴 **2026 울산뮤직페스티벌 – 쇼! 음악중심** 소식에 벌써부터 많은 팬분의 심장이 뛰고 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/ulsan-music-festival-lineup/"
 가장 정확한 일정과 화려한 라인업, 그리고 현장 명당 정보까지 지금 바로 공개합니다.
 
 [👉 울산뮤직페스티벌 예매하기](https://ticket.melon.com/performance/index.htm?prodId=213207)
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 **항목**

@@ -7,16 +7,11 @@ permalink: "/2026-minimum-hourly-wage-amount-of-real-income/"
 slugPath: "2026-minimum-hourly-wage-amount-of-real-income"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-17.jpg"
+heroImage: "/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-17.jpg"
 originalUrl: "https://ssangbak.com/2026-minimum-hourly-wage-amount-of-real-income/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-17-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-17-1024x1024.jpg)
 ## 💰 2026년 최저시급 10,320원, 실제 받는 돈은?
 
 2026년 최저시급이 **10,320원**으로 확정되었습니다. 2025년 10,030원에서 290원(2.9%) 인상된 금액입니다.

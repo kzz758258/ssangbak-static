@@ -7,7 +7,7 @@ permalink: "/basic-youth-income-where-to-use-payment-date/"
 slugPath: "basic-youth-income-where-to-use-payment-date"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/gyeonggi-youth-basic-income-guide.jpg"
+heroImage: "/wp-content/uploads/2025/11/gyeonggi-youth-basic-income-guide.jpg"
 originalUrl: "https://ssangbak.com/basic-youth-income-where-to-use-payment-date/"
 ---
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/basic-youth-income-where-to-use-payment-date/
 [👉 경기도 청년기본소득 신청하기](https://apply.jobaba.net/special/gibon/bsnsInfo.do)
 
 [👉 청년기본소득 사용처 조회하기](https://ssangbak.com/gyeonggi-youth-basic-income-usage/)
-
-목차
-
-[Toggle](#)
-
 ## 💰 경기도 청년 기본 소득이란?
 
-![경기도 청년 기본소득](https://ssangbak.com/wp-content/uploads/2025/11/image-78-1024x478.png)
+![경기도 청년 기본소득](/wp-content/uploads/2025/11/image-78-1024x478.png)
 
 청년들의 사회적 기본권을 보장하고 지역 경제 활성화를 위해 경기도가 시행하는 아주 특별한 정책입니다.
 

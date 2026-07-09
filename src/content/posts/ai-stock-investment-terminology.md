@@ -7,16 +7,11 @@ permalink: "/ai-stock-investment-terminology/"
 slugPath: "ai-stock-investment-terminology"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/ai-Stock-Investment-Terminology.jpg"
+heroImage: "/wp-content/uploads/2026/01/ai-Stock-Investment-Terminology.jpg"
 originalUrl: "https://ssangbak.com/ai-stock-investment-terminology/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/ai-Stock-Investment-Terminology-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/ai-Stock-Investment-Terminology-1024x1024.jpg)
 ## 🎯 왜 AI 용어를 알아야 할까?
 
 AI 주식 투자에서 **전문 용어 이해는 선택이 아닌 필수**입니다.

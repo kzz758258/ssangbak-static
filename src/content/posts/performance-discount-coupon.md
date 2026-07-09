@@ -7,7 +7,7 @@ permalink: "/performance-discount-coupon/"
 slugPath: "performance-discount-coupon"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-37.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-37.png"
 originalUrl: "https://ssangbak.com/performance-discount-coupon/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/performance-discount-coupon/"
 [👉 문체부 공연 할인권 받기](https://ssangbak.com/performance-discount-ticket/)
 
 2026년 5월, 일상에 예술적 감성을 더해줄 반가운 소식이 찾아왔습니다. 문화체육관광부에서 주관하는 **2026 공연 할인권** 배포가 본격적으로 시작되면서 많은 분이 공연 관람 계획을 세우고 계실 텐데요. 이번 지원 사업을 통해 평소 관람하고 싶었던 무대를 훨씬 가벼운 마음으로 만날 수 있게 되었습니다. 혜택 내용부터 신청 방법, 그리고 지역별로 달라지는 추가 혜택까지 핵심적인 정보를 한눈에 이해하기 쉽게 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 2026 공연 할인권 적용 가능한 장르와 제외 대상
 
 이번 할인 혜택은 순수 공연 예술 분야의 활성화를 목적으로 하고 있습니다. 따라서 모든 공연에 적용되는 것이 아니라 특정 장르에 한정되어 있으니 예매 전 반드시 확인이 필요합니다.

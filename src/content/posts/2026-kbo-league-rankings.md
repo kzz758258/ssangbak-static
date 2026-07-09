@@ -7,7 +7,7 @@ permalink: "/2026-kbo-league-rankings/"
 slugPath: "2026-kbo-league-rankings"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/2026-kbo-league-rankings.jpg"
+heroImage: "/wp-content/uploads/2026/06/2026-kbo-league-rankings.jpg"
 originalUrl: "https://ssangbak.com/2026-kbo-league-rankings/"
 ---
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/2026-kbo-league-rankings/"
 [👉 프로야구 경기 결과 일정](https://m.sports.naver.com/kbaseball/schedule/index?date=2026-06-24)
 
 [👉 프로야구 중계 바로보기](https://ssangbak.com/kbo-league-broadcasting-rights-tving-guide/)
-
-목차
-
-[Toggle](#)
-
 ## ⚾ 1. 2026 프로야구 순위표 및 실시간 결과 확인 방법
 
 매일 경기가 끝나는 직후 반영되는 2026 프로야구 일정 순위는 공식 포털과 KBO 홈페이지를 통해 가장 정확하게 파악할 수 있습니다.

@@ -7,7 +7,7 @@ permalink: "/world-cup-round-of-16-schedule/"
 slugPath: "world-cup-round-of-16-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/07/world-cup-round-of-16-schedule.jpg"
+heroImage: "/wp-content/uploads/2026/07/world-cup-round-of-16-schedule.jpg"
 originalUrl: "https://ssangbak.com/world-cup-round-of-16-schedule/"
 ---
 
@@ -18,18 +18,13 @@ originalUrl: "https://ssangbak.com/world-cup-round-of-16-schedule/"
 축구 팬들의 원활한 관람을 위해 전 세계의 이목이 집중되는 2026 월드컵 16강 일정과 대한민국 중계 시간표, 대진표 구성 방식을 명확하게 정리해 드립니다.
 
 [👉 월드컵 전체 일정표 보기](https://m.sports.naver.com/fifaworldcup2026/schedule?date=2026-07-05)
-
-목차
-
-[Toggle](#)
-
 ## 🏢 1. 2026 북중미 월드컵 16강 전체 일정 및 경기장
 
 이번 대회는 늘어난 참가국 수로 인해 기존 대회와 달리 32강 토너먼트를 거친 후 한국 시간 기준으로 2026년 7월 5일부터 7월 8일까지 16강전이 펼쳐집니다.
 
 개최국인 미국의 동부와 서부, 그리고 멕시코와 캐나다의 시차가 모두 제각각이므로 한국 시청자들은 현지 경기 시간에 13시간에서 16시간을 더한 방송 편성표를 반드시 대조하셔야 합니다.
 
-![](https://ssangbak.com/wp-content/uploads/2026/07/image.png)
+![](/wp-content/uploads/2026/07/image.png)
 
 상기 대진표는 먼저 진행되는 32강 토너먼트 결과에 따라 각 위치에 승리 국가가 최종 배치되는 구조로 운영됩니다.
 

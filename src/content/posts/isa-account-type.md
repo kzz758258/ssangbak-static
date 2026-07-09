@@ -7,11 +7,11 @@ permalink: "/isa-account-type/"
 slugPath: "isa-account-type"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/isa-account-type.jpg"
+heroImage: "/wp-content/uploads/2025/11/isa-account-type.jpg"
 originalUrl: "https://ssangbak.com/isa-account-type/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/isa-account-type-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/isa-account-type-1024x1024.jpg)
 
 요즘 재테크를 고민하는 분들이 많이 찾는 계좌 중 하나가 바로 ISA (개인종합자산관리계좌)입니다.  
   
@@ -21,12 +21,7 @@ originalUrl: "https://ssangbak.com/isa-account-type/"
   
 ISA 계좌의 **종류, 특징, 가입대상, 혜택**, 그리고 **가입 시 체크사항**까지 모두 정리해 드립니다.
 
-![isa 계좌 개설 중인 모습](https://ssangbak.com/wp-content/uploads/2025/11/003-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![isa 계좌 개설 중인 모습](/wp-content/uploads/2025/11/003-1024x1024.jpg)
 ## ISA 계좌란 무엇인가?
 
 ISA(Individual Savings Account)는 하나의 계좌로 여러 금융상품을 담아 운용하면서 **손익통산과 세제혜택**을 누릴 수 있는 계좌입니다.  
@@ -67,7 +62,7 @@ ISA는 운용 방식 외에도 소득 수준에 따라 구분됩니다.
   
 또한 **가입유형은 계좌 개설 이후 변경이 불가능**하거나 조건 충족 여부가 확인되어야 하므로 “가입 전에 조건을 정확하게 확인”해야 합니다.
 
-![소득별 isa 계좌 유형](https://ssangbak.com/wp-content/uploads/2025/11/image-33.png)
+![소득별 isa 계좌 유형](/wp-content/uploads/2025/11/image-33.png)
 
 출처: KB 국민은행 공식 홈페이지
 

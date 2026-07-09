@@ -7,11 +7,11 @@ permalink: "/valentine-day-who-gives/"
 slugPath: "valentine-day-who-gives"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/valentine-day-who-gives-3.jpg"
+heroImage: "/wp-content/uploads/2026/02/valentine-day-who-gives-3.jpg"
 originalUrl: "https://ssangbak.com/valentine-day-who-gives/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/valentine-day-who-gives-3.jpg)
+![](/wp-content/uploads/2026/02/valentine-day-who-gives-3.jpg)
 
 발렌타인데이 누가 주나요? 이 질문에 대한 정답을 알면 소중한 사람에게 **진심 어린 감동**을 전하고 관계의 주도권을 잡는 **최고의 성과**를 거둘 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/valentine-day-who-gives/"
 [👉 페바초콜릿 만드는 법](https://blog.naver.com/todayrecipe2/224181507334)
 
 [👉 화이트데이 뜻과 유래 보기](https://ssangbak.com/whiteday-origin-meaning/)
-
-목차
-
-[Toggle](#)
-
 ## 💖 발렌타인데이 뜻과 의미
 
 발렌타인데이 뜻은 기본적으로 **순교자 성 발렌타누스**를 기리는 날에서 시작되었습니다.

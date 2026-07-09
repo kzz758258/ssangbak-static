@@ -7,11 +7,11 @@ permalink: "/mister-trot-3-incheon-concert-reservation/"
 slugPath: "mister-trot-3-incheon-concert-reservation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/mister-trot-3-incheon-concert-reservation.jpg"
+heroImage: "/wp-content/uploads/2026/02/mister-trot-3-incheon-concert-reservation.jpg"
 originalUrl: "https://ssangbak.com/mister-trot-3-incheon-concert-reservation/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/mister-trot-3-incheon-concert-reservation-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/mister-trot-3-incheon-concert-reservation-1024x1024.jpg)
 
 드디어 기다리고 기다리던 **미스터트롯3 TOP7**이 인천에 상륙하여 가슴 벅찬 감동을 선사할 예정입니다!
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/mister-trot-3-incheon-concert-reservation/"
 치열한 티켓 전쟁에서 승리하여 부모님께는 잊지 못할 효도를, 스스로에게는 깊은 울림을 선물할 수 있는 **2026년 최신 예매 전략**을 지금 바로 확인해 보세요.
 
 [👉 미스터트롯3 인천 예매](https://tickets.interpark.com/goods/25017830)
-
-목차
-
-[Toggle](#)
-
 ## ✅ 한눈에 확인하는 핵심 요약
 
 ### ✅ 공연 일정
@@ -45,7 +40,7 @@ originalUrl: "https://ssangbak.com/mister-trot-3-incheon-concert-reservation/"
 
 이번 공연은 **인천문화예술회관 대공연장**에서 개최되며, 관람객들이 최고의 컨디션으로 즐길 수 있도록 준비되었습니다.
 
-![미스터트롯3 인천 콘서트 좌석배치도](https://ssangbak.com/wp-content/uploads/2026/02/image.png)
+![미스터트롯3 인천 콘서트 좌석배치도](/wp-content/uploads/2026/02/image.png)
 
 ### 📍 공연 장소 및 관람 안내
 
@@ -105,7 +100,7 @@ originalUrl: "https://ssangbak.com/mister-trot-3-incheon-concert-reservation/"
 
 다만, 온라인에서 매진될 경우 현장 판매는 진행되지 않으니 가급적 사전 예매에 집중하시기 바랍니다.
 
-![미스터트롯3 인천 콘서트 위치](https://ssangbak.com/wp-content/uploads/2026/02/image-1.png)
+![미스터트롯3 인천 콘서트 위치](/wp-content/uploads/2026/02/image-1.png)
 
 🚀 지금 바로 성공적인 예매를 준비하세요
 

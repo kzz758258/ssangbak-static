@@ -7,7 +7,7 @@ permalink: "/telehealth-app-install/"
 slugPath: "telehealth-app-install"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-23.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-23.png"
 originalUrl: "https://ssangbak.com/telehealth-app-install/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/telehealth-app-install/"
 [비대면진료 어플 설치 (애플)](https://apps.apple.com/kr/app/%EB%8B%A5%ED%84%B0%EB%82%98%EC%9A%B0-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EC%9C%84-%EB%B9%84%EB%8C%80%EB%A9%B4%EC%A7%84%EB%A3%8C-%EC%95%B1/id1513718380)
 
 갑작스러운 통증이나 질환이 발생했을 때, 바쁜 일상 속에서 병원을 직접 방문하기란 쉬운 일이 아닙니다. 최근 이러한 불편을 해소하기 위해 **비대면진료** 서비스가 활성화되면서, 많은 분이 스마트폰을 이용해 원격 진료를 받고 있습니다. 특히 ‘초진은 불가능하다’는 선입견 때문에 망설였던 분들이라면, 오늘 정리해 드리는 예외 조건과 어플 활용 팁을 반드시 확인해 보시기 바랍니다.
-
-목차
-
-[Toggle](#)
-
 ## 1\. 비대면진료의 정의와 운영 원칙
 
 **비대면진료**란 환자가 의료기관을 직접 방문하지 않고 영상 통화나 음성 전화를 통해 의사에게 진찰받고 처방전을 발급받는 시스템을 의미합니다. 현재 국내에서는 보건복지부의 시범사업 지침에 따라 제한적인 범위 내에서 운영되고 있습니다.

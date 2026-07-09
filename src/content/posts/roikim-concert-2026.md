@@ -7,7 +7,7 @@ permalink: "/roikim-concert-2026/"
 slugPath: "roikim-concert-2026"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-6.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-6.png"
 originalUrl: "https://ssangbak.com/roikim-concert-2026/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/roikim-concert-2026/"
 [로이킴 콘서트 선예매](https://tickets.interpark.com/contents/notice/detail/13682)
 
 피켓팅(피 튀기는 티켓팅) 앞에서 매번 좌절하며 ‘포도알’ 구경도 못 하고 하얀 화면만 마주하셨나요? 이번 **2026 로이킴 콘서트** 는 로이킴만의 깊은 감성과 진솔한 대화가 어우러지는 특별한 공연인 만큼, 그 어느 때보다 경쟁이 치열할 것으로 보입니다. 이번 포스팅에서는 **2026 로이킴 콘서트 예매** 성공을 위한 선예매 인증 방법부터 블루스퀘어 명당 좌석 확보 전략까지 모든 꿀팁을 상세히 전해드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 이번 공연은 서울 한남동의 공연 메카, 블루스퀘어에서 이틀간 총 3회차로 팬들을 찾아갑니다. 로이킴과 가장 가까이서 소통할 수 있는 절호의 기회입니다.

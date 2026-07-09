@@ -7,20 +7,15 @@ permalink: "/pharmacy-holiday-check/"
 slugPath: "pharmacy-holiday-check"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/pharmacy-holiday-check.jpg"
+heroImage: "/wp-content/uploads/2026/02/pharmacy-holiday-check.jpg"
 originalUrl: "https://ssangbak.com/pharmacy-holiday-check/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/pharmacy-holiday-check.jpg)
+![](/wp-content/uploads/2026/02/pharmacy-holiday-check.jpg)
 
 휴일지킴이약국에 대한 정보를 미리 파악해 두시면 갑작스러운 명절 연휴에도 당황하지 않고 **가장 빠르게 의약품을 구매하고 비상시에 대처할 수** 있습니다.
 
 가족의 건강을 지키는 가장 확실한 예방법을 지금 바로 확인해 보세요.
-
-목차
-
-[Toggle](#)
-
 ## 💻 홈페이지 접속 방법
 
 급한 상황에서 헤매지 않도록 **공식 웹사이트**에 접속하는 것이 가장 중요합니다.

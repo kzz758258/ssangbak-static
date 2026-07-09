@@ -7,11 +7,11 @@ permalink: "/vaundy-live-in-seoul-2026-inspire-arena/"
 slugPath: "vaundy-live-in-seoul-2026-inspire-arena"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/vaundy-live-in-seoul-2026.jpg"
+heroImage: "/wp-content/uploads/2026/02/vaundy-live-in-seoul-2026.jpg"
 originalUrl: "https://ssangbak.com/vaundy-live-in-seoul-2026-inspire-arena/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/vaundy-live-in-seoul-2026.jpg)
+![](/wp-content/uploads/2026/02/vaundy-live-in-seoul-2026.jpg)
 
 일본 음악계의 천재 멀티 아티스트 **바운디(Vaundy)**가 2026년 9월, 대한민국 최고의 전문 공연장인 인스파이어 아레나에서 역대급 내한 무대를 선보입니다.
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/vaundy-live-in-seoul-2026-inspire-arena/"
 [👉 바운디 내한 공연 예매 정보](https://vaundy.jp/?lang=ko)
 
 [👉 킹 누 내한 콘서트 예매하기](https://ssangbak.com/king-gnu-concert-korea/)
-
-목차
-
-[Toggle](#)
-
 ## 🎸 **바운디 서울 공연 상세 일정**
 
-![바운디 내한 공연 일정](https://ssangbak.com/wp-content/uploads/2026/02/image-54.png)
+![바운디 내한 공연 일정](/wp-content/uploads/2026/02/image-54.png)
 
 이번 공연은 영종도에 위치한 **인스파이어 아레나**에서 양일간 진행됩니다.
 
@@ -45,7 +40,7 @@ originalUrl: "https://ssangbak.com/vaundy-live-in-seoul-2026-inspire-arena/"
 
 ## 🎟️ **인스파이어 아레나 좌석 명당 추천**
 
-![바운디 내한 공연 장소](https://ssangbak.com/wp-content/uploads/2026/02/image-55.png)
+![바운디 내한 공연 장소](/wp-content/uploads/2026/02/image-55.png)
 
 인스파이어 아레나는 모든 좌석에서 뛰어난 시야를 제공하지만, 바운디 공연의 특성을 고려한 **명당 사수 전략**이 필요합니다.
 

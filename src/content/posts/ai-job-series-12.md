@@ -7,11 +7,11 @@ permalink: "/ai-job-series-12/"
 slugPath: "ai-job-series-12"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-13.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-13.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-12/"
 ---
 
-![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-13.jpg](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-13-1024x1024.jpg)
+![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-13.jpg](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-13-1024x1024.jpg)
 
 2025년, 연봉 상승 구조는 3년 전과 완전히 달라졌습니다.  
 예전에는 “연차 + 업계 평균”이 연봉을 결정했다면,  
@@ -23,11 +23,6 @@ AI 시대에는 **생산성 격차가 극단적으로 벌어지면서 개인의 
 이번 12편에서는 **AI 시대에 실제로 연봉을 올리는 7가지 전략**을 완전히 새로운 관점에서 분석합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. 연봉을 올리는 가장 빠른 방법은 “생산성 격차”를 만드는 것이다
 
 AI 시대의 연봉은  

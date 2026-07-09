@@ -7,7 +7,7 @@ permalink: "/kbo-league-broadcasting-rights-tving-guide/"
 slugPath: "kbo-league-broadcasting-rights-tving-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/2026-kbo-league-broadcasting-rights-tving-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/2026-kbo-league-broadcasting-rights-tving-guide-1.jpg"
 originalUrl: "https://ssangbak.com/kbo-league-broadcasting-rights-tving-guide/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/kbo-league-broadcasting-rights-tving-guide/"
 [👉 2026 프로리그 중계 바로보기](https://www.tving.com/account/login?returnUrl=https%3A%2F%2Fwww.tving.com%2Fonboarding)
 
 [👉 2026 프로야구 전체 일정 확인](https://ssangbak.com/kbo-pro-baseball-opening-schedule-guide/)
-
-목차
-
-[Toggle](#)
-
 ## 📺 2026 KBO 리그 중계권 현황
 
 올해 역시 TV 중계는 기존대로 지상파 3사와 스포츠 전문 채널에서 생생한 화면으로 송출됩니다.

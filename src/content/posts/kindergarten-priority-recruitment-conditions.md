@@ -7,11 +7,11 @@ permalink: "/kindergarten-priority-recruitment-conditions/"
 slugPath: "kindergarten-priority-recruitment-conditions"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-003.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-003.jpg"
 originalUrl: "https://ssangbak.com/kindergarten-priority-recruitment-conditions/"
 ---
 
-![현재 이미지: 유치원 우선모집](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-003-1024x1024.jpg)
+![현재 이미지: 유치원 우선모집](/wp-content/uploads/2025/11/제목을-입력해주세요_-003-1024x1024.jpg)
 
 **‘유보통합’ 온라인 입학시스템**을 통한 2026학년도 유치원 입학 준비가 2025년 11월부터 본격적으로 시작됩니다.  
   
@@ -25,11 +25,6 @@ originalUrl: "https://ssangbak.com/kindergarten-priority-recruitment-conditions/
 -   **쌍생아(쌍둥이) 추첨 규정**
 
 을 한눈에 보기 쉽게 정리해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🗓️ 1. 2026학년도 유치원 입학 일정 요약
 
 구분
@@ -147,7 +142,7 @@ originalUrl: "https://ssangbak.com/kindergarten-priority-recruitment-conditions/
   
 단, 이미 다른 유치원에서 당첨 후 등록한 경우 자동 제외됩니다.
 
-![유치원 우선모집 추첨방법](https://ssangbak.com/wp-content/uploads/2025/11/image-42.png)
+![유치원 우선모집 추첨방법](/wp-content/uploads/2025/11/image-42.png)
 
 ## 📄 6. 일반모집 추첨 방식 (중복선발 제한)
 
@@ -168,7 +163,7 @@ originalUrl: "https://ssangbak.com/kindergarten-priority-recruitment-conditions/
 -   1지망 합격 → 2·3지망 자동 제외
 -   1·2지망 낙첨 → 3지망 자동 참여
 
-![유치원 일반모집 추첨방법](https://ssangbak.com/wp-content/uploads/2025/11/image-43.png)
+![유치원 일반모집 추첨방법](/wp-content/uploads/2025/11/image-43.png)
 
 ## ⚙️ 7. 접수 시 알아야 할 핵심 유의사항
 

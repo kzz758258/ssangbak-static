@@ -7,7 +7,7 @@ permalink: "/wbc-schedule-bracket-broadcast/"
 slugPath: "wbc-schedule-bracket-broadcast"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/wbc-schedule-bracket-broadcast-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/wbc-schedule-bracket-broadcast-1.jpg"
 originalUrl: "https://ssangbak.com/wbc-schedule-bracket-broadcast/"
 ---
 
@@ -18,14 +18,9 @@ originalUrl: "https://ssangbak.com/wbc-schedule-bracket-broadcast/"
 [👉 2026 WBC 중계 TVING](https://www.tving.com/account/login?returnUrl=https%3A%2F%2Fwww.tving.com%2Fonboarding)
 
 [👉 2026 WBC 중계 KBS](https://www.kbsn.co.kr/nsports/)
-
-목차
-
-[Toggle](#)
-
 ## ⚾ 2026 WBC 대회 개요
 
-![2026 WBC](https://ssangbak.com/wp-content/uploads/2026/02/image-66-1024x479.png)
+![2026 WBC](/wp-content/uploads/2026/02/image-66-1024x479.png)
 
 이번 대회는 일본, 푸에르토리코, 미국이 공동 개최하며 세계 최고의 야구 강국들이 모여 진검승부를 벌입니다.
 

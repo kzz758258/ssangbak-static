@@ -7,16 +7,11 @@ permalink: "/how-to-check-the-balance-of-culture-nuri-card/"
 slugPath: "how-to-check-the-balance-of-culture-nuri-card"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/How-to-check-the-balance-of-Culture-Nuri-Card.jpg"
+heroImage: "/wp-content/uploads/2026/01/How-to-check-the-balance-of-Culture-Nuri-Card.jpg"
 originalUrl: "https://ssangbak.com/how-to-check-the-balance-of-culture-nuri-card/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/How-to-check-the-balance-of-Culture-Nuri-Card-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/How-to-check-the-balance-of-Culture-Nuri-Card-1024x1024.jpg)
 ## 💵 문화누리카드 잔액조회
 
 문화누리카드 잔액조회는 현재 카드에 남아있는 정부 지원금과 본인 충전금을 확인하는 서비스입니다.  

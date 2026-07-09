@@ -7,11 +7,11 @@ permalink: "/multi-home-tax-area/"
 slugPath: "multi-home-tax-area"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/multi-home-tax-area-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/multi-home-tax-area-1.jpg"
 originalUrl: "https://ssangbak.com/multi-home-tax-area/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/multi-home-tax-area-1.jpg)
+![](/wp-content/uploads/2026/02/multi-home-tax-area-1.jpg)
 
 **다주택 양도세 중과 지역** 현황을 정확히 파악하는 것만으로도 수천만 원 이상의 불필요한 세금 지출을 막고 소중한 자산을 안전하게 지킬 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/multi-home-tax-area/"
 절세는 아는 만큼 보이며, 올바른 정보가 여러분의 수익률을 결정짓는 가장 강력한 도구가 될 것입니다.
 
 [👉 양도세 계산기 바로가기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&tmIdx=41&tm2lIdx=4104060000&tm3lIdx=4104060100)
-
-목차
-
-[Toggle](#)
-
 ## 📊 현재 중과 지역 및 혜택 요약
 
 **구분**

@@ -7,11 +7,11 @@ permalink: "/national-scholarship-missed/"
 slugPath: "national-scholarship-missed"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/national-scholarship-missed.jpg"
+heroImage: "/wp-content/uploads/2026/02/national-scholarship-missed.jpg"
 originalUrl: "https://ssangbak.com/national-scholarship-missed/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/national-scholarship-missed.jpg)
+![](/wp-content/uploads/2026/02/national-scholarship-missed.jpg)
 
 경제적 부담을 덜어주는 반가운 기회인 **2026 국가장학금 2차** 신청을 통해 안정적인 대학 생활을 시작할 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/national-scholarship-missed/"
 [👉 국가장학금 2차 신청하기](https://www.kosaf.go.kr/ko/notice.do?mode=view&seqNo=20535)
 
 [👉 학자금지원구간 확인방법](https://ssangbak.com/scholarship-support-section/)
-
-목차
-
-[Toggle](#)
-
 ## 📅 2차 신청 기간 안내
 
 구분

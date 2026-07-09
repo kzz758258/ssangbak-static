@@ -7,11 +7,11 @@ permalink: "/climate-accompanying-card-charges/"
 slugPath: "climate-accompanying-card-charges"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-6.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-005-6.jpg"
 originalUrl: "https://ssangbak.com/climate-accompanying-card-charges/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-6-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-005-6-1024x1024.jpg)
 
 서울·경기·인천 전역에서 사용할 수 있는 **기후동행카드**는 대중교통 정기권이지만, 일반 정기권과는 전혀 다른 요금 시스템을 갖고 있습니다.  
   
@@ -31,11 +31,6 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-charges/"
 
 [전체 가이드 보기 →](https://ssangbak.com/climate-accompanying-card-all-things/
 )
-
-목차
-
-[Toggle](#)
-
 ## 🚇 **30일권 요금 (기본형)**
 
 기후동행카드의 대표 상품은 **30일권**이며, 사용 범위에 따라 요금이 달라집니다.
@@ -332,7 +327,7 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-charges/"
 -   저소득: 매년 1월 중
 -   청년: 연장 신청 시 자동 적용
 
-![기후동행카드 신청방법](https://ssangbak.com/wp-content/uploads/2025/12/image-5.png)
+![기후동행카드 신청방법](/wp-content/uploads/2025/12/image-5.png)
 
 * * *
 

@@ -7,11 +7,11 @@ permalink: "/where-to-use-science-culture-vouchers/"
 slugPath: "where-to-use-science-culture-vouchers"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Where-to-Use-Science-Culture-Vouchers.jpg"
+heroImage: "/wp-content/uploads/2026/01/Where-to-Use-Science-Culture-Vouchers.jpg"
 originalUrl: "https://ssangbak.com/where-to-use-science-culture-vouchers/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Where-to-Use-Science-Culture-Vouchers-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Where-to-Use-Science-Culture-Vouchers-1024x1024.jpg)
 
 과학문화바우처를 발급받았다면 이제 어디서 어떻게 사용하는지가 가장 궁금하실 텐데요.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/where-to-use-science-culture-vouchers/"
 [👉 과학문화바우처 신청](https://ssangbak.com/application-for-science-and-culture-voucher/)
 
 [👉 과학문화바우처 포인트몰](https://scivoucher.ezwel.com/cuser/common/sciIntroPointMall.ez?menuSel=one)
-
-목차
-
-[Toggle](#)
-
 ## 💰 과학문화바우처 포인트 안내
 
 ### 포인트 지급 금액
@@ -152,7 +147,7 @@ originalUrl: "https://ssangbak.com/where-to-use-science-culture-vouchers/"
 
 **구매 절차**
 
-![바우처 사용 방법](https://ssangbak.com/wp-content/uploads/2026/01/image-36-1024x339.png)
+![바우처 사용 방법](/wp-content/uploads/2026/01/image-36-1024x339.png)
 
 ## 📱 포인트 잔액 조회
 

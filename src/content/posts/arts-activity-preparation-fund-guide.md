@@ -7,7 +7,7 @@ permalink: "/arts-activity-preparation-fund-guide/"
 slugPath: "arts-activity-preparation-fund-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/arts-activity-preparation-fund-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/arts-activity-preparation-fund-guide-1.jpg"
 originalUrl: "https://ssangbak.com/arts-activity-preparation-fund-guide/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/arts-activity-preparation-fund-guide/"
 성실히 활동해온 예술가라면 이번 기회를 절대 놓치지 마시고 혜택을 누리시길 바랍니다.
 
 [👉 예술활동준비금 신청하기](https://www.kawfartist.net/)
-
-목차
-
-[Toggle](#)
-
 ## 🎨 지원 자격 및 대상 확인
 
 이번 사업은 예술인 복지법상 **예술활동증명**을 완료한 현업 예술인을 대상으로 합니다.

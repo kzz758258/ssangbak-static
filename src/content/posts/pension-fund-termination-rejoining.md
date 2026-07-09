@@ -7,7 +7,7 @@ permalink: "/pension-fund-termination-rejoining/"
 slugPath: "pension-fund-termination-rejoining"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/pension-fund-termination-rejoining.jpg"
+heroImage: "/wp-content/uploads/2026/05/pension-fund-termination-rejoining.jpg"
 originalUrl: "https://ssangbak.com/pension-fund-termination-rejoining/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/pension-fund-termination-rejoining/"
 👉 연금저축펀드 해지하기
 
 [👉 연금저축펀드 재가입](https://ssangbak.com/pension-fund-etf-portfolio/)
-
-목차
-
-[Toggle](#)
-
 ## 📋 해지 조건과 기간
 
 연금저축계좌는 원칙적으로 가입자의 의사에 따라 언제든지 중도 해지가 가능한 구조를 가지고 있습니다.

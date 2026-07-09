@@ -7,7 +7,7 @@ permalink: "/busan-monthly-rent-support-guide/"
 slugPath: "busan-monthly-rent-support-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/busan-monthly-rent-support-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/busan-monthly-rent-support-guide-1.jpg"
 originalUrl: "https://ssangbak.com/busan-monthly-rent-support-guide/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/busan-monthly-rent-support-guide/"
 [👉 부산 월세지원금 신청하기](https://www.bokjiro.go.kr/ssis-tbu/index.do)
 
 [👉부산 월세지원금 대상자 확인](https://www.bokjiro.go.kr/ssis-tbu/twatbz/mkclAsis/SelfDiagnosisYouthHousView.do)
-
-목차
-
-[Toggle](#)
-
 ## 🏠 신청 대상자 확인하기
 
 이번 사업은 **만 19세에서 34세 이하**의 무주택 청년을 주요 대상으로 삼고 있습니다.

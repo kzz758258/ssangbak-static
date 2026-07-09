@@ -7,11 +7,11 @@ permalink: "/fernando-botero-seoul-exhibition-2026/"
 slugPath: "fernando-botero-seoul-exhibition-2026"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/fernando-botero-seoul-exhibition-2026-2.jpg"
+heroImage: "/wp-content/uploads/2026/02/fernando-botero-seoul-exhibition-2026-2.jpg"
 originalUrl: "https://ssangbak.com/fernando-botero-seoul-exhibition-2026/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/fernando-botero-seoul-exhibition-2026-2.jpg)
+![](/wp-content/uploads/2026/02/fernando-botero-seoul-exhibition-2026-2.jpg)
 
 특유의 풍만한 양감으로 즐거움을 선사하는 거장, **페르난도 보테로전**이 2026년 예술의전당에서 개최됩니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/fernando-botero-seoul-exhibition-2026/"
 많은 분이 궁금해하시는 정확한 **전시 일정**과 **예매 방법**, 그리고 파격적인 할인 혜택 정보까지 지금 바로 정리해 드리겠습니다.
 
 [👉 페르난도 보테로전 예매하기](https://www.ticketlink.co.kr/product/61702?n_media=27758&n_query=%ED%8E%98%EB%A5%B4%EB%82%9C%EB%8F%84%EB%B3%B4%ED%85%8C%EB%A1%9C%EC%A0%84&n_rank=1&n_ad_group=grp-a001-01-000000062911735&n_ad=nad-a001-01-000000479438309&n_keyword_id=nkw-a001-01-000007926761611&n_keyword=%ED%8E%98%EB%A5%B4%EB%82%9C%EB%8F%84%EB%B3%B4%ED%85%8C%EB%A1%9C%EC%A0%84&n_campaign_type=1&n_ad_group_type=1&n_match=1&NaPm=ct%3Dmm34qq2j%7Cci%3DER0f936558%2D12e3%2D11f1%2D9a87%2Da628b9d6ac57%7Ctr%3Dsa%7Chk%3D29ff205a0cc757c6e62163fee5d4751f3ab7e478%7Cnacn%3D11EZB8wJA6dE)
-
-목차
-
-[Toggle](#)
-
 ## 🎨 페르난도 보테로전 전시 일정 및 장소
 
 이번 전시는 서울의 대표적인 문화 예술 공간인 예술의전당에서 약 4개월간 진행됩니다.
@@ -38,7 +33,7 @@ originalUrl: "https://ssangbak.com/fernando-botero-seoul-exhibition-2026/"
 
 특히 한가람디자인미술관의 넓은 공간에서 보테로의 거대한 조각과 회화들을 마주한다면 그 압도적인 존재감이 대단할 것으로 기대됩니다.
 
-![페르난도 보테로전](https://ssangbak.com/wp-content/uploads/2026/02/image-79.png)
+![페르난도 보테로전](/wp-content/uploads/2026/02/image-79.png)
 
 ## 🎫 페르난도 보테로전 예매 방법 및 티켓 가격
 

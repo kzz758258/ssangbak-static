@@ -7,18 +7,13 @@ permalink: "/2026-seoul-grandparent-care-allowance-guide/"
 slugPath: "2026-seoul-grandparent-care-allowance-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-29.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-29.png"
 originalUrl: "https://ssangbak.com/2026-seoul-grandparent-care-allowance-guide/"
 ---
 
 [손주돌봄수당 신청하기](https://umppa.seoul.go.kr/hmpg/sprt/bzin/bzmgComtDetail.do?biz_mng_no=59F45FE9BC024848AD07143C962E6869)
 
 최근 대한민국 육아 정책의 패러다임이 단순한 보조금 지급을 넘어, 가족 내 돌봄 노동의 가치를 인정하는 방향으로 진화하고 있습니다. 특히 맞벌이 가구의 실질적인 고민을 해결하기 위해 서울시가 추진 중인 **서울형 손주돌봄수당**은 조부모의 헌신적인 양육 활동을 정책적으로 지원하는 핵심 사업입니다. 이번 포스팅에서는 대폭 완화되는 소득 기준과 연령 확대 소식을 중심으로 핵심 내용을 정리해 드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 1\. 지원 대상 연령의 파격적인 확대 (초등학교 2학년까지)
 
 현재 운영 중인 **서울형 손주돌봄수당**은 생후 24개월부터 36개월 사이의 영유아를 돌보는 가정에 한정되어 있습니다. 하지만 서울시는 돌봄 공백이 가장 크게 발생하는 시기를 고려하여 단계별로 지원 범위를 대폭 넓힐 계획입니다.

@@ -7,11 +7,11 @@ permalink: "/extension-of-retirement-age-timing-of-implementation/"
 slugPath: "extension-of-retirement-age-timing-of-implementation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/001-2.jpg"
+heroImage: "/wp-content/uploads/2025/11/001-2.jpg"
 originalUrl: "https://ssangbak.com/extension-of-retirement-age-timing-of-implementation/"
 ---
 
-![현재 이미지: 정년연장](https://ssangbak.com/wp-content/uploads/2025/11/001-2-1024x1024.jpg)
+![현재 이미지: 정년연장](/wp-content/uploads/2025/11/001-2-1024x1024.jpg)
 
 정년연장은 대한민국 노동시장 전체에 영향을 미치는 중대 이슈입니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/extension-of-retirement-age-timing-of-impleme
 정부는 이를 해결하기 위해 **정년을 단계적으로 65세까지 연장하는 방안**을 마련하고 있으며, 이에 따라 “언제 시행될까?”, “몇 년생부터 직접 적용될까?”에 대한 관심이 크게 높아지고 있습니다.
 
 아래에서는 정부안·법안·세대별 적용 가능성(67·68·69년생)을 최신 내용으로 정리했습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🏛️ 정년연장 정부안 총정리
 
 정부가 제시한 정년연장 로드맵은 단번에 65세로 올리는 방식이 아니라 **충격을 최소화한 단계적 상향 방식**입니다.
@@ -44,7 +39,7 @@ originalUrl: "https://ssangbak.com/extension-of-retirement-age-timing-of-impleme
 
 즉, 정년연장은 단순 나이 연장이 아닌 **노동시장 구조를 함께 개편하는 종합 개혁안**입니다.
 
-![정년연장 국회](https://ssangbak.com/wp-content/uploads/2025/11/006-1-1024x1024.jpg)
+![정년연장 국회](/wp-content/uploads/2025/11/006-1-1024x1024.jpg)
 
 ## ⚖️ 정년연장 법안 진행 상황
 
@@ -166,7 +161,7 @@ originalUrl: "https://ssangbak.com/extension-of-retirement-age-timing-of-impleme
 
 최종 상향 시기와 겹침
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/005-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/005-1-1024x1024.jpg)
 
 ## 🧭 정년연장이 가져올 변화
 

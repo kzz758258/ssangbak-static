@@ -7,11 +7,11 @@ permalink: "/neighbourhood-live-seoul-ticket-booking/"
 slugPath: "neighbourhood-live-seoul-ticket-booking"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/neighbourhood-live-seoul-ticket-booking.jpg"
+heroImage: "/wp-content/uploads/2026/03/neighbourhood-live-seoul-ticket-booking.jpg"
 originalUrl: "https://ssangbak.com/neighbourhood-live-seoul-ticket-booking/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/neighbourhood-live-seoul-ticket-booking.jpg)
+![](/wp-content/uploads/2026/03/neighbourhood-live-seoul-ticket-booking.jpg)
 
 전 세계를 매혹시킨 흑백 감성의 다크팝 밴드 \*\*더 네이버후드(The Neighbourhood)\*\*가 드디어 한국에 온다!
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/neighbourhood-live-seoul-ticket-booking/"
 스포티파이 **약 44억 스트리밍**을 기록한 히트곡 ‘Sweater Weather’부터 ‘Daddy Issues’까지, 그들의 매혹적인 보컬과 사운드를 라이브로 경험할 절호의 기회!
 
 [👉 네이버후드 내한공연 예매하기](https://ticket.yes24.com/Perf/57254)
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 일정
 
 **2026년 7월 20일 (월) 오후 8시**

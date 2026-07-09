@@ -7,11 +7,11 @@ permalink: "/bts-busan-concert-ticketing-schedule/"
 slugPath: "bts-busan-concert-ticketing-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/image-1.png"
+heroImage: "/wp-content/uploads/2026/04/image-1.png"
 originalUrl: "https://ssangbak.com/bts-busan-concert-ticketing-schedule/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/image-1.png)
+![](/wp-content/uploads/2026/04/image-1.png)
 
 **2026 BTS 부산 콘서트** 티켓팅 예매 방법과 공연 일정 정보를 상세히 정리해 드립니다.
 

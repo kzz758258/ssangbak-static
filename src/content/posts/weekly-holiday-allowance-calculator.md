@@ -7,7 +7,7 @@ permalink: "/weekly-holiday-allowance-calculator/"
 slugPath: "weekly-holiday-allowance-calculator"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/Weekly-Holiday-Allowance-Calculator.jpg"
+heroImage: "/wp-content/uploads/2026/05/Weekly-Holiday-Allowance-Calculator.jpg"
 originalUrl: "https://ssangbak.com/weekly-holiday-allowance-calculator/"
 ---
 

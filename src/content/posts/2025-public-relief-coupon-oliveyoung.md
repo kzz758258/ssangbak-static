@@ -7,13 +7,13 @@ permalink: "/2025-public-relief-coupon-oliveyoung/"
 slugPath: "2025-public-relief-coupon-oliveyoung"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/09/제목을-입력해주세요_-001-1.jpg"
+heroImage: "/wp-content/uploads/2025/09/제목을-입력해주세요_-001-1.jpg"
 originalUrl: "https://ssangbak.com/2025-public-relief-coupon-oliveyoung/"
 ---
 
 * * *
 
-![](https://ssangbak.com/wp-content/uploads/2025/09/제목을-입력해주세요.-복사본-18-1024x1024.jpg)
+![](/wp-content/uploads/2025/09/제목을-입력해주세요.-복사본-18-1024x1024.jpg)
 
 2025 민생회복 소비쿠폰(민생지원금), 올리브영에서 사용 가능할까?
 
@@ -21,12 +21,7 @@ originalUrl: "https://ssangbak.com/2025-public-relief-coupon-oliveyoung/"
 
 * * *
 
-![](https://ssangbak.com/wp-content/uploads/2025/09/image.png)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2025/09/image.png)
 ## 🧾 민생회복 소비쿠폰(민생지원금) 이란?
 
 2025년 정부는 **총 13.9조 원 규모의 ‘민생회복 소비쿠폰’ 사업**을 통해 모든 국민에게 **최대 1인당 55만 원**의 소비쿠폰을 지급하고 있습니다.
@@ -115,7 +110,7 @@ originalUrl: "https://ssangbak.com/2025-public-relief-coupon-oliveyoung/"
 
 * * *
 
-![민생회복 소비쿠폰 신청 방법](https://ssangbak.com/wp-content/uploads/2025/09/image-2.png)
+![민생회복 소비쿠폰 신청 방법](/wp-content/uploads/2025/09/image-2.png)
 
 ## 📍 민생회복 소비쿠폰 신청 방법 (공식 기준)
 
@@ -150,7 +145,7 @@ originalUrl: "https://ssangbak.com/2025-public-relief-coupon-oliveyoung/"
 
 * * *
 
-![민생회복 소비쿠폰 사용처](https://ssangbak.com/wp-content/uploads/2025/09/image-3.png)
+![민생회복 소비쿠폰 사용처](/wp-content/uploads/2025/09/image-3.png)
 
 ## 💳 사용 가능한 업종
 

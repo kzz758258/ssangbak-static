@@ -7,7 +7,7 @@ permalink: "/5sos-2026-korea-concert/"
 slugPath: "5sos-2026-korea-concert"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-37.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-37.png"
 originalUrl: "https://ssangbak.com/5sos-2026-korea-concert/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/5sos-2026-korea-concert/"
 벌써부터 심장이 뛰는 소리가 여기까지 들리는 것 같습니다. 글로벌 팝 펑크의 아이콘, **5SOS(5 Seconds Of Summer)가 드디어 한국을 다시 찾습니다.** 그동안 이들의 에너제틱한 무대를 기다려온 팬분들에게는 더할 나위 없는 기쁜 소식일 텐데요. 하지만 인기 아티스트인 만큼 이른바 ‘피켓팅’에 대한 불안감으로 밤잠 설치고 계셨다면 정말 잘 찾아오셨습니다.
 
 이 글 하나만 정독하시면 **5SOS 내한 콘서트 예매 성공을 위한 핵심 전략부터 킨텍스 공연장 시야 꿀팁**까지 한 번에 마스터하실 수 있습니다. 이번 기회를 놓치지 말고 티켓을 거머쥐어 ‘Youngblood’를 떼창하는 주인공이 되어보세요.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 이번 월드 투어 <5SOS: EVERYONE’S A STAR!>는 킨텍스에서 펼쳐지는 대규모 공연입니다. 상세 정보를 표로 정리해 드립니다.

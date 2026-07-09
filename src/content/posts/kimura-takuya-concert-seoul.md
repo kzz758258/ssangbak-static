@@ -7,7 +7,7 @@ permalink: "/kimura-takuya-concert-seoul/"
 slugPath: "kimura-takuya-concert-seoul"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/kimura-takuya-concert-seoul.jpg"
+heroImage: "/wp-content/uploads/2026/06/kimura-takuya-concert-seoul.jpg"
 originalUrl: "https://ssangbak.com/kimura-takuya-concert-seoul/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/kimura-takuya-concert-seoul/"
 지금부터 기무라 타쿠야 내한 콘서트의 공연 일정, 티켓 가격 정보, 좌석별 인스파이어 아레나 시야, 그리고 취소표와 티켓 양도 주의사항까지 실전 예매 성공 팁을 가감 없이 공유합니다.
 
 [👉 기무라 타쿠야 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/14058)
-
-목차
-
-[Toggle](#)
-
 ## 📅 기무라 타쿠야 내한 콘서트 공연 일정 및 예매처
 
 기무라 타쿠야의 첫 아시아 투어의 포문을 여는 서울 공연은 인천 영종도에 위치한 최첨단 복합 아레나에서 개최됩니다.

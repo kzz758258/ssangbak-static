@@ -7,14 +7,9 @@ permalink: "/samsung-careers-recruitment-process-guide/"
 slugPath: "samsung-careers-recruitment-process-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/samsung-careers-recruitment-process-guide-2.jpg"
+heroImage: "/wp-content/uploads/2026/03/samsung-careers-recruitment-process-guide-2.jpg"
 originalUrl: "https://ssangbak.com/samsung-careers-recruitment-process-guide/"
 ---
-
-목차
-
-[Toggle](#)
-
 ## 🏢 삼성 채용의 이원화 시스템: 신입 vs 경력
 
 삼성그룹의 채용은 국내 4대 그룹 중 유일하게 대규모 **3급(대졸) 신입사원 공채** 제도를 유지하는 동시에, 각 계열사별 직무 전문성을 중시하는 **경력사원 수시 채용**을 병행하는 이원화된 시스템을 갖추고 있습니다.

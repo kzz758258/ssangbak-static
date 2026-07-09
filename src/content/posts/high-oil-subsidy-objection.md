@@ -7,7 +7,7 @@ permalink: "/high-oil-subsidy-objection/"
 slugPath: "high-oil-subsidy-objection"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/high-oil-subsidy-objection-1.jpg"
+heroImage: "/wp-content/uploads/2026/05/high-oil-subsidy-objection-1.jpg"
 originalUrl: "https://ssangbak.com/high-oil-subsidy-objection/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/high-oil-subsidy-objection/"
 행정안전부의 발표에 따르면 다행히 구제 절차가 열려 있습니다. 오늘은 탈락의 문턱에서 지원금을 되찾아줄 **고유가 지원금 이의신청 방법**과 상황별로 꼭 챙겨야 하는 **유형별 증빙서류**를 깔끔하게 요약해 드립니다.
 
 저도 예전에 행정 처리 누락으로 지원금을 못 받을 뻔했다가 증빙서류를 제출하고 뒤늦게 구제받았던 기억이 있습니다. 기간을 넘기면 절대 수정할 수 없으니 오늘 알려드리는 항목을 빠르게 점검해 보시기 바랍니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 고유가 지원금 이의신청 기간 및 유의사항
 
 지원 대상자 선정 결과에 동의하지 못하거나 지원 금액에 오류가 있는 경우, 정부가 지정한 공식 이의신청 기간 내에 반드시 접수를 완료해야 합니다.

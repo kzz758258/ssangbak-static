@@ -7,18 +7,13 @@ permalink: "/2026-ewc-relay/"
 slugPath: "2026-ewc-relay"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-55.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-55.png"
 originalUrl: "https://ssangbak.com/2026-ewc-relay/"
 ---
 
 [👉 ewc 중계 바로가기](https://chzzk.naver.com/fce7c8735e0646e642007198a8875882)
 
 전 세계 e스포츠 팬들의 심장을 다시 뛰게 할 거대한 축제가 눈앞으로 다가왔습니다. 특히 올해는 개최지 변경과 더불어 역대급 자본이 투입되면서 그 어느 때보다 뜨거운 열기를 예고하고 있습니다. **2026 EWC 롤 중계** 채널 확보와 경기 시간 파악은 승리의 순간을 함께하기 위한 필수 준비 요소입니다. 프랑스 파리에서 펼쳐질 전설적인 매치들을 놓치지 않도록 핵심 정보만을 엄선하여 전달해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 2026 EWC 전체 일정 및 LoL 본선 시간표
 
 올해 개최되는 e스포츠 월드컵은 기존 사우디 리야드를 떠나 **프랑스 파리**에서 그 화려한 막을 올립니다. 전체 대회는 7월 6일부터 8월 23일까지 총 7주간 진행되며, 전 세계 다양한 종목의 선수들이 파리의 무대를 누비게 됩니다.

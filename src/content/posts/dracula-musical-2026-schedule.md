@@ -7,18 +7,13 @@ permalink: "/dracula-musical-2026-schedule/"
 slugPath: "dracula-musical-2026-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-29.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-29.png"
 originalUrl: "https://ssangbak.com/dracula-musical-2026-schedule/"
 ---
 
 [뮤지컬 드라큘라 예매하기](https://tickets.interpark.com/contents/notice/detail/13759)
 
 오랫동안 기다려온 매혹적인 핏빛 로맨스, **뮤지컬 드라큘라 2026**이 드디어 우리 곁으로 돌아옵니다. 워낙 팬덤이 두텁고 매 시즌 ‘피켓팅’으로 유명한 공연이라 벌써부터 좌석을 잡지 못할까 봐 걱정하시는 분들이 많으실 텐데요. 오늘 정리해 드리는 티켓팅 꿀팁과 캐스팅 정보를 미리 확인하신다면, 여러분도 분명 원하는 회차의 좌석을 쟁취하실 수 있을 겁니다. **뮤지컬 드라큘라 2026** 예매를 위한 모든 노하우를 지금 바로 공개합니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 뮤지컬 드라큘라의 공연 장소와 구체적인 일정은 아래 표를 통해 확인해 주세요. 이번 시즌은 접근성이 뛰어난 마곡 LG아트센터에서 진행됩니다.

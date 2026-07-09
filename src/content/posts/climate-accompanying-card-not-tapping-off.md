@@ -7,11 +7,11 @@ permalink: "/climate-accompanying-card-not-tapping-off/"
 slugPath: "climate-accompanying-card-not-tapping-off"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-9.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-005-9.jpg"
 originalUrl: "https://ssangbak.com/climate-accompanying-card-not-tapping-off/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-9-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-005-9-1024x1024.jpg)
 
 기후동행카드는 서울 대중교통을 정액제로 무제한 이용할 수 있어 많은 시민들이 사용하고 있습니다.  
   
@@ -29,11 +29,6 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-not-tapping-off/"
 
 [전체 가이드 보기 →](https://ssangbak.com/climate-accompanying-card-all-things/
 )
-
-목차
-
-[Toggle](#)
-
 ## **1\. 하차 미태그란?**
 
 기후동행카드는 **지하철·버스 이용 시 반드시 승차와 하차 모두 태그해야 정상적인 이동으로 인정**됩니다.  

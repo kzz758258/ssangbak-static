@@ -7,21 +7,16 @@ permalink: "/paju-city-restoration-of-peoples-livelihood-support-for-living-stab
 slugPath: "paju-city-restoration-of-peoples-livelihood-support-for-living-stability"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-14-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-14-1.jpg"
 originalUrl: "https://ssangbak.com/paju-city-restoration-of-peoples-livelihood-support-for-living-stability/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-14-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-14-1-1024x1024.jpg)
 
 2026년 새해를 맞아 파주시가 **모든 시민에게 1인당 10만 원의 생활안정지원금**을 지급합니다.
 
   
 이번 지원금은 **지역화폐 형태로 지급**되어 시민들의 경제 부담을 덜고 지역 상권의 활력을 높이기 위한 민생 회복 정책으로, 파주시가 밝혀온 정보에 따르면 **2026년 1월 21일부터 지급이 본격 시작**될 예정입니다.
-
-목차
-
-[Toggle](#)
-
 ## 🟦 민생회복 생활안정지원금이란?
 
 파주시가 시민들의 생활 물가 부담 증가와 경기 침체에 대응하기 위해 마련한 **긴급 경제지원 정책**입니다.

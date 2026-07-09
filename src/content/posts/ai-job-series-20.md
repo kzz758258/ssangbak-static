@@ -7,11 +7,11 @@ permalink: "/ai-job-series-20/"
 slugPath: "ai-job-series-20"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-30.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-30.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-20/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-30-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-30-1024x1024.jpg)
 
 많은 취업 준비생들이 자신이 왜 합격하지 못하는지 정확히 모릅니다.  
 이력서가 부족해서인지, 스펙 때문인지, 혹은 경쟁이 치열해서인지 막연하게 생각합니다.
@@ -23,11 +23,6 @@ originalUrl: "https://ssangbak.com/ai-job-series-20/"
 **대표적 사고 패턴 7가지**를 정리합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ❌ **1) “합격 기준을 모르면서 준비하는” 비전략적 사고**
 
 많은 취준생은 **기업이 무엇을 기준으로 합격을 결정하는지 모른 채** 자기소개서와 포트폴리오를 작성합니다.

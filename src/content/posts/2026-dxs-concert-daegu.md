@@ -7,18 +7,13 @@ permalink: "/2026-dxs-concert-daegu/"
 slugPath: "2026-dxs-concert-daegu"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-38.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-38.png"
 originalUrl: "https://ssangbak.com/2026-dxs-concert-daegu/"
 ---
 
 [DxS 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13564)
 
 DxS \[소야곡\] ON STAGE – DAEGU 공연 소식에 벌써부터 손이 떨리고 잠 못 이루는 분들 많으시죠? 치열한 **포도알 전쟁**에서 밀려날까 봐 걱정되시겠지만, 오늘 이 글 하나로 예매 성공의 확률을 비약적으로 높여드리겠습니다. 단순한 정보 전달을 넘어 실전 티켓팅 팁부터 **대구 엑스코 동관의 숨은 명당**까지, **DxS 소야곡 콘서트 대구 예매 티켓팅 일정 엑스코 시야** 정보를 가장 완벽하게 정리해 드립니다. 팬들의 간절한 마음을 담아, 여러분이 원하는 좌석을 잡을 수 있도록 핵심만 짚어보겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 이번 공연은 오프라인으로만 진행되어 그 희소성이 더욱 높습니다. 대구에서 펼쳐지는 DxS의 감성적인 무대를 놓치지 마세요.

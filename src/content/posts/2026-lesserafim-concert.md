@@ -7,18 +7,13 @@ permalink: "/2026-lesserafim-concert/"
 slugPath: "2026-lesserafim-concert"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-50.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-50.png"
 originalUrl: "https://ssangbak.com/2026-lesserafim-concert/"
 ---
 
 [👉 르세라핌 인천 콘서트 예매](https://tickets.interpark.com/contents/notice/detail/13989)
 
 [👉 르세라핌 인천 콘서트 선예매](https://tickets.interpark.com/contents/notice/detail/13989)
-
-목차
-
-[Toggle](#)
-
 ## 2026 르세라핌 콘서트 예매를 위한 완벽한 준비
 
 피케팅이라는 말이 실감 날 정도로 치열한 경쟁이 예상되는 **2026 르세라핌 콘서트 예매**가 코앞으로 다가왔습니다. 좋아하는 아티스트의 무대를 직접 눈에 담고 싶은 마음은 누구나 같지만, 준비되지 않은 상태에서는 ‘포도알’이라 불리는 좌석 선택의 기회를 잡기 어렵습니다. 이번 가이드에서는 인스파이어 아레나의 시야 정보부터 팬클럽 선예매 일정, 그리고 실전에서 바로 적용 가능한 티켓팅 노하우까지 상세히 풀어내어 여러분의 성공적인 예매를 돕고자 합니다.

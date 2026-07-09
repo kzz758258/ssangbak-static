@@ -7,7 +7,7 @@ permalink: "/ansan-leesobin-shindang-location-reservation/"
 slugPath: "ansan-leesobin-shindang-location-reservation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/ansan-leesobin-shindang-location-reservation-1-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/ansan-leesobin-shindang-location-reservation-1-1.jpg"
 originalUrl: "https://ssangbak.com/ansan-leesobin-shindang-location-reservation/"
 ---
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/ansan-leesobin-shindang-location-reservation/
 [👉 이소빈 신당 대기현황 확인](https://blog.naver.com/dbhbl22)
 
 [👉 이소빈 신당 인스타 바로가기](https://www.instagram.com/lee._.sobin?igsh=N3ViaGNmb3hiZzA3&utm_source=qr)
-
-목차
-
-[Toggle](#)
-
 ## 📍 안산 이소빈 신당 위치 안내
 
-![이소빈 신당 위치](https://ssangbak.com/wp-content/uploads/2026/02/image-84.png)
+![이소빈 신당 위치](/wp-content/uploads/2026/02/image-84.png)
 
 **이소빈 신당**은 경기도 안산시 상록구 인근에 위치하고 있어 서울 및 수도권에서의 접근성이 매우 뛰어납니다.
 

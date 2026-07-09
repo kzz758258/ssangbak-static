@@ -7,22 +7,17 @@ permalink: "/mistertrot-seoul-concert-ticketing/"
 slugPath: "mistertrot-seoul-concert-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/mistertrot-seoul-concert-ticketing.jpg"
+heroImage: "/wp-content/uploads/2026/02/mistertrot-seoul-concert-ticketing.jpg"
 originalUrl: "https://ssangbak.com/mistertrot-seoul-concert-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/mistertrot-seoul-concert-ticketing-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/mistertrot-seoul-concert-ticketing-1024x1024.jpg)
 
 **2026년 기준** 가장 압도적인 스케일을 자랑하는 미스터트롯3 서울 콘서트는 부모님께는 최고의 효도를, 팬들에게는 잊지 못할 감동의 시간을 선사할 절호의 기회입니다.
 
 워낙 경쟁이 치열한 서울 공연이지만, 오늘 알려드리는 실전 티켓팅 전략과 좌석 정보를 미리 숙지하신다면 여러분도 당당히 명당 좌석의 주인이 될 수 있습니다.
 
 [👉 미스터트롯3 서울 콘서트 예매](https://tickets.interpark.com/goods/26000426)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 공연 일정 및 장소
@@ -57,7 +52,7 @@ originalUrl: "https://ssangbak.com/mistertrot-seoul-concert-ticketing/"
 
 좌석 등급에 따라 가격 차이가 있으니 본인의 예산과 선호하는 시야에 맞춰 전략적으로 구역을 정해두어야 합니다.
 
-![미스터트롯3 서울 콘서트 좌석배치도](https://ssangbak.com/wp-content/uploads/2026/02/image-6.png)
+![미스터트롯3 서울 콘서트 좌석배치도](/wp-content/uploads/2026/02/image-6.png)
 
 ### 💰 등급별 티켓 가격 상세
 
@@ -85,7 +80,7 @@ originalUrl: "https://ssangbak.com/mistertrot-seoul-concert-ticketing/"
 
 가급적 지하철 5호선 또는 9호선 올림픽공원역을 이용하시는 것이 시간 절약과 원활한 귀가에 훨씬 유리합니다.
 
-![미스터트롯3 서울 콘서트 위치](https://ssangbak.com/wp-content/uploads/2026/02/image-8.png)
+![미스터트롯3 서울 콘서트 위치](/wp-content/uploads/2026/02/image-8.png)
 
 ## 🚀 성공적인 관람을 위해 지금 확인하세요
 

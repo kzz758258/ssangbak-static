@@ -7,11 +7,11 @@ permalink: "/whiteday-origin-meaning/"
 slugPath: "whiteday-origin-meaning"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/whiteday-origin-meaning.jpg"
+heroImage: "/wp-content/uploads/2026/02/whiteday-origin-meaning.jpg"
 originalUrl: "https://ssangbak.com/whiteday-origin-meaning/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/whiteday-origin-meaning.jpg)
+![](/wp-content/uploads/2026/02/whiteday-origin-meaning.jpg)
 
 화이트데이 누가 누구에게 주는지 확실히 알면 더 이상 헷갈리지 않고 완벽한 고백의 기회를 잡아 소중한 관계를 발전시킬 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/whiteday-origin-meaning/"
 기분 좋은 설렘이 가득한 3월의 기념일을 더욱 특별하게 만들어 드립니다.
 
 [👉 발렌타인데이 뜻과 유래 보기](https://ssangbak.com/valentine-day-who-gives/)
-
-목차
-
-[Toggle](#)
-
 ## 🎁 화이트데이 누가 누구에게
 
 화이트데이는 기본적으로 **남자가 여자에게** 마음을 전하는 날입니다.

@@ -7,16 +7,11 @@ permalink: "/youth-savings-account-guide/"
 slugPath: "youth-savings-account-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-16.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-16.png"
 originalUrl: "https://ssangbak.com/youth-savings-account-guide/"
 ---
 
 [청년내일저축계좌 신청하기](www.bokjiro.go.kr)
-
-목차
-
-[Toggle](#)
-
 ## 3년의 기다림, 청년내일저축계좌 만기의 결실
 
 사회에 첫발을 내디딘 청년들에게 **청년내일저축계좌 만기**는 단순한 적금의 종료 이상의 가치를 지닙니다. 3년이라는 시간 동안 꾸준히 저축하며 성실함을 증명해온 분들이라면, 이제 그 노력의 보상인 목돈을 수령할 시기가 다가왔습니다. 정부 지원금과 본인의 저축액이 합쳐진 이 자산은 미래를 설계하는 데 있어 강력한 추진력이 될 것입니다.

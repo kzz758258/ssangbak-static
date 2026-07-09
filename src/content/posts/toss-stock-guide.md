@@ -7,22 +7,17 @@ permalink: "/toss-stock-guide/"
 slugPath: "toss-stock-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/toss-stock-guide.jpg"
+heroImage: "/wp-content/uploads/2026/01/toss-stock-guide.jpg"
 originalUrl: "https://ssangbak.com/toss-stock-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/toss-stock-guide-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/toss-stock-guide-1024x1024.jpg)
 
 **지금 바로** 토스증권을 시작하면 복잡한 서류 없이 **스마트폰 하나로** 잠자고 있는 내 자산을 깨워 **매일 수익이 쌓이는** 기쁨을 누릴 수 있습니다.
 
 어렵게만 느껴졌던 주식 투자가 **클릭 몇 번으로** 해결되는 마법 같은 경험을 선사합니다.
 
 [👉 토스 주식 계좌 개설](https://www.tossinvest.com/?focusedProductCode=US20200527004)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 토스 주식 계좌 개설

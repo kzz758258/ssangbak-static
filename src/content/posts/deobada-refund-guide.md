@@ -7,18 +7,13 @@ permalink: "/deobada-refund-guide/"
 slugPath: "deobada-refund-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-26.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-26.png"
 originalUrl: "https://ssangbak.com/deobada-refund-guide/"
 ---
 
 [숨은 환급금 조회하기](https://thebadaga.co.kr/refund.html)
 
 미처 챙기지 못한 숨은 자산을 찾으려는 분들이 늘어나면서 **더바다환급금** 서비스에 대한 관심이 뜨겁습니다. 하지만 실제 신청에 앞서 조회는 정말 무료인지, 수수료는 언제 발생하는지, 그리고 중간에 철회하고 싶을 때 취소가 가능한지에 대해 명확히 알고 시작하는 것이 중요합니다. 오늘은 이용자들이 가장 궁금해하는 핵심 사항들을 중심으로 상세히 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 1\. 더바다환급금 조회, 비용 부담은 없을까?
 
 가장 먼저 짚어볼 점은 초기 진입 단계의 비용입니다. 결론부터 말씀드리면 **더바다환급금 조회 자체는 무료로 제공**됩니다. 사용자는 본인의 정보를 입력하여 환급받을 수 있는 예상 금액과 대상 여부를 미리 확인할 수 있습니다.

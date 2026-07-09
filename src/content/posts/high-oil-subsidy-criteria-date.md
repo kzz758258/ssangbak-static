@@ -7,7 +7,7 @@ permalink: "/high-oil-subsidy-criteria-date/"
 slugPath: "high-oil-subsidy-criteria-date"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/high-oil-subsidy-criteria-date.jpg"
+heroImage: "/wp-content/uploads/2026/05/high-oil-subsidy-criteria-date.jpg"
 originalUrl: "https://ssangbak.com/high-oil-subsidy-criteria-date/"
 ---
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/high-oil-subsidy-criteria-date/"
 [👉 고유가지원금 2차 신청하기](https://www.mois.go.kr/frt/sub/a06/b07/highOilPriceSupport/screen.do)
 
 [👉 고유가지원금 대상자 조회](https://www.nhis.or.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 🏠 2차 지급 대상자 및 선정 기준
 
 정부는 **2026년 3월 30일** 주민등록표상 동일 세대를 기준으로 지급 대상을 선정합니다.

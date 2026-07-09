@@ -7,11 +7,11 @@ permalink: "/korea-black-friday-delivery-agency/"
 slugPath: "korea-black-friday-delivery-agency"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-18.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-18.jpg"
 originalUrl: "https://ssangbak.com/korea-black-friday-delivery-agency/"
 ---
 
-![현재 이미지: 배대지](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-18-1024x576.jpg)
+![현재 이미지: 배대지](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-18-1024x576.jpg)
 
 _– 배송 대란 막는 똑똑한 선택, 배대지부터 전략이다_
 
@@ -33,11 +33,6 @@ _– 배송 대란 막는 똑똑한 선택, 배대지부터 전략이다_
 
 [👉2025 한국 블랙프라이데이 기간 총정리  
 (주요 참여 브랜드 & 플랫폼 리스트)](https://ssangbak.com/2025-korea-black-friday-period-participation-brand/)
-
-목차
-
-[Toggle](#)
-
 ## 📦 배대지란 무엇인가?
 
 배대지(배송대행지)는 해외 쇼핑몰에서 직접 한국으로 배송하지 않거나, 배송비가 너무 비쌀 경우 **중간에 ‘해외 현지 창고 주소’를 대신 제공해주고, 이곳에서 한국까지 다시 배송해주는 중계 서비스**입니다.

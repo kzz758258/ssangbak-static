@@ -7,11 +7,11 @@ permalink: "/population-decline-travel-subsidy/"
 slugPath: "population-decline-travel-subsidy"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/population-decline-travel-subsidy-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/population-decline-travel-subsidy-1.jpg"
 originalUrl: "https://ssangbak.com/population-decline-travel-subsidy/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/population-decline-travel-subsidy-1.jpg)
+![](/wp-content/uploads/2026/02/population-decline-travel-subsidy-1.jpg)
 
 **인구감소지역 여행 지원금**을 활용하면 2026년부터 국내 여행 경비의 **50%를 환급**받아 반값으로 알찬 휴가를 즐길 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/population-decline-travel-subsidy/"
 지갑은 가볍게, 마음은 즐겁게 떠날 수 있는 **지역사랑 휴가 지원 제도**의 핵심 내용을 지금 바로 확인해 보시기 바랍니다.
 
 [👉 여행 지원금 신청정보](https://whatsnew.moef.go.kr/mec/ots/dif/view.do?difSer=57d90841-be73-433d-8109-cba7c7b5420a)
-
-목차
-
-[Toggle](#)
-
 ## 💰 지원 금액 및 지역화폐
 
 **인구감소지역 여행 지원금**은 여행 중 지출한 비용의 절반을 해당 지자체의 **지역사랑상품권**으로 돌려받는 방식입니다.

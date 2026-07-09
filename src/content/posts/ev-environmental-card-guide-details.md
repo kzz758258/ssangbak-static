@@ -7,7 +7,7 @@ permalink: "/ev-environmental-card-guide-details/"
 slugPath: "ev-environmental-card-guide-details"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/ev-environmental-card-guide-details.jpg"
+heroImage: "/wp-content/uploads/2026/02/ev-environmental-card-guide-details.jpg"
 originalUrl: "https://ssangbak.com/ev-environmental-card-guide-details/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/ev-environmental-card-guide-details/"
 처음에는 절차가 조금 생소하게 느껴질 수 있지만 제가 알려드리는 순서만 차근차근 따라오시면 누구나 5분 만에 신청을 완료하실 수 있습니다.
 
 [👉 전기차 환경부카드 발급하기](https://ev.or.kr/nportal/main.do#)
-
-목차
-
-[Toggle](#)
-
 ## 💳 환경부카드 발급방법
 
 환경부 카드는 환경부에서 운영하는 무공해차 통합누리집 사이트를 통해 온라인으로 간편하게 신청이 가능합니다.

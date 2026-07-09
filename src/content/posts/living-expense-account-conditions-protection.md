@@ -7,11 +7,11 @@ permalink: "/living-expense-account-conditions-protection/"
 slugPath: "living-expense-account-conditions-protection"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/living-expense-account-conditions-protection.jpg"
+heroImage: "/wp-content/uploads/2026/01/living-expense-account-conditions-protection.jpg"
 originalUrl: "https://ssangbak.com/living-expense-account-conditions-protection/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/living-expense-account-conditions-protection-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/living-expense-account-conditions-protection-1024x1024.jpg)
 
 이제 더 이상 통장 잔고 보며 불안해할 필요 없습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/living-expense-account-conditions-protection/
 **2026년 현재 기준**, 복잡한 절차 없이 클릭 몇 번이나 은행 방문 한 번으로 “내 돈 보호막”을 만드는 비결을 바로 알려드립니다.
 
 기분 좋은 변화, 지금 바로 시작합니다.
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### 💰 보호 금액 상향

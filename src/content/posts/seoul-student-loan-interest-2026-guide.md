@@ -7,7 +7,7 @@ permalink: "/seoul-student-loan-interest-2026-guide/"
 slugPath: "seoul-student-loan-interest-2026-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/seoul-student-loan-interest-2026-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/seoul-student-loan-interest-2026-guide.jpg"
 originalUrl: "https://ssangbak.com/seoul-student-loan-interest-2026-guide/"
 ---
 
@@ -18,14 +18,9 @@ originalUrl: "https://ssangbak.com/seoul-student-loan-interest-2026-guide/"
 [👉학자금대출 이자지원 신청하기](https://youth.seoul.go.kr/youthConts.do?key=2310100074&sc_pbancSeCd=002&sc_bbsStngSn=2212200001&sc_bbsCtgrySn=2310200003&sc_qnaCtgryCd=&sc_faqCtgryCd=006)
 
 [👉학자금지원 지원구간 확인방법](https://ssangbak.com/scholarship-support-section/)
-
-목차
-
-[Toggle](#)
-
 ## 📅 2026년 신청 일정 및 방법
 
-![서울시 대학생 학자금대출 이자지원 일정](https://ssangbak.com/wp-content/uploads/2026/02/image-59.png)
+![서울시 대학생 학자금대출 이자지원 일정](/wp-content/uploads/2026/02/image-59.png)
 
 이번 2026년 제1회 사업의 신청 기간은 **2026년 2월 6일(금) 10:00부터 3월 18일(수) 18:00까지**로 정해졌습니다.
 
@@ -90,7 +85,7 @@ originalUrl: "https://ssangbak.com/seoul-student-loan-interest-2026-guide/"
 ## 💰 지원 내용 및 방식
 
 ![서울시 대학생 학자금댗출 이자이원 기준
-](https://ssangbak.com/wp-content/uploads/2026/02/image-60.png)
+](/wp-content/uploads/2026/02/image-60.png)
 
 이번 사업은 **2025년 하반기(7월~12월) 동안 발생한 대출 이자** 전액 또는 일부를 지원합니다.
 

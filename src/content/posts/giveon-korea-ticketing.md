@@ -7,25 +7,20 @@ permalink: "/giveon-korea-ticketing/"
 slugPath: "giveon-korea-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-006-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-006-1.jpg"
 originalUrl: "https://ssangbak.com/giveon-korea-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-006-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/제목을-입력해주세요_-006-1-1024x1024.jpg)
 
 부드러운 보컬과 감성적인 R&B 스타일로 세계적인 사랑을 받고 있는 ‘기브온(Giveon)’이 드디어 한국에서 첫 내한공연을 엽니다.
 
   
 2026년 내한 투어 “DEAR BELOVED, THE TOUR in Seoul”이 공식 발표되며 팬들의 기대가 폭발적으로 높아지고 있습니다.  
 
-![기브온 내한 공연 일정](https://ssangbak.com/wp-content/uploads/2025/11/20251127_205322.jpg)
+![기브온 내한 공연 일정](/wp-content/uploads/2025/11/20251127_205322.jpg)
 
 출처: NOL 티켓 기브온 공연 예매 공식 페이지
-
-목차
-
-[Toggle](#)
-
 ## 🎤 기브온 내한공연 기본 정보
 
 -   **공연명**: GIVEON – DEAR BELOVED, THE TOUR in Seoul
@@ -84,7 +79,7 @@ originalUrl: "https://ssangbak.com/giveon-korea-ticketing/"
 -   공연장 규모가 크지 않아 어느 좌석에서도 시야 확보 우수
 -   스탠딩 대비 안정적인 관람 가능
 
-![기브온 내한 공연 좌석배치도](https://ssangbak.com/wp-content/uploads/2025/11/20251127_205338-1.jpg)
+![기브온 내한 공연 좌석배치도](/wp-content/uploads/2025/11/20251127_205338-1.jpg)
 
 출처: NOL 티켓 기브온 공연 예매 공식 페이지
 
@@ -171,7 +166,7 @@ originalUrl: "https://ssangbak.com/giveon-korea-ticketing/"
 -   지선버스: 5012, 5620, 5625, 6514, 6630, 6631
 -   마을버스: 영등포 03번, 영등포 04번
 
-![기브온 내한 공연장 오시는 길](https://ssangbak.com/wp-content/uploads/2025/11/20251127_210713-1-1.jpg)
+![기브온 내한 공연장 오시는 길](/wp-content/uploads/2025/11/20251127_210713-1-1.jpg)
 
 출처: NOL 티켓 기브온 공연 예매 공식 페이지
 

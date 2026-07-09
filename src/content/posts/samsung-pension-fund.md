@@ -7,7 +7,7 @@ permalink: "/samsung-pension-fund/"
 slugPath: "samsung-pension-fund"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/samsung-pension-fund.jpg"
+heroImage: "/wp-content/uploads/2026/05/samsung-pension-fund.jpg"
 originalUrl: "https://ssangbak.com/samsung-pension-fund/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/samsung-pension-fund/"
 복잡한 서류 제출 없이 비대면으로 간편하게 계좌를 개설하고 미래를 위한 투자를 시작해 보세요.
 
 [👉 삼성증권 연금저축펀드 가입](https://www.samsungpop.com/?MENU_CODE=M1382935649358)
-
-목차
-
-[Toggle](#)
-
 ## 📱 비대면 계좌개설 준비물
 
 계좌 개설을 시작하기 전에 몇 가지 필수 준비물을 미리 챙겨두시면 시간을 크게 단축할 수 있습니다.

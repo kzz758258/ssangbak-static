@@ -7,7 +7,7 @@ permalink: "/2026-hwangmaesan-azalea-festival-guide/"
 slugPath: "2026-hwangmaesan-azalea-festival-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-16.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-16.png"
 originalUrl: "https://ssangbak.com/2026-hwangmaesan-azalea-festival-guide/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/2026-hwangmaesan-azalea-festival-guide/"
 4월 말부터 5월 초까지 온 산이 분홍빛으로 물드는 **2026 황매산 철쭉 축제** 정보를 전해드립니다. 실시간 개화 상황과 주차 꿀팁, 그리고 숨겨진 벚꽃 명소까지 확인하여 완벽한 봄 여행을 준비해 보세요!
 
 안녕하세요! 매년 봄이면 많은 분의 마음을 설레게 하는 전국 3대 철쭉 명소, 황매산 소식을 들고 왔습니다. 올해는 조금 일찍 현장을 다녀왔는데요, 4월 18일 방문 기준 실시간 모습과 함께 축제를 알차게 즐길 수 있는 모든 정보를 정리해 드릴게요.
-
-목차
-
-[Toggle](#)
-
 ## 1\. 2026 합천 황매산 철쭉 축제 개요
 
 해발 1,108m에 달하는 황매산은 합천과 산청에 걸쳐 있는 영남의 영산입니다. 매년 이맘때면 산등성이가 온통 분홍빛으로 뒤덮여 장관을 이루는데요, 올해 축제 정보는 다음과 같습니다.

@@ -7,11 +7,11 @@ permalink: "/carbon-neutral-points-tumbler/"
 slugPath: "carbon-neutral-points-tumbler"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/carbon-neutral-points-tumbler-1.jpg"
+heroImage: "/wp-content/uploads/2026/01/carbon-neutral-points-tumbler-1.jpg"
 originalUrl: "https://ssangbak.com/carbon-neutral-points-tumbler/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/carbon-neutral-points-tumbler-1-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/carbon-neutral-points-tumbler-1-1024x1024.jpg)
 
 매일 마시는 커피 한 잔에 **현금 300원**이 자동으로 따라붙는 기분 좋은 변화를 시작하세요.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/carbon-neutral-points-tumbler/"
 지금 바로 환경도 지키고 지갑도 두둑하게 채워주는 탄소중립포인트의 모든 혜택을 완벽하게 내 것으로 만드세요.
 
 [👉 탄소중립포인트 참여하기](https://cpoint.or.kr/user/guide/registGuide.do)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ✅ **적립 금액**: 1회당 300원 / 연간 최대 7만 원

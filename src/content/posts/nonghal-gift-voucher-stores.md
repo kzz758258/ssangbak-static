@@ -7,11 +7,11 @@ permalink: "/nonghal-gift-voucher-stores/"
 slugPath: "nonghal-gift-voucher-stores"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/nonghal-gift-voucher-stores.jpg"
+heroImage: "/wp-content/uploads/2026/02/nonghal-gift-voucher-stores.jpg"
 originalUrl: "https://ssangbak.com/nonghal-gift-voucher-stores/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/nonghal-gift-voucher-stores.jpg)
+![](/wp-content/uploads/2026/02/nonghal-gift-voucher-stores.jpg)
 
 **농할상품권 가맹점**은 기본적으로 국산 농축산물을 판매하는 전통시장과 중소형 마트를 중심으로 지정되어 있습니다.
 
@@ -52,14 +52,9 @@ originalUrl: "https://ssangbak.com/nonghal-gift-voucher-stores/"
 **2026년 발행분 오프라인 전용**
 
 사용 불가 주의
-
-목차
-
-[Toggle](#)
-
 ## 📍 내 주변 가맹점 찾기
 
-![농할상품권 가맹점](https://ssangbak.com/wp-content/uploads/2026/02/image-30.png)
+![농할상품권 가맹점](/wp-content/uploads/2026/02/image-30.png)
 
 내가 살고 있는 동네에서 가장 가까운 **농할상품권 사용처**를 찾으려면 ‘지맵(Z-MAP)’ 앱을 활용하는 것이 가장 효율적입니다.
 
@@ -86,7 +81,7 @@ originalUrl: "https://ssangbak.com/nonghal-gift-voucher-stores/"
 
 ## 💡 구매 및 사용 방법
 
-![농할상품권 이용 가능 앱](https://ssangbak.com/wp-content/uploads/2026/02/image-29.png)
+![농할상품권 이용 가능 앱](/wp-content/uploads/2026/02/image-29.png)
 
 **농할상품권 사용 방법**은 비플페이 등 제로페이 결제가 가능한 앱을 통해 간편하게 진행할 수 있습니다.
 

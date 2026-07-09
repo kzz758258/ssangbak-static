@@ -7,11 +7,11 @@ permalink: "/senior-citizens-single-households-basic-pension/"
 slugPath: "senior-citizens-single-households-basic-pension"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-12.jpg"
+heroImage: "/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-12.jpg"
 originalUrl: "https://ssangbak.com/senior-citizens-single-households-basic-pension/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-12-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-12-1024x1024.jpg)
 
 노후 생활비에 대한 부담이 커지면서 **기초연금 수급 여부**는 많은 어르신과 가족들에게 매우 중요한 문제입니다.  
   
@@ -28,11 +28,6 @@ originalUrl: "https://ssangbak.com/senior-citizens-single-households-basic-pensi
 ✔ 받을 수 있는 경우·못 받는 경우  
 ✔ 신청 전 반드시 확인해야 할 체크포인트  
 까지 **한 번에 정리**해 드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 👴 기초연금이란? (노인 단독가구 기준)
 
 기초연금은 **만 65세 이상 어르신 중 소득과 재산이 일정 기준 이하인 경우 매월 현금으로 지급되는 연금 제도**입니다.  

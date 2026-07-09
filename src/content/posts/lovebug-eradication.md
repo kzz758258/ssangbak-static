@@ -7,7 +7,7 @@ permalink: "/lovebug-eradication/"
 slugPath: "lovebug-eradication"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/lovebug-eradication.jpg"
+heroImage: "/wp-content/uploads/2026/06/lovebug-eradication.jpg"
 originalUrl: "https://ssangbak.com/lovebug-eradication/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/lovebug-eradication/"
 정식 명칭이 ‘붉은등우단털파리’인 이 벌레는 독성이 없고 사람을 물지 않는 익충으로 분류되지만, 특유의 생김새와 무리를 지어 날아다니는 습성 때문에 심각한 혐오감을 유발합니다.
 
 2026년 최신 발생 트렌드와 효과적인 천연 방역 스프레이 제조법, 그리고 근본적인 실내 유입 차단 요령을 명확하게 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 🪰 1. 러브버그 출몰시기 및 주요 특징
 
 일반적인 러브버그 시기는 매년 6월 중순부터 시작되어 7월 초순까지 약 한 달 동안 집중적으로 나타납니다.

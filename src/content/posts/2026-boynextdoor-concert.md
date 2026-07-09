@@ -7,18 +7,13 @@ permalink: "/2026-boynextdoor-concert/"
 slugPath: "2026-boynextdoor-concert"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-51.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-51.png"
 originalUrl: "https://ssangbak.com/2026-boynextdoor-concert/"
 ---
 
 [👉 보넥도 콘서트 예매](https://tickets.interpark.com/contents/notice/detail/13831)
 
 [👉보넥도 콘서트 선예매](https://tickets.interpark.com/contents/notice/detail/13831)
-
-목차
-
-[Toggle](#)
-
 ## 보이넥스트도어와 함께하는 푸른 물결의 시작
 
 드디어 많은 팬이 손꼽아 기다려온 **보이넥스트도어 콘서트** 소식이 전해지며 벌써부터 온라인상의 열기가 뜨겁습니다. 이번 공연은 아티스트와 팬들이 한층 더 깊게 교감할 수 있는 다채로운 구성으로 기획되어, 예매 시작 전부터 이른바 ‘피켓팅’이라 불리는 치열한 경쟁이 예상되고 있습니다. **보이넥스트도어 콘서트**를 간절히 기다려온 분들을 위해, 티켓팅 성공 확률을 극대화할 수 있는 핵심 전략과 필수 정보를 상세히 정리해 드립니다.

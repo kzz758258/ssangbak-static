@@ -7,7 +7,7 @@ permalink: "/ancestral-land-search-method-guide/"
 slugPath: "ancestral-land-search-method-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/ancestral-land-search-method-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/ancestral-land-search-method-guide.jpg"
 originalUrl: "https://ssangbak.com/ancestral-land-search-method-guide/"
 ---
 
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/ancestral-land-search-method-guide/"
 [👉 조상땅 찾기 국토교통부 조회](https://kgeop.go.kr/myland/laf/getAncLadFind.do)
 
 [👉 증빙 서류 발급하기](https://efamily.scourt.go.kr/index.jsp)
-
-목차
-
-[Toggle](#)
-
 ## 👤온라인 신청 자격 및 제한
 
 온라인을 통한 **조상땅 찾기**는 사망한 토지 소유자의 재산 상속인이 직접 신청해야 합니다.

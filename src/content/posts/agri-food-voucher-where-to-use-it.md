@@ -7,11 +7,11 @@ permalink: "/agri-food-voucher-where-to-use-it/"
 slugPath: "agri-food-voucher-where-to-use-it"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Agri-food-voucher-Where-to-use-it.jpg"
+heroImage: "/wp-content/uploads/2026/01/Agri-food-voucher-Where-to-use-it.jpg"
 originalUrl: "https://ssangbak.com/agri-food-voucher-where-to-use-it/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Agri-food-voucher-Where-to-use-it-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Agri-food-voucher-Where-to-use-it-1024x1024.jpg)
 
 농식품바우처를 어디서 사용할 수 있는지 궁금하신가요?
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/agri-food-voucher-where-to-use-it/"
 [👉 오프라인 가맹점 조회](https://www.foodvoucher.go.kr/view/fm/useguide/ofLnUsedPlc)
 
 [👉 온라인 가맹점 조회](https://www.foodvoucher.go.kr/view/fm/useguide/onLnUsedPlc)
-
-목차
-
-[Toggle](#)
-
 ## 🏪 바우처 사용처
 
 ### 오프라인 매장

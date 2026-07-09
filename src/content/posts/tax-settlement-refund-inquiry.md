@@ -7,7 +7,7 @@ permalink: "/tax-settlement-refund-inquiry/"
 slugPath: "tax-settlement-refund-inquiry"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/tax-settlement-refund-inquiry-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/tax-settlement-refund-inquiry-1.jpg"
 originalUrl: "https://ssangbak.com/tax-settlement-refund-inquiry/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/tax-settlement-refund-inquiry/"
 내가 낸 세금을 돌려받는 기분 좋은 과정인 만큼, **2026 연말정산 환급금 조회방법**을 정확히 알고 준비하는 것이 중요합니다.
 
 [👉 연말정산 환급금 조회하기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&menuCd=index3)
-
-목차
-
-[Toggle](#)
-
 ## 💰 환급금 지급일 및 입금 방식
 
 정산 결과가 확정되었다면 이제 가장 기다려지는 것은 실제 **지급일**이 언제인가 하는 점일 것입니다.

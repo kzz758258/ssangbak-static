@@ -7,7 +7,7 @@ permalink: "/energy-voucher-application/"
 slugPath: "energy-voucher-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/07/energy-voucher-application.jpg"
+heroImage: "/wp-content/uploads/2026/07/energy-voucher-application.jpg"
 originalUrl: "https://ssangbak.com/energy-voucher-application/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/energy-voucher-application/"
 올해부터는 하절기와 동절기 금액 한도 구분이 폐지되어 사용 기간 내에 원하는 대로 자유롭게 이월하여 쓸 수 있으므로, 정확한 에너지바우처 신청자격 요건을 파악하고 조기에 접수하는 것이 무엇보다 중요합니다.
 
 [👉 에너지바우처 신청하기](https://www.energyv.or.kr/info/apl_info.do)
-
-목차
-
-[Toggle](#)
-
 ## 👥 1. 2026 에너지바우처 신청대상 및 자격 요건
 
 에너지바우처 혜택을 받기 위해서는 기본 소득기준과 가구 내 세대원 특성기준을 모두 예외 없이 충족해야 합니다.

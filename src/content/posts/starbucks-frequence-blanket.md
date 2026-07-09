@@ -7,11 +7,11 @@ permalink: "/starbucks-frequence-blanket/"
 slugPath: "starbucks-frequence-blanket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-002.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-002.jpg"
 originalUrl: "https://ssangbak.com/starbucks-frequence-blanket/"
 ---
 
-![현재 이미지: 스타벅스 프리퀀시](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-002-1024x1024.jpg)
+![현재 이미지: 스타벅스 프리퀀시](/wp-content/uploads/2025/11/제목을-입력해주세요_-002-1024x1024.jpg)
 
 2025년 겨울, 스타벅스의 대표적인 시즌 한정 이벤트인 **e-프리퀀시**가 다시 돌아왔습니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/starbucks-frequence-blanket/"
 **2025 스타벅스 프리퀀시 이벤트의 상세한 참여 방법**, **블랭킷 수령 조건**, **이벤트 기간** 등을 총정리해 드리겠습니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 🎯 이벤트 개요
 
 항목
@@ -98,11 +93,11 @@ e-스티커 5개 추가 적립 시 2차 굿즈 선택 가능
     -   딜리버스 주문: 10/30~11/5 기간 내 최대 10잔
 -   매장 내 주문 또는 앱/사이렌오더/딜리버스 모두 적립 가능
 
-![스타벅스 프리퀀시 블랭킷 상세정보](https://ssangbak.com/wp-content/uploads/2025/11/20251118_171228-1.jpg)
+![스타벅스 프리퀀시 블랭킷 상세정보](/wp-content/uploads/2025/11/20251118_171228-1.jpg)
 
 출처: 스타벅스 이벤트 홈페이지
 
-![스타벅스 프리퀀시 상세이미지](https://ssangbak.com/wp-content/uploads/2025/11/20251118_171224-2.jpg)
+![스타벅스 프리퀀시 상세이미지](/wp-content/uploads/2025/11/20251118_171224-2.jpg)
 
 출처: 스타벅스 이벤트 홈페이지
 
@@ -171,11 +166,11 @@ e-스티커 5개 추가 적립 시 2차 굿즈 선택 가능
 
 * * *
 
-![스타벅스 프리퀀시 상세이미지 2](https://ssangbak.com/wp-content/uploads/2025/11/20251118_171218-1.jpg)
+![스타벅스 프리퀀시 상세이미지 2](/wp-content/uploads/2025/11/20251118_171218-1.jpg)
 
 출처: 스타벅스 이벤트 홈페이지
 
-![스타벅스 프리퀀시 상세이미지 3](https://ssangbak.com/wp-content/uploads/2025/11/20251118_171221.jpg)
+![스타벅스 프리퀀시 상세이미지 3](/wp-content/uploads/2025/11/20251118_171221.jpg)
 
 출처: 스타벅스 이벤트 홈페이지
 

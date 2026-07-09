@@ -7,11 +7,11 @@ permalink: "/hwadam-forest-reservation-method-2025/"
 slugPath: "hwadam-forest-reservation-method-2025"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/hwadam-forest-reservation-method-2025.jpg"
+heroImage: "/wp-content/uploads/2025/11/hwadam-forest-reservation-method-2025.jpg"
 originalUrl: "https://ssangbak.com/hwadam-forest-reservation-method-2025/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/hwadam-forest-reservation-method-2025-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/hwadam-forest-reservation-method-2025-1024x1024.jpg)
 
 _– 계절마다 다른 감동, 실수 없이 100% 예약 성공하는 법_
 
@@ -23,11 +23,11 @@ _– 계절마다 다른 감동, 실수 없이 100% 예약 성공하는 법_
   
 **처음 방문하는 분도, 지난번 실패한 분께도 도움이 되었으면 좋겠습니다.**
 
-![화담숲 풍경1](https://ssangbak.com/wp-content/uploads/2025/11/20251113_194222-1.jpg)
+![화담숲 풍경1](/wp-content/uploads/2025/11/20251113_194222-1.jpg)
 
 출처: 화담숲 홈페이지
 
-![화담숲 풍경2](https://ssangbak.com/wp-content/uploads/2025/11/20251113_194627-1.jpg)
+![화담숲 풍경2](/wp-content/uploads/2025/11/20251113_194627-1.jpg)
 
 출처: 화담숲 홈페이지
 
@@ -44,12 +44,7 @@ _– 계절마다 다른 감동, 실수 없이 100% 예약 성공하는 법_
 >   
 > 현장 발권은 없으며, 예약 없이 방문하면 입장이 불가능합니다.
 
-![화담숲 휴원 일정](https://ssangbak.com/wp-content/uploads/2025/11/image-77.png)
-
-목차
-
-[Toggle](#)
-
+![화담숲 휴원 일정](/wp-content/uploads/2025/11/image-77.png)
 ## 📅 2026년 화담숲 운영 기간 & 시즌별 예약 일정
 
 📅 2026년 화답숲은 다음과 같이 운영될 것으로 예상 됩니다:
@@ -148,7 +143,7 @@ _– 계절마다 다른 감동, 실수 없이 100% 예약 성공하는 법_
 -   예약 시작 시간에 맞춰 **스마트폰과 PC 두 군데 동시에 대기**
 -   크롬, 사파리 등 서로 다른 브라우저를 띄워두는 것도 경쟁력
 
-![화담숲 지도](https://ssangbak.com/wp-content/uploads/2025/11/20251113_194505-1024x682.jpg)
+![화담숲 지도](/wp-content/uploads/2025/11/20251113_194505-1024x682.jpg)
 
 출처: 화담숲 홈페이지
 
@@ -194,11 +189,11 @@ _– 계절마다 다른 감동, 실수 없이 100% 예약 성공하는 법_
 -   지역 특산물, 친환경 식물 기념품 구매 가능
 -   숲 뷰를 바라보며 즐기는 \*\*카페 ‘숲담’\*\*은 숨겨진 명소
 
-![화담숲 풍경3](https://ssangbak.com/wp-content/uploads/2025/11/20251113_194623.jpg)
+![화담숲 풍경3](/wp-content/uploads/2025/11/20251113_194623.jpg)
 
 출처: 화담숲 홈페이지
 
-![화담숲 풍경4](https://ssangbak.com/wp-content/uploads/2025/11/20251113_194217-2.jpg)
+![화담숲 풍경4](/wp-content/uploads/2025/11/20251113_194217-2.jpg)
 
 출처: 화담숲 홈페이지
 
@@ -234,7 +229,7 @@ _– 계절마다 다른 감동, 실수 없이 100% 예약 성공하는 법_
 
 가능합니다. 20인 이상 단체는 별도 문의를 통해 예약 가능하며, **단체전용 코스 운영**도 진행됩니다.
 
-![화담숲 관람 동선](https://ssangbak.com/wp-content/uploads/2025/11/20251113_194128-1024x528.jpg)
+![화담숲 관람 동선](/wp-content/uploads/2025/11/20251113_194128-1024x528.jpg)
 
 출처: 화담숲 홈페이지
 

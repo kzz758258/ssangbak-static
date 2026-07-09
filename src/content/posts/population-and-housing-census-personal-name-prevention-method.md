@@ -7,11 +7,11 @@ permalink: "/population-and-housing-census-personal-name-prevention-method/"
 slugPath: "population-and-housing-census-personal-name-prevention-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-9.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-9.jpg"
 originalUrl: "https://ssangbak.com/population-and-housing-census-personal-name-prevention-method/"
 ---
 
-![현재 이미지: 인구주택총조사 사칭](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-9-1024x576.jpg)
+![현재 이미지: 인구주택총조사 사칭](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-9-1024x576.jpg)
 
 최근 인구주택총조사 시즌을 악용한 **조사원 사칭·스미싱·큐싱 사기**가 다수 포착되고 있습니다.
 
@@ -52,11 +52,6 @@ originalUrl: "https://ssangbak.com/population-and-housing-census-personal-name-p
     -   불분명한 웹사이트나 앱은 모두 피싱 위험이 있음.
 5.  **문자 받은 경우, 118 스팸신고센터나 통계청에 문의**
     -   신고를 통해 2차 피해를 예방할 수 있음.
-
-목차
-
-[Toggle](#)
-
 ## ❓ 사람들이 가장 많이 묻는 질문 (Q&A)
 
 ### Q1. 문자로 받은 인구주택총조사 링크, 진짜일까요?

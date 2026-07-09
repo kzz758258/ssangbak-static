@@ -7,7 +7,7 @@ permalink: "/earned-income-tax-credit-eligibility-guide/"
 slugPath: "earned-income-tax-credit-eligibility-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/earned-income-tax-credit-eligibility-guide-1-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/earned-income-tax-credit-eligibility-guide-1-1.jpg"
 originalUrl: "https://ssangbak.com/earned-income-tax-credit-eligibility-guide/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/earned-income-tax-credit-eligibility-guide/"
 [👉 근로장려금 대상자 조회하기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&menuCd=UTEWFZH0A001)
 
 [👉 2026 근로장려금 신청기간](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=238977&mi=40397)
-
-목차
-
-[Toggle](#)
-
 ## 💰 근로장려금이란?
 
 **근로장려금**이란 열심히 일은 하지만 소득이 적어 생활이 어려운 근로자, 종교인, 사업자 가구에 현금을 지원하는 복지 제도입니다.

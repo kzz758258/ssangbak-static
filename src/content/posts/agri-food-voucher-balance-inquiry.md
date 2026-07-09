@@ -7,11 +7,11 @@ permalink: "/agri-food-voucher-balance-inquiry/"
 slugPath: "agri-food-voucher-balance-inquiry"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Agri-food-voucher-Balance-inquiry.jpg"
+heroImage: "/wp-content/uploads/2026/01/Agri-food-voucher-Balance-inquiry.jpg"
 originalUrl: "https://ssangbak.com/agri-food-voucher-balance-inquiry/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Agri-food-voucher-Balance-inquiry-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Agri-food-voucher-Balance-inquiry-1024x1024.jpg)
 
 농식품바우처를 사용하다 보면 현재 얼마나 남았는지 확인이 필요하실 텐데요.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/agri-food-voucher-balance-inquiry/"
 지금부터 3가지 잔액 조회 방법을 상세히 안내해드리겠습니다.
 
 [👉 농식품바우처 잔액조회](https://www.foodvoucher.go.kr/view/fma/ordmypg/myPage)
-
-목차
-
-[Toggle](#)
-
 ## 📞 ARS 전화 조회
 
 ### 24시간 자동 조회

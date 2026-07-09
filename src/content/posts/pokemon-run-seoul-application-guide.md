@@ -7,11 +7,11 @@ permalink: "/pokemon-run-seoul-application-guide/"
 slugPath: "pokemon-run-seoul-application-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/pokemon-run-seoul-application-guide-1-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/pokemon-run-seoul-application-guide-1-1.jpg"
 originalUrl: "https://ssangbak.com/pokemon-run-seoul-application-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/pokemon-run-seoul-application-guide-1-1.jpg)
+![](/wp-content/uploads/2026/02/pokemon-run-seoul-application-guide-1-1.jpg)
 
 **포켓몬런 2026 서울** (잉어킹 런)에 참여하여 피카츄, 잉어킹과 함께 한강변을 달릴 준비가 되셨나요?
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/pokemon-run-seoul-application-guide/"
 준비된 정보를 꼼꼼히 확인하셔서 티켓 예매 전쟁에서 승리하고 즐거운 추억을 만드시기 바랍니다.
 
 [👉 포켓몬런 2026 서울 신청하기](https://shop.tworld.co.kr/exhibition/view?exhibitionId=P00000498)
-
-목차
-
-[Toggle](#)
-
 ## 📅 행사 일정 및 장소 정보
 
-![포켓몬런 2026 서울](https://ssangbak.com/wp-content/uploads/2026/02/image-73.png)
+![포켓몬런 2026 서울](/wp-content/uploads/2026/02/image-73.png)
 
 이번 **포켓몬런 2026 서울**은 가족과 연인들이 함께 즐길 수 있도록 특별한 날짜와 장소에서 개최됩니다.
 

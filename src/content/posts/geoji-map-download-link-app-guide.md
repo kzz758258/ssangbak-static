@@ -7,7 +7,7 @@ permalink: "/geoji-map-download-link-app-guide/"
 slugPath: "geoji-map-download-link-app-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/geoji-map-download-link-app-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/04/geoji-map-download-link-app-guide-1.jpg"
 originalUrl: "https://ssangbak.com/geoji-map-download-link-app-guide/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/geoji-map-download-link-app-guide/"
 오늘 포스팅을 통해 어플 설치 방법과 실시간 지도 접속 경로를 상세히 안내해 드립니다.
 
 [👉 거지맵 사이트 바로가기](https://xn--v69ak0xskm.com/)
-
-목차
-
-[Toggle](#)
-
 ## 📍 거지맵 서비스란?
 
 거지맵은 이른바 ‘거지방’이라 불리는 오픈채팅방에서 시작된 집단지성 기반의 공유 지도 서비스입니다.

@@ -7,7 +7,7 @@ permalink: "/msi-match-schedule/"
 slugPath: "msi-match-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/msi-match-schedule.jpg"
+heroImage: "/wp-content/uploads/2026/05/msi-match-schedule.jpg"
 originalUrl: "https://ssangbak.com/msi-match-schedule/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/msi-match-schedule/"
 이번 대회의 세부 타임테이블을 미리 확인하시고 단 하나의 명경기 예선부터 결승까지 놓치지 마시기 바랍니다.
 
 [👉 2026 MSI 경기 전체 일정](https://search.naver.com/p/crd/rd?m=1&px=372&py=351&sx=372&sy=351&vw=1536&vh=695&bw=672&bh=304&bx=163&by=188&p=jmafxwqosNossFqDomo-006176&q=2026+MSI+%EA%B2%BD%EA%B8%B0+%EC%9D%BC%EC%A0%95&ie=utf8&rev=1&ssc=tab.nx.all&f=nexearch&w=nexearch&s=ex5LaiDjKATOtlt6aHnopgxX&time=1779520202734&abt=%5B%7B%22eid%22%3A%22N-AIB-COV-26-AD%22%2C%22vid%22%3A%223%22%7D%5D&a=nco_xdh*1.taballinfo&r=1&i=881857c3_000000000000&u=https%3A%2F%2Fgame.naver.com%2Fesports%2FLeague_of_Legends%2Fschedule%2Fmsi&cr=1)
-
-목차
-
-[Toggle](#)
-
 ## 📍 대회 장소 및 개요
 
 이번 미드 시즌 인비테이셔널은 화려한 교통의 중심지인 대전광역시에서 전 세계 e스포츠 팬들을 맞이합니다.

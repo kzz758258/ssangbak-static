@@ -7,7 +7,7 @@ permalink: "/half-price-travel-guide/"
 slugPath: "half-price-travel-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-24.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-24.png"
 originalUrl: "https://ssangbak.com/half-price-travel-guide/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/half-price-travel-guide/"
 [반값 여행 신청하기](https://ssangbak.com/half-price-travel-application/)
 
 최근 국내 여행을 계획 중인 분들에게 반가운 소식이 있습니다. 바로 여행 경비의 상당 부분을 돌려받을 수 있는 **전국 반값 여행 지원금** 제도입니다. 숙박, 식사, 각종 체험 활동비까지 포함하여 지출한 금액의 절반을 환급받을 수 있는 이 제도는 고물가 시대에 여행객들의 부담을 획기적으로 줄여주고 있습니다. 이번 포스팅에서는 신청 자격부터 절차, 지원 대상 지역까지 상세히 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 전국 반값 여행 지원금의 핵심 혜택
 
 이번 지원 사업의 가장 큰 매력은 여행 비용의 **50%를 현금처럼 사용 가능한 지역화폐로 환급**해 준다는 점입니다. 특히 연령대와 가구 구성에 따라 더 큰 혜택을 누릴 수 있습니다.

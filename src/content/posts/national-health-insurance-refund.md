@@ -7,11 +7,11 @@ permalink: "/national-health-insurance-refund/"
 slugPath: "national-health-insurance-refund"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/national-health-insurance-refund.jpg"
+heroImage: "/wp-content/uploads/2026/02/national-health-insurance-refund.jpg"
 originalUrl: "https://ssangbak.com/national-health-insurance-refund/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/national-health-insurance-refund.jpg)
+![](/wp-content/uploads/2026/02/national-health-insurance-refund.jpg)
 
 **국민건강보험 환급금 조회방법**을 미리 알고 계신다면 생각지도 못한 수십만 원 이상의 **병원비 환급액**을 즉시 통장으로 돌려받을 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/national-health-insurance-refund/"
 오늘 가이드를 통해 소중한 내 돈이 **소멸**되기 전에 1원 한 장까지 남김없이 찾아가는 확실한 방법을 알려드립니다.
 
 [👉 국민건강보험 환급금 조회](https://www.nhis.or.kr/nhis/minwon/retrieveHwangub.do)
-
-목차
-
-[Toggle](#)
-
 ## 💰 환급금 기준 및 대상
 
 **국민건강보험환급금 대상자**는 한 해 동안 본인이 부담한 의료비가 소득 수준별 상한액을 초과한 모든 가입자를 포함합니다.

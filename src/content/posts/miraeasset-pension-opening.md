@@ -7,7 +7,7 @@ permalink: "/miraeasset-pension-opening/"
 slugPath: "miraeasset-pension-opening"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/miraeasset-pension-opening.jpg"
+heroImage: "/wp-content/uploads/2026/05/miraeasset-pension-opening.jpg"
 originalUrl: "https://ssangbak.com/miraeasset-pension-opening/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/miraeasset-pension-opening/"
 복잡한 서류 제출 없이 지점 방문의 번거로움을 한 번에 해결할 수 있는 가장 신속한 가이드를 확인해 보세요.
 
 [👉 미래에셋 연금저축펀드 가입](https://securities.miraeasset.com/hkp/hkp1004/n01.do)
-
-목차
-
-[Toggle](#)
-
 ## 📝 개설 전 필수 준비물
 
 계좌 개설을 막힘없이 빠르게 진행하기 위해서는 몇 가지 준비물을 미리 챙겨두는 것이 좋습니다.

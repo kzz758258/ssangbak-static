@@ -7,16 +7,11 @@ permalink: "/musical-anna-karenina-casting-reservation/"
 slugPath: "musical-anna-karenina-casting-reservation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/musical-anna-karenina-casting-reservation-2.jpg"
+heroImage: "/wp-content/uploads/2026/02/musical-anna-karenina-casting-reservation-2.jpg"
 originalUrl: "https://ssangbak.com/musical-anna-karenina-casting-reservation/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/musical-anna-karenina-casting-reservation-2.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/02/musical-anna-karenina-casting-reservation-2.jpg)
 ## 🎭 세종에서 만나는 러시아 명작
 
 러시아의 대문호 톨스토이의 원작을 무대로 옮긴 **뮤지컬 안나 카레니나**가 드디어 관객들을 찾아옵니다.
@@ -74,7 +69,7 @@ originalUrl: "https://ssangbak.com/musical-anna-karenina-casting-reservation/"
 
 ## 🌟 눈을 뗄 수 없는 화려한 캐스팅
 
-![안나 카레니나 캐스팅](https://ssangbak.com/wp-content/uploads/2026/02/image-72-1024x531.png)
+![안나 카레니나 캐스팅](/wp-content/uploads/2026/02/image-72-1024x531.png)
 
 이번 시즌 **뮤지컬 안나 카레니나**는 그야말로 대한민국 뮤지컬계의 보석 같은 배우들이 총출동했습니다.
 

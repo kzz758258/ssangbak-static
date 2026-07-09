@@ -7,22 +7,17 @@ permalink: "/seoul-love-gift-certificate-purchase/"
 slugPath: "seoul-love-gift-certificate-purchase"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/seoul-love-gift-certificate-purchase.jpg"
+heroImage: "/wp-content/uploads/2026/02/seoul-love-gift-certificate-purchase.jpg"
 originalUrl: "https://ssangbak.com/seoul-love-gift-certificate-purchase/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/seoul-love-gift-certificate-purchase.jpg)
+![](/wp-content/uploads/2026/02/seoul-love-gift-certificate-purchase.jpg)
 
 매달 나가는 생활비를 7% 이상 아끼는 가장 똑똑한 비결은 바로 **서울사랑상품권 구매 방법**을 완벽히 익히는 것입니다.
 
 확실한 할인 혜택으로 지갑의 부담은 덜고 쇼핑의 즐거움은 두 배로 늘어나는 기분 좋은 변화를 지금 바로 경험해 보세요.
 
 [👉 서울사랑상품권 구매하기](https://store.beple.co.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 📱 서울사랑상품권 구매 방법
 
 서울사랑상품권을 구매하기 위해서는 가장 먼저 **서울페이플러스(Seoul Pay+)** 앱을 스마트폰에 설치해야 합니다.
@@ -72,7 +67,7 @@ originalUrl: "https://ssangbak.com/seoul-love-gift-certificate-purchase/"
 
 ## 📍 서울사랑상품권 사용처 및 가맹점 찾기
 
-![서울사랑상품권 사용처](https://ssangbak.com/wp-content/uploads/2026/02/image-31.png)
+![서울사랑상품권 사용처](/wp-content/uploads/2026/02/image-31.png)
 
 상품권을 구매했다면 이제 어디서 사용할 수 있는지 정확한 **서울사랑상품권 사용처**를 확인해야 합니다.
 

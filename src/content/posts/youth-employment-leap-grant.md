@@ -7,11 +7,11 @@ permalink: "/youth-employment-leap-grant/"
 slugPath: "youth-employment-leap-grant"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/youth-employment-leap-grant.jpg"
+heroImage: "/wp-content/uploads/2026/02/youth-employment-leap-grant.jpg"
 originalUrl: "https://ssangbak.com/youth-employment-leap-grant/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/youth-employment-leap-grant-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/youth-employment-leap-grant-1024x1024.jpg)
 
 **청년일자리도약장려금**은 기업에는 인건비 부담을 줄여주고, 청년에게는 안정적인 일자리와 장기근속의 기회를 제공하는 2026년 핵심 고용 지원 사업입니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/youth-employment-leap-grant/"
 **청년일자리도약장려금 신청 자격 조건 및 1,200만원 수령법**의 모든 핵심 정보를 정리했습니다.
 
 [👉 청년일자리도약장려금 신청](https://www.work24.go.kr/wk/k/h/1200/retrieveYngJumpIndivSptfndIntro.do)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 지원 금액

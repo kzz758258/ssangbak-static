@@ -7,16 +7,11 @@ permalink: "/electric-vehicle-conversion-subsidy/"
 slugPath: "electric-vehicle-conversion-subsidy"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-11.jpg"
+heroImage: "/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-11.jpg"
 originalUrl: "https://ssangbak.com/electric-vehicle-conversion-subsidy/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-11-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-11-1024x1024.jpg)
 ## 💰 2026년, 전기차 살 때 100만원 더 받는다
 
 올해부터 전기차 구매 시 받을 수 있는 보조금이 확 늘어났습니다.
@@ -372,7 +367,7 @@ originalUrl: "https://ssangbak.com/electric-vehicle-conversion-subsidy/"
 -   심사 완료 후 14일 이내 지급
 -   대부분 차량 구매 가격에서 미리 차감
 
-![전기차 보조금 신청절차](https://ssangbak.com/wp-content/uploads/2026/01/image-1-1024x452.png)
+![전기차 보조금 신청절차](/wp-content/uploads/2026/01/image-1-1024x452.png)
 
 출처: 무공해차 통합누리집
 

@@ -7,18 +7,13 @@ permalink: "/2026-durunuri-support-application/"
 slugPath: "2026-durunuri-support-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-20.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-20.png"
 originalUrl: "https://ssangbak.com/2026-durunuri-support-application/"
 ---
 
 [두루누리지원금 신청하기](http://insurancesupport.or.kr/request/step.php)
 
 사업을 운영하거나 처음 사회생활을 시작한 분들이라면 매달 나가는 사회보험료가 부담스러울 수밖에 없죠. **2026년 최신 두루누리지원금 신청 방법과 대상, 기간을 완벽 정리했습니다.** 소규모 사업장과 근로자의 보험료 부담을 획기적으로 줄여주는 이 혜택을 놓치지 말고 지금 바로 확인해 보세요!
-
-목차
-
-[Toggle](#)
-
 ## 두루누리지원금이란 무엇인가요?
 
 **두루누리지원금은 소규모 사업장과 저소득 근로자의 경제적 부담을 덜어주기 위해 국가에서 사회보험료의 일부를 지원하는 제도입니다.** 고용보험과 국민연금 보험료를 지원하여 사회보험 사각지대를 해소하는 것이 목적입니다.

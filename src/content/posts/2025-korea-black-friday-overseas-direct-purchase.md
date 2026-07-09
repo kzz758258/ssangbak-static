@@ -7,11 +7,11 @@ permalink: "/2025-korea-black-friday-overseas-direct-purchase/"
 slugPath: "2025-korea-black-friday-overseas-direct-purchase"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-17.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-17.jpg"
 originalUrl: "https://ssangbak.com/2025-korea-black-friday-overseas-direct-purchase/"
 ---
 
-![현재 이미지: 한국 블랙프라이데이 해외 직구](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-17-1024x576.jpg)
+![현재 이미지: 한국 블랙프라이데이 해외 직구](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-17-1024x576.jpg)
 
 _– 지금 준비해야 늦지 않는다! 관세, 배송, 사이트까지 A to Z_
 
@@ -23,11 +23,6 @@ _– 지금 준비해야 늦지 않는다! 관세, 배송, 사이트까지 A to 
 하지만 매년 많은 사람들이 **관세, 배송 지연, 사이트 오류** 등으로 아까운 시간을 허비하거나 예상보다 더 많은 금액을 지불하는 실수를 하곤 합니다.
 
 **처음 직구에 도전하는 초보자부터, 전략적으로 움직이고 싶은 숙련자까지** 도움이 되길 바라는 마음에서 2025년 최신 기준의 **한국 블랙프라이데이 해외 직구 가이드**를 준비해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🛒 해외 직구, 왜 블랙프라이데이에 해야 할까?
 
 블랙프라이데이는 **미국 최대 쇼핑 시즌**으로, 브랜드의 본사·공식 온라인몰에서 **정가 대비 최대 80%까지 할인**을 적용하는 대형 행사입니다.

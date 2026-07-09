@@ -7,11 +7,11 @@ permalink: "/ai-job-series-10/"
 slugPath: "ai-job-series-10"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-11-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-11-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-10/"
 ---
 
-![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-11-1.jpg](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-11-1-1024x1024.jpg)
+![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-11-1.jpg](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-11-1-1024x1024.jpg)
 
 AI 기술이 업무 전반에 깊숙이 들어온 2025년,  
 경력직 이직 시장은 이전과 완전히 다른 기준으로 움직입니다.  
@@ -21,11 +21,6 @@ AI 기술이 업무 전반에 깊숙이 들어온 2025년,
 이번 10편에서는 AI 시대에 경력직이 성공적으로 이직하기 위해 반드시 알아야 할 **실전 전략 8가지**를 깊이 있게 다룹니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. 이제 “경력 연차”보다 “업무 임팩트”가 중요하다
 
 2025년 기업은 더 이상  

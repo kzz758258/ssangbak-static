@@ -7,11 +7,11 @@ permalink: "/milano-winter-olympics-schedule/"
 slugPath: "milano-winter-olympics-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/milano-winter-olympics-schedule-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/milano-winter-olympics-schedule-1.jpg"
 originalUrl: "https://ssangbak.com/milano-winter-olympics-schedule/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/milano-winter-olympics-schedule-1.jpg)
+![](/wp-content/uploads/2026/02/milano-winter-olympics-schedule-1.jpg)
 
 2026년 이탈리아의 설원 위에서 펼쳐지는 밀라노 동계올림픽 일정 정보를 통해 대한민국 선수단의 금빛 질주를 실시간으로 확인하고 감동의 순간을 함께 누리실 수 있습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/milano-winter-olympics-schedule/"
 [👉 밀라노 동계올림픽 중계보기](https://chzzk.naver.com/home/sports/milano-cortina-2026)
 
 [👉 밀라노 동계올림픽 메달순위보기](https://m.sports.naver.com/milanocortina2026/medals?pageType=COUNTRY&sortType=goldMedal)
-
-목차
-
-[Toggle](#)
-
 ## 🗓️일자별 경기 스케줄
 
 밀라노 동계올림픽 일정 확인은 승리를 위한 첫걸음입니다.

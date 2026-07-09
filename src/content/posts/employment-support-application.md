@@ -7,11 +7,11 @@ permalink: "/employment-support-application/"
 slugPath: "employment-support-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/hope-return-package-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/hope-return-package-guide-1.jpg"
 originalUrl: "https://ssangbak.com/employment-support-application/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/hope-return-package-guide-1-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/hope-return-package-guide-1-1024x1024.jpg)
 
 **최대 300만 원**의 구직촉진수당을 받으며 맞춤형 취업 지원 서비스까지 누릴 수 있는 2026년 국민취업지원제도를 소개합니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/employment-support-application/"
 [👉 고용24 구직신청](https://www.work24.go.kr/cm/main.do)
 
 [👉 국민취업지원제도 신청](https://m.work24.go.kr/ua/z/z/1300/selectEmssRqutIntro.do#none)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 지원 혜택

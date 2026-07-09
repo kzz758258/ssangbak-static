@@ -7,16 +7,11 @@ permalink: "/2026-jeju-grandparent-care-allowance/"
 slugPath: "2026-jeju-grandparent-care-allowance"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-35.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-35.png"
 originalUrl: "https://ssangbak.com/2026-jeju-grandparent-care-allowance/"
 ---
 
 [손주돌봄수당 신청하기](https://www.jeju.go.kr/lifecycle/policy/list.htm?act=view&seq=103)
-
-목차
-
-[Toggle](#)
-
 ## 제주 손주돌봄수당 도입 배경과 의미
 
 맞벌이 가정이 늘어나면서 독박 육아나 양육 공백 문제로 고민하는 부모님들이 많습니다. 이러한 현실적인 어려움을 덜어주기 위해 **2026년부터 제주도에서는 조부모님이 아이를 돌보는 가정에 ‘제주 손주돌봄수당’을 지급하기 시작합니다.** 그동안 조부모님의 육아 헌신은 당연시되는 경향이 있었으나, 이번 정책은 그 수고를 공식적으로 인정하고 경제적인 지원을 제공한다는 점에서 큰 의미가 있습니다. 단순히 현금을 지원하는 것을 넘어, 가족 돌봄의 가치를 존중하고 제주의 양육 환경을 개선하려는 의지가 담겨 있습니다.

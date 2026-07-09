@@ -7,7 +7,7 @@ permalink: "/kbank-yeopdduk-event-guide/"
 slugPath: "kbank-yeopdduk-event-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/kbank-yeopdduk-event-guide.jpg"
+heroImage: "/wp-content/uploads/2026/06/kbank-yeopdduk-event-guide.jpg"
 originalUrl: "https://ssangbak.com/kbank-yeopdduk-event-guide/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/kbank-yeopdduk-event-guide/"
 지금부터 선착순으로 마감되는 엽떡 쿠폰 발급 방법부터 링크 품앗이 참여 요령, 그리고 실제 엽떡 앱에서의 사용방법까지 실전 가이드를 전해드립니다.
 
 [👉 케이뱅크 엽떡 이벤트 참여](https://m.kbanknow.com/banking/k/ndir6r0)
-
-목차
-
-[Toggle](#)
-
 ## 🌶️ 2026 케이뱅크 엽떡 이벤트 개요 및 참여 방법
 
 케이뱅크 엽떡 이벤트는 케이뱅크 앱을 사용하는 기존 회원과 신규 가입자 모두가 참여할 수 있는 파격적인 제휴 프로모션입니다.

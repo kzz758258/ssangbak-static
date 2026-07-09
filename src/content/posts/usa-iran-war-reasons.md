@@ -7,16 +7,11 @@ permalink: "/usa-iran-war-reasons/"
 slugPath: "usa-iran-war-reasons"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/Professional_news_thumbnail_image_for_WordPress_bl-1772622409870-1-1-1024x1024.png"
+heroImage: "/wp-content/uploads/2026/03/Professional_news_thumbnail_image_for_WordPress_bl-1772622409870-1-1-1024x1024.png"
 originalUrl: "https://ssangbak.com/usa-iran-war-reasons/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/Professional_news_thumbnail_image_for_WordPress_bl-1772622409870-1-1-1024x1024.png)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/03/Professional_news_thumbnail_image_for_WordPress_bl-1772622409870-1-1-1024x1024.png)
 ## ⚠️ 중동의 화약고 미국 이란 갈등
 
 많은 분이 중동의 뉴스에서 접하는 미국 이란 전쟁 이유는 단순한 감정싸움이 아닌 수십 년간 쌓인 복잡한 이해관계의 산물입니다.
@@ -81,7 +76,7 @@ originalUrl: "https://ssangbak.com/usa-iran-war-reasons/"
 
 상호 동등한 지위에서의 대화
 
-![미국 이란 갈등](https://ssangbak.com/wp-content/uploads/2026/03/image.png)
+![미국 이란 갈등](/wp-content/uploads/2026/03/image.png)
 
 ## 🌏 중동 정세의 변화와 대리전
 

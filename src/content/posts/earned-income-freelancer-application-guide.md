@@ -7,7 +7,7 @@ permalink: "/earned-income-freelancer-application-guide/"
 slugPath: "earned-income-freelancer-application-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/earned-income-freelancer-application-guide-1-2.jpg"
+heroImage: "/wp-content/uploads/2026/02/earned-income-freelancer-application-guide-1-2.jpg"
 originalUrl: "https://ssangbak.com/earned-income-freelancer-application-guide/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/earned-income-freelancer-application-guide/"
 지금부터 2026년 최신 지침을 바탕으로 **프리랜서**가 반드시 알아야 할 **신청방법**과 자격 요건을 완벽하게 정리해 드리겠습니다.
 
 [👉 2026 근로장려금 신청하기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&menuCd=index3)
-
-목차
-
-[Toggle](#)
-
 ## 🏢 사업자등록증 유무에 따른 신청 가이드
 
 많은 분이 오해하시는 부분 중 하나가 반드시 **사업자등록증**이 있어야만 장려금을 받을 수 있다고 생각하는 것입니다.

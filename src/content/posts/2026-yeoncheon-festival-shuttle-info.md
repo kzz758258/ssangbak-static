@@ -7,7 +7,7 @@ permalink: "/2026-yeoncheon-festival-shuttle-info/"
 slugPath: "2026-yeoncheon-festival-shuttle-info"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-3.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-3.png"
 originalUrl: "https://ssangbak.com/2026-yeoncheon-festival-shuttle-info/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/2026-yeoncheon-festival-shuttle-info/"
 [축제 셔틀버스 시간표 확인하기](https://www.yeoncheon.go.kr/festival/contents.do?key=4079)
 
 5월의 따스한 햇살 아래, 수만 년 전 구석기 시대로의 시간 여행을 떠날 수 있는 특별한 기회가 찾아옵니다. 경기도 연천의 대표적인 축제이자 역사 교육의 산실인 **2026 연천구석기축제**가 전곡리 유적지에서 화려하게 개최됩니다. 가족, 연인과 함께 잊지 못할 추억을 만들고 싶은 분들을 위해 축제 일정부터 무료 셔틀버스 정보, 다양한 체험 프로그램까지 핵심 내용을 완벽하게 정리해 드립니다. 이번 가이드를 통해 **2026 연천구석기축제**를 더욱 알차게 즐겨보세요.
-
-목차
-
-[Toggle](#)
-
 ## 📅 축제 개요 및 일정
 
 **2026 연천구석기축제**는 구석기 문화를 현대적인 감각으로 재해석한 다채로운 콘텐츠를 선보입니다. 기본적인 축제 정보는 다음과 같습니다.

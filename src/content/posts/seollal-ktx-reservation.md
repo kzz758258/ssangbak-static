@@ -7,11 +7,11 @@ permalink: "/seollal-ktx-reservation/"
 slugPath: "seollal-ktx-reservation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/seollal-ktx-reservation.jpg"
+heroImage: "/wp-content/uploads/2026/01/seollal-ktx-reservation.jpg"
 originalUrl: "https://ssangbak.com/seollal-ktx-reservation/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/seollal-ktx-reservation-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/seollal-ktx-reservation-1024x1024.jpg)
 
 설날 고향 가는 길, 티켓 전쟁 때문에 벌써 걱정하고 계신가요?
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/seollal-ktx-reservation/"
 [👉 설 ktx 예매하기](https://www.korail.com/intro)
 
 [👉 설 srt 예매하기](https://etk.srail.kr/main.do)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 2026년 설 연휴 예매 일정
@@ -65,7 +60,7 @@ KTX는 이미 1월 19일부터 21일까지 예매가 진행되었으며, SRT는 
 
 예매가 완료되었다면 **예매 확인** 메뉴에서 출발 시각과 좌석 번호를 다시 한번 검토하여 착오가 없도록 준비하세요.
 
-![취소표 예매 꿀팁](https://ssangbak.com/wp-content/uploads/2026/01/seollal-ktx-reservation-1-1024x1024.jpg)
+![취소표 예매 꿀팁](/wp-content/uploads/2026/01/seollal-ktx-reservation-1-1024x1024.jpg)
 
 ## 🎟️ 포기하기엔 이르다! 취소표 예매 방법과 꿀팁
 

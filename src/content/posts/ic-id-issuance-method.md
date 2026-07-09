@@ -7,11 +7,11 @@ permalink: "/ic-id-issuance-method/"
 slugPath: "ic-id-issuance-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-22.jpg"
+heroImage: "/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-22.jpg"
 originalUrl: "https://ssangbak.com/ic-id-issuance-method/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-22-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-22-1024x1024.jpg)
 
 모바일 신분증 사용이 확대되면서 “IC 신분증 발급 방법은?” 이라는 질문이 급격히 늘고 있습니다.  
   
@@ -23,11 +23,6 @@ originalUrl: "https://ssangbak.com/ic-id-issuance-method/"
 ✔ 발급 절차·비용·소요 기간  
   
 을 **한 번에 정리**해 드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 모바일 신분증 발급 구조 먼저 이해하기
 
 모바일 신분증은 앱만 설치한다고 바로 발급되지 않습니다.  
@@ -88,7 +83,7 @@ IC 신분증은 기존 실물 신분증에 IC 칩(전자칩)이 내장된 신분
 
 ### 비용
 
-![ic 운전면허증 발급 비용](https://ssangbak.com/wp-content/uploads/2026/01/image-19.png)
+![ic 운전면허증 발급 비용](/wp-content/uploads/2026/01/image-19.png)
 
 ### 소요 기간
 

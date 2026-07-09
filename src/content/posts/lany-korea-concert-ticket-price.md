@@ -7,11 +7,11 @@ permalink: "/lany-korea-concert-ticket-price/"
 slugPath: "lany-korea-concert-ticket-price"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/lany-korea-concert-ticket-price-3.jpg"
+heroImage: "/wp-content/uploads/2026/03/lany-korea-concert-ticket-price-3.jpg"
 originalUrl: "https://ssangbak.com/lany-korea-concert-ticket-price/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/lany-korea-concert-ticket-price-3.jpg)
+![](/wp-content/uploads/2026/03/lany-korea-concert-ticket-price-3.jpg)
 
 로맨틱하고 몽환적인 사운드로 전 세계 팬들을 사로잡은 밴드 레이니가 드디어 한국을 다시 찾습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/lany-korea-concert-ticket-price/"
 본 포스팅에서는 **레이니 내한 콘서트** 예매를 준비하시는 분들을 위해 티켓팅 일정과 좌석별 가격을 완벽하게 정리해 드립니다.
 
 [👉 레이니 내한 콘서트 예매](https://tickets.interpark.com/goods/26004771)
-
-목차
-
-[Toggle](#)
-
 ## 🎸 LANY: soft world tour in Korea 개요
 
 공연 명칭은 ‘LANY: soft world tour in Korea’로 레이니만의 감성을 가득 담은 무대가 예상됩니다.

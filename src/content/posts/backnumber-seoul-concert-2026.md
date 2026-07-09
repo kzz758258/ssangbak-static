@@ -7,11 +7,11 @@ permalink: "/backnumber-seoul-concert-2026/"
 slugPath: "backnumber-seoul-concert-2026"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/backnumber-seoul-concert-2026.jpg"
+heroImage: "/wp-content/uploads/2026/03/backnumber-seoul-concert-2026.jpg"
 originalUrl: "https://ssangbak.com/backnumber-seoul-concert-2026/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/backnumber-seoul-concert-2026.jpg)
+![](/wp-content/uploads/2026/03/backnumber-seoul-concert-2026.jpg)
 
 일본을 대표하는 3인조 감성 밴드, \*\*back number(백넘버)\*\*의 역사적인 첫 내한 공연 소식이 드디어 공개되었습니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/backnumber-seoul-concert-2026/"
 [👉 백넘버 내한 콘서트 선예매](https://backnumber.info/feature/4b5f4461b2733855c3aee216be735208?_normalbrowse_=1&lang=ko)
 
 [👉 백넘버 팬클럽 가입하기](https://backnumber.info/feature/entry?lang=ko)
-
-목차
-
-[Toggle](#)
-
 ## 📅 **2026 back number 내한공연 상세 정보**
 
 **구분**

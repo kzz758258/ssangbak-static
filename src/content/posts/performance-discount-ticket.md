@@ -7,7 +7,7 @@ permalink: "/performance-discount-ticket/"
 slugPath: "performance-discount-ticket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-35.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-35.png"
 originalUrl: "https://ssangbak.com/performance-discount-ticket/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/performance-discount-ticket/"
 [👉 문체부 공연 할인권 사용처 조회](https://kopis.or.kr/por/main/main.do)
 
 최근 계속되는 고물가 기조 속에서 연극이나 뮤지컬 같은 문화예술을 즐기는 것이 경제적으로 부담스럽게 느껴질 수 있습니다. 하지만 **문화체육관광부에서 국민의 문화 향유 기회를 넓히기 위해 발표한 2026 공연 할인권 지원 사업**을 활용하면 이러한 걱정을 덜 수 있습니다. 이번 정책은 역대급 규모로 진행되는 만큼, 평소 보고 싶었던 작품이 있다면 이번 기회를 통해 아주 저렴하게 관람할 수 있는 절호의 찬스입니다. 선착순으로 지급되는 혜택을 놓치지 않도록 신청 방법과 주요 예매처 정보를 상세히 안내해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 2026 공연 할인권 사업 개요 및 지원 규모
 
 정부는 위축된 공연 예술계에 활력을 불어넣고 국민들에게 실질적인 혜택을 제공하기 위해 대규모 예산을 편성했습니다. 이번 **2026 공연 할인권 사업은 추가경정예산 41억 원이 투입되는 대형 프로젝트**로, 예술경영지원센터 및 한국문화예술위원회와 함께 추진됩니다.

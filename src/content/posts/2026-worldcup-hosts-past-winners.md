@@ -7,7 +7,7 @@ permalink: "/2026-worldcup-hosts-past-winners/"
 slugPath: "2026-worldcup-hosts-past-winners"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/2026-worldcup-hosts-past-winners.jpg"
+heroImage: "/wp-content/uploads/2026/05/2026-worldcup-hosts-past-winners.jpg"
 originalUrl: "https://ssangbak.com/2026-worldcup-hosts-past-winners/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/2026-worldcup-hosts-past-winners/"
 오늘은 북중미 3개국 개최 도시의 특징부터 세계 축구의 정점에 섰던 역대 우승국 순위, 그리고 “개최국이 과연 우승에 유리한가?”라는 영원한 테마까지 흥미로운 역사 데이터를 한눈에 정리해 드립니다.
 
 저도 역대 우승국들의 기록을 다시 정리해 보니, 브라질의 독주를 바짝 추격하는 유럽 강호들과 지난 2022년 카타르에서 대관식을 치른 아르헨티나의 삼파전이 이번 대회에서 어떻게 이어질지 벌써부터 기대가 큽니다.
-
-목차
-
-[Toggle](#)
-
 ## 🌎 2026 북중미 월드컵 공동 개최국 특징
 
 이번 대회는 월드컵 역사상 최초로 **3개국 공동 개최**이자 멕시코에는 통산 3번째, 미국에는 2번째, 캐나다에는 최초의 성인 월드컵 개최라는 대기록을 안겨주었습니다.

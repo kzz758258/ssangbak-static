@@ -7,18 +7,13 @@ permalink: "/infant-health-check-tips/"
 slugPath: "infant-health-check-tips"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-17.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-17.png"
 originalUrl: "https://ssangbak.com/infant-health-check-tips/"
 ---
 
 [영유아 검진일자 조회](https://www.nhis.or.kr/nhis/healthin/retrieveInfntExmdDtInq.do)
 
 아기가 태어난 날이 엊그제 같은데 벌써 4개월을 지나고 계신가요? 초보 부모님들이라면 가장 먼저 맞닥뜨리는 관문 중 하나가 바로 **영유아 건강검진**입니다. 우리 아이가 잘 자라고 있는지, 발달 상태에 문제는 없는지 확인하는 아주 중요한 시간이죠. 오늘은 2026년 최신 기준에 맞춘 **영유아 건강검진 시기**와 문진표 작성, 예약 방법까지 한 번에 정리해 드릴게요.
-
-목차
-
-[Toggle](#)
-
 ## 영유아 건강검진 시기: 1차부터 8차까지 총정리
 
 영유아 건강검진은 아기의 성장과 발달을 체계적으로 확인하기 위해 국가에서 진행하는 필수 검진입니다. **출생 직후부터 생후 약 6세(71개월)까지 총 8회**에 걸쳐 단계적으로 이루어집니다. 각 차수별 시기를 놓치면 해당 검진을 받을 수 없는 경우도 있으니 꼭 미리 체크해 두셔야 해요.

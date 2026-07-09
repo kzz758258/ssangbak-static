@@ -7,7 +7,7 @@ permalink: "/muju-basic-income-application/"
 slugPath: "muju-basic-income-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/muju-basic-income-application-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/muju-basic-income-application-1.jpg"
 originalUrl: "https://ssangbak.com/muju-basic-income-application/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/muju-basic-income-application/"
 지금부터 이미지 속 최신 공고 내용을 바탕으로 정확한 **신청방법**과 **신청기간**을 완벽하게 정리해 드릴 테니 바로 확인해 보세요.
 
 [👉 무주군 기본소득 신청양식 다운로드](https://www.muju.go.kr/planweb/board/view.9is?contentUid=ff8080816c5f9d47016cbd3ae19f006b&boardUid=ff8080816d135a54016d1ecde9d8001a&dataUid=4028a6d2928a60a5019c87f863e768f0&categoryUid1=ff8080816d135a54016d1f57e4fa00fd)
-
-목차
-
-[Toggle](#)
-
 ## 📍 무주군 기본소득 80만 대상자
 
 이번 지원금은 무주군에 주민등록을 둔 군민을 대상으로 하며 연간 1인당 **80만 원**을 반기별로 40만 원씩 나누어 지급합니다.

@@ -7,7 +7,7 @@ permalink: "/2026-day6-concert-reservation/"
 slugPath: "2026-day6-concert-reservation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-57.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-57.png"
 originalUrl: "https://ssangbak.com/2026-day6-concert-reservation/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/2026-day6-concert-reservation/"
 [👉 데이식스 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13997)
 
 공연 예매일이 다가올수록 ‘내 자리 하나쯤은 있을까’ 하는 걱정에 밤잠 설치시는 분들이 많으실 겁니다. **치열한 포도알 전쟁 속에서 소중한 티켓 한 장을 거머쥐는 것이 얼마나 간절한 일인지** 충분히 공감합니다. 이번 **2026 데이식스 콘서트 티켓팅**은 10주년이라는 기념비적인 의미가 더해져 그 어느 때보다 경쟁이 뜨거울 것으로 예상됩니다. 하지만 체계적인 준비만 있다면 불가능은 없습니다. 성공적인 예매를 돕기 위한 필승 전략과 핵심 정보를 지금부터 자세히 살펴보겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 2026 데이식스 콘서트 〈The DECADE〉 피날레 개요
 
 데이식스의 데뷔 10주년을 기념하는 월드 투어의 대미를 장식할 서울 공연 소식입니다. 지난 10년의 기록을 팬들과 함께 나누는 특별한 시간이 될 이번 피날레 무대는 다음과 같이 진행됩니다.

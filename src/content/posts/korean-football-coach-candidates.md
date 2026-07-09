@@ -7,7 +7,7 @@ permalink: "/korean-football-coach-candidates/"
 slugPath: "korean-football-coach-candidates"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/07/korean-football-coach-candidates.jpg"
+heroImage: "/wp-content/uploads/2026/07/korean-football-coach-candidates.jpg"
 originalUrl: "https://ssangbak.com/korean-football-coach-candidates/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/korean-football-coach-candidates/"
 [👉 월드컵 역대 감독 총정리](https://ssangbak.com/korea-worldcup-history-managers/)
 
 [👉 월드컵 우승 혜택 총정리](https://ssangbak.com/world-cup-winning-benefits/)
-
-목차
-
-[Toggle](#)
-
 ## ⚽ 1. 홍명보 사퇴 배경과 현재 축구계 상황
 
 지난 6월 28일 대한민국 축구 국가대표팀을 이끌던 홍명보 감독이 성적 부진에 책임을 지고 자진 사퇴를 공식 발표했습니다.

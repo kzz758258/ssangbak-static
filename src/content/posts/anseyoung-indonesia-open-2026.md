@@ -7,7 +7,7 @@ permalink: "/anseyoung-indonesia-open-2026/"
 slugPath: "anseyoung-indonesia-open-2026"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/anseyoung-indonesia-open-2026.jpg"
+heroImage: "/wp-content/uploads/2026/06/anseyoung-indonesia-open-2026.jpg"
 originalUrl: "https://ssangbak.com/anseyoung-indonesia-open-2026/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/anseyoung-indonesia-open-2026/"
 [👉 안세영 경기 일정 확인](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%95%88%EC%84%B8%EC%98%81+%EA%B2%BD%EA%B8%B0+%EC%9D%BC%EC%A0%95&ackey=e0f75lm0)
 
 [👉 BWF 인도네시아 경기 중계](https://www.spotv.net/)
-
-목차
-
-[Toggle](#)
-
 ## 🏸 2026 안세영 출전 정보 및 BWF 인도네시아 오픈 대회 개요
 
 이번 대회는 세계배드민턴연맹(BWF) 월드투어 중 가장 등급이 높은 최고 권위의 슈퍼 1000 등급 대회입니다.

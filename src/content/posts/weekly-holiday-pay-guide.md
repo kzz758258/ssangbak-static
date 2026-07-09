@@ -7,18 +7,13 @@ permalink: "/weekly-holiday-pay-guide/"
 slugPath: "weekly-holiday-pay-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-21.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-21.png"
 originalUrl: "https://ssangbak.com/weekly-holiday-pay-guide/"
 ---
 
 [주휴수당 계산기](https://ssangbak.com/weekly-holiday-allowance-calculator/)
 
 근로 현장에서 성실하게 업무에 임하고 있음에도 불구하고, 복잡하게 느껴지는 임금 체계 때문에 마땅히 받아야 할 권리를 놓치는 경우가 적지 않습니다. 특히 알바생이나 단시간 근로자들에게 매우 중요한 **주휴수당 계산법**은 근로기준법에 명시된 당연한 권리임에도 불구하고 정확한 기준을 몰라 불이익을 당하는 사례가 빈번합니다. 이번 글에서는 누구나 자신의 급여를 직접 검토해 볼 수 있도록 상세한 지급 기준과 계산 공식을 체계적으로 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 주휴수당 지급 조건: 이것만은 꼭 확인하세요
 
 주휴수당을 수령하기 위해서는 법적으로 정해진 몇 가지 필수 요건을 충족해야 합니다. 가장 먼저 확인해야 할 사항은 자신의 **주당 소정 근로시간이 15시간 이상**인지 여부입니다. 만약 일주일에 15시간 미만으로 근무하는 ‘초단시간 근로자’라면 주휴수당 지급 대상에서 제외됩니다.

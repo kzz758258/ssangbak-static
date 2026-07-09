@@ -7,22 +7,17 @@ permalink: "/exo-concert-ticketing/"
 slugPath: "exo-concert-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/exo-concert-ticketing-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/exo-concert-ticketing-1.jpg"
 originalUrl: "https://ssangbak.com/exo-concert-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/exo-concert-ticketing-1.jpg)
+![](/wp-content/uploads/2026/02/exo-concert-ticketing-1.jpg)
 
 대한민국을 대표하는 아티스트 엑소가 선사하는 환상적인 무대가 팬 여러분을 다시 한번 찾아옵니다.
 
 이번 2026 **엑소 콘서트**(**EXO PLANET #6 – EXhOrizon in SEOUL**)는 6년 만에 팬들을 찾아오는 만큼 멤버들의 독보적인 퍼포먼스로 가득 채워질 예정이라 기대가 매우 큽니다.
 
 [👉 엑소 콘서트 예매하기](https://ticket.melon.com/performance/index.htm?prodId=212768)
-
-목차
-
-[Toggle](#)
-
 ## 📍 공연 일정 및 장소
 
 -   **공연 일시**: 2026년 **4월 10일**(금) 오후 8시, **4월 11일**(토) 오후 6시, **4월 12일**(일) 오후 5시 총 3회 진행됩니다.
@@ -36,7 +31,7 @@ originalUrl: "https://ssangbak.com/exo-concert-ticketing/"
 
 ## 💰 좌석 등급 및 가격
 
-![2026 엑소 콘서트 좌석배치도](https://ssangbak.com/wp-content/uploads/2026/02/image-42.png)
+![2026 엑소 콘서트 좌석배치도](/wp-content/uploads/2026/02/image-42.png)
 
 **좌석 등급**
 
@@ -67,7 +62,7 @@ originalUrl: "https://ssangbak.com/exo-concert-ticketing/"
 
 ## 💡 티켓팅 성공 및 주의사항
 
-![2026 엑소 콘서트 일반 예매 안내](https://ssangbak.com/wp-content/uploads/2026/02/image-43.png)
+![2026 엑소 콘서트 일반 예매 안내](/wp-content/uploads/2026/02/image-43.png)
 
 -   본인 인증: **티켓팅** 전 휴대폰 또는 I-PIN 인증을 완료한 회원만 예매가 가능했습니다.
 -   매수 제한: 회당 1인 2매까지 가능하며, 선예매 시에는 회당 1인 1매만 구매할 수 있었습니다.

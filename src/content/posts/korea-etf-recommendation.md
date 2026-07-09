@@ -7,11 +7,11 @@ permalink: "/korea-etf-recommendation/"
 slugPath: "korea-etf-recommendation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/korea-etf-recommendation.jpg"
+heroImage: "/wp-content/uploads/2026/02/korea-etf-recommendation.jpg"
 originalUrl: "https://ssangbak.com/korea-etf-recommendation/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/korea-etf-recommendation-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/korea-etf-recommendation-1024x1024.jpg)
 
 2026년은 **배당 소득 분리과세** 정책이 본격화되면서 국내 주식 시장의 판도가 완전히 바뀌는 역사적인 해입니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/korea-etf-recommendation/"
 오늘 소개해 드릴 종목들은 복잡한 분석 없이도 초보자가 가장 안정적으로 자산을 불릴 수 있는 **검증된 효자 종목**들로 구성했습니다.
 
 [👉 한국거래소 ETF 종합정보](https://seibro.or.kr/websquare/control.jsp?w2xPath=%2FIPORTAL%2Fuser%2Fetf%2FBIP_CNTS06025V.xml&menuNo=174)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 추천 종목

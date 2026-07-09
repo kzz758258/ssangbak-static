@@ -7,11 +7,11 @@ permalink: "/singagain4-prize-money-and-progress-method/"
 slugPath: "singagain4-prize-money-and-progress-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-24.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-24.jpg"
 originalUrl: "https://ssangbak.com/singagain4-prize-money-and-progress-method/"
 ---
 
-![현재 이미지: 싱어게인4 상금](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-24-1024x576.jpg)
+![현재 이미지: 싱어게인4 상금](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-24-1024x576.jpg)
 
 JTBC의 인기 오디션 프로그램 ‘싱어게인’은 무명 또는 잊혀진 가수들에게 다시 무대에 설 기회를 주며 많은 감동을 전해왔습니다.
 
@@ -21,12 +21,7 @@ JTBC의 인기 오디션 프로그램 ‘싱어게인’은 무명 또는 잊혀
 
 * * *
 
-![싱어게인4 표지](https://ssangbak.com/wp-content/uploads/2025/11/image-15.png)
-
-목차
-
-[Toggle](#)
-
+![싱어게인4 표지](/wp-content/uploads/2025/11/image-15.png)
 ## 🏆 싱어게인4 우승 상금 및 수상 혜택
 
 -   **TOP10**: 전국 투어 콘서트 출연 기회 제공

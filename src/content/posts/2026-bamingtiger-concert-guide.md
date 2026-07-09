@@ -7,18 +7,13 @@ permalink: "/2026-bamingtiger-concert-guide/"
 slugPath: "2026-bamingtiger-concert-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-42.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-42.png"
 originalUrl: "https://ssangbak.com/2026-bamingtiger-concert-guide/"
 ---
 
 [바밍타이거 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13673)
 
 벌써부터 내 자리가 없을까 봐 걱정하며 떨리는 마음으로 이 글을 클릭하셨나요? 단순한 정보 전달을 넘어 여러분의 티켓팅 성공을 위한 완벽한 가이드가 여기 있습니다. 이번 **2026 바밍타이거 콘서트 티켓팅** 전략부터 공연장 꿀팁까지 모든 정보를 한 번에 마스터하고 반드시 ‘포도알’을 쟁취해 보시길 바랍니다. 국내외를 넘나들며 독보적인 아우라를 뿜어내는 바밍타이거의 에너지를 현장에서 직접 느낄 수 있는 단 한 번의 기회, 절대 놓쳐서는 안 됩니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 이번 공연은 서울 한강진역의 랜드마크인 블루스퀘어에서 이틀간 진행됩니다. 바밍타이거만의 독보적인 에너지가 가득 찰 이번 공연의 상세 정보를 미리 확인하고 일정을 조율해 보세요.

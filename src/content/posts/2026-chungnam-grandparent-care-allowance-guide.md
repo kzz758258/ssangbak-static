@@ -7,16 +7,11 @@ permalink: "/2026-chungnam-grandparent-care-allowance-guide/"
 slugPath: "2026-chungnam-grandparent-care-allowance-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-33.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-33.png"
 originalUrl: "https://ssangbak.com/2026-chungnam-grandparent-care-allowance-guide/"
 ---
 
 [손주돌봄수당 신청하기](https://www.chungnam.go.kr/cnportal/media/article/view.do?articleNo=MD0003300993&menuNo=500166)
-
-목차
-
-[Toggle](#)
-
 ## 충청남도 육아 지원의 핵심: 2026년 충남 손주돌봄수당 안내
 
 맞벌이 가정이 늘어남에 따라 조부모나 친인척의 손길이 육아에 있어 필수적인 시대가 되었습니다. 충청남도에서는 이러한 **가족 돌봄의 가치를 인정하고 경제적 부담을 경감**하기 위해 ‘2026년 충남형 가족돌봄 지원사업’, 일명 **충남 손주돌봄수당**을 시행하고 있습니다. 부모가 직접 아이를 돌보기 어려운 상황에서 4촌 이내의 친인척이 도움을 줄 경우 지급되는 이 수당은 육아 환경 개선에 큰 보탬이 되고 있습니다.

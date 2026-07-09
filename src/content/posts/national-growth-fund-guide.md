@@ -7,16 +7,11 @@ permalink: "/national-growth-fund-guide/"
 slugPath: "national-growth-fund-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-7.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-7.png"
 originalUrl: "https://ssangbak.com/national-growth-fund-guide/"
 ---
 
 [국민성장펀드 신청하기](https://ssangbak.com/national-growth-fund-subscription-methods/)
-
-목차
-
-[Toggle](#)
-
 ## 대한민국 미래 먹거리에 투자하는 ‘국민참여형 국민성장펀드’ 출시
 
 대한민국의 첨단 전략 산업을 육성하고 그 성장의 과실을 온 국민이 나누기 위한 **국민참여형 국민성장펀드**가 드디어 베일을 벗었습니다. 금융위원회는 반도체, AI, 이차전지 등 국가 핵심 산업에 투자하는 총 6000억 원 규모의 펀드를 오는 5월 22일부터 6월 11일까지 한시적으로 판매한다고 발표했습니다. 이번 펀드는 정부 재정이 위험을 분담하고 파격적인 세제 혜택을 제공한다는 점에서 많은 투자자의 관심을 끌고 있습니다.

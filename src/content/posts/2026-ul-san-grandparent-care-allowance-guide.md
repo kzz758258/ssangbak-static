@@ -7,16 +7,11 @@ permalink: "/2026-ul-san-grandparent-care-allowance-guide/"
 slugPath: "2026-ul-san-grandparent-care-allowance-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-31.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-31.png"
 originalUrl: "https://ssangbak.com/2026-ul-san-grandparent-care-allowance-guide/"
 ---
 
 [손주돌봄수당 신청하기](https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005861)
-
-목차
-
-[Toggle](#)
-
 ## 울산광역시 손주 돌봄수당 지원 사업이란?
 
 맞벌이 가구의 증가로 독박 육아의 부담이 커지는 가운데, 울산광역시에서는 조부모의 손주 돌봄 노동의 가치를 인정하고 양육 부담을 덜어주기 위해 **‘조부모 손주 돌봄수당’** 제도를 운영하고 있습니다. 이 제도는 조부모가 손주를 직접 돌보는 가정을 대상으로 일정 금액의 수당을 지원하여 실질적인 가계 도움을 주는 것을 목적으로 합니다.

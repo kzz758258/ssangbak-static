@@ -7,22 +7,17 @@ permalink: "/kikney-exhibition-booking/"
 slugPath: "kikney-exhibition-booking"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/image-33.png"
+heroImage: "/wp-content/uploads/2026/02/image-33.png"
 originalUrl: "https://ssangbak.com/kikney-exhibition-booking/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/image-33.png)
+![](/wp-content/uploads/2026/02/image-33.png)
 
 **키크니 특별전 예매**를 통해 일상의 위로와 유머를 담은 작품들을 **최대 50% 할인된 얼리버드 가격**으로 가장 먼저 만나보실 수 있습니다.
 
 평범한 일상을 특별한 감동으로 바꾸는 키크니 작가의 따뜻한 시선과 재치 넘치는 세계관을 확인하고 지금 바로 티켓을 선점해 보세요.
 
 [👉 키크니 특별전 예매하기](https://booking.naver.com/booking/5/bizes/1573770/items/7412340)
-
-목차
-
-[Toggle](#)
-
 ## 👤 얼굴 없는 작가 키크니 정체
 
 ‘키크니(Keykney)’는 인스타그램에서 ‘무엇이든 그려드립니닷’ 시리즈로 폭발적인 인기를 얻은 **일러스트레이터이자 스토리텔러**입니다.

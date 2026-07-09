@@ -7,18 +7,13 @@ permalink: "/nexon-customer-service-guide/"
 slugPath: "nexon-customer-service-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-18.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-18.png"
 originalUrl: "https://ssangbak.com/nexon-customer-service-guide/"
 ---
 
 [넥슨 고객센터 바로가기](https://help.nexon.com/)
 
 안녕하세요! 넥슨 게임을 즐기다 보면 갑작스러운 오류나 결제 문제 등으로 당황스러운 순간이 생기기 마련이죠. **오늘은 2026년 최신 기준, 넥슨 고객센터 빠른 문의 방법을 통해 여러분의 고민을 단숨에 해결할 수 있는 쉬운 절차를 정리해 드립니다.** 복잡해 보이지만 순서대로 따라오시면 누구나 5분 안에 문의 접수를 완료할 수 있습니다.
-
-목차
-
-[Toggle](#)
-
 ## 넥슨 고객센터 접속 및 로그인 방법
 
 가장 먼저 해야 할 일은 공식 홈페이지에 접속하는 것입니다. 네이버나 구글 검색창에 **‘넥슨 고객센터’**를 입력하면 공식 사이트가 최상단에 노출됩니다. 해당 링크를 클릭하여 접속해 주시면 되는데, 과정이 워낙 직관적이라 누구나 쉽게 따라 하실 수 있습니다.

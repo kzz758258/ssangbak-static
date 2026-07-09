@@ -7,11 +7,11 @@ permalink: "/ai-job-series7/"
 slugPath: "ai-job-series7"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-005-8-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-005-8-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series7/"
 ---
 
-![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-8-1.jpg](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005-8-1-1024x1024.jpg)
+![현재 이미지는 대체 텍스트가 없습니다. 파일 이름: 제목을-입력해주세요\_-005-8-1.jpg](/wp-content/uploads/2025/11/제목을-입력해주세요_-005-8-1-1024x1024.jpg)
 
 AI 시대의 취업 시장은 확실히 달라졌습니다.  
 예전처럼 단순히 프로젝트 몇 개 나열하는 포트폴리오만으로는 경쟁력이 부족합니다.
@@ -24,11 +24,6 @@ AI 시대의 취업 시장은 확실히 달라졌습니다.
 이번 7편에서는 AI 시대 기준에 맞는 **최신 포트폴리오 제작 전략과 구성법**을 정리하였습니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. 포트폴리오의 목적은 “증명”이다
 
 포트폴리오의 핵심은 **내가 어떤 사람인지 보여주는 것**입니다.

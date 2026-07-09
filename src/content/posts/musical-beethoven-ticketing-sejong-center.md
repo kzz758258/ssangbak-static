@@ -7,11 +7,11 @@ permalink: "/musical-beethoven-ticketing-sejong-center/"
 slugPath: "musical-beethoven-ticketing-sejong-center"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/kimjunsu-concert-ticketing-tip-1-2.jpg"
+heroImage: "/wp-content/uploads/2026/04/kimjunsu-concert-ticketing-tip-1-2.jpg"
 originalUrl: "https://ssangbak.com/musical-beethoven-ticketing-sejong-center/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/kimjunsu-concert-ticketing-tip-1-2.jpg)
+![](/wp-content/uploads/2026/04/kimjunsu-concert-ticketing-tip-1-2.jpg)
 
 클래식의 거장 베토벤의 삶과 음악을 무대 위로 옮겨낸 **뮤지컬 베토벤**이 2026년 다시 한번 세종문화회관 대극장을 찾아옵니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/musical-beethoven-ticketing-sejong-center/"
 본 포스팅에서는 **뮤지컬 베토벤** 1차 티켓 오픈 일정과 세종문화회관 좌석 가격 정보를 이미지 속 상세 데이터를 바탕으로 정리해 드립니다.
 
 [👉 뮤지컬 베토벤 1차 예매](https://tickets.interpark.com/contents/notice/detail/13462)
-
-목차
-
-[Toggle](#)
-
 ## 🎟️ 뮤지컬 베토벤 티켓팅 일정
 
 가장 중요한 **뮤지컬 베토벤** 1차 티켓 오픈은 **2026년 4월 14일(화) 오전 11시**에 진행됩니다.

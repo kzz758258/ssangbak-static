@@ -7,18 +7,13 @@ permalink: "/2026-yanggu-gomchwi-festival/"
 slugPath: "2026-yanggu-gomchwi-festival"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-4.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-4.png"
 originalUrl: "https://ssangbak.com/2026-yanggu-gomchwi-festival/"
 ---
 
 [곰취축제 메뉴판 보기](https://ygcf.or.kr/Festival/F10000/F10300/boardView?board_key=15160)
 
 봄의 전령사라 불리는 싱그러운 곰취 향기가 강원도 양구에 가득 퍼지는 계절이 돌아왔습니다. **2026 청춘양구 곰취축제**는 매년 많은 이들의 입맛과 오감을 사로잡으며 지역을 대표하는 봄 축제로 확고히 자리매김했습니다. 특히 올해는 어린이날 연휴와 맞물려 가족, 연인과 함께 신선한 산나물을 맛보고 다채로운 공연까지 즐길 수 있는 더욱 풍성한 볼거리가 준비되어 있습니다. 방문 전 꼭 확인해야 할 핵심 정보들을 전문가의 시선으로 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 축제 개요 및 일정
 
 이번 축제는 양구의 수려한 자연경관을 배경으로 4일간 펼쳐집니다. 축제 기간과 장소 등 기본적인 정보를 표로 확인해 보세요.

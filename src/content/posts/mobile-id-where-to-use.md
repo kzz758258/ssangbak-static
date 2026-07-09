@@ -7,11 +7,11 @@ permalink: "/mobile-id-where-to-use/"
 slugPath: "mobile-id-where-to-use"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Mobile-ID-Where-to-Use.jpg"
+heroImage: "/wp-content/uploads/2026/01/Mobile-ID-Where-to-Use.jpg"
 originalUrl: "https://ssangbak.com/mobile-id-where-to-use/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Mobile-ID-Where-to-Use-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Mobile-ID-Where-to-Use-1024x1024.jpg)
 
 지갑에서 신분증을 꺼내는 대신 스마트폰만 보여주면 되는 시대가 왔습니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/mobile-id-where-to-use/"
 모바일 신분증 발급 방법이 궁금하신 분들은 아래 글을 참고하세요.
 
 [👉 모바일 신분증 발급 방법](https://ssangbak.com/mobile-id-issuance-method/)
-
-목차
-
-[Toggle](#)
-
 ## ✅ 공공기관 사용처
 
 ### 정부24 및 민원 서류 발급

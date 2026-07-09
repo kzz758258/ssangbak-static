@@ -7,11 +7,11 @@ permalink: "/bts-concert-booking-tips/"
 slugPath: "bts-concert-booking-tips"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/image-9.png"
+heroImage: "/wp-content/uploads/2026/02/image-9.png"
 originalUrl: "https://ssangbak.com/bts-concert-booking-tips/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/image-9.png)
+![](/wp-content/uploads/2026/02/image-9.png)
 
 드디어 기다리던 방탄소년단 **BTS 멤버들을 고양 콘서트에서 직접 만나고** 인생 최고의 추억을 만들 기회가 찾아왔습니다!
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/bts-concert-booking-tips/"
 꿈에 그리던 무대를 눈앞에서 감상하며 아미들과 함께 함성을 지를 그날의 **감동적인 변화**를 지금 바로 준비해 보세요.
 
 [👉 BTS 콘서트 예매](https://tickets.interpark.com/goods/26000547#)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 공연 장소
@@ -65,7 +60,7 @@ originalUrl: "https://ssangbak.com/bts-concert-booking-tips/"
 
 관람 연령은 **만 9세 이상**이므로 예매 시 참고하시기 바랍니다.
 
-![BTS 콘서트 좌석배치도](https://ssangbak.com/wp-content/uploads/2026/02/image-12.png)
+![BTS 콘서트 좌석배치도](/wp-content/uploads/2026/02/image-12.png)
 
 ## 💰 등급별 티켓 가격 안내
 
@@ -103,7 +98,7 @@ originalUrl: "https://ssangbak.com/bts-concert-booking-tips/"
 
 [👉 BTS 콘서트 예매](https://tickets.interpark.com/goods/26000547#)
 
-![BTS 콘서트 공연장 위치](https://ssangbak.com/wp-content/uploads/2026/02/image-15.png)
+![BTS 콘서트 공연장 위치](/wp-content/uploads/2026/02/image-15.png)
 
 ## 🚀 지금 티켓팅 준비
 

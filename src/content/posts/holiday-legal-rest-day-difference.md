@@ -7,11 +7,11 @@ permalink: "/holiday-legal-rest-day-difference/"
 slugPath: "holiday-legal-rest-day-difference"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/holiday-legal-restday-difference.jpg"
+heroImage: "/wp-content/uploads/2026/02/holiday-legal-restday-difference.jpg"
 originalUrl: "https://ssangbak.com/holiday-legal-rest-day-difference/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/holiday-legal-restday-difference.jpg)
+![](/wp-content/uploads/2026/02/holiday-legal-restday-difference.jpg)
 
 매년 돌아오는 ‘빨간 날’이지만, 누군가는 웃으며 쉬고 누군가는 억울하게 일하는 이유를 알고 계신가요?
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/holiday-legal-rest-day-difference/"
 특히 **2026년부터 공휴일로 재지정된 제헌절** 소식과 함께, 헷갈렸던 휴일의 모든 개념을 100% 이해할 수 있도록 정리해 드립니다.
 
 [👉 2026 제헌절 공휴일 지정 배경](https://ssangbak.com/constitution-day-public-holiday/)
-
-목차
-
-[Toggle](#)
-
 ## 🏢 1. 법정공휴일 vs 법정휴일
 
 가장 먼저 알아야 할 것은 ‘공적인 휴일’과 ‘노동법상의 휴일’의 차이입니다.

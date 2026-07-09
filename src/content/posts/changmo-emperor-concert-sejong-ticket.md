@@ -7,16 +7,11 @@ permalink: "/changmo-emperor-concert-sejong-ticket/"
 slugPath: "changmo-emperor-concert-sejong-ticket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/changmo-emperor-concert-sejong-ticket.jpg"
+heroImage: "/wp-content/uploads/2026/03/changmo-emperor-concert-sejong-ticket.jpg"
 originalUrl: "https://ssangbak.com/changmo-emperor-concert-sejong-ticket/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/changmo-emperor-concert-sejong-ticket.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/03/changmo-emperor-concert-sejong-ticket.jpg)
 ## 🎤 창모 THE EMPEROR 콘서트, 세종문화회관 대극장에서 만난다
 
 래퍼 창모가 **2026년 5월 9일부터 10일**, 이틀간 세종문화회관 대극장에서 단독 콘서트 \*\*\*\*를 개최합니다.

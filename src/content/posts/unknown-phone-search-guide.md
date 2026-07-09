@@ -7,16 +7,11 @@ permalink: "/unknown-phone-search-guide/"
 slugPath: "unknown-phone-search-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-27.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-27.png"
 originalUrl: "https://ssangbak.com/unknown-phone-search-guide/"
 ---
 
 [모르는 전화번호 조회하기](https://www.thecall.co.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 모르는 번호로 온 부재중 전화, 받을까 말까 고민된다면?
 
 일상생활을 하다 보면 **모르는 전화번호**로부터 걸려온 부재중 전화를 확인하고 망설여지는 순간이 많습니다. ‘혹시 중요한 택배일까?’, ‘병원 예약 확인 전화인가?’라는 생각에 다시 전화를 걸어보려 하지만, 한편으로는 **스팸 전화나 보이스피싱**일까 봐 걱정되기도 합니다.

@@ -7,16 +7,11 @@ permalink: "/culture-nuri-card-guide/"
 slugPath: "culture-nuri-card-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/How-to-issue-Culture-Nuri-Card.jpg"
+heroImage: "/wp-content/uploads/2026/01/How-to-issue-Culture-Nuri-Card.jpg"
 originalUrl: "https://ssangbak.com/culture-nuri-card-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/How-to-issue-Culture-Nuri-Card-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/How-to-issue-Culture-Nuri-Card-1024x1024.jpg)
 ## 📱 2026년 문화누리카드란?
 
 문화누리카드는 기초생활수급자 및 차상위계층을 대상으로 문화예술, 관광, 체육 활동을 지원하는 문화복지 카드입니다.  
@@ -135,7 +130,7 @@ originalUrl: "https://ssangbak.com/culture-nuri-card-guide/"
 
 **2026년 문화누리카드 공식 모바일앱 안내**
 
-![문화누리카드 공식 모바일앱 안내](https://ssangbak.com/wp-content/uploads/2026/01/image-24.png)
+![문화누리카드 공식 모바일앱 안내](/wp-content/uploads/2026/01/image-24.png)
 
 -   [안드로이드](https://play.google.com/store/apps/details?id=kr.mnuri.card.culture&hl=ko)
 -   [아이폰](https://apps.apple.com/kr/app/%EB%AC%B8%ED%99%94%EB%88%84%EB%A6%AC%EC%B9%B4%EB%93%9C/id1549146665)

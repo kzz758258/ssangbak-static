@@ -7,7 +7,7 @@ permalink: "/bts-gwanghwamun-performance/"
 slugPath: "bts-gwanghwamun-performance"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/image-44.png"
+heroImage: "/wp-content/uploads/2026/02/image-44.png"
 originalUrl: "https://ssangbak.com/bts-gwanghwamun-performance/"
 ---
 
@@ -21,7 +21,7 @@ originalUrl: "https://ssangbak.com/bts-gwanghwamun-performance/"
 
 ### 📍 공연 상세 정보
 
-![BTS 광화문 공연](https://ssangbak.com/wp-content/uploads/2026/02/image-44.png)
+![BTS 광화문 공연](/wp-content/uploads/2026/02/image-44.png)
 
 이번 공연의 공식 명칭은 ‘BTS THE COMEBACK LIVE | ARIRANG’으로 확정되었으며 팬들과 직접 호흡하는 소중한 자리가 될 것입니다.
 
@@ -55,7 +55,7 @@ BTS THE COMEBACK LIVE
 
 ### 🎟️ 응모 및 예매 방법
 
-![BTS 광화문 공연 예매](https://ssangbak.com/wp-content/uploads/2026/02/image-47.png)
+![BTS 광화문 공연 예매](/wp-content/uploads/2026/02/image-47.png)
 
 먼저 팬클럽을 위한 ‘Weverse Global 응모 이벤트’는 ARMY Membership 가입자 중 응모 기간 내 상품 구매자를 대상으로 진행됩니다.
 
@@ -67,7 +67,7 @@ BTS THE COMEBACK LIVE
 
 ### 💫 개인적인 기대 포인트
 
-![BTS 광화문 콘서트](https://ssangbak.com/wp-content/uploads/2026/02/image-45.png)
+![BTS 광화문 콘서트](/wp-content/uploads/2026/02/image-45.png)
 
 개인적으로 이번 공연이 광화문이라는 상징적인 장소에서 열린다는 점 자체가 K-컬처의 위상을 보여주는 완벽한 연출이라고 생각합니다.
 

@@ -7,11 +7,11 @@ permalink: "/climate-accompanied-card-registration-method/"
 slugPath: "climate-accompanied-card-registration-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-5.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-005-5.jpg"
 originalUrl: "https://ssangbak.com/climate-accompanied-card-registration-method/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-5-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-005-5-1024x1024.jpg)
 
 기후동행카드는 서울·경기·인천 시민들이 대중교통을 더 편리하고 저렴하게 이용할 수 있도록 설계된 정기권형 교통카드입니다.
 
@@ -35,11 +35,6 @@ originalUrl: "https://ssangbak.com/climate-accompanied-card-registration-method/
 
 [전체 가이드 보기 →](https://ssangbak.com/climate-accompanying-card-all-things/
 )
-
-목차
-
-[Toggle](#)
-
 ## 🟩 기후동행카드 등록이 필요한 이유
 
 기후동행카드는 단순 교통카드가 아니라 “정기권 시스템”이기 때문에 구매만으로는 혜택이 적용되지 않습니다.
@@ -231,7 +226,7 @@ OS별 경로가 다릅니다.
 📌 실물 카드 사용자는 반드시  
 **티머니 카드&페이 홈페이지 등록 후 이용 가능**
 
-![기후동행카드 사용방법](https://ssangbak.com/wp-content/uploads/2025/12/image-2-1024x415.png)
+![기후동행카드 사용방법](/wp-content/uploads/2025/12/image-2-1024x415.png)
 
 ## 🟩 등록 시 자주 발생하는 문제
 

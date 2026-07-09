@@ -7,16 +7,11 @@ permalink: "/national-pension-service-payment-guarantee-legalization/"
 slugPath: "national-pension-service-payment-guarantee-legalization"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-10.jpg"
+heroImage: "/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-10.jpg"
 originalUrl: "https://ssangbak.com/national-pension-service-payment-guarantee-legalization/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-10-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/제목을-입력해주세요.-복사본-10-1024x1024.jpg)
 ## 💰 18년 만의 개혁, 2026년 1월부터 시작됩니다
 
 2025년 3월 20일, 국민연금법 개정안이 국회 본회의를 통과했습니다. 2007년 이후 18년 만에 이루어진 역사적인 연금개혁입니다.
@@ -29,7 +24,7 @@ originalUrl: "https://ssangbak.com/national-pension-service-payment-guarantee-le
 
 👉 [보건복지부 보도자료 원문 보기](https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1488390&tag=&nPage=1)
 
-![국민연금제도 개정 안내](https://ssangbak.com/wp-content/uploads/2026/01/image.png)
+![국민연금제도 개정 안내](/wp-content/uploads/2026/01/image.png)
 
 ## 📊 핵심 변경사항 한눈에 보기
 

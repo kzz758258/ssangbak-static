@@ -7,16 +7,11 @@ permalink: "/2026-grandparent-care-allowance-guide/"
 slugPath: "2026-grandparent-care-allowance-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-36.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-36.png"
 originalUrl: "https://ssangbak.com/2026-grandparent-care-allowance-guide/"
 ---
 
 [가족돌봄수당 신청하기](https://www.gg.go.kr/bbs/boardView.do?bIdx=123755698&bsIdx=838&menuId=1534)
-
-목차
-
-[Toggle](#)
-
 ## 맞벌이 부모를 위한 경기도의 선물, 경기 손주돌봄수당이란?
 
 현대 사회에서 맞벌이 가정의 비중이 높아짐에 따라, 자녀 양육의 상당 부분을 조부모님들이 담당하는 이른바 ‘황혼 육아’가 보편화되었습니다. 경기도에서는 이러한 조부모님의 노고를 격려하고 양육 부담을 실질적으로 덜어드리기 위해 **경기 손주돌봄수당** 정책을 시행하고 있습니다. 이 제도는 경기도 내 26개 시군을 대상으로 하며, 일정 조건을 충족하는 가정에 월 최대 60만 원까지 현금을 지원하는 파격적인 혜택입니다.

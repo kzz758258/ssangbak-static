@@ -7,11 +7,11 @@ permalink: "/ai-job-series-14/"
 slugPath: "ai-job-series-14"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-19-1.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-19-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-14/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-19-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-19-1-1024x1024.jpg)
 
 AI 기술은 더 이상 특정 업무를 보조하는 도구가 아닙니다.  
 2025년 현재, AI는 **산업 전반의 구조와 의사결정 방식 자체를 재설계하는 단계**로 진입했습니다.
@@ -24,11 +24,6 @@ AI 기술은 더 이상 특정 업무를 보조하는 도구가 아닙니다.
 **앞으로 선택 기준이 달라지는 지점**만 정리합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 💼 금융(Finance): 초개인화 금융이 기본 전제가 되다
 
 금융은 AI 도입 효과가 가장 빠르게 수치로 증명되는 산업입니다.  

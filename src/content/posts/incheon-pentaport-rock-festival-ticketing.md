@@ -7,11 +7,11 @@ permalink: "/incheon-pentaport-rock-festival-ticketing/"
 slugPath: "incheon-pentaport-rock-festival-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/incheon-pentaport-rock-festival-ticketing-1.jpg"
+heroImage: "/wp-content/uploads/2026/04/incheon-pentaport-rock-festival-ticketing-1.jpg"
 originalUrl: "https://ssangbak.com/incheon-pentaport-rock-festival-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/incheon-pentaport-rock-festival-ticketing-1.jpg)
+![](/wp-content/uploads/2026/04/incheon-pentaport-rock-festival-ticketing-1.jpg)
 
 대한민국 락의 자존심이자 여름을 상징하는 축제인 **2026 인천펜타포트 락 페스티벌**이 드디어 그 베일을 벗었습니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/incheon-pentaport-rock-festival-ticketing/"
 이번에는 반드시 간편 결제 수단을 미리 등록해 두고 정각에 맞춰 ‘광클’에 성공하여 송도의 뜨거운 열기를 직접 느끼고 오려 합니다.
 
 [👉 펜타포트 락페스티벌 예매하기](https://tickets.interpark.com/contents/notice/detail/13554)
-
-목차
-
-[Toggle](#)
-
 ## 📅 펜타포트 개최 및 예매 일정
 
 올해 페스티벌은 송도달빛축제공원에서 3일간 화려하게 펼쳐지며, 본격적인 티켓 전쟁은 4월 말에 시작됩니다.

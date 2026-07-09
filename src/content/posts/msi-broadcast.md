@@ -7,7 +7,7 @@ permalink: "/msi-broadcast/"
 slugPath: "msi-broadcast"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/msi-broadcast-1.jpg"
+heroImage: "/wp-content/uploads/2026/05/msi-broadcast-1.jpg"
 originalUrl: "https://ssangbak.com/msi-broadcast/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/msi-broadcast/"
 [👉 MSI SOOP 실시간 중계](https://www.sooplive.com/station/aflol)
 
 [👉 MSI 유튜브 실시간 중계](https://www.youtube.com/@LCK/featured)
-
-목차
-
-[Toggle](#)
-
 ## 📺 공식 중계 채널
 
 이번 대회는 국내 주요 스트리밍 플랫폼을 통해 편리하게 시청할 수 있습니다.

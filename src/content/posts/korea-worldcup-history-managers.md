@@ -7,7 +7,7 @@ permalink: "/korea-worldcup-history-managers/"
 slugPath: "korea-worldcup-history-managers"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/korea-worldcup-history-managers-1.jpg"
+heroImage: "/wp-content/uploads/2026/05/korea-worldcup-history-managers-1.jpg"
 originalUrl: "https://ssangbak.com/korea-worldcup-history-managers/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/korea-worldcup-history-managers/"
 오늘은 1954년 맨땅에서 시작된 눈물의 첫 출전부터 전 세계를 깜짝 놀라게 한 2002년의 신화, 그리고 카타르에서의 기적까지 대한민국의 역대 월드컵 성적과 사령탑(감독)들의 역사를 완벽하게 정리해 드립니다.
 
 저도 역대 성적표를 정리하다 보니 매 대회마다 눈물과 환희가 교차했던 기억들이 스쳐 지나가는데, 이번 홍명보호가 써 내려갈 새로운 페이지는 또 어떤 감동을 줄지 벌써부터 기대가 됩니다.
-
-목차
-
-[Toggle](#)
-
 ## 📊 한눈에 보는 대한민국 월드컵 역대 성적 및 사령탑
 
 대한민국 축구 국가대표팀이 본선 무대에서 기록한 최종 성적과 당시 팀을 이끌었던 역대 사령탑들을 일목요연하게 표로 정리해 드립니다.

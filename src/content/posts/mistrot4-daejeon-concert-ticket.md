@@ -7,11 +7,11 @@ permalink: "/mistrot4-daejeon-concert-ticket/"
 slugPath: "mistrot4-daejeon-concert-ticket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/mistrot4-daejeon-concert-ticket-1.jpg"
+heroImage: "/wp-content/uploads/2026/03/mistrot4-daejeon-concert-ticket-1.jpg"
 originalUrl: "https://ssangbak.com/mistrot4-daejeon-concert-ticket/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/mistrot4-daejeon-concert-ticket-1.jpg)
+![](/wp-content/uploads/2026/03/mistrot4-daejeon-concert-ticket-1.jpg)
 
 드디어 미스트롯4 전국투어 대전 콘서트의 상세 일정이 공개되었습니다!
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/mistrot4-daejeon-concert-ticket/"
 부모님께 최고의 효도 선물을 드릴 수 있도록 **미스트롯4 대전 콘서트 예매 정보**를 지금 바로 확인해 보세요.
 
 [👉 미스트롯4 대전 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/13144)
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 공지 내용을 바탕으로 정리한 대전 공연의 핵심 정보입니다.

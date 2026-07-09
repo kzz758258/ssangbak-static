@@ -7,11 +7,11 @@ permalink: "/ai-job-series-18/"
 slugPath: "ai-job-series-18"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-23-1.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-23-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-18/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-23-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-23-1-1024x1024.jpg)
 
 취업 준비생 대부분은 채용 공고를 “해야 할 업무 리스트” 정도로만 읽지만,  
 기업은 채용 공고에 **직접 말하지 않은 숨은 요구사항**을 매우 많이 담아둡니다.
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/ai-job-series-18/"
 **실전 채용 공고 해석법**을 정리합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 🔍 **1) “주요 업무”는 현재 팀이 가장 부족한 역량을 의미한다**
 
 채용 공고에서 가장 먼저 보이는 항목이 **주요 업무(Responsibilities)** 입니다.  

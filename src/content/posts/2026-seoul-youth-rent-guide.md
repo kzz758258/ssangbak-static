@@ -7,16 +7,11 @@ permalink: "/2026-seoul-youth-rent-guide/"
 slugPath: "2026-seoul-youth-rent-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-31.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-31.png"
 originalUrl: "https://ssangbak.com/2026-seoul-youth-rent-guide/"
 ---
 
 [서울시 청년 월세 지원 신청](https://housing.seoul.go.kr/site/main/content/sh01_060513_6)
-
-목차
-
-[Toggle](#)
-
 ## 2026년 서울시 청년 월세지원: 주거 안정을 위한 핵심 정보
 
 서울에서 자취하는 청년들에게 가장 큰 부담은 매달 지출되는 월세일 것입니다. 서울시는 이러한 청년들의 경제적 고충을 덜어주기 위해 **‘2026년 서울시 청년 월세지원’** 사업을 시행합니다. 이번 사업은 서울에 거주하는 무주택 청년들을 대상으로 하며, 선정될 경우 **매월 최대 20만 원씩, 1년 동안 최대 240만 원**의 주거비를 지원받을 수 있는 파격적인 혜택입니다.

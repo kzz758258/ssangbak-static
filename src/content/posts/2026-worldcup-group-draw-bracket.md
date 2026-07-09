@@ -7,7 +7,7 @@ permalink: "/2026-worldcup-group-draw-bracket/"
 slugPath: "2026-worldcup-group-draw-bracket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/2026-worldcup-group-draw-bracket.jpg"
+heroImage: "/wp-content/uploads/2026/05/2026-worldcup-group-draw-bracket.jpg"
 originalUrl: "https://ssangbak.com/2026-worldcup-group-draw-bracket/"
 ---
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/2026-worldcup-group-draw-bracket/"
 저도 확정된 대진표를 출력해서 벽에 붙여두고 시뮬레이션을 돌려보았는데, 조 3위를 해도 토너먼트에 올라갈 길이 열려 있어서 예측이 정말 흥미진진해졌습니다.
 
 지금 바로 북중미 대륙을 뜨겁게 달굴 12개 조의 라인업과 토너먼트 진출 시나리오를 만나보세요.
-
-목차
-
-[Toggle](#)
-
 ## 📊 2026 북중미 월드컵 조편성 결과 (A조~L조)
 
 총 48개국이 4개 팀씩 **12개 조**로 촘촘하게 나뉘어 조별리그 예선을 치르게 됩니다. 각 조의 최종 구성원들을 한눈에 보기 쉽게 표로 정리해 드립니다.

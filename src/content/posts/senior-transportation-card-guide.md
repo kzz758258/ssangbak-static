@@ -7,11 +7,11 @@ permalink: "/senior-transportation-card-guide/"
 slugPath: "senior-transportation-card-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/senior-transportation-card-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/senior-transportation-card-guide-1.jpg"
 originalUrl: "https://ssangbak.com/senior-transportation-card-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/senior-transportation-card-guide-1-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/senior-transportation-card-guide-1-1024x1024.jpg)
 
 매달 나가는 교통비를 **0원**으로 만들고 전국 어디든 자유롭게 이동할 수 있는 가장 확실한 방법은 바로 **65세 이상 우대용 교통카드**를 발급받는 것입니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/senior-transportation-card-guide/"
 [👉 65세 이상 교통카드 신청](https://news.seoul.go.kr/traffic/archives/1791)
 
 [👉 65세 이상 다른 지원금 보기](https://ssangbak.com/senior-subsidies-benefits/)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 발급 대상
@@ -63,7 +58,7 @@ originalUrl: "https://ssangbak.com/senior-transportation-card-guide/"
 
 [👉 모바일 어플 설치](https://play.google.com/store/apps/details?id=com.lgt.tmoney&hl=ko)
 
-![모바일 어르신 교통카드 발급요건](https://ssangbak.com/wp-content/uploads/2026/02/image-17.png)
+![모바일 어르신 교통카드 발급요건](/wp-content/uploads/2026/02/image-17.png)
 
 ## 📝 발급 절차 및 서류
 

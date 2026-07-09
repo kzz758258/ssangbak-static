@@ -7,11 +7,11 @@ permalink: "/kpass-samsungpay-registration-method/"
 slugPath: "kpass-samsungpay-registration-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/Kpass-samsungpay.jpg"
+heroImage: "/wp-content/uploads/2025/11/Kpass-samsungpay.jpg"
 originalUrl: "https://ssangbak.com/kpass-samsungpay-registration-method/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/Kpass-samsungpay-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/Kpass-samsungpay-1024x1024.jpg)
 
 K패스 제도가 시행되면서 대중교통을 자주 이용하시는 분들의 관심이 뜨거운데요.  
   
@@ -27,11 +27,6 @@ K패스 후불 교통카드를 삼성페이에 등록하는 방법부터 실제 
 필요한 모든 정보를 한곳에서 확인하세요!
 
 [전체 가이드 보기 →](https://ssangbak.com/everything-about-k-pass/)
-
-목차
-
-[Toggle](#)
-
 ## 💳 삼성페이 K패스 등록 전 준비사항
 
 ### 필수 요구사항

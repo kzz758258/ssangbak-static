@@ -7,11 +7,11 @@ permalink: "/population-and-housing-census-non-compliance-penalty/"
 slugPath: "population-and-housing-census-non-compliance-penalty"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-8.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-8.jpg"
 originalUrl: "https://ssangbak.com/population-and-housing-census-non-compliance-penalty/"
 ---
 
-![현재 이미지: 인구주택총조사](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-8-1024x576.jpg)
+![현재 이미지: 인구주택총조사](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-8-1024x576.jpg)
 
 매 5년마다 실시되는 인구주택총조사는 국가 통계의 기초가 되는 매우 중요한 작업입니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/population-and-housing-census-non-compliance-
 본 글에서는 조사 거부 시의 법적 책임, 과태료 또는 벌금 가능성, 실제 저촉 사례, 그리고 정당한 사유가 있는 경우 어떻게 대응해야 하는지 모두 알아보겠습니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 1\. 인구주택총조사 참여는 법적 의무인가?
 
 인구주택총조사는 통계청이 주관하는 국민통계 조사로서, 통계법에 근거하여 진행됩니다.
@@ -43,7 +38,7 @@ originalUrl: "https://ssangbak.com/population-and-housing-census-non-compliance-
 
 즉, 조사 대상자로 통지받았다면 **응답은 의무에 가깝다**고 보는 것이 맞습니다.
 
-![인구주택총조사 참여 의무 여부](https://ssangbak.com/wp-content/uploads/2025/11/image-8-1024x200.png)
+![인구주택총조사 참여 의무 여부](/wp-content/uploads/2025/11/image-8-1024x200.png)
 
 * * *
 
@@ -79,7 +74,7 @@ originalUrl: "https://ssangbak.com/population-and-housing-census-non-compliance-
 
 따라서 조사 대상임을 통지받은 경우 응답을 하지 않더라도 무작정 과태료가 부과되는 것은 아니며, **사유를 입증할 수 있느냐**가 관건입니다.
 
-![인구주택총조사 응답 불응 사유](https://ssangbak.com/wp-content/uploads/2025/11/image-9-1024x221.png)
+![인구주택총조사 응답 불응 사유](/wp-content/uploads/2025/11/image-9-1024x221.png)
 
 * * *
 

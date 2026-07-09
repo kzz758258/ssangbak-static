@@ -7,7 +7,7 @@ permalink: "/youth-future-savings/"
 slugPath: "youth-future-savings"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/youth-future-savings.jpg"
+heroImage: "/wp-content/uploads/2026/06/youth-future-savings.jpg"
 originalUrl: "https://ssangbak.com/youth-future-savings/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/youth-future-savings/"
 [👉 청년미래적금 신청하기](https://ssangbak.com/youth-future-savings-bank/)
 
 [👉 은행별 금리 비교 바로가기](https://ssangbak.com/youth-future-savings-interest/)
-
-목차
-
-[Toggle](#)
-
 ## 📅 청년미래적금 출시일 및 신청기간
 
 2026년 청년미래적금 출시일은 오는 6월 22일로 공식 확정되었습니다.

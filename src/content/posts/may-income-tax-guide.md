@@ -7,16 +7,11 @@ permalink: "/may-income-tax-guide/"
 slugPath: "may-income-tax-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-11.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-11.png"
 originalUrl: "https://ssangbak.com/may-income-tax-guide/"
 ---
 
 [종합소득세신고 바로가기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml)
-
-목차
-
-[Toggle](#)
-
 ## 5월의 숙제, 종합소득세 신고 서류 준비의 모든 것
 
 매년 5월이 되면 소득이 있는 많은 분이 긴장하게 되는 시기가 찾아옵니다. 바로 종합소득세 신고 기간인데요. **종합소득세 신고 서류**를 어떻게 준비하느냐에 따라 내야 할 세금이 줄어들거나 오히려 환급을 받는 기쁨을 누릴 수 있습니다. 많은 분이 서류 준비 과정을 막연하게 어렵게만 생각하시지만, 체계적인 리스트만 있다면 누구나 빠르고 정확하게 신고를 마칠 수 있습니다.

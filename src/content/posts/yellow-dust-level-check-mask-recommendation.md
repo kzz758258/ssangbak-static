@@ -7,7 +7,7 @@ permalink: "/yellow-dust-level-check-mask-recommendation/"
 slugPath: "yellow-dust-level-check-mask-recommendation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/yellow-dust-level-check-mask-recommendation-2-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/yellow-dust-level-check-mask-recommendation-2-1.jpg"
 originalUrl: "https://ssangbak.com/yellow-dust-level-check-mask-recommendation/"
 ---
 

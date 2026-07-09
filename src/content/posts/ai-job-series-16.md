@@ -7,11 +7,11 @@ permalink: "/ai-job-series-16/"
 slugPath: "ai-job-series-16"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-21.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-21.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-16/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-21-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-21-1024x1024.jpg)
 
 AI 시대에는  
 “무엇을 아는가”보다  
@@ -24,11 +24,6 @@ AI를 활용해 **개인 브랜드를 빠르게 구축하고**,
 이번 16편에서는 **AI를 활용해 0에서 1을 만들고, 1을 10으로 키우는 개인 브랜드 구축 전략**을 정리했습니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## ■ 1. 개인 브랜드는 “개성”이 아니라 “전문 영역의 정의”로 시작된다
 
 많은 사람들이 개인 브랜드의 시작을  

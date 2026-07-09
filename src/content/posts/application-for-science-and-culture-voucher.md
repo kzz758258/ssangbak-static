@@ -7,11 +7,11 @@ permalink: "/application-for-science-and-culture-voucher/"
 slugPath: "application-for-science-and-culture-voucher"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/application-for-science-and-culture-voucher-2.jpg"
+heroImage: "/wp-content/uploads/2026/01/application-for-science-and-culture-voucher-2.jpg"
 originalUrl: "https://ssangbak.com/application-for-science-and-culture-voucher/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/application-for-science-and-culture-voucher-2-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/application-for-science-and-culture-voucher-2-1024x1024.jpg)
 
 아이들에게 과학관, 천문대, 자연사박물관 등에서 체험 학습 기회를 주고 싶으신가요?
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/application-for-science-and-culture-voucher/"
 [👉 과학문화바우처 신청](https://scivoucher.ezwel.com/cuser/common/sciIntroVoucherBook.ez)
 
 [👉 과학문화바우처 사용처](https://ssangbak.com/where-to-use-science-culture-vouchers/)
-
-목차
-
-[Toggle](#)
-
 ## 🔬 과학문화바우처란?
 
 과학문화바우처는 과학기술정보통신부와 한국과학창의재단이 경제적으로 어려운 가정의 아동·청소년에게 과학관, 자연사박물관 등의 체험 프로그램 이용료를 지원하는 사업입니다.

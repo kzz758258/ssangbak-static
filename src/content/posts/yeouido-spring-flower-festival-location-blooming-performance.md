@@ -7,11 +7,11 @@ permalink: "/yeouido-spring-flower-festival-location-blooming-performance/"
 slugPath: "yeouido-spring-flower-festival-location-blooming-performance"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/image-6.png"
+heroImage: "/wp-content/uploads/2026/03/image-6.png"
 originalUrl: "https://ssangbak.com/yeouido-spring-flower-festival-location-blooming-performance/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/image-6.png)
+![](/wp-content/uploads/2026/03/image-6.png)
 
 **여의도 봄꽃축제** 방문을 계획하며 가장 먼저 궁금해하시는 위치와 개화시기, 그리고 화려한 공연 일정을 한곳에 모았습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/yeouido-spring-flower-festival-location-bloom
 [👉 여의도 역대 벚꽃 개화시기 확인](https://www.ydp.go.kr/tour/contents.do?key=6112&)
 
 [👉 전국 벚꽃명소 축제 총정리](https://ssangbak.com/cherry-blossom-spots-festivals/)
-
-목차
-
-[Toggle](#)
-
 ## 📍 여의도 봄꽃축제 위치
 
 이번 축제의 주 무대는 **영등포구 여의서로 벚꽃길**과 **한강둔치 국회관리용 축구장** 일대에서 펼쳐집니다.

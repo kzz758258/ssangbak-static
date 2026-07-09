@@ -7,7 +7,7 @@ permalink: "/cherry-blossom-spots-festivals/"
 slugPath: "cherry-blossom-spots-festivals"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/cherry-blossom-spots-festivals-1.png"
+heroImage: "/wp-content/uploads/2026/03/cherry-blossom-spots-festivals-1.png"
 originalUrl: "https://ssangbak.com/cherry-blossom-spots-festivals/"
 ---
 

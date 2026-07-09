@@ -7,11 +7,11 @@ permalink: "/k-pass-climate-accompanied-card-comparison/"
 slugPath: "k-pass-climate-accompanied-card-comparison"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Kpass.jpg"
+heroImage: "/wp-content/uploads/2026/01/Kpass.jpg"
 originalUrl: "https://ssangbak.com/k-pass-climate-accompanied-card-comparison/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Kpass-1-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Kpass-1-1024x1024.jpg)
 
 교통비가 계속 오르는 요즘, 출퇴근이나 통학으로 대중교통을 자주 이용하시나요?  
   
@@ -38,11 +38,6 @@ originalUrl: "https://ssangbak.com/k-pass-climate-accompanied-card-comparison/"
 모든 정보 확인
 
 [자세히 보기 →](https://ssangbak.com/climate-accompanying-card-all-things/)
-
-목차
-
-[Toggle](#)
-
 ## ⚡ 30초 결론 (바쁜 분들을 위한 핵심 정리)
 
 ### 💳 대부분은 모두의 카드를 선택하세요

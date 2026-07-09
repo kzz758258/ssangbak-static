@@ -7,7 +7,7 @@ permalink: "/world-cup-winning-benefits/"
 slugPath: "world-cup-winning-benefits"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-47.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-47.png"
 originalUrl: "https://ssangbak.com/world-cup-winning-benefits/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/world-cup-winning-benefits/"
 [👉 월드컵 역대 성적 감독 정리](https://ssangbak.com/korea-worldcup-history-managers/)
 
 2026 북중미 월드컵이 다가오면서 대한민국 축구 국가대표팀을 향한 전국민적 기대감이 고조되고 있습니다. 이번 대회는 단순한 스포츠 축제를 넘어, 우리 선수들이 최상의 컨디션으로 그라운드를 누빌 수 있도록 대한축구협회가 마련한 **역대 최고 수준의 보상 체계**가 마련되어 큰 화제를 모으고 있는데요. 과연 태극전사들이 목표로 하는 성적을 거두었을 때 받게 될 구체적인 혜택은 무엇일까요? 오늘은 많은 팬이 궁금해하는 포상금 규모부터 세심한 복지 프로그램까지 핵심 내용을 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 2026 북중미 월드컵 우승 포상금 단계별 지급 기준
 
 이번 대회에서 가장 주목받는 부분은 단연 **2026 북중미 월드컵 우승 포상금**입니다. 대한축구협회는 선수들의 강력한 동기부여를 위해 성과에 비례하는 파격적인 보상 시스템을 구축했습니다.

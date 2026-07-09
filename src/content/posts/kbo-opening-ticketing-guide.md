@@ -7,7 +7,7 @@ permalink: "/kbo-opening-ticketing-guide/"
 slugPath: "kbo-opening-ticketing-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/kbo-opening-ticketing-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/kbo-opening-ticketing-guide.jpg"
 originalUrl: "https://ssangbak.com/kbo-opening-ticketing-guide/"
 ---
 
@@ -18,14 +18,9 @@ originalUrl: "https://ssangbak.com/kbo-opening-ticketing-guide/"
 [👉 2026 KBO 개막전 예매하기](https://www.koreabaseball.com/kbo/league/map.aspx)
 
 [👉2026 KBO 중계 바로보기](https://ssangbak.com/kbo-league-broadcasting-rights-tving-guide/)
-
-목차
-
-[Toggle](#)
-
 ## ⚾ 개막전 대진표
 
-![2026 KBO 개막전 대진표](https://ssangbak.com/wp-content/uploads/2026/02/image-64-1024x353.png)
+![2026 KBO 개막전 대진표](/wp-content/uploads/2026/02/image-64-1024x353.png)
 
 이번 개막전은 **3월 28일 오후 2시 전국 5개 경기장에서 동시**에 시작됩니다.
 

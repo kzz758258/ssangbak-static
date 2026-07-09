@@ -7,22 +7,17 @@ permalink: "/samsung-special-dividend/"
 slugPath: "samsung-special-dividend"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/samsung-special-dividend.jpg"
+heroImage: "/wp-content/uploads/2026/02/samsung-special-dividend.jpg"
 originalUrl: "https://ssangbak.com/samsung-special-dividend/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/samsung-special-dividend-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/samsung-special-dividend-1024x1024.jpg)
 
 삼성전자 특별 배당금 소식은 주주들에게 단순한 수익을 넘어 실질적인 자산 가치 상승이라는 기분 좋은 변화를 선사합니다.
 
 이번 특별 배당은 5년 만에 찾아온 대규모 환원 정책의 결실로, 여러분의 계좌에 든든한 **현금 보너스**가 채워지는 확신을 드릴 것입니다.
 
 👉 토스 주식 계좌 개설 방법
-
-목차
-
-[Toggle](#)
-
 ## 💰 2026년 배당금 핵심 요약
 
 **구분**

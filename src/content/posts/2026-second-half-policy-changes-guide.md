@@ -7,7 +7,7 @@ permalink: "/2026-second-half-policy-changes-guide/"
 slugPath: "2026-second-half-policy-changes-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/07/2026-second-half-policy-changes-guide.jpg"
+heroImage: "/wp-content/uploads/2026/07/2026-second-half-policy-changes-guide.jpg"
 originalUrl: "https://ssangbak.com/2026-second-half-policy-changes-guide/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/2026-second-half-policy-changes-guide/"
 고물가 시대에 실질적인 도움을 줄 수 있는 현금성 지원금부터 일상 속 편의를 더하는 디지털 서비스까지 핵심 내용을 명확하게 알려드립니다.
 
 [👉 공식 안내 자료 보기](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768755&pageIndex=1&repCodeType=&repCode=A00041&startDate=2025-06-30&endDate=2026-06-30&srchWord=&period=year)
-
-목차
-
-[Toggle](#)
-
 ## 💸 1. 놓치면 안 되는 든든한 경제적 지원금 및 감면 혜택
 
 하반기부터 고물가로 어려움을 겪는 취약계층과 소상공인을 위한 금융 및 생활 안정 지원책이 대폭 강화됩니다.

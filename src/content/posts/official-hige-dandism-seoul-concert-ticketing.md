@@ -7,11 +7,11 @@ permalink: "/official-hige-dandism-seoul-concert-ticketing/"
 slugPath: "official-hige-dandism-seoul-concert-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/official-hige-dandism-seoul-concert-ticketing.jpg"
+heroImage: "/wp-content/uploads/2026/04/official-hige-dandism-seoul-concert-ticketing.jpg"
 originalUrl: "https://ssangbak.com/official-hige-dandism-seoul-concert-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/official-hige-dandism-seoul-concert-ticketing.jpg)
+![](/wp-content/uploads/2026/04/official-hige-dandism-seoul-concert-ticketing.jpg)
 
 일본 현지는 물론 국내에서도 독보적인 인기를 자랑하는 제이팝의 제왕, 오피셜히게단디즘이 드디어 서울을 찾습니다.
 
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/official-hige-dandism-seoul-concert-ticketing
 [👉 히게단 내한 콘서트 일반예매](https://tickets.interpark.com/contents/notice/detail/13341)
 
 [👉 히게단 팬클럽 가입하기](https://event.higedan.com/feature/asiatour2026-fce?_normalbrowse_=1)
-
-목차
-
-[Toggle](#)
-
 ## 🎤 히게단 아시아 투어 서울 공연 개요
 
 이번 공연의 공식 명칭은 ‘OFFICIAL HIGE DANDISM ASIA TOUR 2026 in SEOUL’로 확정되었습니다.

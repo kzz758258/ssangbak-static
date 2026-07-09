@@ -7,16 +7,11 @@ permalink: "/honne-10th-anniversary-tour-seoul/"
 slugPath: "honne-10th-anniversary-tour-seoul"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/honne-10th-anniversary-tour-seoul.jpg"
+heroImage: "/wp-content/uploads/2026/03/honne-10th-anniversary-tour-seoul.jpg"
 originalUrl: "https://ssangbak.com/honne-10th-anniversary-tour-seoul/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/honne-10th-anniversary-tour-seoul.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/03/honne-10th-anniversary-tour-seoul.jpg)
 ## 🎹 혼네 10주년 기념 내한공연(HONNE TOUR IN SEOUL)
 
 감성적인 멜로디와 독보적인 음색으로 사랑받는 영국 얼터너티브 팝 듀오 혼네(HONNE)가 데뷔 10주년을 기념해 단독 내한공연을 개최합니다.

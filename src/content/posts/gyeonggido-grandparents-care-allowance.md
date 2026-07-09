@@ -7,22 +7,17 @@ permalink: "/gyeonggido-grandparents-care-allowance/"
 slugPath: "gyeonggido-grandparents-care-allowance"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-002-2.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-002-2.jpg"
 originalUrl: "https://ssangbak.com/gyeonggido-grandparents-care-allowance/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-002-2-1024x1024.jpg)
+![](/wp-content/uploads/2025/11/제목을-입력해주세요_-002-2-1024x1024.jpg)
 
 경기도는 2025년 하반기에도 ‘가족돌봄수당’을 운영하며, 양육 공백을 겪는 가정을 위한 실질적인 지원책을 이어갑니다.  
   
 특히 **조부모(또는 친인척·이웃 등)에게 월 40시간 이상 아동돌봄을 맡긴 가정**을 대상으로 **최대 월 60만 원까지 현금성 지원**이 제공됩니다.
 
 2025년 하반기 신청기간이 공식 확정되었으므로, 아래 내용을 꼭 확인해두세요.
-
-목차
-
-[Toggle](#)
-
 ## 📅 2025년 하반기 신청기간
 
 ### ✔ 신청기간
@@ -80,7 +75,7 @@ originalUrl: "https://ssangbak.com/gyeonggido-grandparents-care-allowance/"
 ※ 시간 미충족, 서류 미흡 시 지급 불가  
 ※ 거짓 신고 또는 허위 사실 발견 시 지원 중단
 
-![경기형 가족돌봄수당 포스터](https://ssangbak.com/wp-content/uploads/2025/11/20251127_214512.jpg)
+![경기형 가족돌봄수당 포스터](/wp-content/uploads/2025/11/20251127_214512.jpg)
 
 ## 📝 신청방법 (2025년 12월 1일 시작)
 
@@ -161,7 +156,7 @@ originalUrl: "https://ssangbak.com/gyeonggido-grandparents-care-allowance/"
 -   부모·아동 주소지가 서로 다른 시군  
     → 신청 불가
 
-![경기형 가족돌봄수당 설명](https://ssangbak.com/wp-content/uploads/2025/11/20251127_214536.jpg)
+![경기형 가족돌봄수당 설명](/wp-content/uploads/2025/11/20251127_214536.jpg)
 
 ## 경기형 가족돌봄수당은
 

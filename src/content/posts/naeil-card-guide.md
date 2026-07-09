@@ -7,11 +7,11 @@ permalink: "/naeil-card-guide/"
 slugPath: "naeil-card-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/naeil-card-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/naeil-card-guide-1.jpg"
 originalUrl: "https://ssangbak.com/naeil-card-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/naeil-card-guide-1.jpg)
+![](/wp-content/uploads/2026/02/naeil-card-guide-1.jpg)
 
 **내일배움카드 신청**을 통해 국가에서 지원하는 최대 500만 원의 훈련비를 본인의 직무 역량을 획기적으로 높이고 취업과 이직의 성공률을 두 배 이상 끌어올릴 수 있습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/naeil-card-guide/"
 [👉 국민내일배움카드 신청](https://www.work24.go.kr/hr/h/a/1100/selectIssueRequestForm.do?labrrCardReqstNo=7769285)
 
 [👉 국민내일배움카드 사용처 조회](https://www.work24.go.kr/hr/a/a/1100/trnnCrsInf0.do?dtlContextPath=&redirectUrl=%2Fa%2Fa%2F1100%2FtrnnCrsInf0Post.do&topArea=&dtlSmtmConcCtrlId=&dtlExnwMenuConcSecd=&programMenuIdentification=EBG020000000000&menuPurpSecd=EBM01&dtlPwdCfrmYn=&serverToday=20260206&currentMenuId=EBG020000510010&dtlForwardPolyUrl=&dtlMenuId=&dtlMenuPurpSecd=&area=&crseTracseSe=&ncs=&gvrnInstt=&selectNCSKeyword=&srchType=&requestURI=%2Fhr%2Fa%2Fa%2F1100%2FtrnnCrsInf0Post.do&action=trnnCrsInf0Post.do)
-
-목차
-
-[Toggle](#)
-
 ## 📊 내일배움카드 핵심 정보 요약
 
 구분

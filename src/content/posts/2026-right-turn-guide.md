@@ -7,18 +7,13 @@ permalink: "/2026-right-turn-guide/"
 slugPath: "2026-right-turn-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-15.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-15.png"
 originalUrl: "https://ssangbak.com/2026-right-turn-guide/"
 ---
 
 [도로교통법 확인하기](https://www.better.go.kr/ba.rgst.RegulCardSlPopup?s_ref_no=0000032002&s_ref_renew_no=00)
 
 2026년 업데이트된 우회전 규정, 아직도 헷갈리시나요? 보행자 보호가 대폭 강화되면서 단속도 매우 까다로워졌습니다. 이번 포스팅에서는 **벌금 6만 원과 벌점 15점**을 피하기 위해 운전자가 반드시 숙지해야 할 **2026 교차로 우회전** 상황별 규칙을 완벽하게 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 2026 교차로 우회전, 왜 이렇게 까다로워졌을까?
 
 최근 도로교통법이 강화된 이유는 단 하나, 바로 **보행자의 생명 보호**입니다. 특히 교차로 우회전 시 발생하는 어린이와 노약자 사고 비중이 높아지면서 법령이 더욱 엄격해졌습니다. 이제 운전자에게 우회전은 ‘조심히 가는 구간’이 아니라 **‘일단 멈추고 확인하는 구간’**으로 인식의 전환이 필요합니다.

@@ -7,11 +7,11 @@ permalink: "/application-for-forest-welfare-services/"
 slugPath: "application-for-forest-welfare-services"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Application-for-forest-welfare-services.jpg"
+heroImage: "/wp-content/uploads/2026/01/Application-for-forest-welfare-services.jpg"
 originalUrl: "https://ssangbak.com/application-for-forest-welfare-services/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Application-for-forest-welfare-services-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Application-for-forest-welfare-services-1024x1024.jpg)
 
 숲에서 휴식과 치유를 경험하고 싶지만 경제적 부담이 되셨나요?
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/application-for-forest-welfare-services/"
 지금부터 신청 자격과 방법을 상세히 안내해드리겠습니다.
 
 [👉 산림복지서비스 이용권 신청](https://forestcard.or.kr/main/main.do)
-
-목차
-
-[Toggle](#)
-
 ## 🌳 산림복지서비스 이용권이란?
 
 산림복지서비스 이용권은 경제적·사회적 어려움을 겪는 국민이 산림복지시설과 프로그램을 이용할 수 있도록 일정 금액의 이용권을 지원하는 사업입니다.
@@ -160,7 +155,7 @@ originalUrl: "https://ssangbak.com/application-for-forest-welfare-services/"
 -   거래정지 회원 및 이용제한 카드는 제외됩니다
 
 ![산림복지서비스 이용권 사용방법
-](https://ssangbak.com/wp-content/uploads/2026/01/image-35-1024x705.png)
+](/wp-content/uploads/2026/01/image-35-1024x705.png)
 
 ## 🏕️ 사용 가능 시설 및 범위
 

@@ -7,18 +7,13 @@ permalink: "/air-conditioner-gas-refill/"
 slugPath: "air-conditioner-gas-refill"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-46.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-46.png"
 originalUrl: "https://ssangbak.com/air-conditioner-gas-refill/"
 ---
 
 [👉 LG 에어컨 사전 점검 신청](https://ssangbak.com/lg-air-conditioner-inspection/)
 
 [👉 삼성 에어컨 사전 점검 신청](https://ssangbak.com/samsung-air-conditioner-inspection/)
-
-목차
-
-[Toggle](#)
-
 ## 에어컨 가스 충전 비용, 현명하게 줄이는 첫걸음
 
 2026년 5월 26일, 벌써부터 한낮 기온이 오르며 여름의 시작을 알리고 있습니다. 무더운 날씨에 에어컨을 켰는데 시원한 바람 대신 미지근한 바람만 나온다면 가장 먼저 **에어컨 가스 충전 비용**을 걱정하게 됩니다. 통상적으로 비용은 5만 원에서 15만 원 사이로 형성되지만, 상황에 따라 추가 비용이 발생할 수 있어 부담이 되기도 하죠. 오늘은 불필요한 지출은 막고 냉방 효율은 극대화할 수 있는 실무적인 관리 팁을 정리해 드립니다.

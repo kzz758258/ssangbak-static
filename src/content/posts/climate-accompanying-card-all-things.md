@@ -7,7 +7,7 @@ permalink: "/climate-accompanying-card-all-things/"
 slugPath: "climate-accompanying-card-all-things"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-10.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-005-10.jpg"
 originalUrl: "https://ssangbak.com/climate-accompanying-card-all-things/"
 ---
 

@@ -7,22 +7,17 @@ permalink: "/sanitary-pad-subsidy/"
 slugPath: "sanitary-pad-subsidy"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/sanitary-pad-subsidy.jpg"
+heroImage: "/wp-content/uploads/2026/01/sanitary-pad-subsidy.jpg"
 originalUrl: "https://ssangbak.com/sanitary-pad-subsidy/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/sanitary-pad-subsidy-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/sanitary-pad-subsidy-1024x1024.jpg)
 
 **지금 바로** 신청만 하면 **2026년 기준 연간 168,000원**의 현금성 바우처를 즉시 수령하여 생리용품 구매 부담을 완벽하게 해결할 수 있습니다.
 
 여성청소년의 건강권 보장을 위해 국가에서 전액 지원하는 사업으로, **신청 시기와 관계없이** 연간 지원금 전액을 한 번에 지급받는 파격적인 혜택을 제공합니다.
 
 [👉 생리대 지원금 신청](https://www.bokjiro.go.kr/ssis-tbu/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000781)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 지원 대상 및 연령

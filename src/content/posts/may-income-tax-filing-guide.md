@@ -7,16 +7,11 @@ permalink: "/may-income-tax-filing-guide/"
 slugPath: "may-income-tax-filing-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-12.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-12.png"
 originalUrl: "https://ssangbak.com/may-income-tax-filing-guide/"
 ---
 
 [종합소득세신고 바로가기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml)
-
-목차
-
-[Toggle](#)
-
 ## 5월의 필수 과제, 종합소득세 신고를 준비하며
 
 매년 5월이 다가오면 프리랜서와 개인사업자, 그리고 근로소득 외에 추가 수익이 있는 분들은 분주해지기 시작합니다. 바로 지난 1년간의 경제 활동을 정산하는 **5월 종합소득세 신고** 기간이기 때문입니다. 많은 분이 세무 용어가 생소하고 절차가 복잡할 것이라는 생각에 막막함을 느끼기도 하지만, 최근 국세청 홈택스 시스템의 고도화로 인해 핵심적인 흐름만 파악한다면 누구나 비대면으로 간편하게 처리를 완료할 수 있습니다.

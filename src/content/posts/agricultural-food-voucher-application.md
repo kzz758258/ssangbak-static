@@ -7,11 +7,11 @@ permalink: "/agricultural-food-voucher-application/"
 slugPath: "agricultural-food-voucher-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Agricultural-Food-Voucher-Application.jpg"
+heroImage: "/wp-content/uploads/2026/01/Agricultural-Food-Voucher-Application.jpg"
 originalUrl: "https://ssangbak.com/agricultural-food-voucher-application/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Agricultural-Food-Voucher-Application-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Agricultural-Food-Voucher-Application-1024x1024.jpg)
 
 신선한 국산 농산물을 저렴하게 구매하고 싶으신가요?
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/agricultural-food-voucher-application/"
 2026년에는 전국(단, 일부 지역 제외)에서 신청 가능하며, 2025년 12월 22일부터 신청이 시작되었습니다.
 
 [👉 농식품바우처 신청](https://www.foodvoucher.go.kr/security/joinAgree)
-
-목차
-
-[Toggle](#)
-
 ## 🌾 농식품바우처란?
 
 농식품바우처는 농림축산식품부와 한국농수산식품유통공사(aT)가 취약계층의 국산 농식품 구매를 지원하는 사업입니다.

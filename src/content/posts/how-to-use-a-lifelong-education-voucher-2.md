@@ -7,11 +7,11 @@ permalink: "/how-to-use-a-lifelong-education-voucher-2/"
 slugPath: "how-to-use-a-lifelong-education-voucher-2"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Where-to-use-lifelong-education-voucher.jpg"
+heroImage: "/wp-content/uploads/2026/01/Where-to-use-lifelong-education-voucher.jpg"
 originalUrl: "https://ssangbak.com/how-to-use-a-lifelong-education-voucher-2/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Where-to-use-lifelong-education-voucher-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Where-to-use-lifelong-education-voucher-1024x1024.jpg)
 
 평생교육이용권을 받았다면 이제 어디서 사용할 수 있는지가 궁금하시죠?
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/how-to-use-a-lifelong-education-voucher-2/"
 지금부터 평생교육이용권을 사용할 수 있는 곳과 수강 가능한 교육 분야를 상세히 안내해드리겠습니다.
 
 [👉 평생교육이용권 사용기관 조회](https://www.lllcard.kr/reg/seoul/guide/useVcOrgan.do)
-
-목차
-
-[Toggle](#)
-
 ## 🏢 이용 가능 기관 유형
 
 평생교육이용권은 ‘평생교육이용권 사용기관’으로 등록된 곳에서만 사용할 수 있습니다.

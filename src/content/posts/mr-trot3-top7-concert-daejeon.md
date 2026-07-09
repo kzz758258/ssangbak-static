@@ -7,11 +7,11 @@ permalink: "/mr-trot3-top7-concert-daejeon/"
 slugPath: "mr-trot3-top7-concert-daejeon"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/image-4.png"
+heroImage: "/wp-content/uploads/2026/01/image-4.png"
 originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-daejeon/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/image-3.png)
+![](/wp-content/uploads/2026/01/image-3.png)
 
 트로트 열풍의 정점에 선 **미스터트롯3 TOP7 콘서트**가 이번에는 **대전**에서 관객들을 만납니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-daejeon/"
 예매가 처음이신 분도 헷갈리지 않도록 실제 예매 페이지와 안내 내용을 기준으로 깔끔하게 정리했습니다.
 
 👉 미스터트롯3 콘서트 대전 예매
-
-목차
-
-[Toggle](#)
-
 ## 📍 공연 기본 정보 한눈에 보기
 
 미스터트롯3 TOP7 콘서트 대전 공연은 대형 실내 공연장에서 진행되며, TOP7 전원이 출연해 방송에서 볼 수 없었던 단독 무대와 합동 퍼포먼스를 선보입니다.
@@ -62,7 +57,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-daejeon/"
 
 ※ 좌석 배치도는 예매 단계에서 확인 가능하며, 공연장 구조상 일부 좌석은 시야 제한이 있을 수 있으니 반드시 배치도를 확인 후 선택하시기 바랍니다.
 
-![미스터트롯3 대전 콘서트 좌석배치도](https://ssangbak.com/wp-content/uploads/2026/01/image-7.png)
+![미스터트롯3 대전 콘서트 좌석배치도](/wp-content/uploads/2026/01/image-7.png)
 
 ## 💳 결제 혜택 및 프로모션 정리
 
@@ -127,7 +122,7 @@ TOP7 멤버 전원이 출연하는 만큼, **개인 팬은 물론 가족 단위 
 
 ## 🚗 오시는 길
 
-![미스터트롯3 대전 콘서트 오시는 길](https://ssangbak.com/wp-content/uploads/2026/01/image-9.png)
+![미스터트롯3 대전 콘서트 오시는 길](/wp-content/uploads/2026/01/image-9.png)
 
 ## ✨ 정리 한마디
 

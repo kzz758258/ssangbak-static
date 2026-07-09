@@ -7,11 +7,11 @@ permalink: "/shin-seung-hun-concert-limited-edition-2026/"
 slugPath: "shin-seung-hun-concert-limited-edition-2026"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/shin-seung-hun-concert-limited-edition-2026-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/shin-seung-hun-concert-limited-edition-2026-1.jpg"
 originalUrl: "https://ssangbak.com/shin-seung-hun-concert-limited-edition-2026/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/shin-seung-hun-concert-limited-edition-2026-1.jpg)
+![](/wp-content/uploads/2026/02/shin-seung-hun-concert-limited-edition-2026-1.jpg)
 
 발라드의 황제, 신승훈이 2026년 봄 ‘LIMITED EDITION’이라는 이름으로 우리 곁에 돌아옵니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/shin-seung-hun-concert-limited-edition-2026/"
 피켓팅이 예상되는 만큼, 이 글 하나로 **예매 일정부터 좌석 꿀팁까지** 완벽하게 정리해 드릴 테니 끝까지 집중해 주세요.
 
 [👉 2026 신승훈 콘서트 예매하기](https://tickets.interpark.com/contents/notice/detail/12877)
-
-목차
-
-[Toggle](#)
-
 ## 📅 **공연 및 일정 정보**
 
 **구분**
@@ -67,7 +62,7 @@ originalUrl: "https://ssangbak.com/shin-seung-hun-concert-limited-edition-2026/"
 
 ## 📍 **GS아트센터 좌석 및 시야 정보**
 
-![gs 아트센터](https://ssangbak.com/wp-content/uploads/2026/02/image-75.png)
+![gs 아트센터](/wp-content/uploads/2026/02/image-75.png)
 
 GS아트센터는 뛰어난 음향 설계로 정평이 나 있어 ‘음향 장인’ 신승훈의 목소리를 듣기에 최적의 장소입니다.
 

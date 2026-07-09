@@ -7,14 +7,9 @@ permalink: "/half-price-travel-application/"
 slugPath: "half-price-travel-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/Half-price-travel-application.jpg"
+heroImage: "/wp-content/uploads/2026/05/Half-price-travel-application.jpg"
 originalUrl: "https://ssangbak.com/half-price-travel-application/"
 ---
-
-목차
-
-[Toggle](#)
-
 # 🏖️ 지역사랑 반값여행
 
 선정 16개 지자체에서 여행 경비 **50%**를 지원받으세요!

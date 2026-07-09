@@ -7,18 +7,13 @@ permalink: "/2026-miso-loan-application/"
 slugPath: "2026-miso-loan-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-18.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-18.png"
 originalUrl: "https://ssangbak.com/2026-miso-loan-application/"
 ---
 
 [미소금융 대출 신청하기](https://www.kbmiso.or.kr/gboard/bbs/board.php?bo_table=step&wr_id=1)
 
 [전국미소지점찾기](https://www.kinfa.or.kr/counselingSupport/centerSmileFind.do?searchKeyword2=00121)
-
-목차
-
-[Toggle](#)
-
 ## 2026년 새롭게 개편된 미소금융 취약계층 생계자금 안내
 
 경제적 기반이 약한 서민들을 위해 정부가 마련한 **미소금융 취약계층 생계자금**이 2026년 3월 31일부터 본격적으로 시행되었습니다. 이번 제도는 단순한 일회성 지원을 넘어, 과거 ‘불법사금융예방대출(구 소액생계비대출)’을 이용했던 분들이 자금을 모두 상환한 뒤에도 안정적으로 제도권 금융 안에서 자금을 융통할 수 있도록 돕는 ‘금융 징검다리’ 역할을 수행합니다.

@@ -7,11 +7,11 @@ permalink: "/seollal-express-bus-booking/"
 slugPath: "seollal-express-bus-booking"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/seollal-express-bus-booking.jpg"
+heroImage: "/wp-content/uploads/2026/02/seollal-express-bus-booking.jpg"
 originalUrl: "https://ssangbak.com/seollal-express-bus-booking/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/seollal-express-bus-booking-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/seollal-express-bus-booking-1024x1024.jpg)
 
 이번 설 명절에는 **원하는 시간대의 명당 좌석**을 가장 먼저 확보하여 그 어느 때보다 **편안하고 행복한 귀성길**을 시작할 수 있습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/seollal-express-bus-booking/"
 👉 시외버스 통합예매
 
 [👉 동서울 터미널 예매](https://www.ti21.co.kr/)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 예매 오픈 일정

@@ -7,18 +7,13 @@ permalink: "/2026-seoul-music-awards-schedule/"
 slugPath: "2026-seoul-music-awards-schedule"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/thumbnail-49.png"
+heroImage: "/wp-content/uploads/2026/04/thumbnail-49.png"
 originalUrl: "https://ssangbak.com/2026-seoul-music-awards-schedule/"
 ---
 
 [2026 서울가요대상 예매하기](https://tickets.interpark.com/contents/notice/detail/13685)
 
 티켓팅 날짜가 다가올수록 내 자리가 없을까 봐 불안하고 초조한 마음이 드시나요? 단 한 번의 클릭 실수로 1년을 기다린 시상식을 놓치지 않도록, **2026 서울가요대상 예매 성공을 위한 모든 전략**을 담았습니다. 이 글 하나만 정독하셔도 예매 확률을 획기적으로 높이고 현장에서 최고의 시야를 확보하실 수 있습니다. K-POP 팬들에게 가장 중요한 정보인 티켓팅 정보부터 인스파이어 아레나의 명당 추천까지 한 번에 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 📅 공연 및 일정 정보
 
 제 35회를 맞이하는 이번 서울가요대상은 국내 최초의 공연 전문 아레나인 인스파이어 아레나에서 화려하게 펼쳐집니다. 공연의 상세 정보는 다음과 같습니다.

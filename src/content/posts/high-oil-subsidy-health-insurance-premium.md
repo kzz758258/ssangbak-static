@@ -7,7 +7,7 @@ permalink: "/high-oil-subsidy-health-insurance-premium/"
 slugPath: "high-oil-subsidy-health-insurance-premium"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/high-oil-subsidy-health-insurance-premium.jpg"
+heroImage: "/wp-content/uploads/2026/05/high-oil-subsidy-health-insurance-premium.jpg"
 originalUrl: "https://ssangbak.com/high-oil-subsidy-health-insurance-premium/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/high-oil-subsidy-health-insurance-premium/"
 [👉 고유가 지원금 대상자 조회](https://ssangbak.com/high-oil-subsidy-criteria-date/)
 
 [👉 고유가 지원금 사용처](https://ssangbak.com/slug-fuel-price-support-usage/)
-
-목차
-
-[Toggle](#)
-
 ## 📊 고유가 피해지원금 건강보험료 직장·지역별 기준표
 
 이번 2차 지원금의 대상자는 **2026년 3월 부과된 건강보험료 본인부담금**을 기준으로 소득 하위 70%를 가려냅니다.

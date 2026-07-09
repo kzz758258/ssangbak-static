@@ -7,11 +7,11 @@ permalink: "/find-hidden-insurance-money/"
 slugPath: "find-hidden-insurance-money"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/find-hidden-insurance-money.jpg"
+heroImage: "/wp-content/uploads/2026/02/find-hidden-insurance-money.jpg"
 originalUrl: "https://ssangbak.com/find-hidden-insurance-money/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/find-hidden-insurance-money.jpg)
+![](/wp-content/uploads/2026/02/find-hidden-insurance-money.jpg)
 
 **내보험찾아줌 서비스**를 이용하면 나도 모르게 잠자고 있던 수십만 원 이상의 소중한 돈을 단 몇 분 만에 확인하고 즉시 수령할 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/find-hidden-insurance-money/"
 지금 바로 조회를 시작하여 잊고 있었던 **보너스** 같은 보험금을 확인하고 가계 경제에 기분 좋은 보탬을 얻어보시기 바랍니다.
 
 [👉 내보험찾아줌 서비스 바로가기](https://cont.insure.or.kr/cont_web/intro.do)
-
-목차
-
-[Toggle](#)
-
 ## 🌐 내보험찾아줌 어플
 
 **내보험찾아줌 서비스**는 현재 별도의 공식 어플을 운영하지 않으므로 보안을 위해 반드시 **공식 홈페이지**를 이용해야 합니다.

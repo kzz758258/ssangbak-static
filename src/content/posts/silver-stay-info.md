@@ -7,7 +7,7 @@ permalink: "/silver-stay-info/"
 slugPath: "silver-stay-info"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/silver-stay-info-2.jpg"
+heroImage: "/wp-content/uploads/2026/02/silver-stay-info-2.jpg"
 originalUrl: "https://ssangbak.com/silver-stay-info/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/silver-stay-info/"
 편안한 환경에서 고품격 서비스를 누릴 수 있는 **실버스테이**의 구체적인 정보를 지금 바로 확인해 보세요.
 
 [👉 실버스테이 신청하기](https://apply.lh.or.kr/lhapply/main.do)
-
-목차
-
-[Toggle](#)
-
 ## 📍 실버스테이 개념과 의미
 
 -   **중산층 고령자**를 주요 타겟으로 하는 기업형 민간임대주택입니다.

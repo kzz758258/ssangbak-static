@@ -7,7 +7,7 @@ permalink: "/local-elections-voting/"
 slugPath: "local-elections-voting"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-49.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-49.png"
 originalUrl: "https://ssangbak.com/local-elections-voting/"
 ---
 
@@ -16,11 +16,6 @@ originalUrl: "https://ssangbak.com/local-elections-voting/"
 [👉 63 지방선거 후보자 공약 확인](https://ssangbak.com/local-election-candidate-verification/)
 
 우리 지역의 향후 4년을 책임질 일꾼을 선출하는 날이 코앞으로 다가왔습니다. 바로 2026년 6월 3일 실시되는 제9회 전국동시지방선거인데요. 이번 선거는 지역의 복지와 교육, 인프라를 결정짓는 중요한 전환점이 될 것입니다. 하지만 투표용지가 무려 7장에 달하고 사전투표와 본투표의 장소가 달라 혼란을 겪는 분들이 많습니다. 소중한 한 표가 무효표가 되지 않도록 **2026 지방선거 투표방법**의 핵심 내용을 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 2026 지방선거 투표 일정과 장소 안내
 
 이번 선거는 본투표 당일 참여가 어려운 유권자들을 위해 이틀간의 사전투표 기간을 운영합니다. 각 일정에 따라 투표 장소가 다르므로 사전에 반드시 확인이 필요합니다.

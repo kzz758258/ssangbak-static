@@ -7,7 +7,7 @@ permalink: "/income-amount-calculator/"
 slugPath: "income-amount-calculator"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/income-amount-calculator.jpg"
+heroImage: "/wp-content/uploads/2026/05/income-amount-calculator.jpg"
 originalUrl: "https://ssangbak.com/income-amount-calculator/"
 ---
 

@@ -7,11 +7,11 @@ permalink: "/musical-swing-days-ticketing/"
 slugPath: "musical-swing-days-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/image-3.png"
+heroImage: "/wp-content/uploads/2026/04/image-3.png"
 originalUrl: "https://ssangbak.com/musical-swing-days-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/image-3.png)
+![](/wp-content/uploads/2026/04/image-3.png)
 
 **2026 뮤지컬 스윙데이즈 티켓팅** 3차 오픈 일정이 드디어 공개되어 많은 뮤지컬 팬들의 심장을 뛰게 만들고 있습니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/musical-swing-days-ticketing/"
 충무아트센터 대극장은 음향이 훌륭하기로 정평이 나 있지만 그만큼 인기 회차의 경쟁이 치열하니 이번 3차 오픈을 절대 놓치지 마시길 바랍니다.
 
 [👉 뮤지컬 스윙데이즈 예매하기](https://tickets.interpark.com/goods/26001111)
-
-목차
-
-[Toggle](#)
-
 ## 📅 티켓팅 정보
 
 이번 3차 티켓 오픈은 특정 기간의 공연 회차를 대상으로 진행되며 충무아트센터 회원들을 위한 선예매 혜택이 포함되어 있습니다.

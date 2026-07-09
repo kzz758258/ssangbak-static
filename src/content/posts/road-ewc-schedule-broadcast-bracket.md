@@ -7,7 +7,7 @@ permalink: "/road-ewc-schedule-broadcast-bracket/"
 slugPath: "road-ewc-schedule-broadcast-bracket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/road-ewc-schedule-broadcast-bracket.jpg"
+heroImage: "/wp-content/uploads/2026/05/road-ewc-schedule-broadcast-bracket.jpg"
 originalUrl: "https://ssangbak.com/road-ewc-schedule-broadcast-bracket/"
 ---
 
@@ -24,11 +24,6 @@ LCK 팬 입장에서 5월 내내 매일 경기를 챙겨볼 수 있다는 점은
 [👉 Road to ewc 일정표](https://game.naver.com/esports/League_of_Legends/schedule/ewc_lol)
 
 [👉 Road to ewc 실시간 중계](https://chzzk.naver.com/fce7c8735e0646e642007198a8875882)
-
-목차
-
-[Toggle](#)
-
 ## 🏆 대회 개요 및 참가팀
 
 이번 한국 지역 온라인 예선에는 젠지(Gen.G)를 제외한 총 9개의 LCK 팀이 출사표를 던졌습니다.

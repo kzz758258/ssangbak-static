@@ -7,11 +7,11 @@ permalink: "/hope-return-package-guide/"
 slugPath: "hope-return-package-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/hope-return-package-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/hope-return-package-guide.jpg"
 originalUrl: "https://ssangbak.com/hope-return-package-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/hope-return-package-guide-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/hope-return-package-guide-1024x1024.jpg)
 
 폐업이라는 힘든 결정을 내린 소상공인 사장님들께 정부는 **최대 600만 원의 점포철거비**와 재기를 위한 든든한 폐업지원금을 마련해두고 있습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/hope-return-package-guide/"
 [👉 원스톱 폐업 정리 신청](https://www.sbiz.or.kr/nhrp/pblanc/pblancView.do?pMenuNo=100100&cMenuNo=100102&selPblancClCode=BCC008&directCall=Y)
 
 [👉 점포 철거비 지원 신청](https://www.sbiz24.kr/#/pbanc/567)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ✅ 점포철거비 지원

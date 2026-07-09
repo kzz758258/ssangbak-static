@@ -7,11 +7,11 @@ permalink: "/win-win-payback-2nd-application-method-period/"
 slugPath: "win-win-payback-2nd-application-method-period"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-2.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-2.jpg"
 originalUrl: "https://ssangbak.com/win-win-payback-2nd-application-method-period/"
 ---
 
-![현재 이미지: 상생페이백 2차](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-1-2-1024x1024.jpg)
+![현재 이미지: 상생페이백 2차](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-1-2-1024x1024.jpg)
 
 내수 경기 회복과 소상공인 지원을 위해 정부가 마련한 카드소비 환급 제도인 상생페이백 2차 신청이 다시 시행됩니다.
 
@@ -25,12 +25,7 @@ originalUrl: "https://ssangbak.com/win-win-payback-2nd-application-method-period
 
 * * *
 
-![상생페이백 포스터](https://ssangbak.com/wp-content/uploads/2025/11/image-62-1024x331.png)
-
-목차
-
-[Toggle](#)
-
+![상생페이백 포스터](/wp-content/uploads/2025/11/image-62-1024x331.png)
 ## 1\. 상생페이백이란?
 
 ‘상생페이백’은 정부가 **2024년 월평균 카드사용 실적**과 비교해 **2025년 9월부터 11월까지 카드 사용이 증가한 금액**에 대해 일정 비율을 환급해주는 소비촉진 제도입니다.
@@ -104,7 +99,7 @@ originalUrl: "https://ssangbak.com/win-win-payback-2nd-application-method-period
 
 -   신청 후 카드사 및 [홈페이지](https://xn--3h3bl7foc243a8lq.kr/)에서 **본인 실적 및 환급 예정금액**을 확인할 수 있습니다. 신청 후 2일 뒤부터 소비 실적 및 환급액 산정 상태가 조회 가능하도록 안내되어 있습니다.
 
-![상생페이백 신청방법](https://ssangbak.com/wp-content/uploads/2025/11/image-63-1024x345.png)
+![상생페이백 신청방법](/wp-content/uploads/2025/11/image-63-1024x345.png)
 
 ## 5\. 소비실적 인정범위 및 주의사항
 

@@ -5,11 +5,16 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 const posts = (await getCollection("posts")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
+const recentPosts = posts.slice(0, 60);
 ---
 
-<BaseLayout>
+<BaseLayout title="SsangBak | 지원금·정책·생활정보" description="지원금, 정책, 생활정보, 공연과 방송 정보를 빠르게 정리하는 SsangBak입니다.">
+  <section class="home-intro" aria-labelledby="home-title">
+    <h1 id="home-title">지원금·정책·생활정보 핵심 정리</h1>
+    <p>최근 업데이트된 글을 중심으로 빠르게 확인할 수 있게 정리했습니다.</p>
+  </section>
   <section class="post-list" aria-label="최근 글">
-    {posts.map((post) => (
+    {recentPosts.map((post) => (
       <article class="post-card">
         <h2><a href={post.data.permalink}>{post.data.title}</a></h2>
         <p class="meta">{post.data.pubDate.toLocaleDateString("ko-KR")}</p>

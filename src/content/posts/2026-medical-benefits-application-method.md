@@ -7,11 +7,11 @@ permalink: "/2026-medical-benefits-application-method/"
 slugPath: "2026-medical-benefits-application-method"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-7.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-7.jpg"
 originalUrl: "https://ssangbak.com/2026-medical-benefits-application-method/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-7-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-7-1024x1024.jpg)
 
 최근 의료급여 제도에 중요한 변화가 예고되고 있습니다.  
   
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/2026-medical-benefits-application-method/"
 이로 인해 과거에는 “나는 해당되지 않는다”고 판단해 신청하지 않았던 분들도, 2026년을 기준으로 **다시 한 번 의료급여 신청 여부를 확인해볼 필요**가 있습니다.  
   
 그런 의미에서 **2026 의료급여 신청방법을 핵심 위주로 정리**해 보았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🏥 의료급여란 무엇인가요?
 
 의료급여는 **생활이 어려운 국민에게 국가가 의료비를 지원하는 공공부조 제도**입니다.  

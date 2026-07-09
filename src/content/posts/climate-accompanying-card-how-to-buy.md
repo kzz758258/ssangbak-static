@@ -7,11 +7,11 @@ permalink: "/climate-accompanying-card-how-to-buy/"
 slugPath: "climate-accompanying-card-how-to-buy"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-4.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-005-4.jpg"
 originalUrl: "https://ssangbak.com/climate-accompanying-card-how-to-buy/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-005-4-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-005-4-1024x1024.jpg)
 
 기후동행카드는 2026년 수도권 대중교통 정책의 중심이자, 서울·경기·인천 시민들의 교통비 절감에 가장 큰 역할을 하는 **정기권형 교통카드**입니다.  
   
@@ -38,11 +38,6 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-how-to-buy/"
 
 [전체 가이드 보기 →](https://ssangbak.com/climate-accompanying-card-all-things/
 )
-
-목차
-
-[Toggle](#)
-
 ## 🌿 기후동행카드란?
 
 기후동행카드는 서울교통공사와 티머니가 공동 운영하는 **수도권 대중교통 전용 정기권**입니다.
@@ -150,7 +145,7 @@ originalUrl: "https://ssangbak.com/climate-accompanying-card-how-to-buy/"
 
 ### ✔ 발급 가능한 카드사
 
-![기후동행카드 발급 가능 카드사](https://ssangbak.com/wp-content/uploads/2025/12/image-1.png)
+![기후동행카드 발급 가능 카드사](/wp-content/uploads/2025/12/image-1.png)
 
 -   신한카드
 -   KB국민카드

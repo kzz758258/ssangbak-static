@@ -7,11 +7,11 @@ permalink: "/check-the-balance-of-training-benefit-voucher/"
 slugPath: "check-the-balance-of-training-benefit-voucher"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Check-the-balance-of-training-benefit-voucher.jpg"
+heroImage: "/wp-content/uploads/2026/01/Check-the-balance-of-training-benefit-voucher.jpg"
 originalUrl: "https://ssangbak.com/check-the-balance-of-training-benefit-voucher/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Check-the-balance-of-training-benefit-voucher-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Check-the-balance-of-training-benefit-voucher-1024x1024.jpg)
 
 교육급여바우처를 사용하다 보면 현재 얼마나 남았는지, 어디에 얼마를 썼는지 궁금하실 텐데요.
 

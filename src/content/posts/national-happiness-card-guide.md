@@ -7,11 +7,11 @@ permalink: "/national-happiness-card-guide/"
 slugPath: "national-happiness-card-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/national-happiness-card-guide.jpg"
+heroImage: "/wp-content/uploads/2026/02/national-happiness-card-guide.jpg"
 originalUrl: "https://ssangbak.com/national-happiness-card-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/national-happiness-card-guide.jpg)
+![](/wp-content/uploads/2026/02/national-happiness-card-guide.jpg)
 
 **국민행복카드 신청방법**을 미리 숙지하면 임신, 출산 지원금부터 보육료까지 정부가 제공하는 **100만 원 이상의 바우처** 혜택을 놓치지 않고 모두 챙길 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/national-happiness-card-guide/"
 복잡한 절차 없이 누구나 쉽고 빠르게 혜택을 누릴 수 있도록 **핵심 정보**만 골라 정리해 드립니다.
 
 [👉 국민행복카드 신청하기](http://www.voucher.go.kr/card/how.do?p_sn=54)
-
-목차
-
-[Toggle](#)
-
 ## 💳 발급대상 및 조건
 
 **국민행복카드 발급대상**은 대한민국 국적을 가진 국민이라면 누구나 신청할 수 있는 것이 원칙입니다.

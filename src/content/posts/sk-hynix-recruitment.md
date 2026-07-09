@@ -7,7 +7,7 @@ permalink: "/sk-hynix-recruitment/"
 slugPath: "sk-hynix-recruitment"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/sk-hynix-recruitment.jpg"
+heroImage: "/wp-content/uploads/2026/06/sk-hynix-recruitment.jpg"
 originalUrl: "https://ssangbak.com/sk-hynix-recruitment/"
 ---
 
@@ -18,11 +18,6 @@ originalUrl: "https://ssangbak.com/sk-hynix-recruitment/"
 올해 합격을 목표로 하는 구직자들을 위해 전형별 핵심 자격 요건과 서류 접수 마감 시기, 인적성 및 면접 팁을 직관적으로 가이드해 드립니다.
 
 [👉 SK하이닉스 채용 공고 확인](https://talent.skhynix.com/hub/ko/apply/job)
-
-목차
-
-[Toggle](#)
-
 ## 📅 1. sk하이닉스 채용 공고 일정 및 전형 절차
 
 올해 반도체 장비 및 엔지니어링 파트의 대규모 인력 확보를 위한 sk하이닉스 채용 일정 2026 타임라인이 공식화되었습니다.

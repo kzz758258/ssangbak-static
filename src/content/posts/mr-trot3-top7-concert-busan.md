@@ -7,11 +7,11 @@ permalink: "/mr-trot3-top7-concert-busan/"
 slugPath: "mr-trot3-top7-concert-busan"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/20251124_170721.jpg"
+heroImage: "/wp-content/uploads/2025/11/20251124_170721.jpg"
 originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-busan/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251124_170721-2.jpg)
+![](/wp-content/uploads/2025/11/20251124_170721-2.jpg)
 
 부산 팬들이 가장 기다렸던 소식, **2026 미스터트롯3 TOP7 콘서트 부산 공연**이 드디어 공식 확정되었습니다.
 
@@ -19,11 +19,6 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-busan/"
 이번 공연은 단 하루, 단 두 번의 회차만 진행되는 만큼 예매 경쟁이 치열할 것으로 예상되므로 전체 일정·가격·예매 방법을 정확하게 알고 준비하는 것이 중요합니다.
 
 아래 내용은 **부산 공연에 한정된 최신 정보**만을 담았습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🎤 1. 미스터트롯3 TOP7 부산 콘서트 기본 정보
 
 ### 📍 **공연 장소**
@@ -68,7 +63,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-busan/"
 
 부산 공연도 타 지역과 동일하게 전좌석 지정석으로 운영됩니다.
 
-![미스터트롯3 부산 콘서트 좌석 배치도](https://ssangbak.com/wp-content/uploads/2025/11/20251124_170433.jpg)
+![미스터트롯3 부산 콘서트 좌석 배치도](/wp-content/uploads/2025/11/20251124_170433.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 
@@ -178,7 +173,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-busan/"
 
 ## 📍 9. 오시는 길
 
-![미스터트롯3 부산 콘서트 오시는 길](https://ssangbak.com/wp-content/uploads/2025/11/20251124_170509.jpg)
+![미스터트롯3 부산 콘서트 오시는 길](/wp-content/uploads/2025/11/20251124_170509.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 

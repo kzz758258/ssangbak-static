@@ -7,11 +7,11 @@ permalink: "/training-benefit-voucher-where-to-use-it/"
 slugPath: "training-benefit-voucher-where-to-use-it"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Training-benefit-voucher-Where-to-use-it.jpg"
+heroImage: "/wp-content/uploads/2026/01/Training-benefit-voucher-Where-to-use-it.jpg"
 originalUrl: "https://ssangbak.com/training-benefit-voucher-where-to-use-it/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Training-benefit-voucher-Where-to-use-it-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Training-benefit-voucher-Where-to-use-it-1024x1024.jpg)
 
 교육급여바우처를 받았다면 이제 어디서 무엇을 살 수 있는지가 가장 궁금하실 텐데요.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/training-benefit-voucher-where-to-use-it/"
 지금부터 구매 가능한 상품부터 사용처, 구매 방법까지 상세히 안내해드리겠습니다.
 
 [👉 교육급여바우처 신청](https://ssangbak.com/application-for-educational-benefit-voucher/)
-
-목차
-
-[Toggle](#)
-
 ## 🛒 교육급여바우처로 구매 가능한 상품
 
 교육급여바우처는 유흥·사행업종, 청소년 출입불가 장소, 상품권·성인용품 판매점 등 비교육적 업종을 제외하고 교육에 필요한 다양한 물품과 서비스뿐만 아니라 마트, 음식점 등 대부분의 업종에서 사용 가능합니다.  

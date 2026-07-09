@@ -7,11 +7,11 @@ permalink: "/day6-concert-ticketing-strategy-busan/"
 slugPath: "day6-concert-ticketing-strategy-busan"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/image-2.png"
+heroImage: "/wp-content/uploads/2026/04/image-2.png"
 originalUrl: "https://ssangbak.com/day6-concert-ticketing-strategy-busan/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/image-2.png)
+![](/wp-content/uploads/2026/04/image-2.png)
 
 **2026 데이식스 콘서트** 티켓팅 일정과 예매 성공을 위한 핵심 전략을 상세히 정리해 드립니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/day6-concert-ticketing-strategy-busan/"
 [👉 데이식스 콘서트 선예매](https://tickets.interpark.com/goods/26005357)
 
 [👉 데이식스 콘서트 예매하기](https://tickets.interpark.com/goods/26005357)
-
-목차
-
-[Toggle](#)
-
 ## 🎸 데이식스 10주년 부산 공연 정보
 
 이번 콘서트는 데이식스의 10주년을 기념하는 특별한 투어로 부산 \*\*벡스코(BEXCO)\*\*에서 개최됩니다.

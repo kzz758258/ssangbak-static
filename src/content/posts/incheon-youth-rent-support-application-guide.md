@@ -7,14 +7,9 @@ permalink: "/incheon-youth-rent-support-application-guide/"
 slugPath: "incheon-youth-rent-support-application-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/incheon-youth-rent-support-application-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/01/incheon-youth-rent-support-application-guide-1.jpg"
 originalUrl: "https://ssangbak.com/incheon-youth-rent-support-application-guide/"
 ---
-
-목차
-
-[Toggle](#)
-
 ## 🏠 인천 청년 월세 지원 개요
 
 치솟는 물가와 월세 부담으로 인해 독립을 망설이는 인천의 청년들을 위한 반가운 소식이 있습니다.
@@ -27,7 +22,7 @@ originalUrl: "https://ssangbak.com/incheon-youth-rent-support-application-guide/
 
 [👉 35~39세 월세지원금 신청](https://youth.incheon.go.kr/dwelling/monthly.jsp)
 
-![청년월세 지원사업](https://ssangbak.com/wp-content/uploads/2026/01/image-42-1024x161.png)
+![청년월세 지원사업](/wp-content/uploads/2026/01/image-42-1024x161.png)
 
 ## 👥 지원 대상 및 연령 기준
 

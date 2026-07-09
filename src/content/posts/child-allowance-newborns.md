@@ -7,18 +7,13 @@ permalink: "/child-allowance-newborns/"
 slugPath: "child-allowance-newborns"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-14.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-14.png"
 originalUrl: "https://ssangbak.com/child-allowance-newborns/"
 ---
 
 [자녀장려금 신청하기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&menuCd=index3)
 
 신생아의 탄생은 한 가정에 찾아오는 가장 큰 축복 중 하나이지만, 현실적으로 기저귀나 분유 등 각종 양육비에 대한 경제적 부담이 따르기 마련입니다. 정부에서는 이러한 부모님들의 고민을 덜어주기 위해 **자녀장려금 신생아** 지원 제도를 운영하며 가계 경제에 실질적인 도움을 주고 있습니다. 올해는 특히 소득 기준이 대폭 완화되어 더 많은 가구가 혜택을 누릴 수 있게 된 만큼, 정확한 자격 요건과 신청 방법을 미리 파악해 두는 것이 매우 중요합니다.
-
-목차
-
-[Toggle](#)
-
 ## 자녀장려금 신생아 수급을 위한 핵심 자격 조건
 
 가장 먼저 살펴봐야 할 부분은 소득과 재산 기준입니다. 자녀장려금을 받기 위해서는 **부부 합산 연간 총소득이 7,000만 원 미만**이어야 합니다. 과거에 비해 소득 상한선이 상당히 높아졌기 때문에 맞벌이 가구라도 예전보다 수월하게 대상에 포함될 수 있습니다.

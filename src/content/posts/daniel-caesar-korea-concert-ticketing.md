@@ -7,11 +7,11 @@ permalink: "/daniel-caesar-korea-concert-ticketing/"
 slugPath: "daniel-caesar-korea-concert-ticketing"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/daniel-caesar-korea-concert-ticketing.jpg"
+heroImage: "/wp-content/uploads/2026/04/daniel-caesar-korea-concert-ticketing.jpg"
 originalUrl: "https://ssangbak.com/daniel-caesar-korea-concert-ticketing/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/daniel-caesar-korea-concert-ticketing.jpg)
+![](/wp-content/uploads/2026/04/daniel-caesar-korea-concert-ticketing.jpg)
 
 감미로운 R&B 선율로 전 세계 음악 팬들의 심장을 울리는 아티스트 다니엘 시저가 드디어 한국 팬들을 만나러 옵니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/daniel-caesar-korea-concert-ticketing/"
 본 포스팅에서는 **다니엘시저 내한 콘서트** 2026 티켓팅 일정부터 예매 성공을 위한 실전 노하우까지 이미지 속 정보를 바탕으로 상세히 정리해 드립니다.
 
 [👉 다니엘시저 콘서트 예매하기](https://tickets.interpark.com/goods/26005182)
-
-목차
-
-[Toggle](#)
-
 ## 📌 다니엘 시저 내한 공연 상세 정보
 
 이번 투어의 정식 명칭은 ‘Daniel Caesar – Son of Spergy Tour in Korea’로 확정되었습니다.

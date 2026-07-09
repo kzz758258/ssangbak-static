@@ -7,18 +7,13 @@ permalink: "/national-growth-fund/"
 slugPath: "national-growth-fund"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-32.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-32.png"
 originalUrl: "https://ssangbak.com/national-growth-fund/"
 ---
 
 [국민성장펀드 신청하기](https://ssangbak.com/national-growth-fund-subscription-methods/)
 
 최근 저금리 기조 속에서 자산 형성의 새로운 돌파구를 찾는 직장인들 사이에서 **국민성장펀드**가 뜨거운 감자로 떠올랐습니다. 출시와 동시에 기록적인 완판 행진을 이어가며 재테크 시장의 판도를 흔들고 있는 이 상품은 정부의 강력한 지원과 파격적인 세제 혜택이 결합된 결과물입니다. 연말정산을 앞두고 실질적인 절세 효과와 안정성을 동시에 잡고 싶은 분들을 위해, 현재 가장 주목받는 금융 트렌드인 이 펀드의 핵심 정보와 향후 가입 기회까지 상세히 정리해 드립니다.
-
-목차
-
-[Toggle](#)
-
 ## 국민성장펀드 완판 신화의 비결: 왜 열광하는가?
 
 이 상품이 출시되자마자 서민 전용 물량까지 순식간에 소진된 이유는 무엇보다 **정부가 손실의 최대 20%를 우선적으로 분담**한다는 독특한 구조 덕분입니다. 일반적인 펀드 투자는 원금 손실에 대한 두려움이 크지만, 국가 재정이 안전장치 역할을 해준다는 소식에 많은 투자자가 심리적 안정감을 얻었습니다.

@@ -7,11 +7,11 @@ permalink: "/ai-job-series-22/"
 slugPath: "ai-job-series-22"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-32-1.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-32-1.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-22/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-32-1-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-32-1-1024x1024.jpg)
 
 성공적인 취업 준비는  
 “얼마나 많이 지원했는가?”보다  
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/ai-job-series-22/"
 취업 경쟁력을 극대화하는 실전 정보 조사 전략을 소개합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 🔎 **1) 채용 플랫폼은 ‘공고 확인’이 아니라 ‘시장 분석 도구’로 사용해야 한다**
 
 많은 취준생이 채용 플랫폼을 단순히 공고 보는 용도로만 사용하지만,  

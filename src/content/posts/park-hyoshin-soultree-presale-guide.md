@@ -7,11 +7,11 @@ permalink: "/park-hyoshin-soultree-presale-guide/"
 slugPath: "park-hyoshin-soultree-presale-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/park-hyoshin-soultree-presale-guide.jpg"
+heroImage: "/wp-content/uploads/2026/01/park-hyoshin-soultree-presale-guide.jpg"
 originalUrl: "https://ssangbak.com/park-hyoshin-soultree-presale-guide/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/park-hyoshin-soultree-presale-guide-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/park-hyoshin-soultree-presale-guide-1024x1024.jpg)
 
 7년을 기다려온 ‘대장’ 박효신과의 재회, 그 주인공이 될 기회가 눈앞에 있습니다.
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/park-hyoshin-soultree-presale-guide/"
 [👉 박효신 공식 팬클럽 가입](https://parkhyoshin.com/clubs/XRZP2XMZQD)
 
 [👉 박효신 콘서트 예매](https://ticket.melon.com/main/index.htm)
-
-목차
-
-[Toggle](#)
-
 ## 📍 한눈에 확인하는 핵심 요약
 
 ### ⏳ 멤버십 가입 마감

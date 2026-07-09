@@ -7,11 +7,11 @@ permalink: "/mr-trot3-top7-concert-daegu/"
 slugPath: "mr-trot3-top7-concert-daegu"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/20251124_172734-1.jpg"
+heroImage: "/wp-content/uploads/2025/11/20251124_172734-1.jpg"
 originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-daegu/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/20251124_172734-2.jpg)
+![](/wp-content/uploads/2025/11/20251124_172734-2.jpg)
 
 대한민국 트롯 열풍의 중심, **미스터트롯3 TOP7 콘서트가 2025년 12월 대구에서 개최**됩니다.
 
@@ -19,11 +19,6 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-daegu/"
 이번 공연은 **단 하루, 단 두 회차**만 진행되는 만큼 예매 경쟁이 치열할 것으로 예상됩니다.
 
 아래에서 **공연 일정·좌석 가격·예매 방법·할인 정보·공지사항·현장 수령 안내**까지 대구 공연 관람에 필요한 모든 정보를 상세하게 정리했습니다.
-
-목차
-
-[Toggle](#)
-
 ## 📍 대구 공연 기본 정보
 
 -   **공연명:** 미스터트롯3 TOP7 콘서트 대구
@@ -43,7 +38,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-daegu/"
 
 ※ 전석 지정석이며, 회차별 조기 매진 가능성이 매우 높습니다.
 
-![미스터트롯3 대구 콘서트 좌석 배치도](https://ssangbak.com/wp-content/uploads/2025/11/20251124_172812.jpg)
+![미스터트롯3 대구 콘서트 좌석 배치도](/wp-content/uploads/2025/11/20251124_172812.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 
@@ -151,7 +146,7 @@ originalUrl: "https://ssangbak.com/mr-trot3-top7-concert-daegu/"
     -   **버스:** 엑스코 방면 주요 노선 다수 운행
 -   공연일에는 주차 혼잡 심해 **대중교통 이용 권장**
 
-![미스터트롯3 대구 콘서트 오시는 길](https://ssangbak.com/wp-content/uploads/2025/11/20251124_172830.jpg)
+![미스터트롯3 대구 콘서트 오시는 길](/wp-content/uploads/2025/11/20251124_172830.jpg)
 
 출처: NOL 티켓 미스터트롯3 예매 공식 페이지
 

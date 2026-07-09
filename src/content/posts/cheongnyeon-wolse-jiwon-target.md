@@ -7,11 +7,11 @@ permalink: "/cheongnyeon-wolse-jiwon-target/"
 slugPath: "cheongnyeon-wolse-jiwon-target"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/cheongnyeon-wolse-jiwon-target-1.jpg"
+heroImage: "/wp-content/uploads/2026/04/cheongnyeon-wolse-jiwon-target-1.jpg"
 originalUrl: "https://ssangbak.com/cheongnyeon-wolse-jiwon-target/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/cheongnyeon-wolse-jiwon-target-1.jpg)
+![](/wp-content/uploads/2026/04/cheongnyeon-wolse-jiwon-target-1.jpg)
 
 치솟는 물가와 주거비 부담 속에서 독립을 선택한 청년들에게 단비와 같은 **2026 청년월세지원금** 신청이 시작되었습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/cheongnyeon-wolse-jiwon-target/"
 본 포스팅에서는 **2026 청년월세지원금** 신청방법부터 까다로운 소득기준까지 이미지 속 최신 데이터를 바탕으로 완벽하게 정리해 드립니다.
 
 [👉 청년월세지원금 신청하기](https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004661)
-
-목차
-
-[Toggle](#)
-
 ## 📌 2026 청년월세지원금 지원 대상 및 자격
 
 이번 사업은 만 19세에서 34세 사이의 부모님과 떨어져 거주하는 무주택 청년을 주 대상으로 합니다.

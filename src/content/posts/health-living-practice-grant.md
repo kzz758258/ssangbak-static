@@ -7,11 +7,11 @@ permalink: "/health-living-practice-grant/"
 slugPath: "health-living-practice-grant"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-14.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-14.jpg"
 originalUrl: "https://ssangbak.com/health-living-practice-grant/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-14-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요.-복사본-14-1024x1024.jpg)
 
 건강생활실천지원금은 **신청만 하면 받을 수 있는 제도가 아닙니다.**  
   
@@ -26,11 +26,6 @@ originalUrl: "https://ssangbak.com/health-living-practice-grant/"
 
   
 를 기준으로 정리해 드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## ✅ 건강생활실천지원금, 누구나 신청할 수 있는 제도일까?
 
 많은 분들이 건강생활실천지원금을 ‘복지로처럼 직접 신청하는 현금성 지원금’으로 오해하지만, 실제로는 **국민건강보험공단이 대상자를 선별한 뒤 신청을 허용하는 방식**입니다.
@@ -87,7 +82,7 @@ originalUrl: "https://ssangbak.com/health-living-practice-grant/"
 👉 “조건은 맞는 것 같은데 신청이 안 된다”면  
 **거의 대부분 지역 요건 때문**입니다.
 
-![건강생활실천지원금 시범사업 수행 지역](https://ssangbak.com/wp-content/uploads/2025/12/image-18-1024x645.png)
+![건강생활실천지원금 시범사업 수행 지역](/wp-content/uploads/2025/12/image-18-1024x645.png)
 
 ## ❗ 많이 하는 착각 TOP 3
 
@@ -111,9 +106,9 @@ originalUrl: "https://ssangbak.com/health-living-practice-grant/"
 
 ## ✔ 포인트 적립기준 및 적립 금액
 
-![건강생활실천지원금 예방형 적립 기준표](https://ssangbak.com/wp-content/uploads/2025/12/image-19.png)
+![건강생활실천지원금 예방형 적립 기준표](/wp-content/uploads/2025/12/image-19.png)
 
-![건강생활실천지원금 관리형 적립 기준표](https://ssangbak.com/wp-content/uploads/2025/12/image-20-1024x624.png)
+![건강생활실천지원금 관리형 적립 기준표](/wp-content/uploads/2025/12/image-20-1024x624.png)
 
 ## ✅ 적립한 포인트 사용처
 

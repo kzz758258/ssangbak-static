@@ -7,16 +7,11 @@ permalink: "/deep-purple-live-concert-ticket/"
 slugPath: "deep-purple-live-concert-ticket"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/03/image-4.png"
+heroImage: "/wp-content/uploads/2026/03/image-4.png"
 originalUrl: "https://ssangbak.com/deep-purple-live-concert-ticket/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/03/image-4.png)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/03/image-4.png)
 ## 🎸 딥 퍼플, 16년 만의 단독 내한공연 확정!
 
 하드록의 살아있는 전설, \*\*딥 퍼플(Deep Purple)\*\*이 드디어 한국을 찾습니다.

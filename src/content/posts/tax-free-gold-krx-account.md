@@ -7,11 +7,11 @@ permalink: "/tax-free-gold-krx-account/"
 slugPath: "tax-free-gold-krx-account"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/tax-free-gold-krx-account-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/tax-free-gold-krx-account-1.jpg"
 originalUrl: "https://ssangbak.com/tax-free-gold-krx-account/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/tax-free-gold-krx-account-1-1024x1024.jpg)
+![](/wp-content/uploads/2026/02/tax-free-gold-krx-account-1-1024x1024.jpg)
 
 KRX 금시장 계좌 개설 방법을 알고 실천하는 것만으로도 여러분은 투자 시작과 동시에 남들보다 10% 이상의 높은 수익률을 확보하고 시작할 수 있습니다.
 
@@ -20,11 +20,6 @@ KRX 금시장 계좌 개설 방법을 알고 실천하는 것만으로도 여러
 소중한 투자 자금을 세금으로 낭비하지 않고 오로지 금의 가치 상승에만 집중할 수 있는 **비과세 혜택**의 모든 노하우를 공개합니다.
 
 [👉 KRX 금시장 계좌 개설](https://open.krx.co.kr/contents/OPN/01/01050207/OPN01050207.jsp)
-
-목차
-
-[Toggle](#)
-
 ## 💰 핵심 투자 정보 요약
 
 **구분**
@@ -89,7 +84,7 @@ KRX 금시장 계좌 개설 방법을 알고 실천하는 것만으로도 여러
 
 신분증만 있으면 언제 어디서나 개설이 가능하며, 계좌 개설 즉시 **1g 단위**로 금 매수를 시작할 수 있습니다.
 
-![금 현물계좌 개설 방법](https://ssangbak.com/wp-content/uploads/2026/02/image-19-1024x236.png)
+![금 현물계좌 개설 방법](/wp-content/uploads/2026/02/image-19-1024x236.png)
 
 #### 수수료 혜택 비교하기
 

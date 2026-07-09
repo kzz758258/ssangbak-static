@@ -7,11 +7,11 @@ permalink: "/haerang-train-price-reservation/"
 slugPath: "haerang-train-price-reservation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/haerang-train-price-reservation-3.jpg"
+heroImage: "/wp-content/uploads/2026/02/haerang-train-price-reservation-3.jpg"
 originalUrl: "https://ssangbak.com/haerang-train-price-reservation/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/02/haerang-train-price-reservation-3.jpg)
+![](/wp-content/uploads/2026/02/haerang-train-price-reservation-3.jpg)
 
 **해랑열차 가격과 예약 방법**을 미리 확인하면 모든 식사와 숙박, 와인 서비스까지 포함된 **올인클루시브 럭셔리 여행**을 합리적으로 즐길 수 있습니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/haerang-train-price-reservation/"
 2026년 최신 요금 체계와 성수기 일정을 바탕으로, **실패 없는 예약**을 위한 핵심 가이드를 상세히 정리해 드립니다.
 
 [👉 해랑열차 예약하기](https://www.railcruise.co.kr/website/rc_rev01.asp)
-
-목차
-
-[Toggle](#)
-
 ## 💰 2026년 객실별 요금표
 
 **해랑열차 가격**은 객실 등급과 여행 기간, 그리고 성수기 여부에 따라 차등 적용됩니다.
@@ -89,7 +84,7 @@ originalUrl: "https://ssangbak.com/haerang-train-price-reservation/"
 
 [👉 해랑열차 예약하기](https://www.railcruise.co.kr/website/rc_rev01.asp)
 
-![해랑열차 풍경](https://ssangbak.com/wp-content/uploads/2026/02/image-25.png)
+![해랑열차 풍경](/wp-content/uploads/2026/02/image-25.png)
 
 ## 🌟 품격 있는 혜택 안내
 

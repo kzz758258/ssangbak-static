@@ -7,11 +7,11 @@ permalink: "/switch-on-diet-food-list/"
 slugPath: "switch-on-diet-food-list"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/Switch-on-Diet-Food-List.jpg"
+heroImage: "/wp-content/uploads/2026/01/Switch-on-Diet-Food-List.jpg"
 originalUrl: "https://ssangbak.com/switch-on-diet-food-list/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/Switch-on-Diet-Food-List-1024x1024.jpg)
+![](/wp-content/uploads/2026/01/Switch-on-Diet-Food-List-1024x1024.jpg)
 
 “이건 먹어도 되는 건가요?” 스위치온 다이어트를 시작하면서 가장 많이 받는 질문입니다.
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/switch-on-diet-food-list/"
 특히 1주차 도입기의 허용식품을 정확히 아는 것이 성공의 핵심입니다.
 
 공식 가이드에 나온 주차별 허용식품과 금기음식을 명확하게 정리해드리겠습니다.
-
-목차
-
-[Toggle](#)
-
 ## 🟢 1주차 허용식품 (도입기)
 
 박용우 박사가 공식적으로 제시한 1주차 허용식품은 총 32가지입니다.

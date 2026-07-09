@@ -7,7 +7,7 @@ permalink: "/earned-income-tax-credit-application-guide/"
 slugPath: "earned-income-tax-credit-application-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/02/earned-income-tax-credit-application-guide-1.jpg"
+heroImage: "/wp-content/uploads/2026/02/earned-income-tax-credit-application-guide-1.jpg"
 originalUrl: "https://ssangbak.com/earned-income-tax-credit-application-guide/"
 ---
 
@@ -22,14 +22,9 @@ originalUrl: "https://ssangbak.com/earned-income-tax-credit-application-guide/"
 [👉 2026 근로장려금 신청하기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml&menuCd=index3)
 
 [👉 2026 근로장려금 대상자 조회](https://ssangbak.com/earned-income-tax-credit-eligibility-guide/)
-
-목차
-
-[Toggle](#)
-
 ## 📅 정기 신청기간 일정 안내
 
-![2026 근로장려금 신청기간](https://ssangbak.com/wp-content/uploads/2026/02/image-68-1024x233.png)
+![2026 근로장려금 신청기간](/wp-content/uploads/2026/02/image-68-1024x233.png)
 
 가장 일반적인 **정기** 신청은 매년 5월에 한 달 동안 진행됩니다.
 
@@ -68,7 +63,7 @@ originalUrl: "https://ssangbak.com/earned-income-tax-credit-application-guide/"
 
 ## 💻 홈택스 손택스 상세 신청방법
 
-![2026 근로장려금 신청방법](https://ssangbak.com/wp-content/uploads/2026/02/image-69.png)
+![2026 근로장려금 신청방법](/wp-content/uploads/2026/02/image-69.png)
 
 안내문을 받지 못했더라도 **홈택스**나 **손택스**를 통해 직접 신청할 수 있습니다.
 

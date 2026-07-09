@@ -7,16 +7,11 @@ permalink: "/may-income-tax-penalties/"
 slugPath: "may-income-tax-penalties"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-9.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-9.png"
 originalUrl: "https://ssangbak.com/may-income-tax-penalties/"
 ---
 
 [종합소득세신고 바로가기](https://hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index_pp.xml)
-
-목차
-
-[Toggle](#)
-
 ## 종합소득세 신고 안하면 직면하게 될 경제적 불이익 3가지
 
 매년 5월은 정기 세무 신고의 달이지만, 예기치 못한 사정으로 기한을 놓치는 경우가 많습니다. 하지만 **종합소득세 신고 안하면 단순히 세금을 늦게 내는 것으로 끝나지 않고, 막대한 가산세와 혜택 박탈이라는 치명적인 결과**를 초래하게 됩니다. 세무 당국은 신고 의무를 위반한 경우에 대해 매우 엄격한 잣대를 적용하고 있으므로, 어떤 손실이 발생하는지 정확히 인지하는 것이 중요합니다.

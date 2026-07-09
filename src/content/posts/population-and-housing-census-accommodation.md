@@ -7,20 +7,15 @@ permalink: "/population-and-housing-census-accommodation/"
 slugPath: "population-and-housing-census-accommodation"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/11/제목을-입력해주세요_-001-10.jpg"
+heroImage: "/wp-content/uploads/2025/11/제목을-입력해주세요_-001-10.jpg"
 originalUrl: "https://ssangbak.com/population-and-housing-census-accommodation/"
 ---
 
-![현재 이미지: 인구주택총조사 기숙사](https://ssangbak.com/wp-content/uploads/2025/11/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-10-1024x576.jpg)
+![현재 이미지: 인구주택총조사 기숙사](/wp-content/uploads/2025/11/제목을-입력해주세요_-001-10-1024x576.jpg)
 
 대학 기숙사, 회사 기숙사, 군부대 기숙사 등 비(非)일반주택 형태 거처에 거주 중인 분들이라면 이번 인구주택총조사에서 **내가 대상인가? 어떻게 응답해야 하나?** 하고 고민할 수 있습니다.
 
 특히 거처의 주소나 세대 구성 등이 일반 가구와 다르기 때문에 응답 방법을 헷갈려 하기도 합니다.
-
-목차
-
-[Toggle](#)
-
 ## 1\. 기숙사 거주자는 조사 대상인가?
 
 기숙사 거주자도 **기본적으로 인구주택총조사 대상에 포함**됩니다.
@@ -46,9 +41,9 @@ originalUrl: "https://ssangbak.com/population-and-housing-census-accommodation/"
 
 * * *
 
-![인구주택총조사에서 말하는 기숙사의 예시](https://ssangbak.com/wp-content/uploads/2025/11/premium_photo-1724061887228-fd088f0be120-2-1024x683.jpeg)
+![인구주택총조사에서 말하는 기숙사의 예시](/wp-content/uploads/2025/11/premium_photo-1724061887228-fd088f0be120-2-1024x683.jpeg)
 
-![](https://ssangbak.com/wp-content/uploads/2025/11/premium_photo-1716767947595-da9f70b8da3b-1-683x1024.jpeg)
+![](/wp-content/uploads/2025/11/premium_photo-1716767947595-da9f70b8da3b-1-683x1024.jpeg)
 
 ## 2\. 기숙사 주소 및 세대 구성 이해하기
 

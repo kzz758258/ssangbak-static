@@ -7,11 +7,11 @@ permalink: "/ai-job-series-24/"
 slugPath: "ai-job-series-24"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-34.jpg"
+heroImage: "/wp-content/uploads/2025/12/제목을-입력해주세요_-001-34.jpg"
 originalUrl: "https://ssangbak.com/ai-job-series-24/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2025/12/제목을-입력해주세요_-001-34-1024x1024.jpg)
+![](/wp-content/uploads/2025/12/제목을-입력해주세요_-001-34-1024x1024.jpg)
 
 신입이 조직에 들어와 가장 어려워하는 것은  
 업무 자체보다 **업무를 어떻게 해야 하는지 모르는 상태**에서 오는 불안과 실수입니다.
@@ -27,11 +27,6 @@ originalUrl: "https://ssangbak.com/ai-job-series-24/"
 혼자서도 빠르게 성장할 수 있는 방법을 정리합니다.
 
 * * *
-
-목차
-
-[Toggle](#)
-
 ## 📘 **1) 업무 가이드 문서는 ‘지식 기록’이 아니라 ‘실수 방지 시스템’이다**
 
 많은 신입들은  

@@ -7,11 +7,11 @@ permalink: "/post-malone-stadium-world-tour-seoul/"
 slugPath: "post-malone-stadium-world-tour-seoul"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/04/post-malone-stadium-world-tour-seoul.jpg"
+heroImage: "/wp-content/uploads/2026/04/post-malone-stadium-world-tour-seoul.jpg"
 originalUrl: "https://ssangbak.com/post-malone-stadium-world-tour-seoul/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/04/post-malone-stadium-world-tour-seoul.jpg)
+![](/wp-content/uploads/2026/04/post-malone-stadium-world-tour-seoul.jpg)
 
 전 세계 힙합과 팝 신을 뒤흔든 거물급 아티스트 포스트 말론이 2026년 가을 대한민국을 다시 한번 보랏빛 감성으로 물들입니다.
 
@@ -24,11 +24,6 @@ originalUrl: "https://ssangbak.com/post-malone-stadium-world-tour-seoul/"
 [👉 포스트말론 콘서트 선예매](https://nol.yanolja.com/ticket/places/26000336/products/26004944)
 
 [👉 포스트말론 콘서트 예매하기](https://nol.yanolja.com/ticket/places/26000336/products/26004944)
-
-목차
-
-[Toggle](#)
-
 ## 🏟️ 고양 스테디움 공연 개요
 
 이번 공연의 공식 명칭은 ‘Post Malone Presents The BIG Stadium World Tour in Seoul’입니다.

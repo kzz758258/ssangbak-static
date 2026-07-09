@@ -7,7 +7,7 @@ permalink: "/starbucks-refund-guide/"
 slugPath: "starbucks-refund-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/starbucks-refund-guide.jpg"
+heroImage: "/wp-content/uploads/2026/06/starbucks-refund-guide.jpg"
 originalUrl: "https://ssangbak.com/starbucks-refund-guide/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/starbucks-refund-guide/"
 [👉 스타벅스 환불 신청하기](https://www.starbucks.co.kr/whats_new/campaign_view.do?pro_seq=3436)
 
 [👉 스타벅스 환불 기준 안내](https://www.starbucks.co.kr/whats_new/campaign_view.do?pro_seq=3436)
-
-목차
-
-[Toggle](#)
-
 ## 💳 스타벅스 선불카드 및 e카드 잔액 환불 방법
 
 스타벅스 앱에 등록하여 사용하는 선불카드(e카드) 및 실물 기프트카드는 앱 내에서 터치 몇 번으로 간단하게 환불이 가능합니다.

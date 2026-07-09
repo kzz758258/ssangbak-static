@@ -7,7 +7,7 @@ permalink: "/economic-census-guide/"
 slugPath: "economic-census-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/06/https___ssangbak.com_economic-census-guide_-1.jpg"
+heroImage: "/wp-content/uploads/2026/06/https___ssangbak.com_economic-census-guide_-1.jpg"
 originalUrl: "https://ssangbak.com/economic-census-guide/"
 ---
 
@@ -22,11 +22,6 @@ originalUrl: "https://ssangbak.com/economic-census-guide/"
 [👉 경제총조사 홈페이지 바로가기](https://ecensus.go.kr/ma/echpma100m01.html)
 
 [👉 경제총조사 온라인조사 참여하기](https://ecensus.go.kr/isis/ecis)
-
-목차
-
-[Toggle](#)
-
 ## 📅 2026 경제총조사 기간 및 참여 방법
 
 국가데이터처가 주관하는 2025년 기준 경제총조사는 온라인조사와 방문 면접조사 두 가지 방식으로 나뉘어 진행됩니다.

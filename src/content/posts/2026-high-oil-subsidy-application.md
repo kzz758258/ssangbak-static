@@ -7,14 +7,9 @@ permalink: "/2026-high-oil-subsidy-application/"
 slugPath: "2026-high-oil-subsidy-application"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-8.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-8.png"
 originalUrl: "https://ssangbak.com/2026-high-oil-subsidy-application/"
 ---
-
-목차
-
-[Toggle](#)
-
 ## 고물가 시대, 우리 아이 몫까지 챙기는 고유가 피해 지원금
 
 최근 에너지 가격의 지속적인 상승으로 인해 가계 경제의 부담이 날로 커지고 있습니다. 이러한 상황에서 민생 안정을 위해 정부가 마련한 **고유가 피해 지원금**은 부모님들에게 가뭄의 단비 같은 소식입니다. 특히 이번 정책은 성인뿐만 아니라 미성년 자녀까지 수혜 대상에 포함되어 있어, 자녀를 둔 가구라면 반드시 신청 자격과 방법을 확인해야 합니다.

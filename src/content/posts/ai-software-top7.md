@@ -7,16 +7,11 @@ permalink: "/ai-software-top7/"
 slugPath: "ai-software-top7"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/01/ai-software-top7.jpg"
+heroImage: "/wp-content/uploads/2026/01/ai-software-top7.jpg"
 originalUrl: "https://ssangbak.com/ai-software-top7/"
 ---
 
-![](https://ssangbak.com/wp-content/uploads/2026/01/ai-software-top7-1024x1024.jpg)
-
-목차
-
-[Toggle](#)
-
+![](/wp-content/uploads/2026/01/ai-software-top7-1024x1024.jpg)
 ## 📊 TOP7 종목 한눈에 보기
 
 ### 🥇 1위: 마이크로소프트

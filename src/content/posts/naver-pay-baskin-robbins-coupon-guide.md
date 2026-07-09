@@ -7,7 +7,7 @@ permalink: "/naver-pay-baskin-robbins-coupon-guide/"
 slugPath: "naver-pay-baskin-robbins-coupon-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/naver-pay-baskin-robbins-coupon-guide.jpg"
+heroImage: "/wp-content/uploads/2026/05/naver-pay-baskin-robbins-coupon-guide.jpg"
 originalUrl: "https://ssangbak.com/naver-pay-baskin-robbins-coupon-guide/"
 ---
 
@@ -20,11 +20,6 @@ originalUrl: "https://ssangbak.com/naver-pay-baskin-robbins-coupon-guide/"
 어제 행사 날짜를 착각하여 정가에 사 먹는 아쉬운 경험을 했지만, 여러분은 저의 팁을 참고하시어 똑똑하게 지갑을 방어하시길 바랍니다.
 
 [👉 베스킨라빈스 할인쿠폰 받기](https://play.google.com/store/apps/details?id=com.naverfin.payapp&hl=ko)
-
-목차
-
-[Toggle](#)
-
 ## 🍦 5월 베라 900원 이벤트
 
 가정의 달을 맞이하여 엄청난 파격 할인이 단 3일 동안만 기습적으로 진행됩니다.

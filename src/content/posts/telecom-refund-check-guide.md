@@ -7,16 +7,11 @@ permalink: "/telecom-refund-check-guide/"
 slugPath: "telecom-refund-check-guide"
 categories: []
 tags: []
-heroImage: "https://ssangbak.com/wp-content/uploads/2026/05/thumbnail-19.png"
+heroImage: "/wp-content/uploads/2026/05/thumbnail-19.png"
 originalUrl: "https://ssangbak.com/telecom-refund-check-guide/"
 ---
 
 [통신비 환급금 조회하기](https://www.smartchoice.or.kr/smc/service/refund.do)
-
-목차
-
-[Toggle](#)
-
 ## 통신비 환급금 조회, 지금 바로 확인해야 하는 이유
 
 평소 스마트폰 요금을 성실히 납부하고 있다면 나에게 돌려받을 돈이 있을 거라고 생각하기 어렵습니다. 하지만 통신사를 변경하는 **번호이동**이나 **서비스 해지** 과정에서 정산 오류 등으로 인해 주인을 찾지 못한 금액이 매년 수백억 원에 달합니다. 이러한 **통신비 환급금 조회**를 하지 않으면 소중한 내 돈이 결국 사라지게 되므로 주기적인 확인이 필요합니다.
