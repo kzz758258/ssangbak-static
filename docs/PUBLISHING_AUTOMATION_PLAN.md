@@ -1,34 +1,135 @@
-# Publishing Automation Plan
+# SsangBak Publishing Automation Plan
 
-## Target Flow
+Updated: 2026-07-11
 
-1. Enter keyword or keyword plus sub-keywords.
-2. Search current issue context and evergreen search intent.
-3. Recommend SEO titles.
-4. Select title.
-5. Recommend thumbnail copy.
-6. Recommend CTA button label.
-7. Select copy and CTA.
-8. Generate article Markdown with frontmatter.
-9. Generate or attach 1 to 2 images.
-10. Insert CTA at the agreed position.
-11. Run self-check.
-12. Commit to GitHub.
-13. Cloudflare Pages deploys automatically.
+## Goal
 
-## Article Requirements
+키워드 또는 키워드와 서브키워드를 입력하면 최신 이슈를 확인하고, evergreen 검색 의도에 맞는 제목/썸네일/CTA/본문을 생성한 뒤 정적 사이트에 글을 발행하는 자동화입니다.
 
-- Short English slug
-- Meta description
-- Category classification
-- Summary first
-- Mobile-readable paragraphs
-- Mobile-responsive table when useful
-- FAQ section
-- Image alt text
-- CTA button markup
-- Final quality checklist before publish
+초기 MVP는 “자동 초안 생성 + 사람 승인 + GitHub commit + Cloudflare 자동 배포”로 시작합니다. 품질이 안정되면 승인 단계를 줄입니다.
 
-## Recommended First MVP
+## Recommended Flow
 
-Start with draft file generation, not automatic production publishing. After a few test posts are reviewed, switch to auto-commit and Cloudflare deployment.
+1. 키워드 입력
+2. 서브키워드 선택 입력
+3. 최신 정보와 공식 출처 검색
+4. 검색 의도 분류
+5. evergreen 제목 후보 5개 추천
+6. 제목 선택
+7. 썸네일 카피 후보 5개 추천
+8. CTA 버튼명 후보 5개 추천
+9. 카피와 CTA 선택
+10. 카테고리 자동 분류
+11. 짧은 영문 slug 생성
+12. 글 초안 생성
+13. 이미지 1~2장 생성 또는 지정
+14. CTA 버튼을 약속된 위치에 삽입
+15. 자체 품질 점검
+16. 통과하면 Markdown 파일 생성
+17. 빌드 검사
+18. GitHub push
+19. Cloudflare Pages 자동 배포
+
+## Search Intent Types
+
+자동화는 키워드를 아래 중 하나로 분류합니다.
+
+| 유형 | 예시 | 글 구조 |
+| --- | --- | --- |
+| 신청형 | 에너지바우처 신청방법 | 대상, 기간, 조건, 서류, 신청절차, 주의사항 |
+| 조회형 | 환급금 조회 | 조회 위치, 본인인증, 결과 해석, 문제 해결 |
+| 예매형 | 콘서트 티켓팅 | 일정, 가격, 좌석, 예매처, 성공 팁 |
+| 비교형 | KTX SRT 차이 | 핵심 차이, 표, 상황별 추천 |
+| 일정형 | 월드컵 일정 | 날짜, 시간, 장소, 중계, 변동 확인법 |
+| 계산형 | 주휴수당 계산기 | 공식, 예시, 계산표, 주의사항 |
+
+## Article Template
+
+모든 새 글은 아래 구조를 기본으로 합니다.
+
+1. 한 문장 결론
+2. 핵심 요약 3~5개
+3. 모바일 반응형 표
+4. 대상/조건
+5. 기간/일정
+6. 신청·조회·예매 방법
+7. 준비물/주의사항
+8. CTA 버튼
+9. 자주 묻는 질문
+10. 마무리 요약
+
+## SEO/AEO/EEAT Rules
+
+- 제목은 검색어를 앞쪽에 배치
+- meta description은 80~150자
+- slug는 짧은 영어로 생성
+- H2는 최소 4개 이상
+- 본문은 기본 900~1,400단어
+- 표는 모바일에서 가로 스크롤 가능하게 작성
+- FAQ는 실제 질문형으로 3~5개만 작성
+- 공식 출처, 신청처, 예매처를 명확히 표기
+- 불확실한 최신 정보는 “확정/예상/변동 가능”을 구분
+- 금융/정책/건강성 내용은 단정 표현을 줄이고 확인 경로 제공
+
+## Quality Gate
+
+발행 전 자동 점검 기준입니다.
+
+| 항목 | 통과 기준 |
+| --- | --- |
+| 제목 | 핵심 키워드 포함, 과장 표현 과도하지 않음 |
+| slug | 짧은 영어, 중복 없음 |
+| description | 80~150자 |
+| 본문 구조 | H2 4개 이상 |
+| 본문 길이 | 900단어 이상 권장 |
+| 이미지 | 1~2장, alt 포함 |
+| CTA | 약속된 위치에 1~2개 |
+| 내부링크 | 관련 글 2개 이상 추천 |
+| 외부링크 | 공식 출처 우선 |
+| 빌드 | `npm.cmd run build` 통과 |
+
+## File Output
+
+자동화 결과물은 다음 파일로 생성합니다.
+
+```txt
+src/content/posts/{short-english-slug}.md
+public/wp-content/uploads/{yyyy}/{mm}/{short-english-slug}.jpg
+```
+
+Markdown frontmatter:
+
+```yaml
+---
+title: ""
+description: ""
+pubDate: ""
+updatedDate: ""
+permalink: "/short-english-slug/"
+slugPath: "short-english-slug"
+categories: []
+tags: []
+heroImage: "/wp-content/uploads/yyyy/mm/short-english-slug.jpg"
+originalUrl: "https://ssangbak.com/short-english-slug/"
+---
+```
+
+## MVP Scope
+
+1차 자동화는 아래까지만 합니다.
+
+- 키워드 입력
+- 최신 정보 검색
+- 제목/썸네일/CTA 후보 추천
+- 선택값 기반 글 초안 생성
+- Markdown 파일 생성
+- 빌드 검사
+- 승인 후 push
+
+2차 자동화에서 추가할 항목:
+
+- Google Indexing API 또는 수동 색인 요청 보조
+- 네이버/다음/브런치/쓰레드 재가공
+- 썸네일 템플릿 자동 합성
+- 이미지 기반 짧은 영상 생성
+- Search Console 성과 기반 리라이트 후보 자동 추천

@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { CATEGORIES } from "../lib/taxonomy";
+---
+
+<BaseLayout
+  title="페이지를 찾을 수 없습니다 | SsangBak"
+  description="요청하신 페이지를 찾을 수 없습니다. SsangBak의 주요 카테고리와 최신 정보를 확인해 주세요."
+  canonical="/404.html"
+  robots="noindex, follow"
+>
+  <section class="not-found" aria-labelledby="not-found-title">
+    <p class="eyebrow">404</p>
+    <h1 id="not-found-title">페이지를 찾을 수 없습니다</h1>
+    <p>
+      주소가 바뀌었거나 삭제된 페이지일 수 있습니다. 아래 카테고리에서 필요한 정보를 다시 찾아보세요.
+    </p>
+    <div class="not-found-actions">
+      <a class="cta-button" href="/">홈으로 이동</a>
+    </div>
+  </section>
+
+  <section class="post-list" aria-label="주요 카테고리">
+    {CATEGORIES.map((category) => (
+      <article class="post-card">
+        <h2><a href={`/category/${category.slug}/`}>{category.title}</a></h2>
+        <p>{category.description}</p>
+      </article>
+    ))}
+  </section>
+</BaseLayout>
