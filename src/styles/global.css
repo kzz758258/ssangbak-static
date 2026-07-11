@@ -52,10 +52,15 @@ img {
 }
 
 .brand {
-  color: var(--ink);
-  font-size: 22px;
-  font-weight: 800;
+  display: inline-flex;
+  align-items: center;
+  flex: 0 0 auto;
   text-decoration: none;
+}
+
+.brand img {
+  width: 168px;
+  height: auto;
 }
 
 .nav-links {
