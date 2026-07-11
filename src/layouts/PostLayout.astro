@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import WeeklyAllowanceCalculator from "../components/WeeklyAllowanceCalculator.astro";
 import { absoluteUrl, slugifyHeading } from "../lib/seo";
 import { getRelatedPosts, inferCategory } from "../lib/taxonomy";
 
@@ -14,6 +15,7 @@ const canonicalUrl = absoluteUrl(post.data.permalink, site);
 const imageUrl = absoluteUrl(post.data.heroImage, site);
 const published = post.data.pubDate.toISOString();
 const modified = (post.data.updatedDate ?? post.data.pubDate).toISOString();
+const isWeeklyAllowanceCalculator = post.data.slugPath === "weekly-holiday-allowance-calculator";
 
 type RenderedHeading = {
   depth: number;
@@ -97,6 +99,7 @@ const breadcrumbJsonLd = {
       <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
     </p>
     {post.data.heroImage && <img class="hero-image" src={post.data.heroImage} alt={post.data.title} loading="eager" />}
+    {isWeeklyAllowanceCalculator && <WeeklyAllowanceCalculator />}
     {tocHeadings.length > 1 && (
       <nav class="toc" aria-label="본문 목차">
         <p class="toc-title">목차</p>
