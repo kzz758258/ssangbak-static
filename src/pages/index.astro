@@ -7,36 +7,47 @@ const posts = (await getCollection("posts")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 
-const featuredPosts = posts.slice(0, 4);
-const sidePosts = posts.slice(4, 10);
-const latestPosts = posts.slice(10, 34);
+const heroPost = posts[0];
+const heroGridPosts = posts.slice(1, 5);
+const latestPosts = posts.slice(5, 10);
 const sectionPosts = CATEGORIES.map((category) => ({
   category,
-  posts: posts.filter((post) => inferCategory(post).slug === category.slug).slice(0, 4)
+  posts: posts.filter((post) => inferCategory(post).slug === category.slug).slice(0, 6)
 })).filter((section) => section.posts.length > 0);
 ---
 
 <BaseLayout title="SsangBak | 지원금·생활정보·엔터스포츠" description="지원금과 정부정책, 생활정보, 콘서트 예매와 스포츠 중계까지 지금 필요한 정보를 빠르게 정리하는 SsangBak입니다.">
-  <section class="magazine-section page-shell" aria-labelledby="home-title">
-    <div class="magazine-head">
-      <h1 id="home-title">오늘의 핵심</h1>
-      <p>지원금, 생활정보, 콘서트 예매와 스포츠 중계까지 바로 확인할 수 있게 정리합니다.</p>
-    </div>
-    <div class="magazine-layout">
-      <div class="feature-grid">
-        {featuredPosts.map((post, index) => (
-          <article class="feature-card">
-            {post.data.heroImage && <img src={post.data.heroImage} alt="" loading={index === 0 ? "eager" : "lazy"} />}
-            <span>{inferCategory(post).title}</span>
-            <h2><a href={post.data.permalink}>{post.data.title}</a></h2>
-            <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+  <section class="home-top-section page-shell" aria-label="주요 정보">
+    <div class="top-story-layout">
+      <div class="top-story-grid">
+        {heroPost && (
+          <article class="top-story-card top-story-card-large">
+            {heroPost.data.heroImage && <img src={heroPost.data.heroImage} alt="" loading="eager" />}
+            <a class="top-story-overlay" href={heroPost.data.permalink}>
+              <span>{inferCategory(heroPost).title}</span>
+              <h1>{heroPost.data.title}</h1>
+              <time datetime={heroPost.data.pubDate.toISOString()}>{heroPost.data.pubDate.toLocaleDateString("ko-KR")}</time>
+            </a>
           </article>
-        ))}
+        )}
+        <div class="top-story-small-grid">
+          {heroGridPosts.map((post) => (
+            <article class="top-story-card">
+              {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+              <a class="top-story-overlay" href={post.data.permalink}>
+                <span>{inferCategory(post).title}</span>
+                <h2>{post.data.title}</h2>
+                <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+              </a>
+            </article>
+          ))}
+        </div>
       </div>
-      <aside class="side-news" aria-labelledby="side-news-title">
-        <h2 id="side-news-title">빠른 체크</h2>
+
+      <aside class="side-news home-latest" aria-labelledby="latest-news-title">
+        <h2 id="latest-news-title">최신 정보</h2>
         <div class="side-news-list">
-          {sidePosts.map((post) => (
+          {latestPosts.map((post) => (
             <article class="side-news-item">
               <div>
                 <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
@@ -50,48 +61,37 @@ const sectionPosts = CATEGORIES.map((category) => ({
     </div>
   </section>
 
-  <section class="section-block page-shell" aria-labelledby="latest-title">
-    <div class="section-head">
-      <p class="section-kicker">Latest</p>
-      <h2 id="latest-title">최신 업데이트</h2>
-    </div>
-    <div class="news-list">
-      {latestPosts.map((post) => (
-        <article class="news-item">
-          {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
-          <div>
-            <span>{inferCategory(post).title}</span>
-            <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
-            {post.data.description && <p>{post.data.description}</p>}
-            <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
-          </div>
-        </article>
-      ))}
-    </div>
-  </section>
-
-  <section class="section-block page-shell" aria-labelledby="category-digest-title">
-    <div class="section-head">
-      <p class="section-kicker">Sections</p>
-      <h2 id="category-digest-title">분야별 주요 글</h2>
-    </div>
-    <div class="section-digest">
-      {sectionPosts.map(({ category, posts }) => (
-        <section class="digest-card" aria-labelledby={`${category.slug}-title`}>
-          <div class="digest-head">
-            <h3 id={`${category.slug}-title`}><a href={`/category/${category.slug}/`}>{category.title}</a></h3>
-            <p>{category.description}</p>
-          </div>
-          <div class="digest-list">
-            {posts.map((post) => (
-              <a href={post.data.permalink}>
-                {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
-                <span>{post.data.title}</span>
-              </a>
-            ))}
-          </div>
-        </section>
-      ))}
-    </div>
-  </section>
+  {sectionPosts.map(({ category, posts }) => (
+    <section class="category-feature-section page-shell" aria-labelledby={`${category.slug}-home-title`}>
+      <div class="category-feature-head">
+        <h2 id={`${category.slug}-home-title`}><a href={`/category/${category.slug}/`}>{category.title}</a></h2>
+      </div>
+      <div class="category-feature-layout">
+        <div class="category-feature-grid">
+          {posts.slice(0, 2).map((post) => (
+            <article class="media-card media-card-flat category-main-card">
+              {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+              <div>
+                <span>{category.title}</span>
+                <h2><a href={post.data.permalink}>{post.data.title}</a></h2>
+                <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+              </div>
+            </article>
+          ))}
+        </div>
+        <div class="category-side-list">
+          {posts.slice(2, 6).map((post) => (
+            <article class="category-side-item">
+              <div>
+                <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
+                <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+              </div>
+              {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+            </article>
+          ))}
+          <a class="category-more-link" href={`/category/${category.slug}/`}>자세히 알아보기</a>
+        </div>
+      </div>
+    </section>
+  ))}
 </BaseLayout>
