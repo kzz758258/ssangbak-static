@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import WeeklyAllowanceCalculator from "../components/WeeklyAllowanceCalculator.astro";
-import { absoluteUrl, slugifyHeading } from "../lib/seo";
+import { absoluteUrl, buildMetaDescription, slugifyHeading } from "../lib/seo";
 import { getRelatedPosts, inferCategory } from "../lib/taxonomy";
 
 const { post, allPosts = [] } = Astro.props;
@@ -12,7 +12,7 @@ const latestPosts = allPosts
   .filter((candidate: any) => candidate.id !== post.id)
   .slice(0, 6);
 const title = `${post.data.title} | SsangBak`;
-const description = post.data.description ?? post.data.title;
+const description = buildMetaDescription(post.data.title, post.data.description, category.title);
 const site = Astro.site ?? new URL("https://ssangbak.com");
 const canonicalUrl = absoluteUrl(post.data.permalink, site);
 const imageUrl = absoluteUrl(post.data.heroImage, site);

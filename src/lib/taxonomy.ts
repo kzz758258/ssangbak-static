@@ -8,67 +8,82 @@ export type SiteCategory = {
 export const CATEGORIES: SiteCategory[] = [
   {
     slug: "subsidy",
-    title: "지원금·정부정책",
-    description: "정부지원금, 복지, 청년·소상공인·가계 지원 정책의 신청 대상과 방법을 정리합니다.",
-    keywords: ["지원금", "수당", "바우처", "급여", "복지", "환급", "신청", "청년", "소상공인", "근로장려금", "장학금", "육아", "보조금"]
+    title: "지원금&정부정책",
+    description: "정부지원금, 복지 혜택, 청년·소상공인 정책, 신청 대상과 기간을 한눈에 확인할 수 있게 정리합니다.",
+    keywords: [
+      "지원금", "정부", "정책", "복지", "수당", "바우처", "급여", "환급", "신청", "대상", "자격",
+      "청년", "소상공인", "근로", "장려금", "보조금", "지원사업", "민생", "난방비", "에너지바우처",
+      "기초연금", "육아", "돌봄", "주거", "월세", "일자리도약"
+    ]
   },
   {
     slug: "living-information",
     title: "생활정보",
-    description: "일상에서 바로 확인해야 하는 제도, 교통, 통신, 건강, 생활 팁을 모았습니다.",
-    keywords: ["생활", "카드", "발급", "조회", "등록", "방법", "청소", "보험", "이전", "교통", "건강", "병원", "약국", "통신", "모바일"]
+    description: "세금, 금융, 여행, 축제, 건강, 교통, 통신, AI·직업·주식 등 일상에 필요한 실용 정보를 정리합니다.",
+    keywords: [
+      "생활", "방법", "조회", "발급", "등록", "사용처", "환불", "카드", "보험", "세금", "금융",
+      "연말정산", "홈택스", "계좌", "연금", "ETF", "주식", "배당", "투자", "AI", "직업",
+      "채용", "취업", "여행", "축제", "숙박", "관광", "교통", "통신", "건강", "병원",
+      "약국", "모바일", "청소", "에어컨", "고속도로", "여권", "운전", "자동차"
+    ]
   },
   {
-    slug: "finance-tax",
-    title: "금융·세금",
-    description: "계좌, 연금, ETF, 세금, 환급, 투자 기초 정보를 초보자도 이해하기 쉽게 정리합니다.",
-    keywords: ["계좌", "ISA", "연금", "ETF", "세금", "종합소득세", "금융", "투자", "주식", "배당", "금값", "환율", "대출"]
-  },
-  {
-    slug: "concert-musical",
-    title: "공연·콘서트·뮤지컬",
-    description: "콘서트, 뮤지컬, 전시, 축제 일정과 예매 정보를 빠르게 확인할 수 있습니다.",
-    keywords: ["콘서트", "뮤지컬", "공연", "예매", "티켓", "티켓팅", "전시", "페스티벌", "축제", "라인업", "내한"]
-  },
-  {
-    slug: "broadcasting-sports",
-    title: "방송·스포츠",
-    description: "방송, 스포츠 중계, 경기 일정, 투표, 순위 정보를 한눈에 볼 수 있게 정리합니다.",
-    keywords: ["방송", "중계", "스포츠", "야구", "축구", "월드컵", "순위", "경기", "투표", "다시보기", "참가자"]
-  },
-  {
-    slug: "ai-job",
-    title: "AI·직업",
-    description: "AI 시대 직업 변화, 커리어, 채용, 업무 자동화 흐름을 정리합니다.",
-    keywords: ["AI 직업", "인공지능", "채용", "취업", "직무", "커리어", "자동화", "생성형", "라이선스"]
-  },
-  {
-    slug: "ai-stocks",
-    title: "AI·주식",
-    description: "AI 관련주, 반도체, 소프트웨어, 에너지 등 산업별 투자 이슈를 정리합니다.",
-    keywords: ["AI 관련주", "반도체", "소프트웨어", "에너지", "수혜주", "투자", "주가", "종목"]
-  },
-  {
-    slug: "travel-festival",
-    title: "여행·축제",
-    description: "여행 지원, 지역축제, 교통, 숙박, 관광 정보를 모아 정리합니다.",
-    keywords: ["여행", "숙박", "축제", "관광", "패스", "쿠폰", "버스", "케이블카", "지역", "할인"]
+    slug: "entertainment-sports",
+    title: "엔터&스포츠",
+    description: "콘서트, 공연, 뮤지컬, 전시, 방송, e스포츠와 경기 일정·중계·예매 정보를 빠르게 정리합니다.",
+    keywords: [
+      "콘서트", "콘서트", "공연", "공연", "공연", "뮤지컬", "뮤지컬", "전시", "예매", "예매",
+      "티켓", "티켓", "티켓팅", "티켓팅", "좌석", "시야", "팬클럽", "선예매", "라인업",
+      "셋리스트", "월드투어", "내한", "공연장", "공연 할인권", "영화", "방송", "중계",
+      "스포츠", "야구", "축구", "월드컵", "KBO", "WBC", "올림픽", "EWC", "MSI", "롤",
+      "리그 오브 레전드", "e스포츠", "경기", "대진표", "순위", "투표", "출연자", "다시보기",
+      "음악축제", "뮤직페스티벌", "워터밤", "나는솔로", "싱어게인", "미스트롯", "미스터트롯",
+      "임영웅", "BTS", "빅뱅", "데이식스"
+    ]
   }
 ];
+
+const LEGACY_CATEGORY_MAP: Record<string, string> = {
+  "finance-tax": "living-information",
+  "concert-musical": "entertainment-sports",
+  "broadcasting-sports": "entertainment-sports",
+  "broadcasting": "entertainment-sports",
+  "travel-festival": "living-information",
+  "ai-stocks": "living-information",
+  "ai-job": "living-information"
+};
 
 export const CATEGORY_BY_SLUG = Object.fromEntries(
   CATEGORIES.map((category) => [category.slug, category])
 );
 
 function sourceText(post: any) {
-  return `${post.data.title ?? ""} ${post.data.description ?? ""} ${post.data.slugPath ?? ""}`.toLowerCase();
+  return `${post.data.title ?? ""} ${post.data.description ?? ""} ${post.data.slugPath ?? ""} ${(post.data.tags ?? []).join(" ")}`.toLowerCase();
 }
 
 export function inferCategory(post: any): SiteCategory {
-  const explicit = post.data.categories?.find((category: string) => CATEGORY_BY_SLUG[category]);
-  if (explicit) return CATEGORY_BY_SLUG[explicit];
+  const explicit = post.data.categories?.find((category: string) => CATEGORY_BY_SLUG[category] || LEGACY_CATEGORY_MAP[category]);
+  if (explicit) return CATEGORY_BY_SLUG[LEGACY_CATEGORY_MAP[explicit] ?? explicit];
 
   const text = sourceText(post);
+  const routeText = `${post.data.slugPath ?? ""} ${post.data.permalink ?? ""}`.toLowerCase();
+  if (/(ewc|msi|world-?cup|kbo|wbc|concert|musical|ticket|sports|broadcast|baseball|football)/.test(routeText)) {
+    return CATEGORY_BY_SLUG["entertainment-sports"];
+  }
+
+  const isGeneralFestival = (text.includes("축제") || text.includes("festival") || text.includes("페스티벌"))
+    && !["콘서트", "공연", "뮤지컬", "뮤직", "음악", "워터밤", "티켓팅"].some((signal) => text.includes(signal.toLowerCase()));
+  if (isGeneralFestival) return CATEGORY_BY_SLUG["living-information"];
+
+  const entertainmentSignals = [
+    "콘서트", "공연", "뮤지컬", "전시", "티켓팅", "좌석", "시야", "중계", "월드컵", "kbo", "wbc",
+    "ewc", "msi", "e스포츠", "스포츠", "야구", "축구", "올림픽", "나는솔로", "싱어게인", "미스트롯", "미스터트롯",
+    "world-cup", "football", "baseball", "concert", "ticket", "musical", "sports", "broadcast"
+  ];
+  if (entertainmentSignals.some((signal) => text.includes(signal))) {
+    return CATEGORY_BY_SLUG["entertainment-sports"];
+  }
+
   let best = CATEGORIES[1];
   let bestScore = 0;
 

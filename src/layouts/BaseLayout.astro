@@ -3,7 +3,7 @@ import "../styles/global.css";
 
 const {
   title = "SsangBak",
-  description = "지원금, 정책, 금융, 공연, 생활정보를 정리하는 실용 정보 사이트입니다.",
+  description = "지원금, 정부정책, 생활정보, 엔터·스포츠 이슈를 빠르게 확인할 수 있는 실용 정보 아카이브입니다.",
   canonical,
   robots = "index, follow, max-image-preview:large"
 } = Astro.props;
@@ -13,9 +13,8 @@ const canonicalUrl = canonical ? new URL(canonical, site).toString() : Astro.url
 const primaryNav = [
   { href: "/category/subsidy/", label: "정부지원정책" },
   { href: "/category/living-information/", label: "생활정보" },
-  { href: "/category/concert-musical/", label: "엔터" },
-  { href: "/weekly-holiday-allowance-calculator/", label: "계산기" },
-  { href: "/category/finance-tax/", label: "금융·세금" }
+  { href: "/category/entertainment-sports/", label: "엔터&스포츠" },
+  { href: "/weekly-holiday-allowance-calculator/", label: "계산기" }
 ];
 const breakingHref = "/lim-youngwoong-concert-ticket/";
 const breakingText = "2026 임영웅 콘서트 티켓오픈 7월 16일 오후 8시";
