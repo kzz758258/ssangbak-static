@@ -7,7 +7,7 @@ import { getRelatedPosts, inferCategory } from "../lib/taxonomy";
 const { post, allPosts = [] } = Astro.props;
 const { Content, headings } = await post.render();
 const category = inferCategory(post);
-const relatedPosts = getRelatedPosts(post, allPosts, 5);
+const relatedPosts = getRelatedPosts(post, allPosts, 6);
 const title = `${post.data.title} | SsangBak`;
 const description = post.data.description ?? post.data.title;
 const site = Astro.site ?? new URL("https://ssangbak.com");
@@ -86,45 +86,62 @@ const breadcrumbJsonLd = {
     <script is:inline type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
     <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   </Fragment>
-  <article class="article">
-    <nav class="breadcrumb" aria-label="브레드크럼">
-      <a href="/">홈</a>
-      <span aria-hidden="true">/</span>
-      <a href={`/category/${category.slug}/`}>{category.title}</a>
-      <span aria-hidden="true">/</span>
-      <span>{post.data.title}</span>
-    </nav>
-    <h1>{post.data.title}</h1>
-    <p class="meta">
-      <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
-    </p>
-    {post.data.heroImage && <img class="hero-image" src={post.data.heroImage} alt={post.data.title} loading="eager" />}
-    {isWeeklyAllowanceCalculator && <WeeklyAllowanceCalculator />}
-    {tocHeadings.length > 1 && (
-      <nav class="toc" aria-label="본문 목차">
-        <p class="toc-title">목차</p>
-        <ol>
-          {tocHeadings.map((heading: RenderedHeading) => (
-            <li class={`toc-depth-${heading.depth}`}>
-              <a href={`#${heading.slug}`}>{heading.text}</a>
-            </li>
-          ))}
-        </ol>
+
+  <div class="article-page page-shell">
+    <article class="article">
+      <nav class="breadcrumb" aria-label="브레드크럼">
+        <a href="/">홈</a>
+        <span aria-hidden="true">/</span>
+        <a href={`/category/${category.slug}/`}>{category.title}</a>
+        <span aria-hidden="true">/</span>
+        <span>{post.data.title}</span>
       </nav>
-    )}
-    <Content />
-    {relatedPosts.length > 0 && (
-      <section class="related-posts" aria-label="함께 보면 좋은 글">
-        <h2>함께 보면 좋은 글</h2>
-        <div class="related-grid">
-          {relatedPosts.map((related: any) => (
-            <a class="related-card" href={related.data.permalink}>
-              <span>{inferCategory(related).title}</span>
-              <strong>{related.data.title}</strong>
-            </a>
-          ))}
-        </div>
-      </section>
-    )}
-  </article>
+      <header class="article-header">
+        <p class="section-kicker">{category.title}</p>
+        <h1>{post.data.title}</h1>
+        <p class="meta">
+          <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+        </p>
+        {description && <p class="article-summary">{description}</p>}
+      </header>
+      {post.data.heroImage && <img class="hero-image" src={post.data.heroImage} alt={post.data.title} loading="eager" />}
+      <div class="ad-slot ad-slot-wide">AD</div>
+      {isWeeklyAllowanceCalculator && <WeeklyAllowanceCalculator />}
+      {tocHeadings.length > 1 && (
+        <nav class="toc" aria-label="본문 목차">
+          <p class="toc-title">본문 목차</p>
+          <ol>
+            {tocHeadings.map((heading: RenderedHeading) => (
+              <li class={`toc-depth-${heading.depth}`}>
+                <a href={`#${heading.slug}`}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </nav>
+      )}
+      <Content />
+      <div class="ad-slot ad-slot-wide">AD</div>
+      {relatedPosts.length > 0 && (
+        <section class="related-posts" aria-label="함께 보면 좋은 글">
+          <div class="section-head">
+            <p class="section-kicker">Related</p>
+            <h2>함께 보면 좋은 글</h2>
+          </div>
+          <div class="related-grid">
+            {relatedPosts.map((related: any) => (
+              <a class="related-card" href={related.data.permalink}>
+                {related.data.heroImage && <img src={related.data.heroImage} alt="" loading="lazy" />}
+                <span>{inferCategory(related).title}</span>
+                <strong>{related.data.title}</strong>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+    </article>
+    <aside class="ad-rail article-rail" aria-label="광고">
+      <div class="ad-slot">AD</div>
+      <div class="ad-slot ad-slot-sticky">AD</div>
+    </aside>
+  </div>
 </BaseLayout>

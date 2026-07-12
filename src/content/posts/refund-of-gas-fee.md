@@ -74,11 +74,11 @@ originalUrl: "https://ssangbak.com/refund-of-gas-fee/"
 
 📌 **중요**: _세 카드사 중 한 곳에서만 발급 가능. 중복 발급 불가._
 
-![경차사랑 Life 현대카드](https://i0.wp.com/ssangbak.com/wp-content/uploads/2025/11/20251119_191451.jpg?ssl=1)
+![경차사랑 Life 현대카드](/wp-content/uploads/2025/11/20251119_191451.jpg)
 
-![신한카드 경차사랑 Life](https://i0.wp.com/ssangbak.com/wp-content/uploads/2025/11/20251119_191444.jpg?ssl=1)
+![신한카드 경차사랑 Life](/wp-content/uploads/2025/11/20251119_191444.jpg)
 
-![롯데 경차 Smart](https://i0.wp.com/ssangbak.com/wp-content/uploads/2025/11/20251119_191448-1.jpg?ssl=1)
+![롯데 경차 Smart](/wp-content/uploads/2025/11/20251119_191448-1.jpg)
 
 ## ✔ 경차 유류세 환급카드 혜택 총정리
 
