@@ -105,7 +105,6 @@ const breadcrumbJsonLd = {
         {description && <p class="article-summary">{description}</p>}
       </header>
       {post.data.heroImage && <img class="hero-image" src={post.data.heroImage} alt={post.data.title} loading="eager" />}
-      <div class="ad-slot ad-slot-wide">AD</div>
       {isWeeklyAllowanceCalculator && <WeeklyAllowanceCalculator />}
       {tocHeadings.length > 1 && (
         <nav class="toc" aria-label="본문 목차">
@@ -120,7 +119,6 @@ const breadcrumbJsonLd = {
         </nav>
       )}
       <Content />
-      <div class="ad-slot ad-slot-wide">AD</div>
       {relatedPosts.length > 0 && (
         <section class="related-posts" aria-label="함께 보면 좋은 글">
           <div class="section-head">
@@ -139,9 +137,5 @@ const breadcrumbJsonLd = {
         </section>
       )}
     </article>
-    <aside class="ad-rail article-rail" aria-label="광고">
-      <div class="ad-slot">AD</div>
-      <div class="ad-slot ad-slot-sticky">AD</div>
-    </aside>
   </div>
 </BaseLayout>
