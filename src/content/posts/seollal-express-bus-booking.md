@@ -19,7 +19,6 @@ originalUrl: "https://ssangbak.com/seollal-express-bus-booking/"
 
 [👉 고속버스 예매](https://www.kobus.co.kr/mrs/rotinf.do)
 
-👉 시외버스 통합예매
 
 [👉 동서울 터미널 예매](https://www.ti21.co.kr/)
 ## 📍 한눈에 확인하는 핵심 요약

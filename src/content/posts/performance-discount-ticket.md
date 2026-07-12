@@ -11,7 +11,6 @@ heroImage: "/wp-content/uploads/2026/05/thumbnail-35.png"
 originalUrl: "https://ssangbak.com/performance-discount-ticket/"
 ---
 
-👉 1만원 공연 할인권 받기
 
 [👉 문체부 공연 할인권 사용처 조회](https://kopis.or.kr/por/main/main.do)
 

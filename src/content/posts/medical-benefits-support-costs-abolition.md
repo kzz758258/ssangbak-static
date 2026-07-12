@@ -157,13 +157,11 @@ originalUrl: "https://ssangbak.com/medical-benefits-support-costs-abolition/"
 -   가족이 있다는 말이 같이 나왔다
 -   실제로는 도움받지 못하고 살고 있다
 
-👉 이런 경우라면  
 **2026년 이후 기준으로 다시 판단받을 수 있습니다.**
 
 ## 마지막으로 한 문장만 기억하시면 됩니다
 
 **의료급여 부양비 폐지란,**  
-👉 _가족이 있다는 이유만으로 의료급여를 못 받던 구조를 없애고_  
 👉 **이제는 “내 형편만 보고 판단하겠다”는 뜻입니다.**
 
 -   [2026 의료급여 신청방법](https://ssangbak.com/2026-medical-benefits-application-method/)

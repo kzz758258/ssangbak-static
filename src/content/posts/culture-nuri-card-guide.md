@@ -84,7 +84,6 @@ originalUrl: "https://ssangbak.com/culture-nuri-card-guide/"
 -   대상: 4영업일간 순차 진행
 -   내용: 2025년 사용자 자동 재충전
 
-👉 자동재충전 자세히 알아보기
 
 **문화누리카드 발급 기간**
 

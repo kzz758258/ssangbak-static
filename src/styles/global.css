@@ -594,9 +594,9 @@ main {
   padding: 0 26px;
   border: 0;
   border-radius: 8px;
-  background: linear-gradient(135deg, var(--accent), var(--accent-strong) 52%, var(--blue));
+  background: linear-gradient(135deg, #0f766e, #1669a8);
   color: #fff;
-  box-shadow: 0 16px 32px rgba(255, 47, 138, 0.24), inset 0 1px 0 rgba(255, 255, 255, 0.32);
+  box-shadow: 0 14px 30px rgba(15, 118, 110, 0.24), inset 0 1px 0 rgba(255, 255, 255, 0.28);
   cursor: pointer;
   font: inherit;
   font-size: 17px;
@@ -606,6 +606,7 @@ main {
   text-decoration: none;
   overflow: hidden;
   transition: box-shadow 0.2s ease, filter 0.2s ease, transform 0.2s ease;
+  animation: cta-heartbeat 2.8s ease-in-out infinite;
 }
 
 .article p:has(> a:only-child) > a::before,
@@ -615,9 +616,9 @@ main {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: linear-gradient(110deg, transparent 0%, rgba(255, 255, 255, 0.34) 42%, transparent 62%);
+  background: linear-gradient(110deg, transparent 0%, rgba(255, 255, 255, 0.22) 42%, transparent 62%);
   transform: translateX(-120%);
-  animation: button-shine 3.4s ease-in-out infinite;
+  animation: button-shine 4.8s ease-in-out infinite;
 }
 
 .article p:has(> a:only-child) > a::after,
@@ -631,7 +632,7 @@ main {
 .article p:has(> a:only-child) > a:hover,
 .cta-button:hover,
 .calculator-button:hover {
-  box-shadow: 0 20px 38px rgba(255, 47, 138, 0.3);
+  box-shadow: 0 20px 38px rgba(15, 118, 110, 0.3);
   filter: brightness(1.04);
   transform: translateY(-2px);
 }
@@ -656,6 +657,21 @@ main {
   }
   72%, 100% {
     transform: translateX(120%);
+  }
+}
+
+@keyframes cta-heartbeat {
+  0%, 44%, 100% {
+    box-shadow: 0 14px 30px rgba(15, 118, 110, 0.24), inset 0 1px 0 rgba(255, 255, 255, 0.28);
+  }
+  50% {
+    box-shadow: 0 18px 38px rgba(15, 118, 110, 0.34), 0 0 0 5px rgba(15, 118, 110, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.32);
+  }
+  57% {
+    box-shadow: 0 14px 30px rgba(15, 118, 110, 0.24), inset 0 1px 0 rgba(255, 255, 255, 0.28);
+  }
+  64% {
+    box-shadow: 0 17px 34px rgba(15, 118, 110, 0.3), 0 0 0 3px rgba(15, 118, 110, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.3);
   }
 }
 

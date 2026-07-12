@@ -26,30 +26,14 @@ originalUrl: "https://ssangbak.com/backnumber-seoul-concert-2026/"
 [👉 백넘버 팬클럽 가입하기](https://backnumber.info/feature/entry?lang=ko)
 ## 📅 **2026 back number 내한공연 상세 정보**
 
-**구분**
-
-**상세 내용**
-
-**공연 명칭**
-
-back number “Grateful Yesterdays Tour 2026” in SEOUL
-
-**공연 일시**
-
-**2026년 9월 12일(토) / 9월 13일(일)**
-
-**공연 시간**
-
-오후 6시 시작 (입장 시작: 오후 4시 30분)
-
-**공연 장소**
-
-**킨텍스(KINTEX) 제2전시장 9홀**
-
-**티켓 가격**
-
-**17,000엔 (부가가치세 포함)**
-
+| 구분 | 내용 |
+| --- | --- |
+| **구분** | **상세 내용** |
+| **공연 명칭** | back number “Grateful Yesterdays Tour 2026” in SEOUL |
+| **공연 일시** | **2026년 9월 12일(토) / 9월 13일(일)** |
+| **공연 시간** | 오후 6시 시작 (입장 시작: 오후 4시 30분) |
+| **공연 장소** | **킨텍스(KINTEX) 제2전시장 9홀** |
+| **티켓 가격** | **17,000엔 (부가가치세 포함)** |
 ## 👤 **one room 팬클럽 최속 선예매 정보**
 
 이번 선예매는 일본 공식 팬클럽인 **‘one room’ gold key(연액)** 회원들만을 대상으로 진행됩니다.

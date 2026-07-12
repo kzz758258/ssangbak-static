@@ -24,36 +24,12 @@ originalUrl: "https://ssangbak.com/naeil-card-guide/"
 [👉 국민내일배움카드 사용처 조회](https://www.work24.go.kr/hr/a/a/1100/trnnCrsInf0.do?dtlContextPath=&redirectUrl=%2Fa%2Fa%2F1100%2FtrnnCrsInf0Post.do&topArea=&dtlSmtmConcCtrlId=&dtlExnwMenuConcSecd=&programMenuIdentification=EBG020000000000&menuPurpSecd=EBM01&dtlPwdCfrmYn=&serverToday=20260206&currentMenuId=EBG020000510010&dtlForwardPolyUrl=&dtlMenuId=&dtlMenuPurpSecd=&area=&crseTracseSe=&ncs=&gvrnInstt=&selectNCSKeyword=&srchType=&requestURI=%2Fhr%2Fa%2Fa%2F1100%2FtrnnCrsInf0Post.do&action=trnnCrsInf0Post.do)
 ## 📊 내일배움카드 핵심 정보 요약
 
-구분
-
-주요 내용
-
-비고
-
-지원 금액
-
-**1인당 300~500만 원**
-
-5년간 사용 가능
-
-신청 자격
-
-대한민국 국민 누구나
-
-공무원, 고소득자 등 제외
-
-주요 사용처
-
-직업훈련포털(HRD-Net) 등록 기관
-
-온/오프라인 가능
-
-신청 방법
-
-온라인(HRD-Net) 및 오프라인 방문
-
-모바일 앱 지원
-
+| 구분 | 주요 내용 | 비고 |
+| --- | --- | --- |
+| 지원 금액 | **1인당 300~500만 원** | 5년간 사용 가능 |
+| 신청 자격 | 대한민국 국민 누구나 | 공무원, 고소득자 등 제외 |
+| 주요 사용처 | 직업훈련포털(HRD-Net) 등록 기관 | 온/오프라인 가능 |
+| 신청 방법 | 온라인(HRD-Net) 및 오프라인 방문 | 모바일 앱 지원 |
 ## 💳 내일배움카드란?
 
 **내일배움카드란** 급격한 기술 발전에 대응하여 국민 스스로 직업 능력을 개발할 수 있도록 국가가 훈련 비용을 지원하는 제도입니다.

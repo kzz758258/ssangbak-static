@@ -79,7 +79,6 @@ originalUrl: "https://ssangbak.com/health-living-practice-grant/"
 -   같은 조건이라도  
     👉 지역이 다르면 **신청 불가**
 
-👉 “조건은 맞는 것 같은데 신청이 안 된다”면  
 **거의 대부분 지역 요건 때문**입니다.
 
 ![건강생활실천지원금 시범사업 수행 지역](/wp-content/uploads/2025/12/image-18-1024x645.png)

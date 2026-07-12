@@ -21,7 +21,6 @@ originalUrl: "https://ssangbak.com/agricultural-food-voucher-card-lost/"
 
 재발급 기간은 약 5~7일 소요되며, 우편으로 배송됩니다. 지금부터 분실 신고 방법부터 재발급 절차까지 상세히 안내해드리겠습니다.
 
-👉 농식품바우처 재발급
 ## 🚨 카드 분실 시 즉시 조치
 
 ### 분실 신고 (최우선)

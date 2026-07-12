@@ -63,7 +63,6 @@ originalUrl: "https://ssangbak.com/2026-medical-benefits-out-of-pocket-expenses/
 -   **매 30일 누적 본인부담금이 20만 원 초과 시**
 -   초과 금액의 **50% 보상**
 
-👉 여기서 중요한 점  
 **‘한 번에 많이 낸 금액’이 아니라, 30일 동안의 합계**입니다.
 
 ## 🚫 보상 대상에서 제외되는 항목 (중요)

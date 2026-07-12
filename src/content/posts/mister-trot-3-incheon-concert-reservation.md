@@ -60,7 +60,6 @@ originalUrl: "https://ssangbak.com/mister-trot-3-incheon-concert-reservation/"
 
 티켓을 안전하게 손에 넣기 위해서는 **배송 일정과 수령 방법**을 정확히 숙지해야 오류를 방지할 수 있습니다.
 
-👉 미스터트롯3 인천 예매
 
 ### 🚚 사전 일괄 배송 안내
 

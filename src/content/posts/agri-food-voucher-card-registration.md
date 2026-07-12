@@ -23,7 +23,6 @@ originalUrl: "https://ssangbak.com/agri-food-voucher-card-registration/"
 
 단, 사용 기간은 매달 말일까지이며 당월 지원금액의 10% 이상 미사용 시 소멸되니 주의하세요.
 
-👉 농식품바우처 사용처
 ## ⚡ 카드 등록 (활성화)
 
 ### 자동 활성화
