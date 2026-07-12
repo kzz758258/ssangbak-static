@@ -66,32 +66,19 @@ const sectionPosts = CATEGORIES.map((category) => ({
       <div class="category-feature-head">
         <h2 id={`${category.slug}-home-title`}><a href={`/category/${category.slug}/`}>{category.title}</a></h2>
       </div>
-      <div class="category-feature-layout">
-        <div class="category-feature-grid">
-          {posts.slice(0, 2).map((post) => (
-            <article class="media-card media-card-flat category-main-card">
-              {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
-              <div>
-                <span>{category.title}</span>
-                <h2><a href={post.data.permalink}>{post.data.title}</a></h2>
-                <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
-              </div>
-            </article>
-          ))}
-        </div>
-        <div class="category-side-list">
-          {posts.slice(2, 6).map((post) => (
-            <article class="category-side-item">
-              <div>
-                <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
-                <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
-              </div>
-              {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
-            </article>
-          ))}
-          <a class="category-more-link" href={`/category/${category.slug}/`}>자세히 알아보기</a>
-        </div>
+      <div class="quick-check-grid">
+        {posts.slice(0, 6).map((post) => (
+          <article class="quick-check-card">
+            {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+            <div>
+              <span>{category.title}</span>
+              <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
+              <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+            </div>
+          </article>
+        ))}
       </div>
+      <a class="category-more-link" href={`/category/${category.slug}/`}>자세히 알아보기</a>
     </section>
   ))}
 </BaseLayout>
