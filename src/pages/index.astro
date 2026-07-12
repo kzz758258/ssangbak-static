@@ -7,9 +7,9 @@ const posts = (await getCollection("posts")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 
-const leadPost = posts[0];
-const topPosts = posts.slice(1, 5);
-const latestPosts = posts.slice(5, 29);
+const featuredPosts = posts.slice(0, 4);
+const sidePosts = posts.slice(4, 10);
+const latestPosts = posts.slice(10, 34);
 const sectionPosts = CATEGORIES.map((category) => ({
   category,
   posts: posts.filter((post) => inferCategory(post).slug === category.slug).slice(0, 4)
@@ -17,58 +17,58 @@ const sectionPosts = CATEGORIES.map((category) => ({
 ---
 
 <BaseLayout title="SsangBak | 지원금·정책·생활정보" description="지원금, 정책, 생활정보, 공연과 방송 정보를 빠르게 정리하는 SsangBak입니다.">
-  <section class="home-hero page-shell" aria-labelledby="home-title">
-    <div class="home-lead">
-      <p class="section-kicker">오늘의 핵심</p>
-      <h1 id="home-title">놓치기 쉬운 지원금·정책·생활정보를 한곳에서 확인하세요</h1>
-      <p>신청 기간, 자격 조건, 예매 일정처럼 바로 행동으로 이어지는 정보를 우선 정리합니다.</p>
+  <section class="magazine-section page-shell" aria-labelledby="home-title">
+    <div class="magazine-head">
+      <h1 id="home-title">오늘의 핵심</h1>
+      <p>지원금, 생활정보, 공연 예매, 금융 이슈를 바로 확인할 수 있게 정리합니다.</p>
     </div>
-    {leadPost && (
-      <article class="lead-card">
-        {leadPost.data.heroImage && <img src={leadPost.data.heroImage} alt="" loading="eager" />}
-        <div>
-          <span>{inferCategory(leadPost).title}</span>
-          <h2><a href={leadPost.data.permalink}>{leadPost.data.title}</a></h2>
-          {leadPost.data.description && <p>{leadPost.data.description}</p>}
-        </div>
-      </article>
-    )}
-  </section>
-
-  <section class="top-grid page-shell" aria-label="주요 글">
-    {topPosts.map((post) => (
-      <article class="media-card">
-        {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
-        <div>
-          <span>{inferCategory(post).title}</span>
-          <h2><a href={post.data.permalink}>{post.data.title}</a></h2>
-        </div>
-      </article>
-    ))}
-  </section>
-
-  <div class="content-with-rail page-shell">
-    <section class="section-block" aria-labelledby="latest-title">
-      <div class="section-head">
-        <p class="section-kicker">Latest</p>
-        <h2 id="latest-title">최신 업데이트</h2>
-      </div>
-      <div class="news-list">
-        {latestPosts.map((post) => (
-          <article class="news-item">
-            {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
-            <div>
-              <span>{inferCategory(post).title}</span>
-              <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
-              {post.data.description && <p>{post.data.description}</p>}
-              <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
-            </div>
+    <div class="magazine-layout">
+      <div class="feature-grid">
+        {featuredPosts.map((post, index) => (
+          <article class="feature-card">
+            {post.data.heroImage && <img src={post.data.heroImage} alt="" loading={index === 0 ? "eager" : "lazy"} />}
+            <span>{inferCategory(post).title}</span>
+            <h2><a href={post.data.permalink}>{post.data.title}</a></h2>
+            <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
           </article>
         ))}
       </div>
-    </section>
+      <aside class="side-news" aria-labelledby="side-news-title">
+        <h2 id="side-news-title">빠른 체크</h2>
+        <div class="side-news-list">
+          {sidePosts.map((post) => (
+            <article class="side-news-item">
+              <div>
+                <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
+                <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+              </div>
+              {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+            </article>
+          ))}
+        </div>
+      </aside>
+    </div>
+  </section>
 
-  </div>
+  <section class="section-block page-shell" aria-labelledby="latest-title">
+    <div class="section-head">
+      <p class="section-kicker">Latest</p>
+      <h2 id="latest-title">최신 업데이트</h2>
+    </div>
+    <div class="news-list">
+      {latestPosts.map((post) => (
+        <article class="news-item">
+          {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+          <div>
+            <span>{inferCategory(post).title}</span>
+            <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
+            {post.data.description && <p>{post.data.description}</p>}
+            <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
 
   <section class="section-block page-shell" aria-labelledby="category-digest-title">
     <div class="section-head">

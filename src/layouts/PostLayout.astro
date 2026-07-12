@@ -8,6 +8,9 @@ const { post, allPosts = [] } = Astro.props;
 const { Content, headings } = await post.render();
 const category = inferCategory(post);
 const relatedPosts = getRelatedPosts(post, allPosts, 6);
+const latestPosts = allPosts
+  .filter((candidate: any) => candidate.id !== post.id)
+  .slice(0, 6);
 const title = `${post.data.title} | SsangBak`;
 const description = post.data.description ?? post.data.title;
 const site = Astro.site ?? new URL("https://ssangbak.com");
@@ -137,5 +140,22 @@ const breadcrumbJsonLd = {
         </section>
       )}
     </article>
+    {latestPosts.length > 0 && (
+      <aside class="article-sidebar" aria-labelledby="article-sidebar-title">
+        <div class="sidebar-sticky">
+          <div class="sidebar-head">
+            <h2 id="article-sidebar-title">최신 뉴스</h2>
+          </div>
+          <div class="sidebar-list">
+            {latestPosts.map((latest: any) => (
+              <a class="sidebar-item" href={latest.data.permalink}>
+                {latest.data.heroImage && <img src={latest.data.heroImage} alt="" loading="lazy" />}
+                <span>{latest.data.title}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </aside>
+    )}
   </div>
 </BaseLayout>

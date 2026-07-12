@@ -15,70 +15,31 @@ const allPosts = (await getCollection("posts")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 const posts = allPosts.filter((post) => inferCategory(post).slug === category.slug);
-const leadPost = posts[0];
-const featuredPosts = posts.slice(1, 5);
-const recentPosts = posts.slice(5, 41);
 ---
 
 <BaseLayout title={`${category.title} | SsangBak`} description={category.description} canonical={`/category/${category.slug}/`}>
-  <section class="category-hero page-shell" aria-labelledby="category-title">
+  <section class="category-page-head page-shell" aria-labelledby="category-title">
     <nav class="breadcrumb" aria-label="브레드크럼">
       <a href="/">홈</a>
       <span aria-hidden="true">/</span>
       <span>{category.title}</span>
     </nav>
-    <p class="section-kicker">Category</p>
     <h1 id="category-title">{category.title}</h1>
     <p>{category.description}</p>
   </section>
 
-  {leadPost && (
-    <section class="category-feature page-shell" aria-label={`${category.title} 대표 글`}>
-      <article class="lead-card lead-card-compact">
-        {leadPost.data.heroImage && <img src={leadPost.data.heroImage} alt="" loading="eager" />}
-        <div>
-          <span>{category.title}</span>
-          <h2><a href={leadPost.data.permalink}>{leadPost.data.title}</a></h2>
-          {leadPost.data.description && <p>{leadPost.data.description}</p>}
-        </div>
-      </article>
-    </section>
-  )}
-
-  {featuredPosts.length > 0 && (
-    <section class="top-grid page-shell" aria-label={`${category.title} 주요 글`}>
-      {featuredPosts.map((post) => (
-        <article class="media-card">
+  {posts.length > 0 && (
+    <section class="category-grid page-shell" aria-label={`${category.title} 글 목록`}>
+      {posts.map((post) => (
+        <article class="media-card media-card-flat">
           {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
           <div>
             <span>{category.title}</span>
             <h2><a href={post.data.permalink}>{post.data.title}</a></h2>
+            <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
           </div>
         </article>
       ))}
     </section>
-  )}
-
-  {recentPosts.length > 0 && (
-    <div class="content-with-rail page-shell">
-      <section class="section-block" aria-labelledby="recent-title">
-        <div class="section-head">
-          <p class="section-kicker">Archive</p>
-          <h2 id="recent-title">최신 글</h2>
-        </div>
-        <div class="news-list">
-          {recentPosts.map((post) => (
-            <article class="news-item">
-              {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
-              <div>
-                <h3><a href={post.data.permalink}>{post.data.title}</a></h3>
-                {post.data.description && <p>{post.data.description}</p>}
-                <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
-              </div>
-            </article>
-          ))}
-        </div>
-      </section>
-    </div>
   )}
 </BaseLayout>
