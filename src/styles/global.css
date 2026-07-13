@@ -1095,11 +1095,11 @@ body {
 }
 
 .ticker-inner {
-  width: min(1180px, calc(100% - 32px));
+  width: min(1240px, calc(100% - 32px));
   min-height: 58px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-columns: auto minmax(0, 1fr);
   gap: 18px;
   align-items: center;
 }
@@ -1110,8 +1110,9 @@ body {
   min-height: 38px;
   padding: 0 18px;
   border-radius: 6px;
-  background: #ef3348;
-  color: #fff;
+  border: 1px solid var(--badge-border);
+  background: var(--badge-bg);
+  color: var(--badge-text);
   font-weight: 900;
   text-decoration: none;
 }
@@ -1122,10 +1123,25 @@ body {
   height: 9px;
   margin-right: 8px;
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.75);
+  background: var(--brand);
+}
+
+.ticker-window {
+  position: relative;
+  height: 28px;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.ticker-track {
+  display: grid;
+  animation: ticker-roll 33s infinite;
 }
 
 .ticker-title {
+  display: flex;
+  align-items: center;
+  height: 28px;
   min-width: 0;
   overflow: hidden;
   color: #111827;
@@ -1136,21 +1152,55 @@ body {
   white-space: nowrap;
 }
 
-.ticker-controls {
-  display: flex;
-  gap: 6px;
+.ticker-window:hover .ticker-track {
+  animation-play-state: paused;
 }
 
-.ticker-controls span {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;
-  height: 32px;
-  border: 1px solid #d7dce2;
-  border-radius: 6px;
-  color: #64748b;
-  font-weight: 900;
+@keyframes ticker-roll {
+  0%,
+  7% {
+    transform: translateY(0);
+  }
+  9%,
+  16% {
+    transform: translateY(-28px);
+  }
+  18%,
+  25% {
+    transform: translateY(-56px);
+  }
+  27%,
+  34% {
+    transform: translateY(-84px);
+  }
+  36%,
+  43% {
+    transform: translateY(-112px);
+  }
+  45%,
+  52% {
+    transform: translateY(-140px);
+  }
+  54%,
+  61% {
+    transform: translateY(-168px);
+  }
+  63%,
+  70% {
+    transform: translateY(-196px);
+  }
+  72%,
+  79% {
+    transform: translateY(-224px);
+  }
+  81%,
+  88% {
+    transform: translateY(-252px);
+  }
+  90%,
+  100% {
+    transform: translateY(-280px);
+  }
 }
 
 main {

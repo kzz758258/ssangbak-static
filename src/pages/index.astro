@@ -9,7 +9,7 @@ const posts = (await getCollection("posts")).sort(
 
 const heroPost = posts[0];
 const heroGridPosts = posts.slice(1, 5);
-const latestPosts = posts.slice(5, 10);
+const latestPosts = posts.slice(5, 8);
 const sectionPosts = CATEGORIES.map((category) => ({
   category,
   posts: posts.filter((post) => inferCategory(post).slug === category.slug).slice(0, 6)

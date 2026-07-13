@@ -1,4 +1,5 @@
 ---
+import { getCollection } from "astro:content";
 import "../styles/global.css";
 
 const {
@@ -16,8 +17,9 @@ const primaryNav = [
   { href: "/category/entertainment-sports/", label: "엔터&스포츠" },
   { href: "/weekly-holiday-allowance-calculator/", label: "계산기" }
 ];
-const breakingHref = "/lim-youngwoong-concert-ticket/";
-const breakingText = "2026 임영웅 콘서트 티켓오픈 7월 16일 오후 8시";
+const tickerPosts = (await getCollection("posts"))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 10);
 ---
 
 <!doctype html>
@@ -69,11 +71,14 @@ const breakingText = "2026 임영웅 콘서트 티켓오픈 7월 16일 오후 8�
       </div>
       <div class="ticker-bar">
         <div class="ticker-inner">
-          <a class="ticker-badge" href={breakingHref}>속보</a>
-          <a class="ticker-title" href={breakingHref}>{breakingText}</a>
-          <div class="ticker-controls" aria-hidden="true">
-            <span>&lt;</span>
-            <span>&gt;</span>
+          <span class="ticker-badge">최신 업데이트</span>
+          <div class="ticker-window" aria-label="최신 글">
+            <div class="ticker-track">
+              {tickerPosts.map((post) => (
+                <a class="ticker-title" href={post.data.permalink}>{post.data.title}</a>
+              ))}
+              {tickerPosts[0] && <a class="ticker-title" href={tickerPosts[0].data.permalink}>{tickerPosts[0].data.title}</a>}
+            </div>
           </div>
         </div>
       </div>
