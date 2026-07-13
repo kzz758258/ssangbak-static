@@ -1,6 +1,6 @@
 ---
-title: "고속도로 통행료 할인 다자녀 전기차 하이패스 신청 총정리"
-description: "고속도로 통행료 할인은 경차, 전기차·수소차, 출퇴근 시간, 화물차 심야, 장애인·유공자 감면처럼 대상과 시간이 다릅니다. 신청 전 확인할 할인 기준과 하이패스 체크포인트를 정리했습니다."
+title: "고속도로 통행료 할인 다자녀 전기차 하이패스 기준 총정리"
+description: "고속도로 통행료 할인은 경차, 전기차·수소차, 출퇴근 시간, 화물차 심야, 장애인·유공자 감면처럼 대상과 시간이 다릅니다. 할인 기준과 하이패스 체크포인트를 정리했습니다."
 pubDate: "2026-07-13T19:30:00+09:00"
 updatedDate: "2026-07-13T19:30:00+09:00"
 permalink: "/highway-toll-discount/"
@@ -123,6 +123,7 @@ originalUrl: "https://ssangbak.com/highway-toll-discount/"
 
 - [K패스 기후동행카드 비교](/k-pass-climate-accompanied-card-comparison/): 대중교통비 절감이 필요한 경우 함께 확인하기 좋습니다.
 - [K패스 완벽 가이드](/k-pass-perfect-guide/): 월 교통비 환급 조건을 확인할 때 유용합니다.
+- [한국도로공사 다자녀등록 통행료 할인 신청방법 총정리](/korea-expressway-multichild-register/): 다자녀 통행료 할인 검색어가 실제 제도와 어떻게 연결되는지 따로 확인할 수 있습니다.
 - [전기차 환경카드 가이드](/ev-environmental-card-guide-details/): 전기차 이용자가 충전 결제 수단을 점검할 때 연결됩니다.
 
 ## 고속도로 통행료 할인 FAQ

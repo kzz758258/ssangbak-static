@@ -110,7 +110,7 @@ originalUrl: "https://ssangbak.com/korea-expressway-multichild-register/"
 
 다자녀등록을 확인하는 목적이 교통비 절감이라면 아래 글도 함께 보면 좋습니다.
 
-- [고속도로 통행료 할인 다자녀 전기차 하이패스 신청 총정리](/highway-toll-discount/): 통행료 할인 제도를 한 번에 비교할 때 유용합니다.
+- [고속도로 통행료 할인 다자녀 전기차 하이패스 기준 총정리](/highway-toll-discount/): 통행료 할인 제도를 한 번에 비교할 때 유용합니다.
 - [K패스 완벽 가이드](/k-pass-perfect-guide/): 대중교통비 환급 조건을 확인할 때 좋습니다.
 - [K패스 삼성페이 등록 방법](/kpass-samsungpay-registration-method/): 교통카드 등록과 모바일 이용을 함께 확인할 수 있습니다.
 

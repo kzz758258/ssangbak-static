@@ -129,7 +129,7 @@ originalUrl: "https://ssangbak.com/marathon-schedule-second-half-2026/"
 
 마라톤 대회를 준비한다면 이동과 날씨 정보도 함께 확인해두면 좋습니다.
 
-- [고속도로 통행료 할인 다자녀 전기차 하이패스 신청 총정리](/highway-toll-discount/): 지방 대회 이동 시 교통비를 줄일 수 있는지 확인하기 좋습니다.
+- [고속도로 통행료 할인 다자녀 전기차 하이패스 기준 총정리](/highway-toll-discount/): 지방 대회 이동 시 교통비를 줄일 수 있는지 확인하기 좋습니다.
 - [2026 장마기간 기상청 전망](/monsoon-period-forecast/): 여름 훈련과 대회 전 날씨 흐름을 볼 때 유용합니다.
 - [근처 무더위 쉼터 찾기](/cooling-center/): 폭염기 야외 훈련 전 확인해두면 좋습니다.
 
