@@ -1,5 +1,5 @@
 ---
-title: "한국도로공사 다자녀등록 방법 할인 신청 전 확인"
+title: "한국도로공사 다자녀등록 통행료 할인 신청방법 총정리"
 description: "한국도로공사 다자녀등록을 찾는 분들을 위해 다자녀 고속도로 통행료 할인 여부, 공식 확인 경로, 준비서류, 하이패스 차량 등록 체크포인트를 정리했습니다."
 pubDate: "2026-07-13T19:35:00+09:00"
 updatedDate: "2026-07-13T19:35:00+09:00"
@@ -110,7 +110,7 @@ originalUrl: "https://ssangbak.com/korea-expressway-multichild-register/"
 
 다자녀등록을 확인하는 목적이 교통비 절감이라면 아래 글도 함께 보면 좋습니다.
 
-- [고속도로 통행료 할인 다자녀 전기차 시간 총정리](/highway-toll-discount/): 통행료 할인 제도를 한 번에 비교할 때 유용합니다.
+- [고속도로 통행료 할인 다자녀 전기차 하이패스 신청 총정리](/highway-toll-discount/): 통행료 할인 제도를 한 번에 비교할 때 유용합니다.
 - [K패스 완벽 가이드](/k-pass-perfect-guide/): 대중교통비 환급 조건을 확인할 때 좋습니다.
 - [K패스 삼성페이 등록 방법](/kpass-samsungpay-registration-method/): 교통카드 등록과 모바일 이용을 함께 확인할 수 있습니다.
 
