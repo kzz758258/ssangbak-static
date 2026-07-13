@@ -7,7 +7,7 @@ permalink: "/highway-toll-discount/"
 slugPath: "highway-toll-discount"
 categories: ["living-information"]
 tags: ["고속도로 통행료 할인", "하이패스", "다자녀", "전기차", "출퇴근 할인"]
-heroImage: "/wp-content/uploads/2026/07/highway-toll-discount-v4.jpg"
+heroImage: "/wp-content/uploads/2026/07/highway-toll-discount-v5.jpg"
 originalUrl: "https://ssangbak.com/highway-toll-discount/"
 ---
 

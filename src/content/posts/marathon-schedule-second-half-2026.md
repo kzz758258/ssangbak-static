@@ -7,7 +7,7 @@ permalink: "/marathon-schedule-second-half-2026/"
 slugPath: "marathon-schedule-second-half-2026"
 categories: ["living-information"]
 tags: ["2026 하반기 마라톤", "마라톤 일정", "마라톤 접수", "마라톤 대회", "풀코스"]
-heroImage: "/wp-content/uploads/2026/07/marathon-schedule-second-half-2026-v4.jpg"
+heroImage: "/wp-content/uploads/2026/07/marathon-schedule-second-half-2026-v5.jpg"
 originalUrl: "https://ssangbak.com/marathon-schedule-second-half-2026/"
 ---
 

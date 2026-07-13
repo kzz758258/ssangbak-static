@@ -7,7 +7,7 @@ permalink: "/korea-expressway-multichild-register/"
 slugPath: "korea-expressway-multichild-register"
 categories: ["living-information"]
 tags: ["한국도로공사 다자녀등록", "다자녀 통행료 할인", "하이패스 등록", "고속도로 할인"]
-heroImage: "/wp-content/uploads/2026/07/korea-expressway-multichild-register-v4.jpg"
+heroImage: "/wp-content/uploads/2026/07/korea-expressway-multichild-register-v5.jpg"
 originalUrl: "https://ssangbak.com/korea-expressway-multichild-register/"
 ---
 
