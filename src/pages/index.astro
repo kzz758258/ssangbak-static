@@ -23,22 +23,14 @@ const sectionPosts = CATEGORIES.map((category) => ({
         {heroPost && (
           <article class="top-story-card top-story-card-large">
             {heroPost.data.heroImage && <img src={heroPost.data.heroImage} alt="" loading="eager" />}
-            <a class="top-story-overlay" href={heroPost.data.permalink}>
-              <span>{inferCategory(heroPost).title}</span>
-              <h1>{heroPost.data.title}</h1>
-              <time datetime={heroPost.data.pubDate.toISOString()}>{heroPost.data.pubDate.toLocaleDateString("ko-KR")}</time>
-            </a>
+            <a class="top-story-link" href={heroPost.data.permalink} aria-label={heroPost.data.title}></a>
           </article>
         )}
         <div class="top-story-small-grid">
           {heroGridPosts.map((post) => (
             <article class="top-story-card">
               {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
-              <a class="top-story-overlay" href={post.data.permalink}>
-                <span>{inferCategory(post).title}</span>
-                <h2>{post.data.title}</h2>
-                <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
-              </a>
+              <a class="top-story-link" href={post.data.permalink} aria-label={post.data.title}></a>
             </article>
           ))}
         </div>
