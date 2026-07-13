@@ -7,7 +7,7 @@ permalink: "/chobok-date/"
 slugPath: "chobok-date"
 categories: ["living-information"]
 tags: ["초복", "삼복", "중복", "말복", "복날", "여름"]
-heroImage: "/wp-content/uploads/2026/06/cooling-center-1.jpg"
+heroImage: "/wp-content/uploads/2026/07/chobok-date.jpg"
 originalUrl: "https://ssangbak.com/chobok-date/"
 ---
 
@@ -108,7 +108,13 @@ originalUrl: "https://ssangbak.com/chobok-date/"
 
 복날은 특정 하루만 챙기기보다 7월 중순부터 8월 중순까지의 더위 관리 기간으로 보는 편이 현실적입니다.
 
-[👉 2026 에너지바우처 신청방법 보기](/energy-voucher-application/)
+## 함께 보면 좋은 여름 정보
+
+초복 날짜를 확인했다면 같은 시기에 필요한 여름 대비 글도 함께 봐두면 좋습니다.
+
+- [근처 무더위 쉼터 찾기](/cooling-center/): 야외 이동이 많은 날 바로 대피할 곳을 확인할 때 유용합니다.
+- [2026 장마기간 기상청 전망](/monsoon-period-forecast/): 복날 전후 휴가나 외출 일정을 잡을 때 함께 확인하기 좋습니다.
+- [에어컨 청소 방법](/air-conditioner-cleaning/): 초복 전 냉방 효율과 실내 공기 상태를 점검할 때 연결됩니다.
 
 ## 2026 초복 날짜 FAQ
 
@@ -141,4 +147,3 @@ originalUrl: "https://ssangbak.com/chobok-date/"
 초복에 꼭 보양식을 먹어야 하는 것은 아닙니다.
 
 더 중요한 것은 수분 섭취, 충분한 휴식, 냉방 관리, 야외 활동 조절처럼 더위에 지치지 않는 생활 관리입니다.
-
