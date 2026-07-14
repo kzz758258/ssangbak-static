@@ -14,10 +14,33 @@ const sectionPosts = CATEGORIES.map((category) => ({
   category,
   posts: posts.filter((post) => inferCategory(post).slug === category.slug).slice(0, 6)
 })).filter((section) => section.posts.length > 0);
+const siteTitle = "SsangBak | \uC9C0\uC6D0\uAE08\u00B7\uC0DD\uD65C\uC815\uBCF4\u00B7\uC5D4\uD130\uC2A4\uD3EC\uCE20";
+const siteDescription = "SsangBak\uC740 \uC9C0\uC6D0\uAE08\uACFC \uC815\uBD80\uC815\uCC45, \uC0DD\uD65C\uC815\uBCF4, \uCF58\uC11C\uD2B8 \uC608\uB9E4, \uC2A4\uD3EC\uCE20 \uC77C\uC815\uCC98\uB7FC \uC9C0\uAE08 \uD655\uC778\uD574\uC57C \uD560 \uC2E4\uC6A9 \uC815\uBCF4\uB97C \uBE60\uB974\uAC8C \uC815\uB9AC\uD558\uB294 \uC815\uBCF4 \uC544\uCE74\uC774\uBE0C\uC785\uB2C8\uB2E4.";
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "SsangBak",
+  url: "https://ssangbak.com/",
+  description: siteDescription,
+  inLanguage: "ko-KR",
+  publisher: {
+    "@type": "Organization",
+    name: "SsangBak",
+    url: "https://ssangbak.com/"
+  }
+};
 ---
 
-<BaseLayout title="SsangBak | 지원금·생활정보·엔터스포츠" description="지원금과 정부정책, 생활정보, 콘서트 예매와 스포츠 중계까지 지금 필요한 정보를 빠르게 정리하는 SsangBak입니다.">
-  <section class="home-top-section page-shell" aria-label="주요 정보">
+<BaseLayout title={siteTitle} description={siteDescription}>
+  <Fragment slot="head">
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(websiteJsonLd)} />
+  </Fragment>
+  <section class="site-intro page-shell" aria-label="SsangBak intro">
+    <h1>SsangBak</h1>
+    <p>{siteDescription}</p>
+  </section>
+
+  <section class="home-top-section page-shell" aria-label="Main information">
     <div class="top-story-layout">
       <div class="top-story-grid">
         {heroPost && (
