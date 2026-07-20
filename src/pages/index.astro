@@ -9,7 +9,7 @@ const posts = (await getCollection("posts")).sort(
 
 const heroPost = posts[0];
 const heroGridPosts = posts.slice(1, 5);
-const latestPosts = posts.slice(5, 8);
+const latestPosts = posts.slice(0, 4);
 const sectionPosts = CATEGORIES.map((category) => ({
   category,
   posts: posts.filter((post) => inferCategory(post).slug === category.slug).slice(0, 6)
@@ -34,12 +34,18 @@ const websiteJsonLd = {
 <BaseLayout title={siteTitle} description={siteDescription}>
   <Fragment slot="head">
     <script is:inline type="application/ld+json" set:html={JSON.stringify(websiteJsonLd)} />
+    <style>
+      .top-story-layout { align-items: stretch; }
+      .home-latest { display: flex; min-height: 0; flex-direction: column; }
+      .home-latest .side-news-list {
+        display: grid;
+        min-height: 0;
+        flex: 1;
+        grid-template-rows: repeat(4, minmax(0, 1fr));
+      }
+      .home-latest .side-news-item { align-items: center; }
+    </style>
   </Fragment>
-  <section class="site-intro page-shell" aria-label="SsangBak intro">
-    <h1>SsangBak</h1>
-    <p>{siteDescription}</p>
-  </section>
-
   <section class="home-top-section page-shell" aria-label="Main information">
     <div class="top-story-layout">
       <div class="top-story-grid">
