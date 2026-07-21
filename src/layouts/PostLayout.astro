@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import AdSlot from "../components/AdSlot.astro";
 import WeeklyAllowanceCalculator from "../components/WeeklyAllowanceCalculator.astro";
 import { absoluteUrl, buildMetaDescription, slugifyHeading } from "../lib/seo";
 import { getRelatedPosts, inferCategory } from "../lib/taxonomy";
@@ -121,7 +122,16 @@ const breadcrumbJsonLd = {
           </ol>
         </nav>
       )}
+      {tocHeadings.length > 1 && (
+        <AdSlot slot="6912814701" label="목차 다음 광고" className="ad-placement--article" />
+      )}
       <Content />
+      <AdSlot
+        slot="1475434001"
+        label="자주 묻는 질문 전 광고"
+        className="ad-placement--article"
+        moveBeforeFaq
+      />
       {relatedPosts.length > 0 && (
         <section class="related-posts" aria-label="함께 보면 좋은 글">
           <div class="section-head">

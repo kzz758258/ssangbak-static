@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import AdSlot from "../components/AdSlot.astro";
 import { CATEGORIES, inferCategory } from "../lib/taxonomy";
 
 const posts = (await getCollection("posts")).sort(
@@ -64,6 +65,13 @@ const websiteJsonLd = {
           ))}
         </div>
       </div>
+
+      <AdSlot
+        slot="7032948219"
+        label="최신 정보 전 광고"
+        className="ad-placement--home-mobile"
+        mobileOnly
+      />
 
       <aside class="side-news home-latest" aria-labelledby="latest-news-title">
         <h2 id="latest-news-title">최신 정보</h2>

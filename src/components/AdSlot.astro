@@ -1,0 +1,68 @@
+---
+interface Props {
+  slot: string;
+  label: string;
+  className?: string;
+  moveBeforeFaq?: boolean;
+  mobileOnly?: boolean;
+}
+
+const {
+  slot,
+  label,
+  className,
+  moveBeforeFaq = false,
+  mobileOnly = false
+} = Astro.props;
+---
+
+<div
+  class:list={["ad-placement", className, mobileOnly && "ad-placement--mobile-only"]}
+  data-ad-placement
+  data-move-before-faq={moveBeforeFaq ? "true" : undefined}
+  aria-label={label}
+>
+  <span class="ad-placement-label" aria-hidden="true">광고</span>
+  <ins
+    class="adsbygoogle"
+    style="display:block"
+    data-ad-client="ca-pub-4041977310641067"
+    data-ad-slot={slot}
+    data-ad-format="horizontal"
+    data-full-width-responsive="true"
+  ></ins>
+</div>
+
+<script is:inline>
+  (() => {
+    const script = document.currentScript;
+    const placement = script?.previousElementSibling;
+
+    if (!(placement instanceof HTMLElement) || !placement.matches("[data-ad-placement]")) return;
+
+    if (placement.dataset.moveBeforeFaq === "true") {
+      const article = placement.closest("article");
+      const faqHeading = article && Array.from(article.querySelectorAll("h2")).find((heading) =>
+        /FAQ|자주\s*묻는\s*질문|질문과\s*답변|Q&A/i.test(heading.textContent || "")
+      );
+
+      if (!faqHeading) {
+        placement.remove();
+        return;
+      }
+
+      faqHeading.before(placement);
+    }
+
+    if (placement.classList.contains("ad-placement--mobile-only") && !window.matchMedia("(max-width: 640px)").matches) {
+      placement.remove();
+      return;
+    }
+
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    } catch (error) {
+      console.warn("AdSense slot initialization failed", error);
+    }
+  })();
+</script>
