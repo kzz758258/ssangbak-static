@@ -14,7 +14,7 @@ npm run dev
 
 ## Daily topic radar
 
-Generate a dated report of monetizable article opportunities using current news signals, OpenAI web research, and duplicate checks against existing posts:
+Generate a dated report of new monetizable article opportunities using current news signals, OpenAI web research, and a separate semantic duplicate audit against existing posts:
 
 ```bash
 npm run topic-radar
@@ -31,7 +31,7 @@ Optional environment variables:
 - `TOPIC_RADAR_MODEL` (default: `gpt-5.6-luna`)
 - `NAVER_CLIENT_ID` and `NAVER_CLIENT_SECRET`
 
-Reports are written to `reports/topic-radar/YYYY-MM-DD.md` with a machine-readable JSON file beside them. The radar only recommends topics; it does not publish posts automatically.
+Reports are written to `reports/topic-radar/YYYY-MM-DD.md` with a machine-readable JSON file beside them. Existing-topic matches are excluded from the main ranking and recorded separately. The radar only recommends topics; it does not publish posts automatically.
 
 ## Structure
 

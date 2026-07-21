@@ -254,8 +254,8 @@ function topicSchema() {
       summary: { type: "string" },
       topics: {
         type: "array",
-        minItems: 8,
-        maxItems: 12,
+        minItems: 12,
+        maxItems: 15,
         items: {
           type: "object",
           additionalProperties: false,
@@ -269,8 +269,8 @@ function topicSchema() {
             keyword: { type: "string" },
             title: { type: "string" },
             category: { type: "string", enum: ["subsidy", "living-information", "entertainment-sports"] },
-            topicType: { type: "string", enum: ["breaking", "seasonal", "evergreen", "refresh"] },
-            action: { type: "string", enum: ["new", "refresh"] },
+            topicType: { type: "string", enum: ["breaking", "seasonal", "evergreen"] },
+            action: { type: "string", enum: ["new"] },
             whyNow: { type: "string" },
             readerValue: { type: "string" },
             demandSignal: { type: "string" },
@@ -318,6 +318,91 @@ function extractResponseText(response) {
     .join("");
 }
 
+function noveltySchema() {
+  return {
+    type: "object",
+    additionalProperties: false,
+    required: ["checks"],
+    properties: {
+      checks: {
+        type: "array",
+        minItems: 1,
+        maxItems: 15,
+        items: {
+          type: "object",
+          additionalProperties: false,
+          required: ["index", "isCovered", "existingPermalink", "reason"],
+          properties: {
+            index: { type: "integer", minimum: 0, maximum: 14 },
+            isCovered: { type: "boolean" },
+            existingPermalink: { type: "string" },
+            reason: { type: "string" }
+          }
+        }
+      }
+    }
+  };
+}
+
+async function auditNovelty({ topics, existingPosts, model }) {
+  const candidates = topics.map((topic, index) =>
+    `${index}. ${topic.title} | keyword=${topic.keyword} | subKeywords=${topic.subKeywords.join(", ")}`
+  ).join("\n");
+  const existing = existingPosts.map((post) => `${post.title} | ${post.permalink}`).join("\n");
+  const prompt = `You are performing a strict semantic duplicate audit for a Korean practical-information website.
+
+For every numbered candidate, decide whether an existing article already covers the same named program, benefit, event, product, or primary reader task.
+- Mark isCovered=true when only the wording, year, checklist, comparison angle, or sub-keywords differ but the core search intent is already served.
+- Do not mark a candidate covered merely because it shares a broad category such as 소상공인, 지원금, 스포츠, or 결혼. Distinct named programs and distinct events are new topics.
+- If covered, return the exact permalink from the existing list. Otherwise return an empty string.
+- Return exactly one check for every candidate index.
+
+Candidates:
+${candidates}
+
+Existing articles:
+${existing}`;
+  const response = await fetch("https://api.openai.com/v1/responses", {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      model,
+      reasoning: { effort: "low" },
+      input: prompt,
+      text: {
+        verbosity: "low",
+        format: {
+          type: "json_schema",
+          name: "ssangbak_novelty_audit",
+          strict: true,
+          schema: noveltySchema()
+        }
+      }
+    })
+  });
+  if (!response.ok) {
+    const message = await response.text();
+    throw new Error(`OpenAI novelty audit ${response.status}: ${message.slice(0, 1000)}`);
+  }
+  const data = await response.json();
+  const text = extractResponseText(data);
+  if (!text) throw new Error("Novelty audit did not contain output text.");
+  const checks = JSON.parse(text).checks;
+  const byIndex = new Map(checks.map((check) => [check.index, check]));
+  return topics.map((topic, index) => {
+    const check = byIndex.get(index) || { isCovered: true, existingPermalink: "", reason: "중복 심사 결과 누락" };
+    return {
+      ...topic,
+      noveltyCovered: check.isCovered,
+      noveltyReason: check.reason,
+      existingPost: check.existingPermalink || topic.existingPost
+    };
+  });
+}
+
 async function analyzeTopics({ date, signals, existingPosts, model }) {
   if (!process.env.OPENAI_API_KEY) throw new Error("OPENAI_API_KEY is required.");
   const signalText = signals.map((item, index) =>
@@ -330,7 +415,7 @@ Today in Korea: ${date} (${KST_OFFSET})
 Site categories: subsidy, living-information, entertainment-sports.
 
 Goal:
-Select 8-12 Korean article opportunities that can earn sustainable search traffic and ad revenue. Balance urgent demand with durable evergreen demand. Use the supplied discovery headlines only as leads, then use web search to verify timing and find direct primary sources whenever possible.
+Select 12-15 genuinely NEW Korean article opportunities that can earn sustainable search traffic and ad revenue. Balance urgent demand with durable evergreen demand. Use the supplied discovery headlines only as leads, then use web search to verify timing and find direct primary sources whenever possible.
 
 Hard rules:
 - Do not invent numeric search volume, CPC, benefits, dates, eligibility, schedules, or event facts.
@@ -338,10 +423,12 @@ Hard rules:
 - At least one source per time-sensitive topic should be official whenever an official source exists.
 - Source URLs must be real pages you checked, not homepages or fabricated URLs.
 - RSS/news text is discovery material only. Recommend an original service article with concrete reader actions, tables, comparisons, deadlines, or checklists.
-- Avoid near-duplicate new articles. Use action=refresh when an existing SsangBak article should be updated instead.
+- This run is for NEW topics only. The existing SsangBak titles below are an exclusion list, not inspiration.
+- Exclude a candidate when SsangBak already covers the same entity, program, event, product, or search intent, even if you can invent a slightly different angle or title.
+- Never recommend a refresh in this report. action must be new, topicType must not be refresh, and existingPost must be an empty string.
 - Prefer topics with a clear Korean search query, actionable intent, a useful angle, and enough source evidence.
 - Exclude rumor-only celebrity stories, graphic incidents, pure opinion, medical diagnosis, investment recommendations, and topics whose key facts cannot be verified.
-- Include a mix of breaking, seasonal, evergreen, and refresh opportunities.
+- Include a mix of breaking, seasonal, and evergreen opportunities.
 - Keep Korean titles natural and informative, not sensational clickbait.
 - publishBy must be an ISO date/time with +09:00 for urgent topics or a concise Korean window for evergreen topics. For a known deadline, recommend publishing early enough to be useful (normally at least 3 business days before it), never on or after the deadline.
 
@@ -391,10 +478,10 @@ function finalizeTopics(topics, existingPosts) {
     const nearest = claimedExisting
       ? { ...claimedExisting, similarity: similarity(`${topic.keyword} ${topic.title}`, claimedExisting.title) }
       : nearestExisting(`${topic.keyword} ${topic.title}`, existingPosts);
-    const action = topic.action === "new" && nearest?.similarity >= 0.35
-      ? "refresh"
-      : topic.action;
-    const duplicatePenalty = action === "new" && nearest?.similarity >= 0.45
+    const isExistingTopic = typeof topic.noveltyCovered === "boolean"
+      ? topic.noveltyCovered
+      : Boolean(nearest?.similarity >= 0.32);
+    const duplicatePenalty = isExistingTopic
       ? Math.round(nearest.similarity * 35)
       : 0;
     const riskPenalty = topic.riskLevel === "high" ? 12 : topic.riskLevel === "medium" ? 5 : 0;
@@ -413,8 +500,7 @@ function finalizeTopics(topics, existingPosts) {
     )));
     return {
       ...topic,
-      action,
-      actionAdjusted: action !== topic.action,
+      isExistingTopic,
       score,
       nearestExistingTitle: nearest?.title || "",
       nearestExistingPermalink: nearest?.permalink || "",
@@ -430,7 +516,7 @@ function markdownEscape(value) {
   return String(value || "").replace(/\|/g, "\\|").replace(/\n/g, " ");
 }
 
-function renderReport({ date, summary, topics, model, responseId, signals, errors }) {
+function renderReport({ date, summary, topics, rejectedTopics, model, responseId, signals, errors }) {
   const generatedAt = new Date().toISOString();
   const lines = [
     `# SsangBak 글감 레이더 — ${date}`,
@@ -478,6 +564,16 @@ function renderReport({ date, summary, topics, model, responseId, signals, error
     });
     lines.push("");
   });
+  lines.push("## 기존 주제와 겹쳐 제외된 후보", "");
+  if (rejectedTopics.length === 0) {
+    lines.push("- 없음", "");
+  } else {
+    rejectedTopics.forEach((topic) => {
+      const reason = topic.noveltyReason ? ` · ${topic.noveltyReason}` : "";
+      lines.push(`- ${topic.title} → ${topic.nearestExistingTitle} (${topic.nearestExistingPermalink}, 유사도 ${Math.round(topic.similarity * 100)}%)${reason}`);
+    });
+    lines.push("");
+  }
   lines.push(
     "## 데이터 상태",
     "",
@@ -523,13 +619,18 @@ Options:
   const { signals, errors } = await collectSignals(radarQueriesFor(date));
   console.log(`Collected ${signals.length} unique signals. Analyzing with ${requestedModel}...`);
   const { analysis, responseId, model } = await analyzeTopics({ date, signals, existingPosts, model: requestedModel });
+  console.log("Auditing semantic duplicates against existing posts...");
+  const auditedTopics = await auditNovelty({ topics: analysis.topics, existingPosts, model: requestedModel });
   console.log("Validating evidence URLs...");
-  const validatedTopics = await validateTopicSources(analysis.topics);
-  const topics = finalizeTopics(validatedTopics, existingPosts);
+  const validatedTopics = await validateTopicSources(auditedTopics);
+  const evaluatedTopics = finalizeTopics(validatedTopics, existingPosts);
+  const topics = evaluatedTopics.filter((topic) => !topic.isExistingTopic);
+  const rejectedTopics = evaluatedTopics.filter((topic) => topic.isExistingTopic);
   const report = renderReport({
     date,
     summary: analysis.summary,
     topics,
+    rejectedTopics,
     model,
     responseId,
     signals,
@@ -538,7 +639,7 @@ Options:
   mkdirSync(dirname(reportPath), { recursive: true });
   mkdirSync(dirname(jsonPath), { recursive: true });
   writeFileSync(reportPath, report, "utf8");
-  writeFileSync(jsonPath, `${JSON.stringify({ date, generatedAt: new Date().toISOString(), model, responseId, signals, topics }, null, 2)}\n`, "utf8");
+  writeFileSync(jsonPath, `${JSON.stringify({ date, generatedAt: new Date().toISOString(), model, responseId, signals, topics, rejectedTopics }, null, 2)}\n`, "utf8");
   console.log(`Report: ${reportPath}`);
   console.log(`Data:   ${jsonPath}`);
 }
