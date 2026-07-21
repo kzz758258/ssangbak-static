@@ -7,9 +7,31 @@ Astro + Cloudflare Pages target for `https://ssangbak.com`.
 ```bash
 npm install
 npm run import:ssangbak
+npm run topic-radar
 npm run build
 npm run dev
 ```
+
+## Daily topic radar
+
+Generate a dated report of monetizable article opportunities using current news signals, OpenAI web research, and duplicate checks against existing posts:
+
+```bash
+npm run topic-radar
+```
+
+Required environment variable:
+
+- `OPENAI_API_KEY`
+
+Copy `.env.example` to `.env` and enter the key there, or set it as an operating-system environment variable. The `.env` file is excluded from Git.
+
+Optional environment variables:
+
+- `TOPIC_RADAR_MODEL` (default: `gpt-5.6-luna`)
+- `NAVER_CLIENT_ID` and `NAVER_CLIENT_SECRET`
+
+Reports are written to `reports/topic-radar/YYYY-MM-DD.md` with a machine-readable JSON file beside them. The radar only recommends topics; it does not publish posts automatically.
 
 ## Structure
 
