@@ -8,8 +8,9 @@ const { post, allPosts = [] } = Astro.props;
 const { Content, headings } = await post.render();
 const category = inferCategory(post);
 const relatedPosts = getRelatedPosts(post, allPosts, 6);
-const latestPosts = allPosts
+const latestPosts = [...allPosts]
   .filter((candidate: any) => candidate.id !== post.id)
+  .sort((a: any, b: any) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 6);
 const title = `${post.data.title} | SsangBak`;
 const description = buildMetaDescription(post.data.title, post.data.description, category.title);
