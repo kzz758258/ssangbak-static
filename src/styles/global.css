@@ -523,6 +523,17 @@ main {
   margin: 18px 0;
 }
 
+/* Numeric ranges such as `1~4 ... 1~5` can be parsed as Markdown deletion. */
+.article del {
+  color: inherit;
+  text-decoration: none;
+}
+
+.article del::before,
+.article del::after {
+  content: "~";
+}
+
 .article img:not(.hero-image) {
   margin: 24px auto;
   border-radius: 8px;
