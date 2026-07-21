@@ -7,7 +7,7 @@ permalink: "/property-tax-card-benefits/"
 slugPath: "property-tax-card-benefits"
 categories: ["living-information"]
 tags: ["재산세 카드혜택", "재산세 카드혜택 비교", "재산세 카드혜택 2026", "재산세 무이자", "신한카드", "현대카드", "하나카드", "삼성카드", "KB국민카드", "우리카드", "네이버페이"]
-heroImage: "/wp-content/uploads/2026/07/property-tax-card-benefits.jpg"
+heroImage: "/wp-content/uploads/2026/07/property-tax-card-benefits-v2.jpg"
 originalUrl: "https://ssangbak.com/property-tax-card-benefits/"
 ---
 
