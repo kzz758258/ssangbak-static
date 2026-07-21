@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "import:ssangbak": "node scripts/import-ssangbak.mjs"
+    "import:ssangbak": "node scripts/import-ssangbak.mjs",
+    "thumbnail:api": "node scripts/generate-thumbnail-api.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
