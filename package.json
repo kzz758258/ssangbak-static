@@ -9,7 +9,8 @@
     "preview": "astro preview",
     "import:ssangbak": "node scripts/import-ssangbak.mjs",
     "thumbnail:api": "node scripts/generate-thumbnail-api.mjs",
-    "topic-radar": "node --env-file-if-exists=.env scripts/topic-radar.mjs"
+    "topic-radar": "node --env-file-if-exists=.env scripts/topic-radar.mjs",
+    "research:naver": "node --env-file-if-exists=.env scripts/naver-content-research.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
