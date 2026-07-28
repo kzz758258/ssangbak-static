@@ -16,9 +16,9 @@ originalUrl: "https://ssangbak.com/galaxy-z-fold8-ultra-preorder-guide/"
 
 아래 버튼은 네이버 쇼핑 커넥트 상품 페이지로 연결됩니다. 판매자, 저장 용량, 자급제 여부, 배송 예정일과 최종 결제 금액을 확인한 뒤 신청하세요.
 
-<p><a href="https://naver.me/GahxDsqC" target="_blank" rel="sponsored nofollow noopener">삼성 갤럭시 폴드8 사전예약 신청</a></p>
+<p><a class="cta-button" href="https://naver.me/GahxDsqC" target="_blank" rel="sponsored nofollow noopener">삼성 갤럭시 폴드8 사전예약 신청</a></p>
 
-<p><a href="https://naver.me/GahxDsqC" target="_blank" rel="sponsored nofollow noopener">삼성 갤럭시 폴드8 울트라 사전예약 신청</a></p>
+<p><a class="cta-button" href="https://naver.me/GahxDsqC" target="_blank" rel="sponsored nofollow noopener">삼성 갤럭시 폴드8 울트라 사전예약 신청</a></p>
 
 ## 갤럭시 폴드8 사전예약 기간과 출시일
 
@@ -123,7 +123,7 @@ originalUrl: "https://ssangbak.com/galaxy-z-fold8-ultra-preorder-guide/"
 6. 구매 후 8월 4일부터 가능한 수령·개통 일정을 확인합니다.
 7. 최초 통화 후 삼성닷컴 앱에서 사전구매 혜택을 신청합니다.
 
-<p><a href="https://naver.me/GahxDsqC" target="_blank" rel="sponsored nofollow noopener">갤럭시 폴드8·울트라 사전예약 상품 확인</a></p>
+<p><a class="cta-button" href="https://naver.me/GahxDsqC" target="_blank" rel="sponsored nofollow noopener">갤럭시 폴드8·울트라 사전예약 상품 확인</a></p>
 
 ## 신청 전 반드시 확인할 항목
 
