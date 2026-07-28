@@ -108,6 +108,14 @@ const breadcrumbJsonLd = {
         </p>
         {description && <p class="article-summary">{description}</p>}
       </header>
+      {
+        post.data.affiliateDisclosure && (
+          <aside class="affiliate-disclosure" aria-label="제휴 마케팅 안내">
+            <strong>제휴 마케팅 안내</strong>
+            <span>{post.data.affiliateDisclosure}</span>
+          </aside>
+        )
+      }
       {post.data.heroImage && <img class="hero-image" src={post.data.heroImage} alt={post.data.title} loading="eager" />}
       {isWeeklyAllowanceCalculator && <WeeklyAllowanceCalculator />}
       {tocHeadings.length > 1 && (

@@ -453,6 +453,24 @@ main {
   font-weight: 700;
 }
 
+.affiliate-disclosure {
+  display: flex;
+  gap: 8px 12px;
+  align-items: flex-start;
+  margin: 20px 0 0;
+  padding: 14px 16px;
+  border: 1px solid #f0d59b;
+  border-radius: 8px;
+  background: #fffaf0;
+  color: #614817;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.affiliate-disclosure strong {
+  flex: 0 0 auto;
+}
+
 .hero-image {
   width: 100%;
   max-height: 620px;
@@ -547,6 +565,17 @@ main {
 
 .article p {
   margin: 18px 0;
+}
+
+@media (max-width: 640px) {
+  .affiliate-disclosure {
+    display: block;
+  }
+
+  .affiliate-disclosure strong {
+    display: block;
+    margin-bottom: 3px;
+  }
 }
 
 /* Numeric ranges such as `1~4 ... 1~5` can be parsed as Markdown deletion. */
