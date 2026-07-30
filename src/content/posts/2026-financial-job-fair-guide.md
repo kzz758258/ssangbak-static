@@ -2,12 +2,22 @@
 title: "2026 금융권 공동채용 박람회 참가 신청과 현장면접 일정·준비"
 description: "2026 금융권 공동채용 박람회 날짜와 DDP 장소, 금융회사 현장면접 신청기간, 참여기관과 취업 프로그램 및 준비물을 정리합니다."
 pubDate: "2026-07-28T16:40:00+09:00"
-updatedDate: "2026-07-28T16:40:00+09:00"
+updatedDate: "2026-07-30T10:00:00+09:00"
 permalink: "/2026-financial-job-fair-guide/"
 slugPath: "2026-financial-job-fair-guide"
 categories: ["living-information"]
 tags: ["금융권 공동채용 박람회", "금융권 채용박람회 신청", "금융권 현장면접", "금융권 취업", "DDP 채용박람회"]
 heroImage: "/wp-content/uploads/2026/07/2026-financial-job-fair-guide.jpg"
+sources:
+  - title: "2026 금융권 공동채용 박람회 공식 홈페이지"
+    url: "https://financejobfair.co.kr/"
+  - title: "금융위원회 - 2026 금융권 공동채용 박람회 안내"
+    url: "https://www.fsc.go.kr/edu/news/87378"
+relatedPosts:
+  - "samsung-careers-recruitment-process-guide"
+  - "sk-hynix-recruitment"
+  - "2026-korea-employment-support-program-guide"
+  - "youth-employment-leap-grant"
 originalUrl: "https://ssangbak.com/2026-financial-job-fair-guide/"
 ---
 
@@ -62,6 +72,18 @@ originalUrl: "https://ssangbak.com/2026-financial-job-fair-guide/"
 
 상담 부스에서는 “채용 규모가 어떻게 되나요?”보다 “이 직무의 신입이 입사 후 가장 먼저 맡는 업무는 무엇인지”, “필기와 면접에서 실제로 확인하는 역량이 무엇인지”처럼 구체적으로 묻는 편이 얻는 정보가 많습니다.
 
+## 목적별로 무엇을 준비해야 하나
+
+| 방문 목적 | 반드시 끝낼 절차 | 준비물 |
+| --- | --- | --- |
+| 현장면접 | 온라인 지원·서류 결과·면접시간 확정 | 신분증, 지원서, 면접복장 |
+| 채용상담 | 상담할 기관과 질문 선정 | 이력서, 질문 메모 |
+| 직무 탐색 | 관심 직무 컨퍼런스 시간표 저장 | 필기도구, 일정표 |
+| 자기소개서 개선 | AI 분석·코칭 프로그램 조건 확인 | 자기소개서 파일 |
+| 특강 수강 | 좌석·사전등록 여부 확인 | 참가 QR 또는 등록 화면 |
+
+박람회 참가등록, 프로그램 예약, 현장면접 지원은 같은 절차가 아닙니다. 홈페이지 회원가입만 해두고 면접 신청까지 끝난 것으로 착각하지 말고, 마이페이지에서 **지원 완료·평가 결과·면접시간 선택** 상태를 각각 확인해야 합니다.
+
 ## 금융권 공동채용 박람회 FAQ
 
 ### 대학생만 참가할 수 있나요?
@@ -80,4 +102,4 @@ originalUrl: "https://ssangbak.com/2026-financial-job-fair-guide/"
 
 관심 직무 컨퍼런스와 면접·특강 시간표를 비교해 하루만 방문할 수도 있습니다. 상담 기관과 프로그램이 다를 수 있으므로 먼저 시간표를 확인하세요.
 
-> 확인 기준일: 2026년 7월 28일. 일정과 프로그램은 [2026 금융권 공동채용 박람회 공식 홈페이지](https://financejobfair.co.kr/)와 [금융위원회 행사 안내](https://www.fsc.go.kr/edu/news/87378)를 기준으로 작성했습니다.
+> 확인 기준일: 2026년 7월 30일. 일정과 프로그램은 [2026 금융권 공동채용 박람회 공식 홈페이지](https://financejobfair.co.kr/)와 [금융위원회 행사 안내](https://www.fsc.go.kr/edu/news/87378)를 기준으로 작성했습니다.

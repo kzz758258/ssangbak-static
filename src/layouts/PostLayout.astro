@@ -8,7 +8,12 @@ import { getRelatedPosts, inferCategory } from "../lib/taxonomy";
 const { post, allPosts = [] } = Astro.props;
 const { Content, headings } = await post.render();
 const category = inferCategory(post);
-const relatedPosts = getRelatedPosts(post, allPosts, 6);
+const curatedRelatedPosts = post.data.relatedPosts
+  .map((slugPath: string) => allPosts.find((candidate: any) => candidate.data.slugPath === slugPath))
+  .filter(Boolean);
+const relatedPosts = curatedRelatedPosts.length > 0
+  ? curatedRelatedPosts.slice(0, 6)
+  : getRelatedPosts(post, allPosts, 6);
 const latestPosts = [...allPosts]
   .filter((candidate: any) => candidate.id !== post.id)
   .sort((a: any, b: any) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -103,9 +108,23 @@ const breadcrumbJsonLd = {
       </nav>
       <header class="article-header">
         <h1>{post.data.title}</h1>
-        <p class="meta">
-          <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
-        </p>
+        <div class="article-byline">
+          <span>쌍박 편집팀</span>
+          <span aria-hidden="true">·</span>
+          <span>
+            발행 <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+          </span>
+          {
+            post.data.updatedDate && post.data.updatedDate.valueOf() !== post.data.pubDate.valueOf() && (
+              <>
+                <span aria-hidden="true">·</span>
+                <span>
+                  최종 확인 <time datetime={post.data.updatedDate.toISOString()}>{post.data.updatedDate.toLocaleDateString("ko-KR")}</time>
+                </span>
+              </>
+            )
+          }
+        </div>
         {description && <p class="article-summary">{description}</p>}
       </header>
       {
@@ -140,6 +159,27 @@ const breadcrumbJsonLd = {
         className="ad-placement--article"
         moveBeforeFaq
       />
+      {
+        post.data.sources.length > 0 && (
+          <section class="article-sources" aria-labelledby="article-sources-title">
+            <h2 id="article-sources-title">공식 출처 및 확인 자료</h2>
+            <ul>
+              {post.data.sources.map((source: { title: string; url: string }) => (
+                <li><a href={source.url} rel="noopener noreferrer">{source.title}</a></li>
+              ))}
+            </ul>
+            <p>수치·일정·대상은 최종 확인일 기준입니다. 신청 전 연결된 공식 페이지의 최신 공지를 한 번 더 확인하세요.</p>
+          </section>
+        )
+      }
+      {
+        post.data.sources.length > 0 && (
+          <aside class="editorial-note" aria-label="편집 원칙">
+            <strong>쌍박 편집 원칙</strong>
+            <p>정부·주최기관·공식 신청처의 1차 자료를 우선 확인하고, 독자가 대상 여부와 다음 행동을 판단할 수 있도록 조건·예외·마감·주의사항을 함께 정리합니다.</p>
+          </aside>
+        )
+      }
       {relatedPosts.length > 0 && (
         <section class="related-posts" aria-label="함께 보면 좋은 글">
           <div class="section-head">

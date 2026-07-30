@@ -13,6 +13,13 @@ const posts = defineCollection({
     tags: z.array(z.string()).default([]),
     heroImage: z.string().optional(),
     affiliateDisclosure: z.string().optional(),
+    sources: z.array(
+      z.object({
+        title: z.string(),
+        url: z.string().url()
+      })
+    ).default([]),
+    relatedPosts: z.array(z.string()).default([]),
     originalUrl: z.string().url()
   })
 });

@@ -2,12 +2,21 @@
 title: "전입신고 통보서비스 신청 방법과 임대인·세대주 문자 알림"
 description: "모르는 사람이 내 주소로 전입하거나 세대주가 바뀌었을 때 알림을 받을 수 있는 주민등록 관련 통보서비스의 정부24 신청 방법, 대상과 필요서류를 정리합니다."
 pubDate: "2026-07-28T16:30:00+09:00"
-updatedDate: "2026-07-28T16:30:00+09:00"
+updatedDate: "2026-07-30T10:00:00+09:00"
 permalink: "/move-in-report-notification-service/"
 slugPath: "move-in-report-notification-service"
 categories: ["living-information"]
 tags: ["전입신고 통보서비스", "전입신고 문자 알림", "정부24 통보서비스", "임대인 전입신고 알림", "세대주 변경 알림"]
 heroImage: "/wp-content/uploads/2026/07/move-in-report-notification-service.jpg"
+sources:
+  - title: "정부24 - 주민등록 관련 통보서비스 신청"
+    url: "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13110000039&HighCtgCD=A01008"
+  - title: "국가법령정보센터 - 주민등록법 시행령"
+    url: "https://www.law.go.kr/법령/주민등록법시행령"
+relatedPosts:
+  - "2026-resident-registration-fact-survey"
+  - "mobile-id-issuance-method"
+  - "welfare-membership-kakao-notification"
 originalUrl: "https://ssangbak.com/move-in-report-notification-service/"
 ---
 
@@ -49,6 +58,18 @@ originalUrl: "https://ssangbak.com/move-in-report-notification-service/"
 
 행정정보 공동이용에 동의하면 담당자가 일부 서류를 전산으로 확인할 수 있습니다. 다만 전산 확인이 되지 않거나 계약관계가 명확하지 않으면 별도 서류 제출을 요청받을 수 있습니다. 방문 신청 시에는 신분증과 자격 증빙 원본을 준비하는 것이 안전합니다.
 
+## 내 상황별로 무엇을 신청해야 하나
+
+| 상황 | 선택할 통보 항목 | 함께 확인할 것 |
+| --- | --- | --- |
+| 내 집에 모르는 사람이 전입할까 걱정 | 전입신고 사실 | 소유자임을 증명할 서류 |
+| 내가 세대주인데 변경이 걱정 | 세대주 변경 사실 | 현재 세대주 등록 상태 |
+| 등·초본 무단 발급이 걱정 | 주민등록표 열람·발급 사실 | 본인 휴대전화 번호 |
+| 주민등록증 명의도용이 걱정 | 주민등록증 발급·재발급 | 최근 발급 신청 이력 |
+| 내 주소가 임의로 바뀔까 걱정 | 주소변경 사실 | 현재 주민등록 주소 |
+
+여러 항목이 필요하면 신청 화면에서 필요한 통보 종류를 함께 선택하세요. 신청서를 보낸 뒤에는 MyGOV 민원처리 내역에서 접수가 아니라 **처리 완료**까지 확인해야 합니다.
+
 ## 전입신고 통보서비스가 특히 필요한 경우
 
 - 빈집이나 장기간 비워둔 주택을 소유한 경우
@@ -85,4 +106,4 @@ originalUrl: "https://ssangbak.com/move-in-report-notification-service/"
 
 제도 문의는 행정안전부 주민과 044-205-3147, 민원 처리 내용은 대상 주소지 주민센터에 확인할 수 있습니다.
 
-> 확인 기준일: 2026년 7월 28일. 신청 자격·서류·처리기간은 [정부24 주민등록 관련 통보서비스 공식 안내](https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13110000039&HighCtgCD=A01008)를 기준으로 정리했습니다.
+> 확인 기준일: 2026년 7월 30일. 신청 자격·서류·처리기간은 [정부24 주민등록 관련 통보서비스 공식 안내](https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13110000039&HighCtgCD=A01008)를 기준으로 정리했습니다.

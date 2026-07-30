@@ -10,7 +10,8 @@
     "import:ssangbak": "node scripts/import-ssangbak.mjs",
     "thumbnail:api": "node scripts/generate-thumbnail-api.mjs",
     "topic-radar": "node --env-file-if-exists=.env scripts/topic-radar.mjs",
-    "research:naver": "node --env-file-if-exists=.env scripts/naver-content-research.mjs"
+    "research:naver": "node --env-file-if-exists=.env scripts/naver-content-research.mjs",
+    "content:check": "node scripts/quality-gate.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",

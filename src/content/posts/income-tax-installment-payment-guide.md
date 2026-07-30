@@ -2,12 +2,24 @@
 title: "종합소득세 분납 납부 대상·금액 확인과 홈택스 납부 방법"
 description: "5월 종합소득세 확정신고 때 분납을 선택한 납세자가 8월 3일까지 납부할 금액, 홈택스 조회·납부 순서와 성실신고확인대상자 일정을 정리합니다."
 pubDate: "2026-07-28T16:20:00+09:00"
-updatedDate: "2026-07-28T16:20:00+09:00"
+updatedDate: "2026-07-30T10:00:00+09:00"
 permalink: "/income-tax-installment-payment-guide/"
 slugPath: "income-tax-installment-payment-guide"
 categories: ["living-information"]
 tags: ["종합소득세 분납", "종합소득세 납부", "홈택스 종합소득세", "종합소득세 분납 금액", "종합소득세 납부기한"]
 heroImage: "/wp-content/uploads/2026/07/income-tax-installment-payment-guide.jpg"
+sources:
+  - title: "국세청 - 2026년 8월 세무일정"
+    url: "https://nts.go.kr/nts/ad/taxSchdul/selectList.do?taxMonth=08&taxYear=2026"
+  - title: "국세청 - 종합소득세 신고·납부 안내"
+    url: "https://nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7664&mi=2224"
+  - title: "국세청 홈택스"
+    url: "https://www.hometax.go.kr/"
+relatedPosts:
+  - "may-income-tax-filing-guide"
+  - "may-income-tax-penalties"
+  - "withholding-tax-hometax-filing-guide"
+  - "2026-corporate-tax-interim-payment"
 originalUrl: "https://ssangbak.com/income-tax-installment-payment-guide/"
 ---
 
@@ -20,6 +32,7 @@ originalUrl: "https://ssangbak.com/income-tax-installment-payment-guide/"
 | 대상 | 5월 확정신고 때 종합소득세 분납을 선택한 납세자 |
 | 일반 신고자 분납기한 | 2026년 8월 3일 |
 | 성실신고확인서 제출자 | 2026년 8월 31일 |
+| 납부기한 직권연장 대상 | 홈택스에 표시된 개별 기한 확인 |
 | 조회·납부 | 홈택스·손택스의 납부할 세액 조회 |
 | 결제수단 | 계좌이체, 신용카드, 간편결제 등 |
 
@@ -36,6 +49,19 @@ originalUrl: "https://ssangbak.com/income-tax-installment-payment-guide/"
 | 2천만 원 초과 | 납부세액의 50% 이하 | 나머지 50% 이상 |
 
 예를 들어 납부세액이 1,500만 원이면 최대 500만 원을 분납할 수 있습니다. 3,000만 원이면 최대 1,500만 원까지 나눌 수 있습니다. 실제 납부액은 신고서와 홈택스의 납부할 세액 조회 화면을 기준으로 확인하세요.
+
+## 8월 3일이 아닌 사람은 누구인가
+
+모든 신고자가 같은 날 납부하는 것은 아닙니다. 성실신고확인서 제출자의 확정신고분 분납기한은 8월 31일이며, 국세청의 납부기한 직권연장 대상자는 본세와 분납기한이 별도로 연장될 수 있습니다.
+
+| 홈택스에서 보이는 상태 | 이렇게 판단하면 됩니다 |
+| --- | --- |
+| 납부기한 8월 3일, 미납 금액 표시 | 일반 분납분을 기한 내 납부 |
+| 납부기한 8월 31일 표시 | 성실신고 또는 직권연장 여부 확인 |
+| 납부기한이 더 뒤로 표시 | 직권연장 안내문과 세목·귀속연도 확인 |
+| 납부 건이 보이지 않음 | 신고서 분납세액과 이미 낸 내역부터 대조 |
+
+본인이 연장 대상인지 추측하지 말고 홈택스 납부 화면에 표시된 개별 기한과 국세청 안내문을 기준으로 판단해야 합니다.
 
 ## 홈택스 납부 순서
 
@@ -79,4 +105,4 @@ originalUrl: "https://ssangbak.com/income-tax-installment-payment-guide/"
 
 가능하지만 신용카드 납부대행 수수료가 발생할 수 있습니다. 계좌이체와 비교한 뒤 선택하세요.
 
-> 확인 기준일: 2026년 7월 28일. 납부기한은 [국세청 2026년 8월 세무일정](https://nts.go.kr/nts/ad/taxSchdul/selectList.do?taxMonth=08&taxYear=2026)을 기준으로 정리했습니다.
+> 확인 기준일: 2026년 7월 30일. 납부기한은 [국세청 2026년 8월 세무일정](https://nts.go.kr/nts/ad/taxSchdul/selectList.do?taxMonth=08&taxYear=2026)을 기준으로 정리했습니다.

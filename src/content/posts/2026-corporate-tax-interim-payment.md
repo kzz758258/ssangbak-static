@@ -2,12 +2,24 @@
 title: "2026 법인세 중간예납 대상과 계산 방법·홈택스 신고 절차"
 description: "12월 결산법인의 2026년 법인세 중간예납 신고·납부기한, 직전 사업연도 기준과 상반기 중간결산 계산 방법, 제외 대상과 홈택스 절차를 정리합니다."
 pubDate: "2026-07-28T16:50:00+09:00"
-updatedDate: "2026-07-28T16:50:00+09:00"
+updatedDate: "2026-07-30T10:00:00+09:00"
 permalink: "/2026-corporate-tax-interim-payment/"
 slugPath: "2026-corporate-tax-interim-payment"
 categories: ["living-information"]
 tags: ["2026 법인세 중간예납", "법인세 중간예납 대상", "법인세 중간예납 계산", "홈택스 법인세 신고", "법인세 중간예납 면제"]
 heroImage: "/wp-content/uploads/2026/07/2026-corporate-tax-interim-payment.jpg"
+sources:
+  - title: "국세청 - 2026년 8월 세무일정"
+    url: "https://nts.go.kr/nts/ad/taxSchdul/selectList.do?taxMonth=08&taxYear=2026"
+  - title: "국세청 - 법인세 중간예납 안내"
+    url: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7997&mi=6571"
+  - title: "국세청 홈택스"
+    url: "https://www.hometax.go.kr/"
+relatedPosts:
+  - "withholding-tax-hometax-filing-guide"
+  - "2026-vat-final-return"
+  - "2026-july-simplified-payment-statement"
+  - "income-tax-installment-payment-guide"
 originalUrl: "https://ssangbak.com/2026-corporate-tax-interim-payment/"
 ---
 
@@ -54,6 +66,17 @@ originalUrl: "https://ssangbak.com/2026-corporate-tax-interim-payment/"
 
 직전 사업연도 법인세가 없거나 확정되지 않은 법인은 상반기 실적을 중간결산해 신고해야 할 수 있습니다. 중간결산은 결산서, 세무조정과 증빙이 필요해 단순히 매출만 절반으로 계산해서는 안 됩니다.
 
+## 어떤 계산 방법을 고를까
+
+| 법인 상황 | 우선 검토할 방법 | 이유 |
+| --- | --- | --- |
+| 작년과 올해 상반기 실적이 비슷함 | 직전 사업연도 기준 | 계산과 신고가 비교적 간단 |
+| 올해 상반기 이익이 크게 감소함 | 중간결산 | 실제 상반기 실적 반영 가능 |
+| 직전 사업연도 산출세액이 없음 | 중간결산 | 직전연도 기준액 적용이 어려움 |
+| 합병·분할·연결납세 등 특수상황 | 세무 검토 후 결정 | 일반 계산식만으로 판단하기 어려움 |
+
+중간결산이 유리해 보여도 장부 마감과 세무조정이 부정확하면 신고 위험이 커집니다. 예상 납부세액만 비교하지 말고 결산 가능 여부와 증빙 완성도까지 함께 판단해야 합니다.
+
 ## 홈택스 신고 준비
 
 - 직전 사업연도 법인세 신고서와 납부내역
@@ -88,4 +111,4 @@ originalUrl: "https://ssangbak.com/2026-corporate-tax-interim-payment/"
 
 신고와 납부기한 모두 8월 31일입니다. 분납이나 기한 연장 요건에 해당하지 않는데 납부를 미루면 가산세가 발생할 수 있습니다.
 
-> 확인 기준일: 2026년 7월 28일. 일정은 [국세청 2026년 8월 세무일정](https://nts.go.kr/nts/ad/taxSchdul/selectList.do?taxMonth=08&taxYear=2026), 계산 방식은 [국세청 법인세 중간예납 안내](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7997&mi=6571)를 기준으로 정리했습니다.
+> 확인 기준일: 2026년 7월 30일. 일정은 [국세청 2026년 8월 세무일정](https://nts.go.kr/nts/ad/taxSchdul/selectList.do?taxMonth=08&taxYear=2026), 계산 방식은 [국세청 법인세 중간예납 안내](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7997&mi=6571)를 기준으로 정리했습니다.
