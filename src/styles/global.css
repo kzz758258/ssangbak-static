@@ -448,6 +448,22 @@ main {
   font-weight: 800;
 }
 
+.article-date {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.article-date-icon {
+  width: 15px;
+  height: 15px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+}
+
 .article h1 {
   margin: 0 0 12px;
   font-size: clamp(30px, 5vw, 46px);

@@ -109,8 +109,11 @@ const breadcrumbJsonLd = {
         <div class="article-byline">
           <span>SsangBak 편집팀</span>
           <span aria-hidden="true">·</span>
-          <span>
-            발행 <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
+          <span class="article-date">
+            <svg class="article-date-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M7 3v3M17 3v3M4.5 9h15M6 5h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z" />
+            </svg>
+            작성일 <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ko-KR")}</time>
           </span>
           {
             post.data.updatedDate && post.data.updatedDate.valueOf() !== post.data.pubDate.valueOf() && (

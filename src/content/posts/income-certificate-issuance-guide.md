@@ -50,11 +50,6 @@ originalUrl: "https://ssangbak.com/income-certificate-issuance-guide/"
 | 휴대전화로 확인·제출 | 손택스 또는 정부24 앱 | 전자문서지갑·모바일 열람 가능 여부 확인 |
 | 대리 발급 필요 | 세무서 등 방문 | 위임장과 신분증 요건 확인 필요 |
 
-<figure class="article-summary-visual">
-  <img src="/wp-content/uploads/2026/07/income-certificate-issue-channel-summary.webp" alt="소득금액증명 발급처 선택 핵심 요약" loading="lazy" decoding="async" />
-  <figcaption>발급 목적에 따른 홈택스·정부24·세무서 선택 요약</figcaption>
-</figure>
-
 ## 인터넷 발급 순서
 
 1. 홈택스 또는 정부24 공식 사이트에 접속합니다.
@@ -68,11 +63,6 @@ originalUrl: "https://ssangbak.com/income-certificate-issuance-guide/"
 
 ‘열람용’ 화면은 제출용 문서로 인정되지 않을 수 있습니다. 제출기관이 원본 PDF 또는 종이 출력물을 요구하면 온라인발급(본인출력)이나 전자문서지갑 제출을 선택하세요. 이메일로 보내야 한다면 주민등록번호 전체가 불필요하게 노출되지 않도록 공개 범위를 최소화합니다.
 
-<figure class="article-summary-visual">
-  <img src="/wp-content/uploads/2026/07/income-certificate-online-steps-summary.webp" alt="소득금액증명 온라인 발급 4단계 요약" loading="lazy" decoding="async" />
-  <figcaption>본인 인증부터 공식 발급본 저장까지 온라인 발급 순서</figcaption>
-</figure>
-
 ## 과세기간과 소득금액 읽는 방법
 
 소득금액증명에는 수입금액과 소득금액이 구분되어 표시될 수 있습니다. 사업자의 수입금액은 매출에 가까운 개념이고, 소득금액은 필요경비 등을 반영한 과세상 소득입니다. 근로소득자는 총급여와 소득금액의 의미가 다르므로 숫자가 급여 합계와 같지 않다고 오류로 단정하면 안 됩니다.
@@ -80,6 +70,11 @@ originalUrl: "https://ssangbak.com/income-certificate-issuance-guide/"
 과세기간은 돈을 받은 시기와 증명서를 발급한 시기가 다릅니다. 예를 들어 올해 제출하는 문서라도 제출처가 전년도 귀속 소득을 요구할 수 있습니다. 여러 해 평균을 보는 심사라면 연도별 문서를 각각 발급하거나 신청 화면에서 허용되는 기간을 선택해야 합니다.
 
 소득발생처 공개 여부도 중요합니다. 회사명이나 사업장 정보가 필요한 심사에는 공개를 선택하고, 총소득만 필요한 제출에는 개인정보 최소화 원칙을 적용할 수 있습니다. 어느 항목을 공개해야 할지 모르면 제출기관에 “소득발생처와 주민번호 전체 공개가 필요한가”를 확인하세요.
+
+<figure class="article-summary-visual">
+  <img src="/wp-content/uploads/2026/07/income-certificate-period-amount-summary.webp" alt="소득금액증명 과세기간과 수입금액·소득금액 읽는 방법" loading="lazy" decoding="async" />
+  <figcaption>발급일·귀속연도와 수입금액·소득금액의 차이</figcaption>
+</figure>
 
 ## 전년도 자료가 안 보이거나 소득 없음으로 나올 때
 
@@ -95,6 +90,11 @@ originalUrl: "https://ssangbak.com/income-certificate-issuance-guide/"
 - 소득이 실제로 없었다면 사실증명(신고사실없음)이 필요한지 확인
 
 자료가 없다는 이유로 임의의 연도를 선택해 제출하면 심사가 지연될 수 있습니다. 신고 누락이 의심되면 증명서 발급을 반복하기보다 국세청 126 또는 관할 세무서에 신고 상태를 확인하는 것이 먼저입니다.
+
+<figure class="article-summary-visual">
+  <img src="/wp-content/uploads/2026/07/income-certificate-missing-data-summary.webp" alt="소득금액증명 전년도 자료가 보이지 않을 때 확인 순서" loading="lazy" decoding="async" />
+  <figcaption>전년도 소득 자료가 조회되지 않을 때 확인할 네 가지 순서</figcaption>
+</figure>
 
 ## 방문·대리 발급과 제출 시 주의사항
 
