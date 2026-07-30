@@ -2053,25 +2053,37 @@ main {
     flex-direction: column;
     min-height: 0;
     border: 1px solid #e5e7eb;
+    border-radius: 9px;
     background: #fff;
+    box-shadow: 0 3px 12px rgba(15, 23, 42, 0.06);
   }
 
   .top-story-card img {
     height: auto;
     aspect-ratio: 16 / 9;
+    border-radius: 8px 8px 0 0;
   }
 
   .top-story-title {
     display: -webkit-box;
     overflow: hidden;
     margin: 0;
-    padding: 12px 14px 14px;
+    min-height: calc(2.7em + 30px);
+    padding: 14px 16px 16px;
     color: #0b0f14;
-    font-size: 17px;
-    font-weight: 900;
-    line-height: 1.42;
+    font-size: 19px;
+    font-weight: 950;
+    letter-spacing: -0.025em;
+    line-height: 1.35;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
+  }
+
+  .top-story-card-large .top-story-title {
+    min-height: calc(2.66em + 32px);
+    padding: 15px 17px 17px;
+    font-size: 22px;
+    line-height: 1.33;
   }
 
   .side-news-item {
