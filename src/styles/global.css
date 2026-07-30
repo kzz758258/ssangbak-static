@@ -855,8 +855,8 @@ main {
 
 .related-card img {
   width: 100%;
-  aspect-ratio: 16 / 10;
-  object-fit: contain;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
   border-radius: 8px;
   background: #edf1f5;
 }
