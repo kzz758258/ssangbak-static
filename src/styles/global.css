@@ -573,6 +573,65 @@ main {
   scroll-margin-top: 180px;
 }
 
+.article h2[id*="faq" i] ~ h3,
+.article h2[id*="자주-묻는-질문"] ~ h3 {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin: 20px 0 0;
+  padding: 18px 20px;
+  border: 1px solid #d7e2e7;
+  border-bottom: 0;
+  border-radius: 10px 10px 0 0;
+  background: #f5f9fa;
+  color: #101828;
+  font-size: 19px;
+  line-height: 1.5;
+}
+
+.article h2[id*="faq" i] ~ h3::before,
+.article h2[id*="자주-묻는-질문"] ~ h3::before {
+  content: "Q";
+  display: inline-grid;
+  flex: 0 0 30px;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--brand);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 950;
+}
+
+.article h2[id*="faq" i] ~ h3 + p,
+.article h2[id*="자주-묻는-질문"] ~ h3 + p {
+  position: relative;
+  margin: 0 0 14px;
+  padding: 18px 20px 20px 62px;
+  border: 1px solid #d7e2e7;
+  border-top: 0;
+  border-radius: 0 0 10px 10px;
+  background: #fff;
+}
+
+.article h2[id*="faq" i] ~ h3 + p::before,
+.article h2[id*="자주-묻는-질문"] ~ h3 + p::before {
+  content: "A";
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  display: inline-grid;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  border-radius: 50%;
+  background: #e8f3f1;
+  color: var(--brand-strong);
+  font-size: 15px;
+  font-weight: 950;
+}
+
 .article p {
   margin: 18px 0;
 }
@@ -1628,25 +1687,6 @@ main {
   margin: 14px 0 0;
   color: #667085;
   font-size: 14px;
-}
-
-.editorial-note {
-  margin-top: 20px;
-  padding: 18px 20px;
-  border-left: 4px solid var(--brand);
-  background: #f3fbfa;
-  color: #344054;
-}
-
-.editorial-note strong {
-  display: block;
-  margin-bottom: 5px;
-  color: var(--ink);
-}
-
-.editorial-note p {
-  margin: 0;
-  font-size: 15px;
 }
 
 .top-story-small-grid {
