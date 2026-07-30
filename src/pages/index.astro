@@ -53,6 +53,7 @@ const websiteJsonLd = {
         {heroPost && (
           <article class="top-story-card top-story-card-large">
             {heroPost.data.heroImage && <img src={heroPost.data.heroImage} alt="" loading="eager" />}
+            <h2 class="top-story-title">{heroPost.data.title}</h2>
             <a class="top-story-link" href={heroPost.data.permalink} aria-label={heroPost.data.title}></a>
           </article>
         )}
@@ -60,6 +61,7 @@ const websiteJsonLd = {
           {heroGridPosts.map((post) => (
             <article class="top-story-card">
               {post.data.heroImage && <img src={post.data.heroImage} alt="" loading="lazy" />}
+              <h2 class="top-story-title">{post.data.title}</h2>
               <a class="top-story-link" href={post.data.permalink} aria-label={post.data.title}></a>
             </article>
           ))}
