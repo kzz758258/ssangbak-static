@@ -50,6 +50,11 @@ originalUrl: "https://ssangbak.com/income-certificate-issuance-guide/"
 | 휴대전화로 확인·제출 | 손택스 또는 정부24 앱 | 전자문서지갑·모바일 열람 가능 여부 확인 |
 | 대리 발급 필요 | 세무서 등 방문 | 위임장과 신분증 요건 확인 필요 |
 
+<figure class="article-summary-visual">
+  <img src="/wp-content/uploads/2026/07/income-certificate-issue-channel-summary.webp" alt="소득금액증명 발급처 선택 핵심 요약" loading="lazy" decoding="async" />
+  <figcaption>발급 목적에 따른 홈택스·정부24·세무서 선택 요약</figcaption>
+</figure>
+
 ## 인터넷 발급 순서
 
 1. 홈택스 또는 정부24 공식 사이트에 접속합니다.
@@ -62,6 +67,11 @@ originalUrl: "https://ssangbak.com/income-certificate-issuance-guide/"
 8. 발급본에서 귀속연도, 소득금액, 공개 항목을 점검합니다.
 
 ‘열람용’ 화면은 제출용 문서로 인정되지 않을 수 있습니다. 제출기관이 원본 PDF 또는 종이 출력물을 요구하면 온라인발급(본인출력)이나 전자문서지갑 제출을 선택하세요. 이메일로 보내야 한다면 주민등록번호 전체가 불필요하게 노출되지 않도록 공개 범위를 최소화합니다.
+
+<figure class="article-summary-visual">
+  <img src="/wp-content/uploads/2026/07/income-certificate-online-steps-summary.webp" alt="소득금액증명 온라인 발급 4단계 요약" loading="lazy" decoding="async" />
+  <figcaption>본인 인증부터 공식 발급본 저장까지 온라인 발급 순서</figcaption>
+</figure>
 
 ## 과세기간과 소득금액 읽는 방법
 
@@ -117,5 +127,10 @@ originalUrl: "https://ssangbak.com/income-certificate-issuance-guide/"
 ## 소득증빙 제출 전에 이것만 확인하세요
 
 제출처가 요구한 귀속연도, 소득 종류, 주민번호 공개 범위, 소득발생처 공개 여부를 한 줄씩 대조하세요. 온라인 열람 화면이 아니라 진위확인이 가능한 발급본인지도 확인해야 합니다. 자료가 조회되지 않으면 신고 시점과 처리 상태를 먼저 점검하고 임의의 다른 연도 문서로 대체하지 마세요.
+
+<figure class="article-summary-visual">
+  <img src="/wp-content/uploads/2026/07/income-certificate-submission-check-summary.webp" alt="소득금액증명 제출 전 확인사항 요약" loading="lazy" decoding="async" />
+  <figcaption>귀속연도·소득 종류·개인정보 공개 범위를 제출 전에 확인</figcaption>
+</figure>
 
 확인 기준일은 2026년 7월 30일입니다. 메뉴명과 발급 가능 시점은 홈택스·정부24 개편 및 신고 처리 상태에 따라 달라질 수 있으므로 제출 직전에 공식 화면을 다시 확인하세요.

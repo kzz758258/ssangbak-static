@@ -636,6 +636,29 @@ main {
   margin: 18px 0;
 }
 
+.article-summary-visual {
+  margin: 28px 0 34px;
+}
+
+.article-summary-visual img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid #e1e7eb;
+  border-radius: 12px;
+  background: #f8f6ef;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.07);
+  object-fit: cover;
+}
+
+.article-summary-visual figcaption {
+  margin-top: 9px;
+  color: #667085;
+  font-size: 13px;
+  line-height: 1.5;
+  text-align: center;
+}
+
 @media (max-width: 640px) {
   .affiliate-disclosure {
     display: block;
