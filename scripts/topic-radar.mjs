@@ -171,6 +171,35 @@ function dedupeHeadlines(items) {
   });
 }
 
+function selectSignalsForAnalysis(signals, limit = 60) {
+  const groups = new Map();
+  for (const signal of signals) {
+    const key = `${signal.query}\u0000${signal.channel}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(signal);
+  }
+  for (const items of groups.values()) {
+    items.sort((left, right) => {
+      const leftTime = Date.parse(left.publishedAt) || 0;
+      const rightTime = Date.parse(right.publishedAt) || 0;
+      return rightTime - leftTime;
+    });
+  }
+  const selected = [];
+  while (selected.length < limit) {
+    let added = false;
+    for (const items of groups.values()) {
+      const next = items.shift();
+      if (!next) continue;
+      selected.push(next);
+      added = true;
+      if (selected.length >= limit) break;
+    }
+    if (!added) break;
+  }
+  return selected;
+}
+
 function safePublicUrl(value) {
   try {
     const url = new URL(value);
@@ -348,19 +377,27 @@ async function auditNovelty({ topics, existingPosts, model }) {
   const candidates = topics.map((topic, index) =>
     `${index}. ${topic.title} | keyword=${topic.keyword} | subKeywords=${topic.subKeywords.join(", ")}`
   ).join("\n");
-  const existing = existingPosts.map((post) => `${post.title} | ${post.permalink}`).join("\n");
+  const existing = topics.map((topic, index) => {
+    const query = `${topic.keyword} ${topic.title} ${topic.subKeywords.join(" ")}`;
+    const nearest = existingPosts
+      .map((post) => ({ ...post, similarity: similarity(query, post.title) }))
+      .sort((left, right) => right.similarity - left.similarity)
+      .slice(0, 12);
+    return [`[Candidate ${index}]`, ...nearest.map((post) => `- ${post.title} | ${post.permalink}`)].join("\n");
+  }).join("\n\n");
   const prompt = `You are performing a strict semantic duplicate audit for a Korean practical-information website.
 
 For every numbered candidate, decide whether an existing article already covers the same named program, benefit, event, product, or primary reader task.
 - Mark isCovered=true when only the wording, year, checklist, comparison angle, or sub-keywords differ but the core search intent is already served.
 - Do not mark a candidate covered merely because it shares a broad category such as 소상공인, 지원금, 스포츠, or 결혼. Distinct named programs and distinct events are new topics.
+- Compare the numbered candidates with each other too. When a later candidate covers the same named program or reader task as an earlier candidate, mark the later one isCovered=true, leave existingPermalink empty, and explain which candidate it duplicates.
 - If covered, return the exact permalink from the existing list. Otherwise return an empty string.
 - Return exactly one check for every candidate index.
 
 Candidates:
 ${candidates}
 
-Existing articles:
+Locally shortlisted existing articles for each candidate:
 ${existing}`;
   const response = await fetch("https://api.openai.com/v1/responses", {
     method: "POST",
@@ -392,7 +429,7 @@ ${existing}`;
   if (!text) throw new Error("Novelty audit did not contain output text.");
   const checks = JSON.parse(text).checks;
   const byIndex = new Map(checks.map((check) => [check.index, check]));
-  return topics.map((topic, index) => {
+  const auditedTopics = topics.map((topic, index) => {
     const check = byIndex.get(index) || { isCovered: true, existingPermalink: "", reason: "중복 심사 결과 누락" };
     return {
       ...topic,
@@ -401,6 +438,11 @@ ${existing}`;
       existingPost: check.existingPermalink || topic.existingPost
     };
   });
+  return {
+    topics: auditedTopics,
+    responseId: data.id || "",
+    usage: data.usage || null
+  };
 }
 
 async function analyzeTopics({ date, signals, existingPosts, model }) {
@@ -408,7 +450,7 @@ async function analyzeTopics({ date, signals, existingPosts, model }) {
   const signalText = signals.map((item, index) =>
     `${index + 1}. [${item.channel}/${item.source}] ${item.title} | ${item.publishedAt} | ${item.url}`
   ).join("\n");
-  const existingText = existingPosts.map((post) => `${post.title} | ${post.permalink}`).join("\n");
+  const existingText = existingPosts.map((post) => post.title).join("\n");
   const prompt = `You are the editorial topic analyst for SsangBak, a Korean practical-information site.
 
 Today in Korea: ${date} (${KST_OFFSET})
@@ -430,12 +472,14 @@ Hard rules:
 - Exclude rumor-only celebrity stories, graphic incidents, pure opinion, medical diagnosis, investment recommendations, and topics whose key facts cannot be verified.
 - Include a mix of breaking, seasonal, and evergreen opportunities.
 - Keep Korean titles natural and informative, not sensational clickbait.
+- Do not use vertical-bar separators such as | or ｜ in Korean titles. Join the main and sub-keywords with natural Korean spacing, commas, or particles.
+- Put a calendar date in a title only when that exact date is the primary search intent. Prefer 기간, 일정, 신청방법, 지급일, or 시행시기 when the body can carry the exact date.
 - publishBy must be an ISO date/time with +09:00 for urgent topics or a concise Korean window for evergreen topics. For a known deadline, recommend publishing early enough to be useful (normally at least 3 business days before it), never on or after the deadline.
 
 Discovery headlines:
 ${signalText || "No RSS/API headlines were available. Use web search conservatively."}
 
-Existing SsangBak titles for deduplication:
+Existing SsangBak titles for deduplication (titles only; exact permalinks are resolved in the separate audit):
 ${existingText}`;
 
   const response = await fetch("https://api.openai.com/v1/responses", {
@@ -467,7 +511,12 @@ ${existingText}`;
   const data = await response.json();
   const text = extractResponseText(data);
   if (!text) throw new Error("OpenAI response did not contain output text.");
-  return { analysis: JSON.parse(text), responseId: data.id || "", model: data.model || model };
+  return {
+    analysis: JSON.parse(text),
+    responseId: data.id || "",
+    model: data.model || model,
+    usage: data.usage || null
+  };
 }
 
 function finalizeTopics(topics, existingPosts) {
@@ -516,7 +565,7 @@ function markdownEscape(value) {
   return String(value || "").replace(/\|/g, "\\|").replace(/\n/g, " ");
 }
 
-function renderReport({ date, summary, topics, rejectedTopics, model, responseId, signals, errors }) {
+function renderReport({ date, summary, topics, rejectedTopics, model, responseId, noveltyResponseId, usage, signals, analysisSignals, errors }) {
   const generatedAt = new Date().toISOString();
   const lines = [
     `# SsangBak 글감 레이더 — ${date}`,
@@ -583,7 +632,10 @@ function renderReport({ date, summary, topics, rejectedTopics, model, responseId
     "- Google Ads Keyword Planner: 자격 증명 미설정 시 미사용",
     "- Google Search Console: OAuth/서비스 계정 미설정 시 미사용",
     "- 근거 URL: 보고서 생성 시 HTTP 응답 자동 검사",
-    `- OpenAI 응답 ID: ${responseId || "미기록"}`
+    `- 모델 전달 신호: 전체 ${signals.length}개 중 ${analysisSignals.length}개(검색어·채널 균형 압축)`,
+    `- OpenAI 분석 응답 ID: ${responseId || "미기록"}`,
+    `- OpenAI 중복 심사 응답 ID: ${noveltyResponseId || "미기록"}`,
+    `- OpenAI 토큰: 입력 ${usage.inputTokens}, 출력 ${usage.outputTokens}, 합계 ${usage.totalTokens}`
   );
   if (errors.length) {
     lines.push("", "## 수집 경고", "", ...errors.map((error) => `- ${error}`));
@@ -617,15 +669,23 @@ Options:
   const existingPosts = loadExistingPosts();
   console.log(`Collecting topic signals for ${date}...`);
   const { signals, errors } = await collectSignals(radarQueriesFor(date));
-  console.log(`Collected ${signals.length} unique signals. Analyzing with ${requestedModel}...`);
-  const { analysis, responseId, model } = await analyzeTopics({ date, signals, existingPosts, model: requestedModel });
+  const analysisSignals = selectSignalsForAnalysis(signals);
+  console.log(`Collected ${signals.length} unique signals; sending ${analysisSignals.length} balanced signals to ${requestedModel}...`);
+  const { analysis, responseId, model, usage: analysisUsage } = await analyzeTopics({ date, signals: analysisSignals, existingPosts, model: requestedModel });
   console.log("Auditing semantic duplicates against existing posts...");
-  const auditedTopics = await auditNovelty({ topics: analysis.topics, existingPosts, model: requestedModel });
+  const { topics: auditedTopics, responseId: noveltyResponseId, usage: noveltyUsage } = await auditNovelty({ topics: analysis.topics, existingPosts, model: requestedModel });
   console.log("Validating evidence URLs...");
   const validatedTopics = await validateTopicSources(auditedTopics);
   const evaluatedTopics = finalizeTopics(validatedTopics, existingPosts);
   const topics = evaluatedTopics.filter((topic) => !topic.isExistingTopic);
   const rejectedTopics = evaluatedTopics.filter((topic) => topic.isExistingTopic);
+  const usage = {
+    inputTokens: Number(analysisUsage?.input_tokens || 0) + Number(noveltyUsage?.input_tokens || 0),
+    outputTokens: Number(analysisUsage?.output_tokens || 0) + Number(noveltyUsage?.output_tokens || 0),
+    totalTokens: Number(analysisUsage?.total_tokens || 0) + Number(noveltyUsage?.total_tokens || 0),
+    analysis: analysisUsage,
+    noveltyAudit: noveltyUsage
+  };
   const report = renderReport({
     date,
     summary: analysis.summary,
@@ -633,13 +693,16 @@ Options:
     rejectedTopics,
     model,
     responseId,
+    noveltyResponseId,
+    usage,
     signals,
+    analysisSignals,
     errors
   });
   mkdirSync(dirname(reportPath), { recursive: true });
   mkdirSync(dirname(jsonPath), { recursive: true });
   writeFileSync(reportPath, report, "utf8");
-  writeFileSync(jsonPath, `${JSON.stringify({ date, generatedAt: new Date().toISOString(), model, responseId, signals, topics, rejectedTopics }, null, 2)}\n`, "utf8");
+  writeFileSync(jsonPath, `${JSON.stringify({ date, generatedAt: new Date().toISOString(), model, responseId, noveltyResponseId, usage, signals, analysisSignals, topics, rejectedTopics }, null, 2)}\n`, "utf8");
   console.log(`Report: ${reportPath}`);
   console.log(`Data:   ${jsonPath}`);
 }

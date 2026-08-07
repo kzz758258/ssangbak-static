@@ -251,6 +251,24 @@ function renderMarkdown(date, results) {
   return `${lines.join("\n")}\n`;
 }
 
+function compactForModel(results) {
+  return results.map((result) => ({
+    keyword: result.keyword,
+    measuredAt: result.measuredAt,
+    relatedKeywords: result.relatedKeywords.slice(0, 10),
+    trends: result.trends.slice(0, 5),
+    searchResults: Object.fromEntries(Object.entries(result.searchResults).map(([type, items]) => [
+      type,
+      items.slice(0, 3).map((item) => ({
+        title: item.title,
+        url: item.url,
+        publishedAt: item.publishedAt
+      }))
+    ])),
+    warnings: result.warnings
+  }));
+}
+
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   if (args.help || !args.keywords) {
@@ -267,6 +285,7 @@ async function main() {
   const keywords = args.keywords.split("|").map((item) => item.trim()).filter(Boolean);
   const outPath = resolve(args.out || `reports/content-research/${date}.md`);
   const jsonPath = resolve(args["json-out"] || `reports/content-research/${date}.json`);
+  const contextPath = resolve(args["context-out"] || jsonPath.replace(/\.json$/i, ".context.json"));
   const results = [];
   for (const keyword of keywords) {
     console.log(`Researching: ${keyword}`);
@@ -274,10 +293,18 @@ async function main() {
   }
   mkdirSync(dirname(outPath), { recursive: true });
   mkdirSync(dirname(jsonPath), { recursive: true });
+  mkdirSync(dirname(contextPath), { recursive: true });
   writeFileSync(outPath, renderMarkdown(date, results), "utf8");
   writeFileSync(jsonPath, `${JSON.stringify({ date, generatedAt: new Date().toISOString(), results }, null, 2)}\n`, "utf8");
+  writeFileSync(contextPath, `${JSON.stringify({
+    date,
+    generatedAt: new Date().toISOString(),
+    purpose: "Compact model context. Use the full JSON only when a fact is missing.",
+    results: compactForModel(results)
+  }, null, 2)}\n`, "utf8");
   console.log(`Wrote ${outPath}`);
   console.log(`Wrote ${jsonPath}`);
+  console.log(`Wrote ${contextPath}`);
 }
 
 main().catch((error) => {

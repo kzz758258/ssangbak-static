@@ -247,3 +247,11 @@ relatedPosts:
 ```bash
 npm run content:check -- src/content/posts/example.md
 ```
+
+전체 정적 빌드는 동일한 검사를 수행하면서 출력만 줄이는 아래 명령을 우선 사용한다.
+
+```bash
+npm run build:quiet
+```
+
+네이버 리서치 결과를 글 작성 모델에 전달할 때는 `.context.json`을 먼저 사용한다. 원본 JSON은 요약본에 필요한 사실이나 검색 결과가 없을 때만 부분적으로 확인하며, 공식 출처 검증은 별도로 유지한다.
