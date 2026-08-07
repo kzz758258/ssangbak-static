@@ -89,3 +89,14 @@ originalUrl: "https://ssangbak.com/can-you-apply-for-both/"
 – 정기 신청 기간이 지났다면 기한 후 신청이라도 완료했는가?
 
 이 제도는 성실하게 일하는 분들을 위한 든든한 지원책입니다. 정보를 몰라서 혜택을 놓치는 일이 없도록 오늘 정리해 드린 내용을 바탕으로 정당한 권리를 모두 챙기시길 바랍니다.
+## 근로장려금 시리즈 한눈에 보기
+
+| 궁금한 내용 | 이어서 볼 글 |
+| --- | --- |
+| 신청기간과 정기·반기 차이 | [근로장려금 신청기간과 정기·반기 구분](/earned-income-tax-credit-application-guide/) |
+| 대상자 조회와 소득·재산 기준 | [근로장려금 대상자 조회와 자격 기준](/earned-income-tax-credit-eligibility-guide/) |
+| 지급금액 계산과 정기 지급일 | [근로장려금 지급금액 계산과 지급일](/earned-income-tax-credit-amount-payment-date/) |
+| 반기 신청기간·지급일·지급유보 | [근로장려금 반기 신청과 정산 기준](/2026-earned-income-tax-credit-half-year/) |
+| 프리랜서 신청 | [프리랜서 근로장려금 신청 가이드](/earned-income-freelancer-application-guide/) |
+| 감액·지급 제외 이의신청 | [근로장려금 이의신청 절차](/eitc-objection-process-guide/) |
+| 자녀장려금과 중복 신청 | [근로장려금·자녀장려금 중복 신청](/can-you-apply-for-both/) |

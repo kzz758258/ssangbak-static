@@ -107,3 +107,14 @@ A. **근로장려금**은 전년도 소득을 기준으로 지급하므로, 현�
 안내해 드린 **지급일**과 **지급금액** 정보를 잘 활용하셔서 소중한 권리를 누리시고, 주변의 어려운 이웃들에게도 이 좋은 소식을 널리 알려주세요.
 
 여러분의 앞날에 경제적인 여유와 마음의 평안이 늘 함께하기를 바라며, 저는 더 유익한 정보로 다시 찾아뵙겠습니다.
+## 근로장려금 시리즈 한눈에 보기
+
+| 궁금한 내용 | 이어서 볼 글 |
+| --- | --- |
+| 신청기간과 정기·반기 차이 | [근로장려금 신청기간과 정기·반기 구분](/earned-income-tax-credit-application-guide/) |
+| 대상자 조회와 소득·재산 기준 | [근로장려금 대상자 조회와 자격 기준](/earned-income-tax-credit-eligibility-guide/) |
+| 지급금액 계산과 정기 지급일 | [근로장려금 지급금액 계산과 지급일](/earned-income-tax-credit-amount-payment-date/) |
+| 반기 신청기간·지급일·지급유보 | [근로장려금 반기 신청과 정산 기준](/2026-earned-income-tax-credit-half-year/) |
+| 프리랜서 신청 | [프리랜서 근로장려금 신청 가이드](/earned-income-freelancer-application-guide/) |
+| 감액·지급 제외 이의신청 | [근로장려금 이의신청 절차](/eitc-objection-process-guide/) |
+| 자녀장려금과 중복 신청 | [근로장려금·자녀장려금 중복 신청](/can-you-apply-for-both/) |
