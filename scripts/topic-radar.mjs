@@ -14,6 +14,13 @@ function radarQueriesFor(date) {
   const monthLabel = `${Number(month)}월`;
   return [
     `정부 지원금 신청 환급 세금 ${year}`,
+    `site:korea.kr 지원 신청 발표 ${year} ${monthLabel}`,
+    `site:mss.go.kr 소상공인 지원사업 공고 ${year}`,
+    `site:k-startup.go.kr 모집 공고 지원사업 ${year}`,
+    `site:bizinfo.go.kr 지원사업 공고 ${year}`,
+    `site:moel.go.kr 고용 육아 지원 신청 ${year}`,
+    `site:gov.kr 보조금24 민원 발급 변경 ${year}`,
+    `지자체 지원사업 공영주차장 대형폐기물 ${year} ${monthLabel}`,
     `생활정보 할인 쿠폰 환불 교통 ${year}`,
     `콘서트 예매 일정 내한 공연 ${year}`,
     `스포츠 중계 일정 월드컵 야구 ${year}`,
@@ -109,6 +116,23 @@ async function fetchNaverNews(query) {
     query,
     channel: "naver"
   })).filter((item) => item.title && item.url);
+}
+
+async function fetchBizinfoAnnouncements() {
+  if (!process.env.BIZINFO_API_KEY) return [];
+  const url = new URL("https://www.bizinfo.go.kr/uss/rss/bizinfoApi.do");
+  url.searchParams.set("crtfcKey", process.env.BIZINFO_API_KEY);
+  url.searchParams.set("dataType", "rss");
+  url.searchParams.set("searchCnt", "100");
+  const response = await fetch(url, {
+    headers: { "user-agent": "SsangBakTopicRadar/1.0 (+https://ssangbak.com)" }
+  });
+  if (!response.ok) throw new Error(`Bizinfo API ${response.status}`);
+  return parseRss(await response.text(), "기업마당 공식 지원사업 API").map((item) => ({
+    ...item,
+    source: "기업마당",
+    channel: "bizinfo"
+  }));
 }
 
 function loadExistingPosts() {
@@ -262,10 +286,10 @@ async function validateTopicSources(topics) {
 }
 
 async function collectSignals(queries) {
-  const settled = await Promise.allSettled(queries.flatMap((query) => [
-    fetchGoogleNewsRss(query),
-    fetchNaverNews(query)
-  ]));
+  const settled = await Promise.allSettled([
+    ...queries.flatMap((query) => [fetchGoogleNewsRss(query), fetchNaverNews(query)]),
+    fetchBizinfoAnnouncements()
+  ]);
   const signals = settled.flatMap((result) => result.status === "fulfilled" ? result.value : []);
   const errors = settled
     .filter((result) => result.status === "rejected")
@@ -297,7 +321,13 @@ function topicSchema() {
           properties: {
             keyword: { type: "string" },
             title: { type: "string" },
-            category: { type: "string", enum: ["subsidy", "living-information", "entertainment-sports"] },
+            category: {
+              type: "string",
+              enum: [
+                "subsidy", "civil-documents", "tax-finance", "local-information",
+                "living-information", "entertainment-sports"
+              ]
+            },
             topicType: { type: "string", enum: ["breaking", "seasonal", "evergreen"] },
             action: { type: "string", enum: ["new"] },
             whyNow: { type: "string" },
@@ -454,7 +484,7 @@ async function analyzeTopics({ date, signals, existingPosts, model }) {
   const prompt = `You are the editorial topic analyst for SsangBak, a Korean practical-information site.
 
 Today in Korea: ${date} (${KST_OFFSET})
-Site categories: subsidy, living-information, entertainment-sports.
+Site categories: subsidy, civil-documents, tax-finance, local-information, living-information, entertainment-sports.
 
 Goal:
 Select 12-15 genuinely NEW Korean article opportunities that can earn sustainable search traffic and ad revenue. Balance urgent demand with durable evergreen demand. Use the supplied discovery headlines only as leads, then use web search to verify timing and find direct primary sources whenever possible.
@@ -469,6 +499,11 @@ Hard rules:
 - Exclude a candidate when SsangBak already covers the same entity, program, event, product, or search intent, even if you can invent a slightly different angle or title.
 - Never recommend a refresh in this report. action must be new, topicType must not be refresh, and existingPost must be an empty string.
 - Prefer topics with a clear Korean search query, actionable intent, a useful angle, and enough source evidence.
+- Prioritize government support, civil-document issuance, tax/finance administration, and genuinely local practical information. Entertainment is allowed only when booking or participation is still open and the remaining lead time is useful.
+- A call-to-action is appropriate only when the reader has a real next step on an official or clearly identified service page. Do not manufacture urgency, repeat buttons, or use vague commands such as "지금 확인" merely to increase clicks.
+- For local-information, require a direct municipal or public-agency source and concrete locality-specific facts such as fees, collection rules, parking rates, facility hours, eligibility, or application channels. Reject region-swapped template ideas whose useful facts are identical.
+- Treat high-risk health, legal, investment-prediction, accident, and compensation topics conservatively. Prefer low-risk administrative tasks; exclude a high-risk candidate unless a primary source makes the reader value unusually clear.
+- Do not propose a series for concerts, ticketing, or one-off performances. Their value is primarily time-sensitive.
 - Exclude rumor-only celebrity stories, graphic incidents, pure opinion, medical diagnosis, investment recommendations, and topics whose key facts cannot be verified.
 - Include a mix of breaking, seasonal, and evergreen opportunities.
 - Keep Korean titles natural and informative, not sensational clickbait.
@@ -628,6 +663,7 @@ function renderReport({ date, summary, topics, rejectedTopics, model, responseId
     "",
     `- Google News RSS: 사용 (${signals.filter((item) => item.channel === "rss").length}개 신호)`,
     `- Naver News API: ${process.env.NAVER_CLIENT_ID && process.env.NAVER_CLIENT_SECRET ? "사용" : "키 미설정"}`,
+    `- 기업마당 지원사업 API: ${process.env.BIZINFO_API_KEY ? `사용 (${signals.filter((item) => item.channel === "bizinfo").length}개 신호)` : "키 미설정"}`,
     "- Naver DataLab: 키 미설정 시 미사용",
     "- Google Ads Keyword Planner: 자격 증명 미설정 시 미사용",
     "- Google Search Console: OAuth/서비스 계정 미설정 시 미사용",

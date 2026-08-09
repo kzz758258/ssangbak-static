@@ -1,0 +1,54 @@
+name: Daily topic radar
+
+on:
+  schedule:
+    - cron: "10 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - id: preflight
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -n "$OPENAI_API_KEY" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::OPENAI_API_KEY secret is missing; topic radar was skipped."
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - if: steps.preflight.outputs.enabled == 'true'
+        run: npm ci
+
+      - if: steps.preflight.outputs.enabled == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          BIZINFO_API_KEY: ${{ secrets.BIZINFO_API_KEY }}
+          TOPIC_RADAR_MODEL: gpt-5.6-luna
+        run: npm run topic-radar -- --out reports/topic-radar/latest.md --json-out reports/topic-radar/latest.json
+
+      - if: steps.preflight.outputs.enabled == 'true'
+        run: |
+          git config user.name "ssangbak-topic-radar[bot]"
+          git config user.email "ssangbak-topic-radar[bot]@users.noreply.github.com"
+          git add reports/topic-radar/latest.md reports/topic-radar/latest.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: update daily topic radar"
+          git push

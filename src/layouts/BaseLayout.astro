@@ -4,7 +4,7 @@ import "../styles/global.css";
 
 const {
   title = "SsangBak",
-  description = "지원금, 정부정책, 생활정보, 엔터·스포츠 이슈를 빠르게 확인할 수 있는 실용 정보 아카이브입니다.",
+  description = "정부지원, 민원·발급, 세금·금융, 지역 생활정보와 엔터·스포츠 이슈를 정확하고 빠르게 확인하는 실용 정보 아카이브입니다.",
   canonical,
   robots = "index, follow, max-image-preview:large"
 } = Astro.props;
@@ -12,7 +12,10 @@ const {
 const site = Astro.site ?? new URL("https://ssangbak.com");
 const canonicalUrl = canonical ? new URL(canonical, site).toString() : Astro.url.toString();
 const primaryNav = [
-  { href: "/category/subsidy/", label: "정부지원정책" },
+  { href: "/category/subsidy/", label: "정부지원" },
+  { href: "/category/civil-documents/", label: "민원·발급" },
+  { href: "/category/tax-finance/", label: "세금·금융" },
+  { href: "/category/local-information/", label: "지역정보" },
   { href: "/category/living-information/", label: "생활정보" },
   { href: "/category/entertainment-sports/", label: "엔터&스포츠" },
   { href: "/weekly-holiday-allowance-calculator/", label: "계산기" }

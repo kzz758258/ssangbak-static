@@ -30,8 +30,11 @@ Optional environment variables:
 
 - `TOPIC_RADAR_MODEL` (default: `gpt-5.6-luna`)
 - `NAVER_CLIENT_ID` and `NAVER_CLIENT_SECRET`
+- `BIZINFO_API_KEY` (기업마당 지원사업정보 API)
 
 Reports are written to `reports/topic-radar/YYYY-MM-DD.md` with a machine-readable JSON file beside them. Existing-topic matches are excluded from the main ranking and recorded separately. The radar only recommends topics; it does not publish posts automatically.
+
+The `Daily topic radar` GitHub Actions workflow runs at 06:10 KST and updates `reports/topic-radar/latest.md` and `.json`, so it does not depend on a local laptop staying on. Add `OPENAI_API_KEY` as a repository Actions secret. `NAVER_CLIENT_ID`, `NAVER_CLIENT_SECRET`, and `BIZINFO_API_KEY` are optional secrets.
 
 ## Structure
 
