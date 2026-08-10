@@ -7,7 +7,9 @@ permalink: "/second-semester-student-loan-guide/"
 slugPath: "second-semester-student-loan-guide"
 categories: ["living-information"]
 tags: ["2학기 학자금대출", "학자금대출 신청기간", "학자금대출 실행", "생활비대출", "한국장학재단"]
-heroImage: "/wp-content/uploads/2026/08/second-semester-student-loan-guide.webp"
+heroImage: "/wp-content/uploads/2026/08/second-semester-student-loan-guide-v2.webp"
+thumbnailText: ["2학기 학자금대출", "신청·실행"]
+thumbnailReviewed: true
 sources:
   - title: "한국장학재단 - 2026년 2학기 학자금대출 신청 매뉴얼"
     url: "https://www.kosaf.go.kr/ko/data.do?mode=view&page=1&searchStr=%EC%A0%9C3%EC%9E%90&seqNo=21019"

@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro check && astro build",
+    "build": "node scripts/quality-gate.mjs && astro check && astro build",
     "build:quiet": "node scripts/build-quiet.mjs",
     "preview": "astro preview",
     "import:ssangbak": "node scripts/import-ssangbak.mjs",

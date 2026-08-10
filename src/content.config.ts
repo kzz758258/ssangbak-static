@@ -12,6 +12,8 @@ const posts = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     heroImage: z.string().optional(),
+    thumbnailText: z.array(z.string()).default([]),
+    thumbnailReviewed: z.boolean().default(false),
     affiliateDisclosure: z.string().optional(),
     sources: z.array(
       z.object({

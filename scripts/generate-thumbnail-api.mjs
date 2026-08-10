@@ -33,7 +33,7 @@ Options:
   --post       Markdown post used for title/slug metadata
   --copy       Exact 2-3 lines to render, separated with |
   --scene      Concrete visual subject and setting
-  --quality    low, medium, high, or auto (default: medium)
+  --quality    medium, high, or auto (default: high; low is blocked for publication assets)
   --size       gpt-image-2 size (default: 2048x1152)
   --out        Preview output path
   --force      Replace an existing preview file
@@ -70,9 +70,10 @@ const args = parseArgs(process.argv.slice(2));
 if (!args.post || !args.copy || !args.scene) usage("--post, --copy, and --scene are required.");
 if (!process.env.OPENAI_API_KEY) usage("OPENAI_API_KEY is not available in this process.");
 
-const quality = args.quality ?? "medium";
+const quality = args.quality ?? "high";
 const size = args.size ?? "2048x1152";
 if (!new Set(["low", "medium", "high", "auto"]).has(quality)) usage(`Unsupported quality: ${quality}`);
+if (quality === "low") usage("Low-quality generation is blocked for SsangBak publication thumbnails.");
 
 const postPath = resolve(args.post);
 if (!existsSync(postPath)) usage(`Post not found: ${postPath}`);

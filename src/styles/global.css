@@ -704,16 +704,15 @@ main {
 }
 
 .article table {
-  display: block;
+  display: table;
   width: 100%;
   max-width: 100%;
   margin: 24px 0;
-  overflow-x: auto;
+  table-layout: auto;
   border-collapse: collapse;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--paper);
-  -webkit-overflow-scrolling: touch;
 }
 
 .article thead,
@@ -875,6 +874,15 @@ main {
   object-fit: cover;
   border-radius: 8px;
   background: #edf1f5;
+}
+
+@media (max-width: 720px) {
+  .article table {
+    display: block;
+    overflow-x: auto;
+    table-layout: auto;
+    -webkit-overflow-scrolling: touch;
+  }
 }
 
 .content-series {

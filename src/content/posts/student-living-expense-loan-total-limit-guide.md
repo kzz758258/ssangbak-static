@@ -7,7 +7,9 @@ permalink: "/student-living-expense-loan-total-limit-guide/"
 slugPath: "student-living-expense-loan-total-limit-guide"
 categories: ["living-information"]
 tags: ["학자금 생활비대출 총한도", "생활비대출 한도", "학자금대출 잔여한도", "한국장학재단 생활비", "2학기 학자금대출"]
-heroImage: "/wp-content/uploads/2026/08/student-living-expense-loan-total-limit-guide.webp"
+heroImage: "/wp-content/uploads/2026/08/student-living-expense-loan-total-limit-guide-v2.webp"
+thumbnailText: ["학자금 생활비대출", "총한도"]
+thumbnailReviewed: true
 sources:
   - title: "한국장학재단 - 생활비대출 총한도 도입 안내"
     url: "https://www.kosaf.go.kr/ko/notice.do?mode=view&page=1&searchStr=%EC%A3%BC%EA%B1%B0%EC%95%88%EC%A0%95&seqNo=20518"

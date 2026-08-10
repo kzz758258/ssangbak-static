@@ -7,7 +7,9 @@ permalink: "/ai-study-support-loan-guide/"
 slugPath: "ai-study-support-loan-guide"
 categories: ["government-subsidy"]
 tags: ["AI학업장려 학자금대출", "AI 학자금대출", "AI 중심대학", "AI 거점대학", "학업장려금 대출"]
-heroImage: "/wp-content/uploads/2026/08/ai-study-support-loan-guide.webp"
+heroImage: "/wp-content/uploads/2026/08/ai-study-support-loan-guide-v2.webp"
+thumbnailText: ["AI학업장려", "학자금대출", "신청방법"]
+thumbnailReviewed: true
 sources:
   - title: "한국장학재단 - AI학업장려 학자금대출 시행 안내"
     url: "https://www.kosaf.go.kr/ko/info.do?mode=view&naviParam=DN%2C08%2C02%2C00&pg=press01_02&seqNo=21044"
