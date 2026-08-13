@@ -160,6 +160,32 @@ const breadcrumbJsonLd = {
       {tocHeadings.length > 1 && (
         <AdSlot slot="6912814701" label="목차 다음 광고" className="ad-placement--article" />
       )}
+      {contentSeries && seriesPosts.length > 1 && (
+        <section class="content-series content-series--early" aria-labelledby="content-series-title">
+          <div class="content-series-head">
+            <span>이 글과 이어지는 순서</span>
+            <h2 id="content-series-title">{contentSeries.title}</h2>
+            <p>{contentSeries.description}</p>
+          </div>
+          <ol>
+            {seriesPosts.map((seriesPost: any) => (
+              <li class={seriesPost.id === post.id ? "is-current" : undefined}>
+                {seriesPost.id === post.id ? (
+                  <strong>
+                    <span>{contentSeries.steps[seriesPost.data.slugPath] ?? "현재 단계"}</span>
+                    {seriesPost.data.title}
+                  </strong>
+                ) : (
+                  <a href={seriesPost.data.permalink}>
+                    <span>{contentSeries.steps[seriesPost.data.slugPath] ?? "다음 단계"}</span>
+                    {seriesPost.data.title}
+                  </a>
+                )}
+              </li>
+            ))}
+          </ol>
+        </section>
+      )}
       <Content />
       <AdSlot
         slot="1475434001"
@@ -180,26 +206,6 @@ const breadcrumbJsonLd = {
           </section>
         )
       }
-      {contentSeries && seriesPosts.length > 1 && (
-        <section class="content-series" aria-labelledby="content-series-title">
-          <div class="content-series-head">
-            <span>Series</span>
-            <h2 id="content-series-title">{contentSeries.title}</h2>
-            <p>{contentSeries.description}</p>
-          </div>
-          <ol>
-            {seriesPosts.map((seriesPost: any) => (
-              <li class={seriesPost.id === post.id ? "is-current" : undefined}>
-                {seriesPost.id === post.id ? (
-                  <strong><span>현재 글</span>{seriesPost.data.title}</strong>
-                ) : (
-                  <a href={seriesPost.data.permalink}>{seriesPost.data.title}</a>
-                )}
-              </li>
-            ))}
-          </ol>
-        </section>
-      )}
       {relatedPosts.length > 0 && (
         <section class="related-posts" aria-label="함께 보면 좋은 글">
           <div class="section-head">
