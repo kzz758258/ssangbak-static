@@ -88,11 +88,20 @@ function sourceText(post: any) {
   return `${post.data.title ?? ""} ${post.data.description ?? ""} ${post.data.slugPath ?? ""} ${(post.data.tags ?? []).join(" ")}`.toLowerCase();
 }
 
+export function isLocalInformationPost(post: any) {
+  const text = sourceText(post);
+  const region = /(서울|경기|인천|부산|대구|대전|광주|울산|세종|강원|충북|충남|전북|전남|경북|경남|제주|속초|연천|양구|완주|통영|의창)/;
+  const localIntent = /(월세|돌봄|지원금|수당|축제|박람회|정원|주차|교통|버스|폐기물|관광|여행|공공시설|주민센터|시청|군청|구청)/;
+  const timeSensitiveEntertainment = /(콘서트|공연|예매|티켓|뮤지컬|팬미팅|중계|concert|ticket|musical)/;
+  return region.test(text) && localIntent.test(text) && !timeSensitiveEntertainment.test(text);
+}
+
 export function inferCategory(post: any): SiteCategory {
   const explicit = post.data.categories?.find((category: string) => CATEGORY_BY_SLUG[category] || LEGACY_CATEGORY_MAP[category]);
   const text = sourceText(post);
   const routeText = `${post.data.slugPath ?? ""} ${post.data.permalink ?? ""}`.toLowerCase();
   const explicitSlug = explicit ? (LEGACY_CATEGORY_MAP[explicit] ?? explicit) : "";
+  if (isLocalInformationPost(post)) return CATEGORY_BY_SLUG["local-information"];
   if (explicitSlug && explicitSlug !== "living-information") return CATEGORY_BY_SLUG[explicitSlug];
   if (/(ewc|msi|world-?cup|kbo|wbc|concert|musical|ticket|sports|broadcast|baseball|football)/.test(routeText)) {
     return CATEGORY_BY_SLUG["entertainment-sports"];

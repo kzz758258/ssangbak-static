@@ -574,6 +574,20 @@ main {
   display: none;
 }
 
+.ad-placement--desktop-only {
+  display: block;
+}
+
+.ad-placement--sidebar {
+  max-width: none;
+  min-height: 280px;
+  margin: 0 0 28px;
+}
+
+.ad-placement--sidebar .adsbygoogle {
+  min-height: 250px;
+}
+
 .article h2 {
   margin-top: 40px;
   padding-top: 10px;
@@ -2075,6 +2089,10 @@ main {
 
   .sidebar-sticky {
     position: static;
+  }
+
+  .ad-placement--desktop-only {
+    display: none;
   }
 
 }
