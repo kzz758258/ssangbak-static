@@ -8,6 +8,16 @@ export type ContentSeries = {
 
 export const CONTENT_SERIES: ContentSeries[] = [
   {
+    slug: "youth-culture-pass",
+    title: "청년문화예술패스 신청·이용 시리즈",
+    description: "신청 대상과 지원금 사용처를 확인한 뒤 발급 후 잔액, 사용기한과 취소·환불 문제까지 이어서 해결합니다.",
+    posts: ["youth-culture-pass-apply", "youth-culture-pass-balance-refund-guide"],
+    steps: {
+      "youth-culture-pass-apply": "대상·신청·사용처",
+      "youth-culture-pass-balance-refund-guide": "잔액·취소·환불"
+    }
+  },
+  {
     slug: "youth-future-savings",
     title: "청년미래적금 신청 시리즈",
     description: "가입 조건을 확인하고 신청 시기·은행·금리를 결정한 뒤 기존 청년도약계좌에서 갈아탈 수 있는지까지 이어서 확인합니다.",
