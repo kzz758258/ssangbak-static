@@ -574,20 +574,6 @@ main {
   display: none;
 }
 
-.ad-placement--desktop-only {
-  display: block;
-}
-
-.ad-placement--sidebar {
-  max-width: none;
-  min-height: 280px;
-  margin: 0 0 28px;
-}
-
-.ad-placement--sidebar .adsbygoogle {
-  min-height: 250px;
-}
-
 .article h2 {
   margin-top: 40px;
   padding-top: 10px;
@@ -2091,10 +2077,19 @@ main {
     position: static;
   }
 
-  .ad-placement--desktop-only {
-    display: none;
+}
+
+@media (min-width: 1440px) {
+  .page-shell,
+  .masthead,
+  .ticker-inner {
+    width: min(1080px, calc(100% - 360px));
   }
 
+  .article-page {
+    grid-template-columns: minmax(0, 1fr) 300px;
+    gap: 34px;
+  }
 }
 
 @media (max-width: 900px) {

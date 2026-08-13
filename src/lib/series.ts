@@ -91,6 +91,86 @@ export const CONTENT_SERIES: ContentSeries[] = [
       "car-tax-refund-application",
       "car-bond-refund-check"
     ]
+  },
+  {
+    slug: "grandparent-care-allowance",
+    title: "조부모 돌봄수당 지역별 시리즈",
+    description: "전국 제도 차이를 먼저 비교하고 서울·경기·광주·제주·충남·경남·울산의 대상, 금액과 신청처를 지역별로 확인합니다.",
+    posts: [
+      "2026-grandparent-care-allowance",
+      "2026-grandparent-care-allowance-guide",
+      "gyeonggido-grandparents-care-allowance",
+      "2026-seoul-grandparent-care-allowance-guide",
+      "2026-gwangju-grandparent-care-allowance",
+      "2026-jeju-grandparent-care-allowance",
+      "2026-chungnam-grandparent-care-allowance-guide",
+      "2026-kyungnam-grandparent-care-allowance-guide",
+      "2026-ul-san-grandparent-care-allowance-guide"
+    ]
+  },
+  {
+    slug: "energy-voucher",
+    title: "에너지바우처 신청·사용 시리즈",
+    description: "신청 자격과 지원금액을 확인한 뒤 추가 지급 대상까지 이어서 점검합니다.",
+    posts: [
+      "energy-voucher-application",
+      "energy-voucher-subsidies",
+      "energy-voucher-additional-payment"
+    ]
+  },
+  {
+    slug: "youth-rent-support",
+    title: "청년 월세지원 지역별 시리즈",
+    description: "서울·부산·인천의 청년 월세지원 대상, 소득 기준과 신청 경로를 거주 지역별로 비교합니다.",
+    posts: [
+      "2026-seoul-youth-rent-guide",
+      "busan-monthly-rent-support-guide",
+      "incheon-youth-rent-support-application-guide"
+    ]
+  },
+  {
+    slug: "small-business-support",
+    title: "소상공인 지원·공제 시리즈",
+    description: "경영안정 바우처와 고용보험료, 냉난방기·가전 지원부터 노란우산공제까지 사업자가 확인할 제도를 목적별로 묶었습니다.",
+    posts: [
+      "small-business-voucher-guide",
+      "small-business-employment-insurance-support-guide",
+      "small-business-air-conditioner-support",
+      "small-business-appliance-refund",
+      "yellow-umbrella-mutual-aid-enrollment",
+      "daejeon-small-business-subsidy"
+    ]
+  },
+  {
+    slug: "comprehensive-income-tax",
+    title: "종합소득세 신고·납부 시리즈",
+    description: "신고 서류와 홈택스 신고 절차, 무신고 불이익, 분납 방법을 신고 흐름에 맞춰 확인합니다.",
+    posts: [
+      "may-income-tax-guide",
+      "may-income-tax-filing-guide",
+      "may-income-tax-penalties",
+      "income-tax-installment-payment-guide"
+    ]
+  },
+  {
+    slug: "local-tax",
+    title: "재산세·주민세 신고납부 시리즈",
+    description: "재산세 조회와 카드 혜택, 주민세 개인분·사업소분 신고 및 위택스 납부 방법을 세목별로 정리합니다.",
+    posts: [
+      "property-tax",
+      "property-tax-card-benefits",
+      "2026-resident-tax-payment",
+      "2026-resident-tax-business-premises"
+    ]
+  },
+  {
+    slug: "vat-filing",
+    title: "부가가치세 신고·납부 시리즈",
+    description: "부가가치세 확정신고 대상과 홈택스 신고 방법, 납부기한 연장 대상 및 날짜를 함께 확인합니다.",
+    posts: [
+      "2026-vat-final-return",
+      "2026-vat-payment-extension"
+    ]
   }
 ];
 
