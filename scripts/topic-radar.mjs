@@ -404,6 +404,46 @@ function noveltySchema() {
   };
 }
 
+function wait(milliseconds) {
+  return new Promise((resolvePromise) => setTimeout(resolvePromise, milliseconds));
+}
+
+async function runOpenAIResponse(payload, label) {
+  const headers = {
+    Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+    "Content-Type": "application/json"
+  };
+  const response = await fetch("https://api.openai.com/v1/responses", {
+    method: "POST",
+    headers,
+    body: JSON.stringify({ ...payload, background: true })
+  });
+  if (!response.ok) {
+    const message = await response.text();
+    throw new Error(`${label} ${response.status}: ${message.slice(0, 1000)}`);
+  }
+  let data = await response.json();
+  const startedAt = Date.now();
+  const maxWaitMs = 20 * 60 * 1000;
+  while (["queued", "in_progress"].includes(data.status)) {
+    if (Date.now() - startedAt > maxWaitMs) {
+      throw new Error(`${label} timed out after 20 minutes (response ${data.id || "unknown"}).`);
+    }
+    await wait(5000);
+    const statusResponse = await fetch(`https://api.openai.com/v1/responses/${data.id}`, { headers });
+    if (!statusResponse.ok) {
+      const message = await statusResponse.text();
+      throw new Error(`${label} status ${statusResponse.status}: ${message.slice(0, 1000)}`);
+    }
+    data = await statusResponse.json();
+  }
+  if (data.status !== "completed") {
+    const detail = data.error?.message || data.incomplete_details?.reason || data.status || "unknown";
+    throw new Error(`${label} did not complete: ${detail}`);
+  }
+  return data;
+}
+
 async function auditNovelty({ topics, existingPosts, model }) {
   const candidates = topics.map((topic, index) =>
     `${index}. ${topic.title} | keyword=${topic.keyword} | subKeywords=${topic.subKeywords.join(", ")}`
@@ -430,13 +470,7 @@ ${candidates}
 
 Locally shortlisted existing articles for each candidate:
 ${existing}`;
-  const response = await fetch("https://api.openai.com/v1/responses", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
+  const data = await runOpenAIResponse({
       model,
       reasoning: { effort: "low" },
       input: prompt,
@@ -449,13 +483,7 @@ ${existing}`;
           schema: noveltySchema()
         }
       }
-    })
-  });
-  if (!response.ok) {
-    const message = await response.text();
-    throw new Error(`OpenAI novelty audit ${response.status}: ${message.slice(0, 1000)}`);
-  }
-  const data = await response.json();
+    }, "OpenAI novelty audit");
   const text = extractResponseText(data);
   if (!text) throw new Error("Novelty audit did not contain output text.");
   const checks = JSON.parse(text).checks;
@@ -518,13 +546,7 @@ ${signalText || "No RSS/API headlines were available. Use web search conservativ
 Existing SsangBak titles for deduplication (titles only; exact permalinks are resolved in the separate audit):
 ${existingText}`;
 
-  const response = await fetch("https://api.openai.com/v1/responses", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
+  const data = await runOpenAIResponse({
       model,
       reasoning: { effort: "low" },
       tools: [{ type: "web_search" }],
@@ -538,13 +560,7 @@ ${existingText}`;
           schema: topicSchema()
         }
       }
-    })
-  });
-  if (!response.ok) {
-    const message = await response.text();
-    throw new Error(`OpenAI Responses API ${response.status}: ${message.slice(0, 1000)}`);
-  }
-  const data = await response.json();
+    }, "OpenAI topic analysis");
   const text = extractResponseText(data);
   if (!text) throw new Error("OpenAI response did not contain output text.");
   return {
