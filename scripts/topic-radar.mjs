@@ -2,6 +2,7 @@ import { mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { basename, dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import he from "he";
+import { hasNaverDemandEnv, researchKeywordDemand } from "./naver-content-research.mjs";
 
 const projectRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const postsDir = join(projectRoot, "src", "content", "posts");
@@ -554,6 +555,44 @@ ${existingText}`;
   };
 }
 
+function normalizedKeyword(value = "") {
+  return String(value).toLowerCase().replace(/[^0-9a-z가-힣]/g, "");
+}
+
+function representativeKeyword(keyword, relatedKeywords = []) {
+  const normalized = normalizedKeyword(keyword);
+  return relatedKeywords.find((item) => normalizedKeyword(item.keyword) === normalized)
+    || relatedKeywords[0]
+    || null;
+}
+
+function volumeScore(monthlyTotal) {
+  if (!monthlyTotal) return null;
+  return Math.min(100, Math.round((Math.log10(monthlyTotal + 1) / 5) * 100));
+}
+
+async function enrichTopicsWithNaverDemand(topics, date) {
+  if (!hasNaverDemandEnv()) return topics;
+  const enriched = [];
+  for (const topic of topics) {
+    const naverDemand = await researchKeywordDemand(topic.keyword, date);
+    const representative = representativeKeyword(topic.keyword, naverDemand.relatedKeywords);
+    enriched.push({
+      ...topic,
+      naverDemand: {
+        ...naverDemand,
+        representativeKeyword: representative?.keyword || "",
+        monthlyPc: representative?.monthlyPc || 0,
+        monthlyMobile: representative?.monthlyMobile || 0,
+        monthlyTotal: representative?.monthlyTotal || 0,
+        competition: representative?.competition || "",
+        volumeScore: volumeScore(representative?.monthlyTotal || 0)
+      }
+    });
+  }
+  return enriched;
+}
+
 function finalizeTopics(topics, existingPosts) {
   return topics.map((topic) => {
     const claimedExisting = topic.existingPost
@@ -571,8 +610,12 @@ function finalizeTopics(topics, existingPosts) {
     const riskPenalty = topic.riskLevel === "high" ? 12 : topic.riskLevel === "medium" ? 5 : 0;
     const invalidSourceCount = topic.sources.filter((source) => !source.valid).length;
     const sourcePenalty = invalidSourceCount * 8;
+    const measuredVolumeScore = topic.naverDemand?.volumeScore;
+    const demandComponent = measuredVolumeScore === null || measuredVolumeScore === undefined
+      ? topic.demandScore * 0.24
+      : topic.demandScore * 0.12 + measuredVolumeScore * 0.12;
     const score = Math.max(0, Math.min(100, Math.round(
-      topic.demandScore * 0.24 +
+      demandComponent +
       topic.freshnessScore * 0.18 +
       topic.monetizationScore * 0.18 +
       topic.longevityScore * 0.16 +
@@ -606,7 +649,7 @@ function renderReport({ date, summary, topics, rejectedTopics, model, responseId
     `# SsangBak 글감 레이더 — ${date}`,
     "",
     `> 생성 시각: ${generatedAt} · 모델: ${model} · 후보 신호: ${signals.length}개`,
-    "> 점수는 실제 검색량이 아니라 시의성·수익성·지속성·사이트 적합도·출처 신뢰도를 합성한 상대평가입니다.",
+    "> 점수는 네이버 월간 검색량과 시의성·수익성·지속성·사이트 적합도·출처 신뢰도를 합성한 상대평가입니다.",
     "",
     "## 오늘의 판단",
     "",
@@ -614,11 +657,12 @@ function renderReport({ date, summary, topics, rejectedTopics, model, responseId
     "",
     "## 우선순위",
     "",
-    "| 순위 | 점수 | 유형 | 작업 | 카테고리 | 핵심 키워드 | 추천 제목 | 위험 |",
-    "| ---: | ---: | --- | --- | --- | --- | --- | --- |"
+    "| 순위 | 점수 | 월검색 | 유형 | 작업 | 카테고리 | 핵심 키워드 | 추천 제목 | 위험 |",
+    "| ---: | ---: | ---: | --- | --- | --- | --- | --- | --- |"
   ];
   topics.forEach((topic, index) => {
-    lines.push(`| ${index + 1} | ${topic.score} | ${topic.topicType} | ${topic.action} | ${topic.category} | ${markdownEscape(topic.keyword)} | ${markdownEscape(topic.title)} | ${topic.riskLevel} |`);
+    const monthlyTotal = topic.naverDemand?.monthlyTotal || "-";
+    lines.push(`| ${index + 1} | ${topic.score} | ${monthlyTotal} | ${topic.topicType} | ${topic.action} | ${topic.category} | ${markdownEscape(topic.keyword)} | ${markdownEscape(topic.title)} | ${topic.riskLevel} |`);
   });
   lines.push("", "## 상세 후보", "");
   topics.forEach((topic, index) => {
@@ -637,6 +681,23 @@ function renderReport({ date, summary, topics, rejectedTopics, model, responseId
       `- **서브 키워드:** ${topic.subKeywords.join(", ")}`,
       `- **위험도:** ${topic.riskLevel} — ${topic.riskNote}`
     );
+    if (topic.naverDemand) {
+      const demand = topic.naverDemand;
+      const related = demand.relatedKeywords.slice(0, 10)
+        .map((item) => `${item.keyword}(${item.monthlyTotal})`)
+        .join(", ");
+      const trends = demand.trends.slice(0, 5)
+        .map((item) => `${item.keyword} ${item.changePercent === null ? "비교 불가" : `${item.changePercent > 0 ? "+" : ""}${item.changePercent}%`}`)
+        .join(", ");
+      lines.push(
+        `- **네이버 대표 측정어:** ${demand.representativeKeyword || "측정 결과 없음"}`,
+        `- **월간 검색량:** PC ${demand.monthlyPc} + 모바일 ${demand.monthlyMobile} = ${demand.monthlyTotal}`,
+        `- **검색광고 경쟁도:** ${demand.competition || "측정 결과 없음"}`,
+        `- **검색량 기반 서브 키워드:** ${related || "측정 결과 없음"}`,
+        `- **최근 7일 DataLab 추세:** ${trends || "측정 결과 없음"}`
+      );
+      if (demand.warnings.length) lines.push(`- **네이버 측정 경고:** ${demand.warnings.join(" / ")}`);
+    }
     if (topic.nearestExistingTitle) {
       const link = topic.nearestExistingPermalink || "(링크 없음)";
       lines.push(`- **가장 유사한 기존 글:** ${topic.nearestExistingTitle} · ${link} · 유사도 ${Math.round(topic.similarity * 100)}%`);
@@ -664,7 +725,8 @@ function renderReport({ date, summary, topics, rejectedTopics, model, responseId
     `- Google News RSS: 사용 (${signals.filter((item) => item.channel === "rss").length}개 신호)`,
     `- Naver News API: ${process.env.NAVER_CLIENT_ID && process.env.NAVER_CLIENT_SECRET ? "사용" : "키 미설정"}`,
     `- 기업마당 지원사업 API: ${process.env.BIZINFO_API_KEY ? `사용 (${signals.filter((item) => item.channel === "bizinfo").length}개 신호)` : "키 미설정"}`,
-    "- Naver DataLab: 키 미설정 시 미사용",
+    `- Naver Search Ads 월간 검색량: ${hasNaverDemandEnv() ? "사용" : "키 미설정"}`,
+    `- Naver DataLab: ${hasNaverDemandEnv() ? "사용" : "키 미설정"}`,
     "- Google Ads Keyword Planner: 자격 증명 미설정 시 미사용",
     "- Google Search Console: OAuth/서비스 계정 미설정 시 미사용",
     "- 근거 URL: 보고서 생성 시 HTTP 응답 자동 검사",
@@ -712,7 +774,9 @@ Options:
   const { topics: auditedTopics, responseId: noveltyResponseId, usage: noveltyUsage } = await auditNovelty({ topics: analysis.topics, existingPosts, model: requestedModel });
   console.log("Validating evidence URLs...");
   const validatedTopics = await validateTopicSources(auditedTopics);
-  const evaluatedTopics = finalizeTopics(validatedTopics, existingPosts);
+  console.log("Measuring Naver monthly search volume and DataLab trends...");
+  const demandEnrichedTopics = await enrichTopicsWithNaverDemand(validatedTopics, date);
+  const evaluatedTopics = finalizeTopics(demandEnrichedTopics, existingPosts);
   const topics = evaluatedTopics.filter((topic) => !topic.isExistingTopic);
   const rejectedTopics = evaluatedTopics.filter((topic) => topic.isExistingTopic);
   const usage = {

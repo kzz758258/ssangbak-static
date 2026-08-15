@@ -1,6 +1,7 @@
 import { createHmac } from "node:crypto";
 import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 import he from "he";
 
 function parseArgs(argv) {
@@ -57,6 +58,16 @@ function requireEnv() {
   ];
   const missing = names.filter((name) => !process.env[name]);
   if (missing.length) throw new Error(`Missing environment variables: ${missing.join(", ")}`);
+}
+
+export function hasNaverDemandEnv() {
+  return [
+    "NAVER_CLIENT_ID",
+    "NAVER_CLIENT_SECRET",
+    "NAVER_SEARCHAD_API_KEY",
+    "NAVER_SEARCHAD_SECRET_KEY",
+    "NAVER_SEARCHAD_CUSTOMER_ID"
+  ].every((name) => Boolean(process.env[name]));
 }
 
 async function fetchSearchAdKeywords(keyword) {
@@ -208,6 +219,33 @@ async function researchKeyword(keyword, date) {
   };
 }
 
+export async function researchKeywordDemand(keyword, date) {
+  const warnings = [];
+  let relatedKeywords = [];
+  try {
+    relatedKeywords = await fetchSearchAdKeywords(keyword);
+  } catch (error) {
+    warnings.push(error.message);
+  }
+  const trendKeywords = [
+    keyword,
+    ...relatedKeywords.map((item) => item.keyword)
+  ].filter((item, index, list) => item && list.indexOf(item) === index).slice(0, 5);
+  let trends = [];
+  try {
+    trends = await fetchDataLabTrend(trendKeywords, date);
+  } catch (error) {
+    warnings.push(error.message);
+  }
+  return {
+    keyword,
+    measuredAt: new Date().toISOString(),
+    relatedKeywords: relatedKeywords.slice(0, 30),
+    trends,
+    warnings
+  };
+}
+
 function renderMarkdown(date, results) {
   const lines = [
     `# 네이버 콘텐츠 리서치 — ${date}`,
@@ -307,7 +345,12 @@ async function main() {
   console.log(`Wrote ${contextPath}`);
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+const isMain = process.argv[1]
+  && resolve(process.argv[1]) === resolve(fileURLToPath(import.meta.url));
+
+if (isMain) {
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}
