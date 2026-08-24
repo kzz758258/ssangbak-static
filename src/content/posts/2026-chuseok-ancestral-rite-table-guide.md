@@ -45,7 +45,7 @@ originalUrl: "https://ssangbak.com/2026-chuseok-ancestral-rite-table-guide/"
 
 ## 전통적인 추석 차례상 배치 예시
 
-![전통적인 5열 추석 차례상 음식 배치 예시](/wp-content/uploads/2026/08/2026-chuseok-traditional-five-row-table.webp)
+![전통적인 5열 추석 차례상 음식 배치 예시](/wp-content/uploads/2026/08/2026-chuseok-traditional-five-row-table-v2.webp)
 
 *▲ 신위와 가까운 안쪽부터 송편·잔·수저, 적·전, 탕, 포·나물·김치·식혜, 과일을 놓은 대표적인 5열 상차림 예시입니다.*
 
