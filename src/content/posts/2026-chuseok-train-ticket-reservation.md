@@ -1,8 +1,8 @@
 ---
-title: "2026 추석 기차표 예매 일정과 시간·방법, KTX 수서 출발까지 총정리"
+title: "2026 추석 기차표 예매 일정과 ktx srt 예매 방법"
 description: "2026 추석 기차표 예매 날짜와 시간을 노선별로 정리합니다. 코레일+ 예매 방법, 기존 SRT 회원의 통합회원 전환, 결제기간, 잔여석과 취소표 확인까지 안내합니다."
 pubDate: "2026-08-21T09:10:00+09:00"
-updatedDate: "2026-08-21T09:10:00+09:00"
+updatedDate: "2026-08-24T09:00:00+09:00"
 permalink: "/2026-chuseok-train-ticket-reservation/"
 slugPath: "2026-chuseok-train-ticket-reservation"
 categories: ["living-information"]
@@ -29,6 +29,12 @@ originalUrl: "https://ssangbak.com/2026-chuseok-train-ticket-reservation/"
 
 가장 큰 변화는 기존 SRT 회원도 추석표를 SRT 앱에서 따로 예매하지 않는다는 점입니다. 9월 1일 이후 수서 출발 노선은 KTX로 통합 운영되며, **코레일+ 앱 또는 코레일 홈페이지에서 통합회원 계정으로 예매**해야 합니다. 예매일 당일 회원 전환부터 시작하면 늦을 수 있으므로 미리 로그인 상태까지 확인해야 합니다.
 
+[2026 추석 기차표 예매 바로가기](https://www.korail.com/ticket/search/general)
+
+[2026 추석 승차권 공식 일정 확인하기](https://www.korail.com/ticket/guest/notice/25563)
+
+[기존 SRT 회원 통합회원 전환하기](https://etk.srail.kr/cms/article/view.do?pageId=TK0502000000&pageIndex=1&postNo=896&searchCnd=0)
+
 ## 2026 추석 기차표 예매 핵심 일정
 
 | 구분 | 날짜·시간 | 대상 |
@@ -40,8 +46,6 @@ originalUrl: "https://ssangbak.com/2026-chuseok-train-ticket-reservation/"
 | 잔여석 판매 | 9월 11일(금) 15:00부터 | 앱·홈페이지·역 창구 상시 판매 |
 
 명절 승차권은 예약에 성공해도 정해진 기간에 결제하지 않으면 자동 취소될 수 있습니다. 예매 직후 예약내역을 확인하고, 일반예매 이용자는 9월 15일 자정 전까지 결제를 마쳐야 합니다.
-
-[코레일 2026 추석 승차권 공식 공지 확인하기](https://www.korail.com/ticket/guest/notice/25563)
 
 ## 노선별 추석 기차표 예매 날짜와 시간
 
@@ -65,8 +69,6 @@ originalUrl: "https://ssangbak.com/2026-chuseok-train-ticket-reservation/"
 
 기존 SR 회원번호와 비밀번호만으로는 추석 명절 예매를 할 수 없습니다. SR의 통합회원 전환 안내에 따라 코레일 통합회원으로 전환한 뒤 새 회원번호와 로그인 수단을 확인해야 합니다. 수서 출발 열차를 찾는 사람도 SRT 앱이 아니라 9월 10일 코레일+ 예매 일정에 맞춰 준비하면 됩니다.
 
-[기존 SR 회원 통합회원 전환 안내 확인하기](https://etk.srail.kr/cms/article/view.do?pageId=TK0502000000&pageIndex=1&postNo=896&searchCnd=0)
-
 ## 코레일+ 추석 기차표 예매 방법
 
 명절 예매는 코레일+ 앱과 코레일 홈페이지에서 진행하며 회원가입이 필수입니다. 일반 예매기간에는 역 창구에서 명절 승차권을 예약할 수 없습니다. 다만 9월 11일 오후 3시부터 풀리는 잔여석은 홈페이지와 앱뿐 아니라 역 창구에서도 일반 승차권처럼 구매할 수 있습니다.
@@ -80,8 +82,6 @@ originalUrl: "https://ssangbak.com/2026-chuseok-train-ticket-reservation/"
 7. 예약내역에서 결제 대상과 결제 마감일을 다시 확인합니다.
 
 코레일은 전용 웹페이지 사전체험을 **8월 24일 오후 2시부터 9월 2일까지**, 그리고 **9월 5~6일**에도 제공합니다. 실제 예매 전에 회원번호 확인과 화면 이동 순서를 연습할 수 있습니다. 한 사람은 전체 예매기간 동안 최대 12매까지 예약할 수 있고, 한 번에 선택할 수 있는 승차권은 6매 이내입니다.
-
-[코레일 승차권 예매 화면 바로가기](https://www.korail.com/ticket/search/general)
 
 ## 예약 후 결제와 잔여석 확인 방법
 
