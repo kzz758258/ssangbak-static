@@ -18,9 +18,9 @@ sources:
   - title: "한국민족문화대백과사전 - 차례"
     url: "https://encykorea.aks.ac.kr/Article/E0055140"
 relatedPosts:
+  - "2026-grave-mowing-service-application-price"
+  - "2026-chuseok-gift-anti-graft-law-limit"
   - "2026-chuseok-holiday-substitute-day"
-  - "2026-chuseok-train-ticket-reservation"
-  - "2026-chuseok-holiday-hospital-pharmacy"
 originalUrl: "https://ssangbak.com/2026-chuseok-ancestral-rite-table-guide/"
 ---
 

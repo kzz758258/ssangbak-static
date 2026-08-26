@@ -19,8 +19,8 @@ sources:
     url: "https://www.mohw.go.kr/board.es?act=view&bid=0027&cg_code=&list_no=342073&mid=a10503010200&tag="
 relatedPosts:
   - "2026-chuseok-holiday-substitute-day"
+  - "2026-chuseok-bank-hours-atm-transfer"
   - "2026-chuseok-train-ticket-reservation"
-  - "telehealth-app-install"
 originalUrl: "https://ssangbak.com/2026-chuseok-holiday-hospital-pharmacy/"
 ---
 

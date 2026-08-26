@@ -20,9 +20,9 @@ sources:
   - title: "코레일 승차권 예매"
     url: "https://www.korail.com/ticket/search/general"
 relatedPosts:
+  - "2026-chuseok-train-cancellation-waiting-guide"
   - "2026-chuseok-holiday-substitute-day"
   - "2026-chuseok-holiday-hospital-pharmacy"
-  - "2026-chuseok-ancestral-rite-table-guide"
   - "seollal-ktx-reservation"
   - "ktx-srt-difference"
 originalUrl: "https://ssangbak.com/2026-chuseok-train-ticket-reservation/"

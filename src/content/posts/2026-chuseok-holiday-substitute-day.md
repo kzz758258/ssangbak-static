@@ -19,8 +19,8 @@ sources:
     url: "https://www.law.go.kr/expcInfoP.do?expcSeq=333539"
 relatedPosts:
   - "2026-chuseok-train-ticket-reservation"
+  - "2026-chuseok-bank-hours-atm-transfer"
   - "2026-chuseok-holiday-hospital-pharmacy"
-  - "2026-chuseok-ancestral-rite-table-guide"
 originalUrl: "https://ssangbak.com/2026-chuseok-holiday-substitute-day/"
 ---
 
