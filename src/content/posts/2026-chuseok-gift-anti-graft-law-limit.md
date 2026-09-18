@@ -17,8 +17,8 @@ sources:
     url: "https://www.acrc.go.kr/board.es?act=view&bid=130&list_no=93626&mid=a10503040000&nPage=35&tag="
 relatedPosts:
   - "2026-chuseok-ancestral-rite-table-guide"
-  - "2026-chuseok-holiday-substitute-day"
-  - "2026-grave-mowing-service-application-price"
+  - "2026-chuseok-table-setting-cost-shopping-guide"
+  - "2026-chuseok-onnuri-refund-agricultural-discount"
 originalUrl: "https://ssangbak.com/2026-chuseok-gift-anti-graft-law-limit/"
 ---
 
