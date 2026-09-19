@@ -44,6 +44,19 @@ The `Daily topic radar` GitHub Actions workflow runs at 06:10 KST and updates `r
 - `src/pages/category/[...slug].astro`: preserves existing category URLs
 - `dist/`: static build output for Cloudflare Pages
 
+## Project memory and operating documents
+
+Codex and human operators use the repository itself as the durable source of truth:
+
+- `AGENTS.md`: mandatory project rules loaded at the start of Codex work
+- `docs/PROJECT_SPEC.md`: purpose, scope, architecture, and completion criteria
+- `docs/CURRENT_STATUS.md`: current implementation, operations, and known gaps
+- `docs/ROADMAP.md`: active priorities
+- `docs/CHANGELOG.md`: important operating decisions and their rationale
+- `docs/SSANGBAK_CONTENT_STANDARD.md`: detailed editorial and publishing standard
+
+When code and documentation differ, verify the code and update `docs/CURRENT_STATUS.md` in the same task.
+
 ## Cloudflare Pages
 
 - Build command: `npm run build`
