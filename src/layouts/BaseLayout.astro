@@ -45,6 +45,35 @@ const tickerPosts = (await getCollection("posts"))
       gtag("js", new Date());
       gtag("config", "G-MPQDZCXM7L");
     </script>
+    <script is:inline>
+      document.addEventListener("click", (event) => {
+        const link = event.target instanceof Element ? event.target.closest("a") : null;
+        if (!(link instanceof HTMLAnchorElement)) return;
+
+        const isAffiliate = link.rel.split(/\s+/).includes("sponsored");
+        const isCta = link.classList.contains("cta-button");
+        if (!isAffiliate && !isCta) return;
+
+        let destination;
+        try {
+          destination = new URL(link.href, window.location.href);
+        } catch {
+          return;
+        }
+
+        const eventName = isAffiliate ? "affiliate_outbound_click" : "cta_click";
+        const destinationWithoutQuery = `${destination.origin}${destination.pathname}`;
+        window.gtag?.("event", eventName, {
+          link_domain: destination.hostname,
+          link_path: destination.pathname,
+          link_url: destinationWithoutQuery,
+          link_text: (link.textContent || "").trim().slice(0, 100),
+          page_path: window.location.pathname,
+          outbound: destination.origin !== window.location.origin,
+          transport_type: "beacon"
+        });
+      });
+    </script>
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="SsangBak" />
     <meta property="og:title" content={title} />

@@ -54,6 +54,7 @@ Codex and human operators use the repository itself as the durable source of tru
 - `docs/ROADMAP.md`: active priorities
 - `docs/CHANGELOG.md`: important operating decisions and their rationale
 - `docs/SSANGBAK_CONTENT_STANDARD.md`: detailed editorial and publishing standard
+- `docs/PAID_ADS_PILOT_PLAN.md`: paid-search pilot, measurement, and stop rules
 
 When code and documentation differ, verify the code and update `docs/CURRENT_STATUS.md` in the same task.
 

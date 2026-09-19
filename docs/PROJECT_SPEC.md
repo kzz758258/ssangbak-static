@@ -96,3 +96,4 @@ SsangBak은 정부지원, 민원·발급, 세금·금융, 지역정보, 생활�
 - `docs/SSANGBAK_CONTENT_STANDARD.md`: 콘텐츠 상세 규칙
 - `docs/PUBLISHING_AUTOMATION_PLAN.md`: 발행 자동화 설계
 - `docs/CONTENT_GROWTH_ROADMAP.md`: 콘텐츠 묶음과 확장에 관한 기존 상세 분석
+- `docs/PAID_ADS_PILOT_PLAN.md`: 유료광고 후보, 측정, 손익·중단 기준
