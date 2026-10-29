@@ -1,84 +1,44 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T00:29:53.904Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T00:53:22.934Z",
   "model": "gpt-5.6-luna",
-  "responseId": "resp_023ce48ae1c182cf006ae141974d5c87d184f08e75cac35a79",
-  "noveltyResponseId": "resp_06863437ce8c268a006ae141d6d8b887d187f33c78169a88ca",
+  "responseId": "resp_065f0e42f94de807006ae298978b8887d0bc6df3983c45e4f3",
+  "noveltyResponseId": "resp_091d93cfb067fa88006ae298d77f5887d08e01c8720167c5cf",
   "usage": {
-    "inputTokens": 59204,
-    "outputTokens": 7443,
-    "totalTokens": 66647,
+    "inputTokens": 57221,
+    "outputTokens": 7148,
+    "totalTokens": 64369,
     "analysis": {
-      "input_tokens": 52387,
+      "input_tokens": 51353,
       "input_tokens_details": {
-        "cache_write_tokens": 27676,
+        "cache_write_tokens": 26835,
         "cached_tokens": 0
       },
-      "output_tokens": 6309,
+      "output_tokens": 6239,
       "output_tokens_details": {
-        "reasoning_tokens": 626
+        "reasoning_tokens": 1316
       },
-      "total_tokens": 58696
+      "total_tokens": 57592
     },
     "noveltyAudit": {
-      "input_tokens": 6817,
+      "input_tokens": 5868,
       "input_tokens_details": {
-        "cache_write_tokens": 6814,
+        "cache_write_tokens": 5865,
         "cached_tokens": 0
       },
-      "output_tokens": 1134,
+      "output_tokens": 909,
       "output_tokens_details": {
-        "reasoning_tokens": 516
+        "reasoning_tokens": 370
       },
-      "total_tokens": 7951
+      "total_tokens": 6777
     }
   },
   "signals": [
     {
-      "title": "지방세 환급금, 12월부터 앱으로 찾는다…‘내 돈도?’ - 창원특례신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uQ3o0bnBXUExRQzBVVFpOSTlZWWFMU25feFlCMVBlZmFmXzUzM1dHY21GQlFmNUktdFIyRFlWRmZzYUp6ZVdxYTVmYTQ5S2tDNkM3U2tHSmp3N0VIZUxKNlptYVMteWPSAWtBVV95cUxQUG1nSG9fUzVPZ2lSRnF0LWZUbnhZLVZxRjdqRmdVcFZndDVaY21NcVNWaFRsNEFnYW1Gc3Y3SWdwc0VsTEcxb2NKVDBwWE9UMFpKclV3OHVQTlkzc3luUlJybGgxZFFvUjZTWQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 00:21:22 GMT",
-      "source": "창원특례신문",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁’ 있다 [세테크] - 서울신문",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQmdPaXhTY0ZwWGZJSEZBajZiQ3BlUTdjVzRRLUhQcmhoRWRzS1RZazd5Nl91UjAxUF81S3lNOW5fbjJpSW9weVBGRnZQSkVNTDM4RjNRSlU1YnA0MUgyem9TT1I0ZVdtZzNUZ3BRS19vcndaOWc?oc=5",
-      "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "source": "서울신문",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[톺아보기] '받을 거 다 받고 산다'…1인가구가 놓치기 쉬운 '정부지원 총정리' - 데일리팝",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xR0VuNU9oeUNwVDVRLTkxdDlzVG0zeFExVTZiVTZnSlBaLTFVYlNVYl92ZUZyQlVhaUdibDZXaC04R3pJVG1WWDhFS25OZWt6U1BtR2N4ZW9hXzhfaHZsajAwcWtINlZO?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "데일리팝",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "2026년부터 이렇게 달라집니다: 새로운 금융·복지·노동 정책 26가지 - 토스피드",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kdzZqbUtRV2JLY29ONTVvSUlQX2h4NFd2amUzanV5OTdaY0VIcTRUQ0JGSUVUYlVpa19lR1dYYzBBcXVRS0E3TVN0UVM5Uy13eDZEVms2bkc2Sk5RbkhJ?oc=5",
-      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "source": "토스피드",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "2026년 근로장려금 반기 신청 | 3월 신청하면 6월 입금? (일정/자격) - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93T25helpqT0doT0cxWFluYV91aXd6cUJkS2NCRUl6bVVudDZ0eGdiQVBfdV9rRWNDTlRVdHduOE5RQ3ZtdU43c19mdWlDamE3dUVPUTJB?oc=5",
-      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "title": "2026년 청년미래적금 출시! 3년 만에 2,200만 원 만든다 (청년도약계좌 비교) - 고향사랑기부제 위기브",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wMG5faFk1d185RmFwQzU0UFlzM3VRRWxMUFo0Z18zcURVSi1OQmpOcFU4Qndra2pEeG1DVk9FZk5YT3Y2UXR3VFlCUEdNWkhGMjJ2bkZB?oc=5",
+      "publishedAt": "Sat, 17 Jan 2026 08:00:00 GMT",
       "source": "고향사랑기부제 위기브",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "5분 투자로 수십만원…잠자는 내 돈 찾는 가장 쉬운 방법 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00ZzNTNnRfb3IwOFpjTFN1YUItZmxoRzF1ekdDclVoR0dZWVRmd2dyU3d3aGVKTTh6WWhaN2tjRDA5d25LSDlGUENVN1NuZkRvSlM0WmlBdFRVZ9IBWEFVX3lxTE13b1RpVTNYYndIZWJPaWhTTm5ndmpQS2tGZG1xUGVaWk0xSllET3FjQUQzeUZyc3d3M0Fyc2I1NFNpdXZaWENlUGI5WHh2VUZiT0d3aDVTX2Y?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 07:00:00 GMT",
-      "source": "아주경제",
       "query": "정부 지원금 신청 환급 세금 2026",
       "channel": "rss"
     },
@@ -91,18 +51,18 @@
       "channel": "rss"
     },
     {
-      "title": "[오늘의 Big PICK!] 美 관세 환급금 4조원 시대 열린다 - 코리아포스트 한글판",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ydmVGbnlWWGw1c2hjZTkza1p4ZUI0WDRzSlRsR2lBTFRoTEloTVZ6MzdHWE1HajR2VVlLU243dkFuV1dKbUxZVjYtU3ZuTHdYYmltLUdqcnB4QVpGMXpWbWxxVmM5eno0My0tMlRB?oc=5",
-      "publishedAt": "Sun, 07 Jun 2026 07:00:00 GMT",
-      "source": "코리아포스트 한글판",
+      "title": "2026년 근로장려금 반기 신청 | 3월 신청하면 6월 입금? (일정/자격) - 고향사랑기부제 위기브",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93T25helpqT0doT0cxWFluYV91aXd6cUJkS2NCRUl6bVVudDZ0eGdiQVBfdV9rRWNDTlRVdHduOE5RQ3ZtdU43c19mdWlDamE3dUVPUTJB?oc=5",
+      "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "source": "고향사랑기부제 위기브",
       "query": "정부 지원금 신청 환급 세금 2026",
       "channel": "rss"
     },
     {
-      "title": "💰 근로장려금·자녀장려금 8월 27일 지급 확정 | 내 통장 확인 방법 총정리 - 블로그",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZMnR6WlgyTU9UcUpvLUNJV05kcloydy1zT2pWUlROeTE1U3NEMlo0bDhPckE4Uzd4QXBFc3BraTJkcUdpZ1hWTERDeVJ0UGd6ZHdzZmw4M3ZXU3Y4?oc=5",
-      "publishedAt": "Wed, 12 Aug 2026 07:00:00 GMT",
-      "source": "블로그",
+      "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁’ 있다 [세테크] - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQmdPaXhTY0ZwWGZJSEZBajZiQ3BlUTdjVzRRLUhQcmhoRWRzS1RZazd5Nl91UjAxUF81S3lNOW5fbjJpSW9weVBGRnZQSkVNTDM4RjNRSlU1YnA0MUgyem9TT1I0ZVdtZzNUZ3BRS19vcndaOWc?oc=5",
+      "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "source": "서울신문",
       "query": "정부 지원금 신청 환급 세금 2026",
       "channel": "rss"
     },
@@ -115,22 +75,6 @@
       "channel": "rss"
     },
     {
-      "title": "2026년 신혼부부 정부 지원금 혜택 총정리 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vRm45ZVVHVXMzWmFRYUk4VXpKZ3RQX2Y5Nm15SkJLWjRuZExfaWQ0SGh3YjI1TmYxTV9QTXVGQlAzZndRZV82Qw?oc=5",
-      "publishedAt": "Tue, 24 Feb 2026 16:02:10 GMT",
-      "source": "브런치",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "아이 둘이면 연 30만원 세금 덜 낸다… 2026년 바뀌는 세금·연금 계산표 - 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jbDJtaHE3bzlVblNCMXFKMGs1X2xEa2pFanlUTTNYT00zTUpEOUVnS0ZoaG1MZVV0VE1RS3RBMmFwZGRLWk12RjBoZk1wLWN0NUowbXhYNy1qZGFQUXVhY2x5dHBObkpBLWZ5cjV30gFzQVVfeXFMUFl3eTEtdVJMMDVhdTc2SlJQNHVJMjVlM2gxMUlUeGZ5U3BWRllkbDlSVW5kMVdhSlBOMGhHS19XOGxJY3F1bGNLS0FvR19hUUw0U19Lb2JZaC1QMkIycXJVRmFycVQ0R2FLQzFEbzRTRWk2aw?oc=5",
-      "publishedAt": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "source": "한국일보",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
       "title": "[경제뉴스] 5년 내 폐업했었으면 무조건 확인…세금 22% 돌려준다 - 아웃소싱타임스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nbGxTbjJhSVN2UVkyT0pUTVViQmNQMUJ1UUEyeU9zR3lsMGI5ZkhUT1dZLW1hTXpTZmxQOGFic0NXa2h5Z2pIWXByRzlQcXBUZ2pVUmhuZlk2Tm9yRnlNVU5fbjZ1T3ppRnFEdThDUHBvZw?oc=5",
       "publishedAt": "Fri, 28 Nov 2025 08:00:00 GMT",
@@ -139,82 +83,10 @@
       "channel": "rss"
     },
     {
-      "title": "2026 연말정산 바뀌는 점은? 개념∙원리∙환급 늘리는 법까지 완벽 가이드 - 뉴닉",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtQjJ6QUpIblYxSkhUQjZJTHM1VDBRRG94b0xnT3FSWUd3MlcxZ0ZNMjhHR29sLUxpV2hjeXppd3BZOTU4V090bHlTa3B5SERpUDJSZ3FR?oc=5",
-      "publishedAt": "Thu, 11 Dec 2025 08:00:00 GMT",
-      "source": "뉴닉",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "수출 0건인데 환급금 37억 ‘꿀꺽’한 남성…中 법원 “징역 14년, 벌금 37억” [여기는 중국] - 서울신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZWl3NTdaaE1qVGV5M2lVV0hpQm44S1pfQWYxZkdVRjFqWjk3aExYTlJKMEh3dXZMcG1HNVowZmZVNnhGT0lUTXhIQ1puTWRtZFlRU2J6c1YyZw?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "source": "서울신문",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "\"코로나 지원금 3만3천 불 반환?\" - 캐나다 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kVzVpbDlJblJSYXZDa1R6RW56Q0psOW9LT19ITWw3Skd3V3ppaDc3ZFVReUpXN19Xei1UUC1UcGh5QkxZWHRmZ09KSDJ3VDlZSXpNaXF3S2s3WlZ2d2hHZ1EyQTE2QQ?oc=5",
-      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "source": "캐나다 한국일보",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "2026 근로자 휴가지원사업, 여행도 하고, 세금도 줄이는 가장 똑똑한 방법 - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nanM1MjJxMmh5T1RyR1BpcV9hek9OQUNNQXhOeGNOQzZMT2tMV29iQWpWSjlBX3lYVHd3Q29udWFwd2tGWFBVRW1XTW94WTdEZXkxWkNR?oc=5",
-      "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "source": "고향사랑기부제 위기브",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "2026년 달라지는 생활 금융 정책 총정리 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxcDU1ajJLVkFjcVpqNEhJeDVRcmNSVlBxV2hNN1NobDZvcGtTd0tRZkt1T0gzWjdEQkN5T21rZzZqVmEzblkzVw?oc=5",
-      "publishedAt": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "title": "2026년 신혼부부 정부 지원금 혜택 총정리 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vRm45ZVVHVXMzWmFRYUk4VXpKZ3RQX2Y5Nm15SkJLWjRuZExfaWQ0SGh3YjI1TmYxTV9QTXVGQlAzZndRZV82Qw?oc=5",
+      "publishedAt": "Tue, 24 Feb 2026 16:02:10 GMT",
       "source": "브런치",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "청년월세지원 조건 총정리｜월 20만원 지원받고 고향사랑기부제로 세금까지 줄이는 법 - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSUxfLWtGNllVc01OZmV3Vk1kbFRhTEdMR3kwcEhKVGhsOHl2N19NdHU1VXlLZ1ctM0dKdTFLYWtMd200N2JUSHV1X1dyYXBVdk5ob2Zn?oc=5",
-      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
-      "source": "고향사랑기부제 위기브",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "2026년 청년미래적금 출시! 3년 만에 2,200만 원 만든다 (청년도약계좌 비교) - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wMG5faFk1d185RmFwQzU0UFlzM3VRRWxMUFo0Z18zcURVSi1OQmpOcFU4Qndra2pEeG1DVk9FZk5YT3Y2UXR3VFlCUEdNWkhGMjJ2bkZB?oc=5",
-      "publishedAt": "Sat, 17 Jan 2026 08:00:00 GMT",
-      "source": "고향사랑기부제 위기브",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[2026년]청년미래적금 연 16.9% 실화? - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IU3BHVGMxaERJb2NnNjFEdFpCSVc3bFBrTGF3clBzdXUyX1Fnbk85QkdMSDdmMlJ0aGV5cFNxdlpIV3hDNllFZg?oc=5",
-      "publishedAt": "Thu, 02 Apr 2026 06:45:47 GMT",
-      "source": "브런치",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "연방 및 NSW 주정부의 에너지 보조금 총정리 - 호주 톱뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZbVQtRUlDWG95VXBySVJDNndVWGhNTGJXTlhWUzhodHQwRDAzYW9IMGdkUTFCX3NRQUdFQ0xaN2lvdXE3Z2ZyX3kxNFk1c21URGNweXNnZTlVTUhmblJrbE1BeG5ETXJCajUyOE83WnU?oc=5",
-      "publishedAt": "Tue, 30 Dec 2025 08:00:00 GMT",
-      "source": "호주 톱뉴스",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "캐나다 장애인 세제 혜택 총정리: DTC 신청부터 RDSP 연계까지 — The Korea Times Daily - The Korea Times Daily",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fejVuT1NJVUlGdGdMeENBc0RUR1B3WTU1bnJEVGs3am9SejhWTkJlcGtrTlB0SEdyVnU2RGp2OVhWQ3V3bjMxRldKczFZeEh0NHA4?oc=5",
-      "publishedAt": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "The Korea Times Daily",
       "query": "정부 지원금 신청 환급 세금 2026",
       "channel": "rss"
     },
@@ -227,84 +99,20 @@
       "channel": "rss"
     },
     {
-      "title": "[정책뉴스] “3.3% 시대 바뀐다”…N잡러·프리랜서 원천징수 2.2%로 인하 추진 - 아웃소싱타임스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85alZTX3BDbGhQYlhpWFZ5WUFySWhKdEFqcm1qTjBxczM0ZEpNLW1HTDlId2ZEYnBBcS1EWXp5OVRtQjdzRjVTLTlxT3VIZkY1MUNKeXBIZFR2MXZ4Z0lvMVdZVUMwVm1DcDhmdDRTY1NzQQ?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "source": "아웃소싱타임스",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "놓치면 손해보는 2026 결혼 지원 제도 딱 정리해드려요! - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pWG5mX2NWeDRkeEtkSWtzb1gzV0F5NDdKSmtoREwzb05UMHBsZW1tekJzN2lCZjM2SlZXMms0Y2tQTlZsdThhWC1VaXNXNnl1LUdUNU5n?oc=5",
-      "publishedAt": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "title": "2026 근로자 휴가지원사업, 여행도 하고, 세금도 줄이는 가장 똑똑한 방법 - 고향사랑기부제 위기브",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nanM1MjJxMmh5T1RyR1BpcV9hek9OQUNNQXhOeGNOQzZMT2tMV29iQWpWSjlBX3lYVHd3Q29udWFwd2tGWFBVRW1XTW94WTdEZXkxWkNR?oc=5",
+      "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
       "source": "고향사랑기부제 위기브",
       "query": "정부 지원금 신청 환급 세금 2026",
       "channel": "rss"
     },
     {
-      "title": "“하위 70%에 최소 10만원씩”…고유가 피해지원금 소득 변동도 반영 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KcUNpaVMzVFZ2QWI1NGxhQkJoOTdDbm1remxfM2JhVC1TSmh6Yy0xcEZuUFpZRFZVbUFBdmRlTXRHd01wSnF2RDMxZHVnc1UwVy1fUw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "source": "매일경제",
+      "title": "[기고] 싱가포르 공동부모휴가 10주로 확대…기업이 알아야 할 가족휴가...",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=130&CONTENTS_NO=1&bbsGbn=246&bbsSn=246&pNttSn=244785",
+      "publishedAt": "Wed, 28 Oct 2026 14:17:00 +0900",
+      "source": "Naver News Search",
       "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "2026 경기도 청년기본소득 1분기 신청기간 및 잡아바 접수방법 (2001.1.2~2002.1.1 출생자) - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44eEtyOUpHX2MzRjR5bWZDWUtwVTN5MThwZWNoV3JQYU1icWJxT0dSWGF3eGxjTjhKY3p3eHhIRk1ieDVFeE15cGdBQjFZRmptYzFFLTBR?oc=5",
-      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "source": "고향사랑기부제 위기브",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "모바일인덱스 인사이트 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aLXlrM19GbkZRSFQzVFMxbU1Palljd3R5eDdScm9ISGxwZGt2QTlYalRDajY3QjFMRzE3WmJXel9MSkoxeV9La1N0WTl5eTRUVVE?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "브런치",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "6월 22일 출시 '청년미래적금' 완전 정리… \"갈아탈까, 버틸까\" - 마을신문 금천in",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrUUUzTGtVbUZpY3NqdDhQUFZERTU5QjU3U1BYVDJxTU1vQW40S3ZXS0VlR04yT0tidVdzRjVvUGlocW9BVk5NSUQ3Z1NkMGZMcmc0UU5MYWZrajdrTk9BVDJPQ0FvbWNBaEE?oc=5",
-      "publishedAt": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "source": "마을신문 금천in",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "LG전자 인도 新가전공장, 20년 보조금·세금환급 등 '특별 인센티브' 혜택 제안 - 더구루",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nVGYzRjNfTXdYUWNhMTRUeUFSSm44bGN2Vmt2NU00Q1JXMC1pazRkRzBsU0ZMVG9mMzIwMVNGQlBlWDNCWXhZY1ItT3dSV21xcWtqSnNYNVg1MzZJMzVUU1RR?oc=5",
-      "publishedAt": "Thu, 28 Nov 2024 08:00:00 GMT",
-      "source": "더구루",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "“53만원 돌려드려요” 실제 환급금은 0원…‘삼쩜삼’ 고발당해 - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHRiQkkwOFhjTXBJU2dRdVhwdGRael81cl9PTUI4ZHpILWplMmdMUl9QVVhUZXpLaDFqMVgyU08yeFFUSW9oeXlLUUt2MTQtSktQOE9PUUV2OE9HMlpWN19uTVlqSjlCXzdWbHZwNkVTSVBhQnA5V0x1S2dOWXNNay15VVZxN1VRN3M4WHVkSlE?oc=5",
-      "publishedAt": "Wed, 29 May 2024 07:00:00 GMT",
-      "source": "조선일보",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "\"세금환급·보조금 지급 중단\" - 캐나다 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iRndPN2NRdnZLeTJZRXcwaDJmcTUxQ2wzTGZUeFFvYnZ0T09CZXRlS0IwbGNEN1YyRm5SSGw5a1FmX1ZQLW5ldnlSYjdDUU9qdWdsTmtwLWM2VndrM0pDalc2X2xJUQ?oc=5",
-      "publishedAt": "Mon, 04 Mar 2024 08:00:00 GMT",
-      "source": "캐나다 한국일보",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "호텔비 반값 터졌다! 2026 규슈 숙박비 지원 신청 전 필수 확인 - 네이트뷰",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSmV1RnB6b3NNb1J4UmlaUTRlNWJXaGxWdUJqWFhyRTFVSG5RUV9VX2g0WkZiNHRHcnU4cVFoTTY5ZFJ3M2t5TVBkbTBJR3dnZjNF0gFYQVVfeXFMUG5BeHA0bG9VT3UzR1d2WHl5Sk1NQU92VjdtYVpPMlBfT0k5SURrWGN6cWQtdkNTT2tjVDdPeU5LdWNORU0zX0lfam9uVkNhNlJ2VFp5MU9PeA?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "source": "네이트뷰",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
+      "channel": "naver"
     },
     {
       "title": "[테크 차이나] 지원금 공고 밖에도 산업정책이 있다…중국 R&D 추가공제...",
@@ -539,12 +347,12 @@
       "channel": "naver"
     },
     {
-      "title": "노란우산 가입 혜택부터 재기 지원까지… 소상공인 정책 챙기세요",
-      "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=113673",
-      "publishedAt": "Mon, 16 Mar 2026 13:30:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
+      "title": "2026년 제46차 위원회 결과 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1N4d0dmb25xRUdoaDd0anVyeTRpSjdScmp1UU42dW1sbVUtTnUtNTJRamhfczdhSHVDU2dWUDh6bjZ4YkU4NHZsUDRCdWZtOFBOaFBaUXp5R0RJQklBU3FOVk52NjFVR2lQSTI2UFdudUxmckFyRFhxVmlhZ3FXNUNNdHpoQVQ2OXVGVHN5Qm9iUQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:29:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
     },
     {
       "title": "창업하기 좋은 도시, 전국 10곳으로! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
@@ -563,9 +371,41 @@
       "channel": "rss"
     },
     {
+      "title": "[인사] 산림청 부이사관 승진(2026년 10월 28일자) - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPekw2elIta3czR0t0M3kzLV85VVFGZ1lXMHhsaXlrUlMxZWJEd29DWE53OEZUVUppZ21URzg2cjJnemo4clhFMmpONkZhRHdMR2dXUF9jVGxOeXU5T2pSNGFkUUhRekxvRTlNX0pMQmxCMU43SUNjQ1oyS01TTGg1ZXRibV8wblN0VDdsNTYzdjhXWTlONnJIRWRSM3lkdmt1NEhlRkpwS2dvZHBLTXVrZDI3RVhwNWN6bi03NURDWGp3RHdPSmlaamdibldBYlhwdUNYbDdMTDRXdW5yWFFSTVFCZ1dmaVhBMWt5UElvOA?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 07:28:01 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "양육비 선지급제 소득기준 폐지 \"한부모가족 지원 대상 확대\" - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yaTFJQlVqY0gtbm5KeHhGTGZoNlp3NWNZUHpGdVV1amN2a2luWXVOeTlBRW1XeGlkOXJ6VGI3M1lpb29QSDlacVpPamN2cW9WXzdWT0o3akhGUWNveGZscS1GZE1VYlFNSWRVeg?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 23:39:20 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "2026년 지방공무원 7급 공채 등 필기시험 10월 31일(토) 전국 동시 실시 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc0otLW53eHdqaThicXNONGJMMW1YVHZEZ2dsUjV3T1JvLVlHZXRwX0ZXUGV5b2Z3RXZNNDdSOGcyTmhEWUpFRjBQSlRjNkNlM2dGSHlrX2dtbjdXYTZjanJWeThsRXZ1VDRFZGJkWG1mUVdQSkp5QlZOa2xadXZBeXZza1VMUmJxSVZjQlpKZXJHRWF2Y0dxblVqSFpxTzByVXY1MjlKU2Joai1SYThFckp5Zl9xakdHTk8xelN5VlNBRmdaUkVEdnMxMUxrZUlXRkJOaHNLU3UxX1o3eUczR0dITUhwdml6NHlCek9sbw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 03:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
       "title": "\"청년과 사회적기업이 함께 만든 성장과 변화의 이야기\" 「2026년도 사회적가치형 청년 일경험 지원사업 우수사례 수기 공모전」 개최 - 대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiTC1XNmIxM21kMjJDMllHUVk3UGhNd01ndkNBaWlOMHAyanVodW9sejVRVzFIN0VuRzhwc21telBNcFl6VjNnZGpXTjlrcGNSYlZHcWVaTVpKdlhMN2tubzlNQ2tFbVBIVm1VSnVUbnlCYzNu?oc=5",
       "publishedAt": "Sun, 25 Oct 2026 23:39:06 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "바이오 부트캠프 학생들, 부트캠프 출신 현직자에게 취업 비결을 전수받다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRExwNXNCVThtNDN1V0pZN0lsMVdELTRkNjBzMVJvR244YnNTTzk3ak9GMjUwcEF0NmV3VGVGc0dFUWlXOXV4X1hXUWNnU3hHLTVjeW4wc3NXTjRoZ0FRZnBtVkV3cGhqSnNicDVnZEg3T2RHNUVfVVdIOHlTWFgwZ01BSVdsVHVlUmhFbkJmN1dpSi04?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 03:10:00 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -579,14 +419,6 @@
       "channel": "rss"
     },
     {
-      "title": "'10·29이태원참사 피해지원·추모' 전용 누리집 개통 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tSWpXd1R3NUYyTHlWMHp0MEtyeGV6d2JrV29jbnQwcWJUZnhYeE1hbUM2ZVVKb2xWYnNwS2xXVlJ3a2FiS1c1ZDk5WGVOZHAya29WZHFsRUdvX3RqYXNNa2tnTXZYRUlsaTdLTA?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 07:08:05 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
       "title": "\"이번 특강을 통해 우리 ODA의 미래 비전에 대해 알게 되었습니다.\" 2026년 외교부 무상원조 정책 특강 성료 - 대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMTUxN3djLXVKX0VrVnZJZU9SYVdid0R0U0k1ODlDR1pDekNHYWNqV3lPMzRnSFc2S1pWdDl0cUM1TzU0OEpDekMwcnNRb0JDc2s5WHlkcFR2R1VHTWZaRzBBOHg0ZkhOYnZDYkNBSlFONk9OcllxNFA0NnB6TS1ZTk81TkQwSWdkYlNNdWxqRC1WeklrbHRLdmxZdGQ1OGhyLWpBaXJOOVI5ZlFaR3l5alNDa2toVUFCQWRnTWtvQjdCMHlHMVlLMTRTeWFfQTdPSS1nR1RFX2R4VnBrT0tFWGw0Ql96LWp5cHVOSm5kOA?oc=5",
       "publishedAt": "Tue, 27 Oct 2026 08:07:44 GMT",
@@ -595,9 +427,17 @@
       "channel": "rss"
     },
     {
-      "title": "대한민국 정책브리핑 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBzZ1BrUzg2Y2p0ZU9jU25sYVlwaGgtYWlrb3V2VlhqMEdNb0l2Q0xvdzE0cENOSHZV?oc=5",
-      "publishedAt": "Thu, 29 Jun 2017 06:45:26 GMT",
+      "title": "겨울 난방비 걱정? 단열·창호·보일러 최대 330만 원 지원받으세요 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GYzV3aHNzeHNtd2lXTjhpZnEwN2pzeUtwTS1ER3hNd3pEWFE1WUlNeVBWUks3Yzh1eDU1dU4zbEFfakVvbWJ2NWVwNEpDZGJhSGh2dTA4bWdsM05FNGg1enR6VE1lRF9rdlNkSw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 16:28:35 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "2026 대한민국 청소년 창업경진대회 결선 대회 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmRPZG5mWjQydTgwNi1HSTFWZHRnTjJWZnY0a2RGSk03Wm9zOFJ5bk9KTFhsZVFiN3dLak56MDBEcXdlUXFpbXVBRDYxdEdNdXN2aTJOTnJIVEdVaE9SeXhMYUs4WkdPUGk0WjhxVG5saFNueGZiZUZaRXZBd19QNzhRSF85d05NeHU2N1lDbjdkOUJW?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 03:10:00 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -611,9 +451,25 @@
       "channel": "rss"
     },
     {
-      "title": "'달리는 국민신문고' 경북 청송군·문경시 찾아가 고충 상담·복지 지원 나선다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDRSbUJQcVlxbHZhSl9UU0FGZ2E2Z1NhT0hSTkoydmoySU52c1FzeHVBR1lQbUFBUktsNk45cE5uZFFpN0NydVNkMlZSSWM2elUydnQxVnNpMVZoSFJTQzhpTkMwN29lRmpMU1FkakdXNnZObjlBUVdfNjBfUVE5Q3QzUGpYclhXeEJFbXRnYkJ6QzJL?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 23:35:14 GMT",
+      "title": "탄소중립 영향 선제 지원…'정의로운전환 특별지구' 지정 기준 마련 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mLTZOSVRManhoU0haS0xjLWFYMUsyR1h2XzZZMG9xLTk5SjFiZmhDS1c3ZVF0RTNxZzluazAxVGQxR3VIOUttc1VpenAwcFdQOVp3TzhwVlJMNG53NjlYRUZIcUpuNWd0V1hYQQ?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 14:21:31 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "지역과 함께 성장하는 '2026 농어촌 참 좋은 학교'를 소개합니다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTAzc080Zy1SM2U1aUxwTThWQU4wM0ZqeG5HZi03a2VDSE5BNEdrM1RNSGJJZlpsNTNVandWbHdIYlFYazRtSkZlT1pzdDRySVVuZlRFRl9tTTFkY1B3QlgyRk44MjdvMGJFSHpERHNCU3F1b0JEb0dDYTBfdS1yR2tpZGdHcUJTV3ZsLUhVTTR5QQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 03:10:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "정읍국유림관리소, 10월 안전보건협의체 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXk4dkRsUXRQLVktcFhUTnlHZFdzNmxZZkhmbERGeHNHZF92R05qb0dLY2NWU1prampTTFpnVElRVW9aV1dnYjZrRUhGaWdpLURTWEhOSnJESm01ME1zb2p2UnZha3VuSDgzSm1zQ29IWW5RTGxTQUhWdWV6OGlOdUgyMml2TTJmTjNqNDVRTnN1UQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:06:10 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -627,6 +483,14 @@
       "channel": "rss"
     },
     {
+      "title": "2027년 유기농업자재지원 강화…녹비작물 종자 선택 폭 넓어진다. - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjdreUdpRUlYS1JycFVmQlkxZ0RjVTVyUUpFVjlJTXp0Z29Oblg0Tkc5Uld1UlZqU3pCOGlGRDZ5TWNxX0pZdUgxZG11Z2VwWlhseHA5dm8tdFR4dy1tWHV0REphN0dwSGhaMjdaV3RVRFl4aVg2R3dCbHJESE5tcHJFSjNOLWlYWFBuT0wtc1JvQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
       "title": "제46회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwTkJTVWY1WUJfdklvb0FpcGZPS2VFUGhONEhtdUwwdEZUMXBOQ2VYX1VZVDVSMlFiVWtLYWVlUzZmcE9kUXJXdjBqb0lET3hFTWN2bjBST3ZnemRWaVg0cldjTTZxX2NGMUVjY05PZlU?oc=5",
       "publishedAt": "Tue, 27 Oct 2026 06:05:00 GMT",
@@ -635,17 +499,9 @@
       "channel": "rss"
     },
     {
-      "title": "발달장애인과 가족의 일상 변화 위해 발달장애인 돌봄 국가책임제, 현장과 함께한다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlA3bEl1TDBRVVRzMmpsMWkzeGcyaERlNVM1Y0FXYS1YRXk3QmJKREQ1SlhhdzV0Q1cwV0d0RHUyT0U4VDdwa1AzMUVDUFlvZm5XMXIyWlU0b3p5Q2EybHU1VTVkaF95MEc5WjZxR2VtTjgzMTd5NHpySVJKbnRnY2d2R0sxb1VfMTdzemIxaTlMb0tl?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 04:21:13 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "「문화예술진흥법」 개정 논의, 예술 현장 목소리 듣는다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWctVEQ3MXBROExGYlpHd0VBWnBfWTUwUnlSZzNiWHNueVZuM0pJZUJWYTc5Q1RLeml6T3JoV2tmaUYtR1BUcXFHeXRrZzh6bUI0X2poMkdBVmZrakZJSTJFUUNJb1ZzaHVla0prY2xXNzdmczhjMUZPN0ROOGJteHZRRkw5NzE5LXBFUGdia0wzNVp1?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 23:02:42 GMT",
+      "title": "10월 4주, 한눈에 보는 금융정책 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVphb2lvb1RHelRiMV9hMl91RG5KeDllV0d1ckUtMG1PRVNGZVpTQjlMelFXRnRQUE8tTFZMZ1dlZ1FIVGpoUzRpcmhTSzVtX19KY3U0RmdyNFRWRl83UmoxdmpnVS1oblE5emRXNlgtZWNtUnpPbEppcFp6TGY3Vi14WDVHYnRjZXFn?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 04:30:39 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -659,33 +515,49 @@
       "channel": "rss"
     },
     {
-      "title": "한국형 녹색 대전환(K-GX), 새로운 사업기회 연다… 대한민국 친환경대전 개최 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSms2QTRQSjlmZHhXM1NKZHh2c19jN19XRk5XNk1UMlBhellud3NSNTFsQ19XOTlpc2tsUUVQODdhX01XdzBabWJfX3dZMFRCcVNHN2Z4dE9UVGwyLVY0SHhZSnFlaWV4Rms1djB6UjFzOUVMS1RSN1QyWExjS2FUYTNIRmh3djktUGs5SmdqSGh2dw?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 05:00:00 GMT",
+      "title": "「문화예술진흥법」 개정 논의, 예술 현장 목소리 듣는다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWctVEQ3MXBROExGYlpHd0VBWnBfWTUwUnlSZzNiWHNueVZuM0pJZUJWYTc5Q1RLeml6T3JoV2tmaUYtR1BUcXFHeXRrZzh6bUI0X2poMkdBVmZrakZJSTJFUUNJb1ZzaHVla0prY2xXNzdmczhjMUZPN0ROOGJteHZRRkw5NzE5LXBFUGdia0wzNVp1?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 23:02:42 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "2026년 제45차 위원회 결과 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtb3FPa0UtZHI5YS1KUk5uZDFJT19fZmwxSWdjV1p5OEsxMjB5UmRkaW5Tc0pxc2k5WXJ4cVAxSGFoT3ZULVdnRmNXWm1iZVpCR2g2RlFhaVFSU29OdUxFNFdZSGwxLVoxYmpqMTRKS3FfZG9R?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 07:05:00 GMT",
+      "title": "발달장애인과 가족의 일상 변화 위해 발달장애인 돌봄 국가책임제, 현장과 함께한다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlA3bEl1TDBRVVRzMmpsMWkzeGcyaERlNVM1Y0FXYS1YRXk3QmJKREQ1SlhhdzV0Q1cwV0d0RHUyT0U4VDdwa1AzMUVDUFlvZm5XMXIyWlU0b3p5Q2EybHU1VTVkaF95MEc5WjZxR2VtTjgzMTd5NHpySVJKbnRnY2d2R0sxb1VfMTdzemIxaTlMb0tl?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 04:21:13 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "지방세 환급금, 12월부터 민간 앱에서 조회·청구 한 번에 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jck03QWZ4ZVVnRXlTRldTWS1oQ1ZkYl9kRy1tVDV4bG5saEgyTzdIUnRRaWZ0eHlxcUIyaWxUaVRHeWdmZ3BzYUdyUHFsa1lhdThjWTJFRDV5Z1lNUHhNeWNSeFNNQ3U4Slg2Rw?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 20:06:36 GMT",
+      "title": "'해양수산 AX전략' 발표…2035년 자율 선박 세계 1위 수주 목표 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BRTNEaEJVeEQ0bDctX1NZYXNGdlJoUTEzaVBzRGp3cllzbmxTNWl6N3lvRnVZWGQ3YklHRHdlOGxZT2NDWDVaOFRvSFdWdWlQX0pnNjBQS3ZpTTVJc0U0aWdRTmdQamU0ODBYVQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 12:45:49 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "제주 로컬 크라우드펀딩 판매전 개최 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xb2V5MGFZM3Fxd3YwS0tjR2I3dzBwVGI3cFh3d0pyLXFORW9xWkZ2NVJNOWtwdFFBOU9ZcEpJMHU1YnBRbVdWdjZ3Z1FQZHZHaVlCaWtkUmJJeUl6ek0wQjNEMkdtOTRFbW5YSmFUX2hMY3Rs?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 21:11:13 GMT",
+      "title": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORG8wOTZIOENOVVFKUFdidDQtZHh0SUFPb2pjQ0M4cjZ3YWxVM0ljU2NrTjVGTUV3cjhqX2xUdF9oSjUwc2h0THRqSUlNeFE4TkZ5dkpkQ3VVVDN1bUt0Y3JJSUlNU3R5R1RzWVZpSkxHdGtrYlJ3ZmdFeUFKX1c3VW9vTXpRaEZEbzM3ZWVvbmRNUTdoeUk0UnVuMkdlNURGZUx4aTNYNUlMem5PZldLV0RSd0E0RGVibnJKVURVRVROS0lOT1VhRWpXZU9LVTBUcG9qbVhxSjd5RktzTEZ3STVWOGE4QkJTbjMycV9zWQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 15:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "옥동식 셰프 \"한식의 힘은 고유의 맛과 철학, 그리고 정(情)입니다\" - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwV0tNaXplcDJCSEJNbDZPRGx0d25aS0t3V2pZbXV5anVQQ1N3cTV6MUs2VWprVmltRUJZOUtOOW16SzRlak8tdFBGby1Sc3J6ZjhUdzlteXE1T3hWOGo1RnFYWnQ2RlJ6WDNxeQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 08:19:25 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "건설근로자공제회·전문건설협회, 기능인력 수급과 퇴직공제 이행 함께 챙긴다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVlFTaEU3Z2FzQzFfVlRKVGtuaUVZWkhQWGs5dDlPcmxRZEpDQl9vaDRtN0xBdngtVzE2c2NlNXJuQldnRlJ0WGo1M0lCLUM5LXlaTGhCclF5Q0JDVWNwRUVsSkVFMHBzMENoMDc3T05JcDRRTXpabHE2cGpXSjNKcU1Id0I1QkhHWkdoYXVMSFpnV29mUlp0Mmt3SWJ4Qk9hTE5GRXhhSFpIOEdJSnhYWEtLSVMtekd6d1U4Wk9XNXRnLThmM0tZWlJLZjgxZ045VFJERnJIbDZILTRnYTdvOE9rRDB5X1ZKRXNYdTdJbw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 01:48:44 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -694,6 +566,14 @@
       "title": "농식품부 장관, 보은군 방문하여 농어촌 기본소득으로 나타난 지역사회 변화 확인 - 대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUpHZ2l0OFVuanhGSjhvYnJoczUtNFh4VG9qUGFsVmFuaHUtLW5Qejc5c0tYQ0NPbXl2N0tOSXd1ZDBzYll5bXZKcWluZjUzbHFBdUpfM3pQR2lCeTF3enB3UEF6Q2tidzQxb2dOX0phNFF5a1BzRUR6dFRKVW1EdDhDSVpPbWFIbXY5MlVzbE83QQ?oc=5",
       "publishedAt": "Tue, 27 Oct 2026 09:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMk9pWWlOT0swS1BTMzR6QktUR2pOVm0zb1dOemphWHNuZTFtelNDUUNoWG0xSEhySEd2eElnQWF1TVhoejZKYTh6akliRjNaR3lWRHpDVUxsRTdmOFVzUWdjdlg4YUFTQ09IMGV5Y0ZWT2pDVlNzaXl1T3FiSDFsSDZNbXZQY1N4WnJIelNsX1NqQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:24:51 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -715,49 +595,25 @@
       "channel": "rss"
     },
     {
+      "title": "경찰, 「지역 유착 5대 비리」 뿌리 뽑는다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2RkTkY1VXlxMncybEVSQUFtWDJjSWJqS3pFQWVJaGQzck9kS3Ytbm1xeDZpNEhlaXRfdGJ6NFd0enFYbW01ckpiWEhPTHZGTGJPbUhuMWZNenk3OVQyZjNFSWxPMmhFVnBsQi1qT2lsMGd5M3dCUFRhX2tlMm81RW1fZmliUVo3NzdjREdSVjFUbl9wUTU3b1RTc1NFUmswd3oyeExiUWhndDdDUFZMRzNrX19La0ZMM3lvMS1FVjJrc2tONkJMdThkNW5oQ3owV0JxM1ZyQXdvS2MzYnBsMWhwYmcwZjd2SjA1YXJoaw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:18:28 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "지방세 환급금, 12월부터 민간 앱에서 조회·청구 한 번에 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jck03QWZ4ZVVnRXlTRldTWS1oQ1ZkYl9kRy1tVDV4bG5saEgyTzdIUnRRaWZ0eHlxcUIyaWxUaVRHeWdmZ3BzYUdyUHFsa1lhdThjWTJFRDV5Z1lNUHhNeWNSeFNNQ3U4Slg2Rw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 20:06:36 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
       "title": "견조한 K-뷰티 수출 상승세,중소기업 수출 역대 3분기 최고치 기록 - 대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNjNtNjhNLWRLQTNDTEdUWU52aEtXUlV4OF82M2x1VEtLemRoSUVfbjNLUG5ELXpra2FmaEhITHgyci1Lc1dxVlN5dnFDNjBveWI1WGhET29TdkktNEt3QVdhaENWNmJFb2syd2c2bFBYd3lSVlk2TjZBSFcwUWtSd29KNXliRFBBUmN3LXRvcXo5Zw?oc=5",
       "publishedAt": "Mon, 26 Oct 2026 04:23:44 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "\"성장에 날개를, 민생에 활력을, 지역에 미래를\" 대통령 주재 규제합리화위원회 제2차 전체회의 개최 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1NYM0dCZEFzcktuUlZxeTRxWGlWUG1EUG10SkZYMVh4dkk4Q2ZRWTNMUnNZMHdvdUZVTFlTZVpIeHVSc19hdnlTZFhMX010S0tUQUpFQmotWFNYZXowVUFibldiTVMtODhQQ1lfMTVkbXU2TDl6QkNUYXJTdlpLUmVHOXpUc2tUMTE5ZVZfZGE3R3l6?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 05:00:00 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "10·29이태원참사 피해지원과 추모를 위한 누리집 개통 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS2duM3Rpd2ZCeUVpZ1BoZVB5X1VhRk5Pb1MxN3ItZHowcU50dFpBM3A5azg0RXhVNnRuTXcxaFJJemh0SFBGZ284TWpWdENUQTljY1BpY1lJdTlBaWVVd1Nxbk94ZVlJM25FcjJ3Si1nRkNqa1YwdHltaWVGZGpXdFBDemU5OXNiUG5lQ3lQRUhzb0lVS2Q4MFRaalBYdXhUVlBaZWR2SXY1bGQzTmp6U1YwQkdKWTExa29rM1ByOGNzSGN5MnlzNVRDMmE0S2R1Yy1xNXFDWGQ0T2x2UkJ0NlFXRkNrSDFfQUQ3anc5aw?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 03:00:00 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "김혜경 여사, 2026 한복문화주간 기념행사 관련 안귀령 부대변인 서면브리핑 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWp6ak9KamtDRDlGSl9BOHBvaDNPX0NaWDNvTi1XWWFfV2dYaTFYQTBKTS1qMXFXcHBPbXQySGhfcklpNlN2dzZmcUl6eDhJdk5GQVh6UGlQeFNwOVd3QW9ZVmFsT3FMZmxQbVdwQjhiaW9yQmt1S1MwNnZFUGV1QzZzeTJVcG9UVDZ1Rg?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 09:34:38 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBraTZJQmJuU1NQRW5fOGpUc0dUYlgxbzBrMXpqLTVmbi1mUFp4V1RuVFFaaHBfNTlNTkFsb08tendMcnBlZWJldXQ1R0Fvek8yaEJxTFBSOExkUDBOV2hjWWZ4OXFlOGxyZkpXQ0R0SGpuVjZN?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 02:00:00 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "농식품부, 농촌융복합산업 창업기업 투자 유치 지원을 위한 행사 개최 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00V1VWTjdmUUdWakF4WkR5QndPTHoyeWxIYjNkZzlLMlNlVDZhWTVtcERCLU5WMF9pR2xkM1pFWHczZkVIS3JINHVFM3VobnI4ZWJwLWJZdk5FS3kzZUF6SElVbTRlSDRrWnMzRTlHVHFBSzJk?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 02:00:00 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -771,49 +627,33 @@
       "channel": "rss"
     },
     {
-      "title": "이 대통령 \"우리 경제 새로운 도약 기회…국민 체감할 수 있도록 전력\" - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pOG1Md0hIQTlSUnE0WndzdFlQcG1EenNfOUNsSlhDendUMkFLc3kzQXhFbnJXN2NrbGV4WF9ZY2ppQ1NDR3V1RWxHRWQwLVpVX3VRUW1QRHF4a0hlaFdyNkxfWldNUlFfVDNZcA?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 09:03:52 GMT",
+      "title": "은행 '포용금융 종합평가체계' 도입…등급별 과징금·출연금 차등화 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ob2hrVVFUQ2xCS1VwZVMxbWhuTWhmelZyT0FjZ2Q3Y2hydkl4NWpUUFppQzJycjFLdU9lcVJFOC1xMFBka01OMDR0Y1ZYM0RRMkdVOVBoZ0VWcmlHZ0FEVWJTeWZHMjJXMFQ5YQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 08:49:57 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "더 큰 성장의 길, 규제합리화가 열겠습니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFZFNUtEYWtTU0ctaXFXQTFhY2xwdElyZnhSSXAxdElrWG9ZVHRuTWhxcDd5Y3k3T2k4aXdQV2RnWTk5bTJvd1pZRmw1c3lUM2RDUmlCQkI2Ykp1UGx0SV9ldUpwZGJHNWZiYWFHYUYxM284ZDNjNVJoY1NTdFdYNEhDRE5QUTBwRHc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:11:15 GMT",
+      "title": "'제81주년 교정의 날' 기념식 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNDU2NWJralJTbThZcW1SQWh2bXlQSTJveGZVdHloQzVadE1lRm5Qd25FMnpTb0RFS05nRXZveGhZcDBRYk9hdWl5dTFJcU5JS3N6SHNGTmo5YmlacjVMcy1CeDMwaXJLeXFhQk9fZ1JsTENrYjIyZ0dFTU9oREpMejNPVUNhVzdjRWpNOVU1bnB5TV9OdkVrY0ZBRFdNWnFQa2MzcUJnZzRJS2llTU5BZ0FNZ3BwYnZhaURwRGowZ04zRUZKQ243cS1jdzV1clZWVmJlXzBvazIxcTdfblc0N2NGTXEzb3lyOG1QejMxRQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 01:50:11 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "폴리텍대학, 부산 벡스코(BEXCO)서 동남권 청년 취업 지원 나선다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHVxYl9pOVVrcUtrWVhZWlpBWExlWHNYUWhDZVFxelpCSFBhekV1Q3V2Z1VQYVFTVUJxaThMTldFWXJyd2paLTNCbEFvZFd3WFQ3Y0xadGg2dzY0UGxaWVhlaVFqRU9IVW0yNnduTldtb2YwUk43MElUNTRKVkhEMDhMRnpHYjJ3cjFvd2U5OFRkUQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 01:42:50 GMT",
+      "title": "대한민국 정책브리핑 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBzZ1BrUzg2Y2p0ZU9jU25sYVlwaGgtYWlrb3V2VlhqMEdNb0l2Q0xvdzE0cENOSHZV?oc=5",
+      "publishedAt": "Thu, 29 Jun 2017 06:45:26 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "민간 채소 품종 개발 지원, 육종 소재·기술 한자리서 공유 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KYWsyT0x2LVFwcHctaWVMblc5X1M0S2lzUE5iejl3NVdPcFVHbWZXcFgtbU1udUdaOG5qWXZJZ3kzS1JSTndXRHJ0eWF2QlpJR3NqNXhiVDFqalJ4VGM2QzdoUWxwUHo5VFVCbFk0dEVlNHdG?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 03:57:15 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "2025년 이주배경인구 통계 결과 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03N1ZtMjZpY05mQVBVZTlyTURNUHZBN1RZRy1INGdVWklZazdON2JvVGw4YTN3bEd0d2poWHZQWFQxeUNiVlJYSFNob0djQkRNUS1JMXB3LS05aGRZNFJoU19uT2hSTW1iejhlbkhJS00zNzFNUXFN?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 03:13:57 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "문체부 장관, 대중음악 전문 공연장 '서울아레나' 건설 현장 방문 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0tfYXhoR0tlV2QzQV9kZ1JUamg5MUxTaU9jZDF0cTFEa2I4czBaNmt5OG1uVXBsa1dRLTNzV3JRcllodzB6S2VPSlR1UUtnSmR1MW5BS0FwTUdOZk1zdDdRdWdpc05mLWtfdi1NbERNNFlFb1FvQjBKblo1dDlWczdobVlMVVYzR3A4QmFpblliZw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 23:33:32 GMT",
+      "title": "농식품부, 농촌융복합산업 창업기업 투자 유치 지원을 위한 행사 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00V1VWTjdmUUdWakF4WkR5QndPTHoyeWxIYjNkZzlLMlNlVDZhWTVtcERCLU5WMF9pR2xkM1pFWHczZkVIS3JINHVFM3VobnI4ZWJwLWJZdk5FS3kzZUF6SElVbTRlSDRrWnMzRTlHVHFBSzJk?oc=5",
+      "publishedAt": "Sun, 25 Oct 2026 02:00:00 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -827,17 +667,97 @@
       "channel": "rss"
     },
     {
-      "title": "3기 신도시 교통대책 '직접 인？허가'로 속도 높인다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT05qTW9jbFd2Xzk4VE5Xb2lCVFI3ZnVRaTBlbU1mM3h1TFhPTk91UFBiM0VoamlqR2pLTTRXOWpKUXpnbjlXamhlTHlwTEpDQllMWTVfWUE1b3pPNjZQQzdLUmZUOV94R2J5ek1iQ3NBYUFzTk92TlJmdWRXa2xqd2lZNjdTcVBnOXZTRFhiWG42bUw3?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 02:00:00 GMT",
+      "title": "'혁신기업의 성장 사다리, 공공조달로 잇는다' - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFIzcW5hVFppMEtaa25FbjVUYVNSSGQ5ak5jeWZFZ3QwNndNWGNMdFVzaVVUc3I4cGhXUUNFNTRlbUtya1RXaURxdTVJbkNmYV9zUHRqdmFXNVRhVmRzQ29Pbkp0cU0zM0dwZGVvQkFLS2FDcWY2Vks1LVhvX1d2aW9VdnNTYzBWYTd4Wmk1SFY1Zw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 23:55:29 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "통일부 정례브리핑 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTcVNHVE4zVzB1dzd2RUZQUjlRd2txdklWaDBBQW9JcW1XNlQ1bjRkdkpMXzU2NVVxM0llcTJrS3pQbkFMSzlrT2JhWE96cXRfMHFnbEkzR05ZVHdCdnJ6LTVTVXdZaEJuT2VGSUNON21WS05GSDBF?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 08:37:15 GMT",
+      "title": "즐거움과 할인이 가득, 우리 수산물이 한자리에! 수산물 직거래·유통 상생 대축제 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rUmhRSElfWktlZWNUOTZhQXFWNklSX0NTdy0wUHM3OW42VmdxVC1PcWx3T0R6V2twdHNpRUUyMXE0WEY0RUl6WFhON3BWcmVkeTVkX3ZQNnFSOHh2aXFYeERXWHg5c3Z3Q2M1R3FYbEIzMGV2?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 02:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "제조데이터로 자라는 M.AX,M.AX 얼라이언스 ｢데이터 분과｣ 출범 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZUJ2TUxWaGwzOV8wWjJNLWdRODI1R21lTEhtMG9nMEs1THlBR0NnT0pYQ2JxdmpmMHFDd0VDTjk4cGduN3VEdFZpMF9wZ1NiTkhiTm5SZlJHM0R5VWlpSExfbFA0Uzd1a0Rfb29sTDBobDJmLXBSM1phY2xURkttSjJITUFRUkZQSW9ETEN4OUluYVc1YUZieHV1THdWbzVrRTlsdE5Ld0xWd0pOM1Y3b1VfVFVRVDlpbFhLODlpNmV1TUljbFFTT2JuRUtKUkp6MDNIQnMzaE1oeWJuNC1SZl9VTEVWTGwwZXVieUVPVQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 00:08:27 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "\"성장에 날개를, 민생에 활력을, 지역에 미래를\" 대통령 주재 규제합리화위원회 제2차 전체회의 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1NYM0dCZEFzcktuUlZxeTRxWGlWUG1EUG10SkZYMVh4dkk4Q2ZRWTNMUnNZMHdvdUZVTFlTZVpIeHVSc19hdnlTZFhMX010S0tUQUpFQmotWFNYZXowVUFibldiTVMtODhQQ1lfMTVkbXU2TDl6QkNUYXJTdlpLUmVHOXpUc2tUMTE5ZVZfZGE3R3l6?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 05:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "「한국의 갯벌」 세계유산 확대등재 기념식 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZDgyMHNYNk80SDJycmh2d2NBMmxubzhmUUF2SDBmN0k1WDZKTGM0dmNIS2lQclpGc09wQTl4MmVGZUEtNTRrVHhtYnc1MmQ5TjlfQzFXTmlqQko0Y0FXQWFHV3p6djFNRkc0VnFDSUxDR3dSdGxFY2I3dW80ejFkdHNCdDhaRzFtMXZHYTRUZUVyQ0JJLWswcmlzVm1pdC1pSUpDeUxnaTBkckRRUjBkTmpjRXhCbVJLS3FYLUp3dGNwMEhzRkUzeVZLM0JyTmxvbFFrODhJN2hjTHVtUVBjUDJlbUl0ZFQwbTZHTGpydw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 00:09:40 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "2025년 이주배경인구 통계 결과 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03N1ZtMjZpY05mQVBVZTlyTURNUHZBN1RZRy1INGdVWklZazdON2JvVGw4YTN3bEd0d2poWHZQWFQxeUNiVlJYSFNob0djQkRNUS1JMXB3LS05aGRZNFJoU19uT2hSTW1iejhlbkhJS00zNzFNUXFN?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 03:13:57 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "관세청, 가짜 '메이드 인 코리아(Made in Korea)'로부터 '지역 중소 제조업' 지킨다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazhYVWdpSnRTYmp6STBxeHdMalRBTHVmZU85ZVBEN0lRbDR5RGMzd081aC15b1VJSkwtZlEzazhxNFhMcXNnaHZmRHVhdWxWUW51S0N4X3o4NkVJdk8zRGdCb2RfdDZ1bW00NEVGMlFWcWl6bTUwZGdzVDNoTWpYNjhuNHNVVFdYMTBXUE5IeVV2dHdC?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:54:24 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHNfVW9YR0VUZzR5ZTc0RnlOZU1VYlRxSnoyZEYyRlZ5NkJzREZmS2JZZklXWXlYaHhhcHhIdTlTTEVEMFRpWHByY3BueUJWUXRzWUZkMU1OOTBURG1HWE53NlpnTTRfczgyUmo2YUxjOXRwWkFFNmdrenBoSjdrbEJ6YmlTQUZUMU9RalFJeEtJZw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:50:48 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "폴리텍대학, 부산 벡스코(BEXCO)서 동남권 청년 취업 지원 나선다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHVxYl9pOVVrcUtrWVhZWlpBWExlWHNYUWhDZVFxelpCSFBhekV1Q3V2Z1VQYVFTVUJxaThMTldFWXJyd2paLTNCbEFvZFd3WFQ3Y0xadGg2dzY0UGxaWVhlaVFqRU9IVW0yNnduTldtb2YwUk43MElUNTRKVkhEMDhMRnpHYjJ3cjFvd2U5OFRkUQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 01:42:50 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "2026년 3분기 가축동향조사 결과 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IaEdzV09hYm1xY0ExUkJuUUZqTnozZmw3QWJKNk9pd0gzcUtaMkFLSi1zWE5JQ3QxY1NGMDZSMmdsRzFKZ2o2d0M0YlFuVG5ENnVyTmRBTmZ4WGhlcGpsR2toNWw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 23:58:38 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "조달청, 한국수출입은행과 함께 공공비축 확대 나선다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOERXZ21ZdHM1ZlI4QWRycWJpNzhnOTBpVzU3MFQ3M0NjSkYzcEhSR2lPOEc2amhMSkVNVDRqXzFkWm1vYUdhMFdxVDZ1MFRIVi1OMUtCRVVqMUdXb05aTVh3OGJFOWFWdVNGS2ZfM0VYN1ctQmFZYklPcGJicW85Z05YSDkzSk9hWlNXNWtvdnA1dw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 00:51:17 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "실손보험 청구가 간편해졌다…'실손24'가 확 바뀌었어요 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMlVGdFpVdjdrRTYxRmNRaGQ2WnFld0lILWJpVGk4RlBwVTBKOWwtYU9UMGdWbjVJUVNWaUhfWkJPd3pHaUFlWVF6bkstYmxfN1lrZlRKZmZCM0NwNU5IbHc2LW5jY1RTMmpEZ0s3WExjNXE5dzZRZXZLZGtMNHM2M3I5Q3QzOFE?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 17:45:43 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -851,41 +771,73 @@
       "channel": "rss"
     },
     {
-      "title": "'하나의 바다, 하나의 안전' 해양모빌리티의 미래를 부산에서 만난다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tQ2daYjFvNXByR0lqUmI4WGZVRERmTldzRnhNUENhYndCNTUteHI2VF9JVlhITVlWY0tRb3RzbWdzTmdsQzNQMGhxR2NyS19LTkpIQm1EYW85d1NqOGdGaGlVRDZ2ZWxPc081R2ZkWTM2OHFh?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 02:00:00 GMT",
+      "title": "전통공예품을 우리 집에! 'K-CRAFT, 일상이 되다' - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00LXRKcjM4d254VGs4QzBVTXRFSUZNMFl3QVlDZDdIcnJ0eDBQelp3VUg1RFU0N196TmtsWVBYcHl1ZlFoRjBwR05sam5oZnBkbXF3TXB6RDNORjJfdWxGRWF5eHRNOG56X2c?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:35:59 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "인구위, 대구 미래세대와 인구문제 해법 논의 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mVnZHRm9faXpzaXRVYUtqNVJyTTVlQUx5dkxkWE9xTkZ4NGVBanhkR1EtdFh2ZTBxNTd2SDRIT09jRUMzd2twd2c0em1keFNyampReTdJcVhQWmVhNEc3VmNoeHZ2VFVfX1JQVUxjWVBnc3Q1?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 15:00:00 GMT",
+      "title": "지역주민 곁을 지켜온 80년, 보건소의 새로운 100년을 준비합니다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTHBVd0gzb3M2dGdVT21yVlBPQjZZMUgxUGRhdEYyRjRnVkNHZFFZR0RLYS04ZnFRMGxTUFVMSXZDT3FRZ3F2c2lkUWdSSG1yVGNIMC1uRmEzN0dMblduRktGalZvWFJTRXlaMEJoQW5wQy1JbGtiWVhRMnduUmhGM1VOTnJQLVUtR2lqeGlFSThGdw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:50:43 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR3ZjWnBmanBxVkszOUJ0dmxNdGYwR0FzQlVsSDdybm5RX3lNODA1TVN1QkNBOFB4OVlPVlp4MngzWEstb1ZwZlY5UFVEZ2ZreHRaTkZENm5QVXZkdzRRMFFwcUtiQTh4bzN3aUcyR0ZWZ0NWcHpZNWNUbjFFRnNrWGtOai1TSVBnWTFrQ0E0UDVkel9ZcVRrTUhqcmx2STN0X0VpcFpMMDItV3hCM1J6UGJzMlYtTXdVVVFObVFHN19nVW5yZ3RVQ1Jsek1QVEEzcE80OVBwdlJkay16RHBLZzlqVU5KU1pvaF84TGdIaw?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 07:16:30 GMT",
+      "title": "중소기업 수출을 선도할 혁신제품 한자리에 - '26년 K-수출전략품목 출범식 개최 - - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVljcHkxRUVrM0l1bmVrTm5SYlRoSlFFeHotZjMwSDdVMW5mR3JfVDJaUF82TUVWTUV4OHJ5dW5JZVZvLWdjZnY2eG9kWl9UaTU4NldGQmQ3S2lPSW81Yi0ycVRfaUlFbnRPYXUyTFZsYjliTjk2c2tZQnRNeVNEMXVBcFNIUi1VWWExRHUzbnA1QQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 06:00:48 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONThPTXVPSTR2V0JvaHVDRDB6M0RUT0VNSEs2Z01ScWxGUm5WZUNMVmNzSXN4c3dtVmFtVnZhR0Z5clp2YjJkQjNYcE5yU2JCTUx3aU9BSXhnWkNBZFBTSzVKMnA3WnVPRFdzblF5QWRIWmJjVzBBWUh3QmxacTRxWjAtekk5S0RyQ0tJZmtrNUNfTzVy?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 10:03:49 GMT",
+      "title": "한·중, 특허심판 협력 강화 나선다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTURxVXlPbjl4dFBaQ1p0RkpmYTdDdVdaMmUwV1ZybmFfSjFUMjVBSHhPVURHSk9COWxIbERYVzBxeDI0SktkcVBIWnpuaXA5SkxZWkg5cHcwOTdPeUJJeDBFRGx2dlBEcnBmSlluaHVXbnM4QXhXUmJweVRQb2p6TFZXSGdHSF9CYzVBUWV1V3NlWXY4YWJQaGJmeVJwVkE1SENLXy1uVTlwQ291TWcxWXVTb1ZaeV82MXFpdDlRbklOVDhkdzkzd01tRHJUdzZCeW4yQVhjeFlHVFlJcGlfTERraFkwbkJTbGRhRVZVQQ?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 07:02:47 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "「한국의 갯벌」 세계유산 확대등재 기념식 개최 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZDgyMHNYNk80SDJycmh2d2NBMmxubzhmUUF2SDBmN0k1WDZKTGM0dmNIS2lQclpGc09wQTl4MmVGZUEtNTRrVHhtYnc1MmQ5TjlfQzFXTmlqQko0Y0FXQWFHV3p6djFNRkc0VnFDSUxDR3dSdGxFY2I3dW80ejFkdHNCdDhaRzFtMXZHYTRUZUVyQ0JJLWswcmlzVm1pdC1pSUpDeUxnaTBkckRRUjBkTmpjRXhCbVJLS3FYLUp3dGNwMEhzRkUzeVZLM0JyTmxvbFFrODhJN2hjTHVtUVBjUDJlbUl0ZFQwbTZHTGpydw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:09:40 GMT",
+      "title": "정부, 가을 산불 대응체계 강화…실화 처벌 '징역 5년'으로 상향 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3hIazJIY1N5V0p3b0xKdlNkLVJTRjBoai1IZ1VTSDhOWVVlcGF2RG0wem50VnpWMjdFTGxsZTZIRDMxbDU1MmxxcnpGYUZQeU5ZRUJZdWdjWmFET2NSaF9DcjBJRkYxOTVaSTl6c20zWWlYRUhKN3NCcWNJZ0JGaFZTZ0hodWtjdlE?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:25:28 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "새싹을 지켜나가는 따스한 연결고리 '새싹지킴이병원' - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnRVQUZaZWZ6em5ickdSZi1wNFFWYXNDTUZfNUJmN3F6ZVdwTzIyRExBZFNGeDFhMnR5ZC1UM3Y2NmI3b214aExaYWVmbnp2MkQ0bi0zRWhRc3g3SmYtTDNqZVBYd3NlRllBc2txS0I2Y2hhb1RDVGlyaHJHYWozMktxb2VWZE0?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 19:07:30 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "대학 등록금 올리면 증액분 어디에 쓰나…등록금심의위가 확인 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zbWFobncwZ0ZySDRIUTJKSTBHdVhka21YejQ1TTgwZnhLMFhQM0tMUnNQQU5HUm5hX0YtMzR4aE4zcGhMWkp5OEx6dHNVWjMtSXFyZmJmaldNRF9UQm0zWk1LcUJ3ZEZaV2IxdA?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 21:11:15 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[보도자료] 국제개발협력본부, 인재양성 ODA 현장 간담회 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMDZkM2NsRThqLXdURkRmbm9ITFVORFdVVHNxRWhYVHdBS3pmZ0JtTkVtczRCeWxhakRTcGlTRmd5WV94eXVvTEZWVFhQLTJnd2JLdURoT19oWXJpZTBxUkJzVW52MFJ6eWRWRTd5bHVFVE9M?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 04:21:33 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "'고흥 우주발사체' 국가산업단지 조성…2032년 준공 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80MGZNOTNZeUQ3T1BTSDdvbmRSNzhkc2g0Z1pjWWZqaW0tM2lhcTUzTV9KUVJjbWN5SUE0N0xNblFXTC1IMk9xYnh2N083UnVzUF92NVZGOG9ubTdyVmZ6WURvdndJdHB2d0M1aw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 09:00:06 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -907,17 +859,49 @@
       "channel": "rss"
     },
     {
-      "title": "\"각종 기업확인서, 이제 매번 제출하지 않아도 됩니다\" - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CZkhNdzFzOXFlRVQ0OFExc0ZpeFZ3X0JqcHJzWS04SjMtZFNlRklJQmNzdmh4ZGRFVmRIMWxMek5NUDZjdm1VU1BpV0VfZE5kUWVCLV9CU3dvWnRpM21WQVgtU3U0Zkl5YlBuRk9hZEh0Y2lB?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 03:00:00 GMT",
+      "title": "겨울철 화재, 예방부터 현장 대응까지 빈틈없이 대비한다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZYUUtYjlja1NMTzVhMlRMc1o1YmxnNm5WeW5JRTdDcnF0eUoxakRXcVdnOWhDZnFTYkF4LXFCR0s4ZHdTVnF3WG5rNkFBbkxRajJzZXdOSFU4M0ZaT0htb2RmdHY3MXJfaVFtcGRSX3Ffemp4?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 05:00:00 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "[Vol.933 대한민국 정책브리핑] 디지털온누리로 결제하고, '최대 3000만 원' 당첨 기회를 잡으세요! - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0RJU2dXUXlWRGI5N1h4bXFxdk9Hd1cxR091S0xadThISGVGd3lZcmo4UjlWRlJWeHFVZXBkUVVBdlNXMmhqQnBkdmVNTXlyRlhSVDZCZkRzMDNyMWlWaU5vS2xQUU1PcDY1d3Q1ejN6SkV4Q0hOXzhuZGk1bUcyNTM3MWluaFJTNFR1SXRVdlR4VmxScjdN?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 03:06:44 GMT",
+      "title": "통일부 정례브리핑 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTcVNHVE4zVzB1dzd2RUZQUjlRd2txdklWaDBBQW9JcW1XNlQ1bjRkdkpMXzU2NVVxM0llcTJrS3pQbkFMSzlrT2JhWE96cXRfMHFnbEkzR05ZVHdCdnJ6LTVTVXdZaEJuT2VGSUNON21WS05GSDBF?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 01:30:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 전국상인연합회 오찬간담회 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51VUY0R1h5d2JzcDRTOHhkYk1ScVpZVmtxOUdyRWZralFnVTN4Vk1hWWM3UlhJdGVlOUtDYTJaT2t4Uk9tNWJya3hqZ3BJdDJNRGVGWEduT1J6YnRlS2RrRnRQU2ZxQ05Tc1lRbC1rOTg5bWZ0?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:03:13 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "K-푸드, 글로벌 식품 트렌드 중심지 '시알 파리'를 매료시키다! - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtSnpvWkhfYTk4NHBGcTFab242UHdDY0pfcGxneHlocW1kWmgzOHl6WkFOczNBWWVJU2VLc2VoQ1V3UHYta2I0dkZSbGtGbVRkYUVyZ3dqbGYycmYtM3dpWXFzbFU3a1RITTVsaWs0ZklyWnBX?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 02:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "포용금융이 금융권에 뿌리내리도록 평가체계를 도입하고, 공공부문이 앞장서서 부실채권 관리체계를 개편하겠습니다. - 이억원 금융위원장, 제7차 포용적 금융 대전환 회의 주재 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMURLT3BKdHdrV1JuUFlRRTRDUDRIQTlsWVFNQkJGaWNGd3U4dlkwN1RGS1RZVHpmUzZFdmFiNmFUU2lIQXFqTVNDekhvZUVJZXlMemJIVnBSM2J2R216ZHpSd0dhckVwZXNIb1BDcks2UVZkMGg0X2tZZXBlTTU3SllISWtLZ19FcjlKSU9IZW5QN2Y2SXQzY1ZRcjh3cGZpVng0aVlvWkhIeWVpMVQ5UUVRS2VqRGZCclBfQ2RaakhFdl9HYjVCTlVDSGNEd1NObEEtNnNBRlVyVzd0TEljbHhaMlNFZmh2TGUtMHBvN1dodjVQTWpvcnJGcFBvaS1CNUJnM3I5QW5KQVd2bG13OA?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 15:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "법무부, 농촌 인력난 해소를 위해 현장 찾아 농협과 협력 방안 논의 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONk5IUXhnVFRtU1d5MFNrX0lGbjVnWC1fU0Jjb0FJYlFCaUZ6T0tuWmhRSTFIbkJBNlhlQnpmZTZaa0NlQnJEMjdhRE1fRnBfV19HanVOa0VaWDcwNVU5TVFSNnV3Q1IxWWNmajVzNjZnRUxTUHV1UnRQbnRDX0VzdWVEMzk1S3NhUURv?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 06:29:35 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -926,6 +910,30 @@
       "title": "'R&D부터 수출까지' K-방산, 지식재산으로 지킨다! - 대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ1hEbG5qOUVWZW9GMVRfcjFnOHpYOUFBa1E5MFF2WDlGMnQ1SGg2YkZJcnFKX3FlNzAza1FfZ095ZUUtSkJNaFJZLWg5SVIwbHhBT29RajJsMXJBRU5RSzVkNlI2cTRaZzhjM1pjdGxNVXBELWpFZHA4Z1BRWFNscjRHQ0Zhd1NtWDB4YVdkQ2VjVE9XR2U5TDllMkRGTjBFVXV1VmRMNGhqS0FjRVFRTkk2M041elRQTlVqM3lnekFFT015TUh0NWNMSWZPZEswUUdNamRkemd0UjY1cEdGSTVnbGpTZ19VUUZrU2lvWQ?oc=5",
       "publishedAt": "Tue, 27 Oct 2026 07:00:12 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "해양디지털의 미래, 부산에서 만난다! 아태 해양디지털 국제콘퍼런스 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9seUxHcEhlbFJSZ0VEX1dlOXZMN1pSZjN0a0k1TzBfQWM5SGllWk9ScUNVMk9fS2h0NndVdGItd21QRXp2c05YazRaTDhadUdLX25LZ0VMYkgwNm94REVHc0EtV3NSLWM2WlN0dEh3WW9VUS1m?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 02:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkgzV2poWUNhb2pkVXVNOGI0MzlSMHlibEV4azZzTnhvWHVWaVlEOGFnRV9icDRnTFJZeFFVSjg2UjdrX3FFYXQyenE3dWZwTWNpdExoMHg1Zld5bUp2NWRnWWJic09kM0tpcEMxRDc5RFBxRl9TYW5wRUR1aFNwT0JsdDdpaDYwc2JDVkd0dEw1UQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 23:57:27 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "현장중심 「친환경농어업법」 개정 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zYVlScHAxT2pYT2VDT19qekZPUEZXMm9YWGhLNnRwc2lyZms4Nl9vRy05R2c0VzVzRUFYaEszQVBaa0NLRHJZbzRNM1dFSTJSd3hHQXlYcy13NkZpTWp5OWJtbmMwN0ZyaWg5a3lPbEthblk5?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 13:43:29 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -939,207 +947,55 @@
       "channel": "rss"
     },
     {
-      "title": "김혜경 여사, 오월어머니집 전·현직 임원 초청 오찬 간담회 관련 안귀령 부대변인 서면브리핑 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DTjZmOGNURVdwb0ZtSUFCaWZPbVhiSWdQRzN0dXFWbWpzQ1AzMlZNdXFJZ00ta05adTZPdWlwTGpXZ0xreHFrQTdwT0wyUFp2ZjFOZ0NHYkxXRFdfRlVNZElKaEFBYXJvUmtlWm1XUUI?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 05:04:40 GMT",
+      "title": "[보도자료] 한성숙 국무총리 주재 제35차 새만금위원회 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVdXQnVLQkxNcWFYSlpWXzZ3eTYybExad2twN255SEJDbGFvVnAtdVRWZ0R0anJqaEM4LTV0VVQzS0VPTjlORUNBS0RmdmNjWjhuLVd6ZE5FN1dfSTEtTVRYRVBDRk9kTlJsM05ZN0V3SFYxbE9zODB5ZlBOX0J2ZUxvOFNjdi1wcmE1RHFRUWFEQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 12:52:46 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "국가유산청, 2026 국가유산 재난대응 안전한국훈련 실시 (10.28.) - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOc3FpMnAzSkNLcmhHRl9SSWJaSXI3Umg0QnZHRC1EUWVua0FWeGhQczZGc3RtbGZQRGJFMDliZ19fNlg4SGRSWGxwd0NtQmlLSENhb3hnQXEzNWNjcWNiLXpXcExIVktyZTViLURvVTJrYVZ0YTBHSk1pNVZMZHkyREJPbkxRdVJoei02UHVyYTY3OUdNWXVRdUFUVjYyalF4NGQ1NHhyWC1meVBCYi1Vek5rYVZGWXFHalQtczNlYnlwTVp3SDR4SzktQnNsUzVGcWpGNFNqRlhNSEhqaWZFNVhJdnpDcm5ER3VMdE1sZw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:05:48 GMT",
+      "title": "재정집행 관리를 '실집행 중심'으로 전환 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUM4eTI5SEZmeFpxZ191MDNGdXd3azByUHFBX1FwNFVTQTlNeE81TEtjWWpBbWJnM3poYXVVeXphcFQwLUhRWjBkbDk0TGxuUDBQZjVHNUwzOXk3SUItanVlc1FEVllpTkhkZFlINjZoWl9wLVRYa1JzTUk3R1VTTUZfR1BoYmNMa1RYSFl4bVdFTnVB?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 06:07:39 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "이재명 대통령, 우원식 전 국회의장 초청 오찬 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Td3BiYjNIVDk3R2U3UzR4ZXdCbGRVTGtISEkycmhyMEJTYXRzOHlleEItelRaM0hIdFVINllYaVdYc3IyNVBSU0tMRG4wMDAzUkRpSUJTVkZQazJ4NzR3RU9OZU1wQ3VzeHB1SURYRjk?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 05:34:33 GMT",
+      "title": "[Vol.933 대한민국 정책브리핑] 디지털온누리로 결제하고, '최대 3000만 원' 당첨 기회를 잡으세요! - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0RJU2dXUXlWRGI5N1h4bXFxdk9Hd1cxR091S0xadThISGVGd3lZcmo4UjlWRlJWeHFVZXBkUVVBdlNXMmhqQnBkdmVNTXlyRlhSVDZCZkRzMDNyMWlWaU5vS2xQUU1PcDY1d3Q1ejN6SkV4Q0hOXzhuZGk1bUcyNTM3MWluaFJTNFR1SXRVdlR4VmxScjdN?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 03:06:44 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "제주에서 만난 전국체육대회의 숨은 주인공들 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oYlhwS250T21qcUxORUk5TTdULU9lRTdzV2t2czZWRklUYjBaVlhVUndYYnVoY0EyRWhJWWF4ZGxzdGJoSHUxUWhYNWlvaUo5MWtOTHNLRmJSc09rR0pVRE5LVjI3aWxjNHc?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 23:58:11 GMT",
+      "title": "홈쇼핑 통한 중소기업 지원 실효성 높인다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1A1ZDkxRWJqM3lGMnJVUENZZ0JpTnhPdmg0c1hrbVhGZ044SGZJdUlqUHpMVU96NHAyZTk1d3lTWDA4YU84NEFXMmVDRm8zeXBiUHFNdzRfYXBSNmRfaTVlX2ZwYnJmRHJnOEpDTVREeXdEZklSVzNvVVVUWkZCa0g4ZGItM2hSY09Ma2NTTVFrQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:53:00 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "기후위기 극복할 지역 맞춤형 해법… 2027년 물순환 촉진구역 지정 공모 착수 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQVNWbjJkd04zVEh3RV9tY1dXUTFVa3NENzFtbEstZ1hWVmoxYm5mNHR2QUIwWGVqamRYcEtzZ1FIODA1YUVnNXhSNHYxMnRfWDI2QXFsbmRTeUhJZ1FWazhwVEtBSEhnajE4YlhldUNrY0doYmpUZFNSeTNZOGZERGptSGMtMmtDQmpqTHJGZ0x1dw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 21:00:00 GMT",
+      "title": "[보도자료] 기후대응위, 산업부문 저탄소 전환 정책포럼 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hZlozVFAxVW5QU21SU3lJdENuakVjWE5YaDhvdXhMQ0xZbWlqaVhtRHZ0emtRUkx1czNsVmxmaEJPR2wxeW9rb0tTdnF2V3RsOXVLbVVmem45MEVjYkdONXliYm81dC1NcDViNmVwTmRMS1ND?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 06:34:50 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     },
     {
-      "title": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해! - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TNUdSWktUa2hMb0FWQi14VDgyU1BJcUctMVZEUk1mTUxtUzZBM3ZXQ2ttdzNnT2t4cndWQ2tDRmQwLWU1Vy1hTThFUlNOSzlfU3pHbm5XbHpHWk54Vm5lUmRwdVNVeTRyUUE?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 04:32:08 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "현장중심 「친환경농어업법」 개정 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zYVlScHAxT2pYT2VDT19qekZPUEZXMm9YWGhLNnRwc2lyZms4Nl9vRy05R2c0VzVzRUFYaEszQVBaa0NLRHJZbzRNM1dFSTJSd3hHQXlYcy13NkZpTWp5OWJtbmMwN0ZyaWg5a3lPbEthblk5?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 13:43:29 GMT",
+      "title": "\"함께 나누는 회복 이야기, 희망 향한 이정표\" 정신건강 수기집 마음을 마주하다 발간 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOM0FFTk5XLUVFY01HN0FGUlptcG5sWGxVWVhiMWI5YW1JQkJMTHRaeFZRUDUyNmg4NEluem1tM21xVWpxVnJSOGQxX095Y2NZMkw1WHB1ZURKR3J3LTg5WURpTU8tNEhqWWhiM3NNcjBFR2l5OWUwMGRYa1FNUXFDUHl0T0t5eFJmVHdzcm1TTDJsU3RtSXVFLS1waTMtU2xQYXpvVFR6ZUJqeURKWFhTd09wOVNXWVVGcE9TR0V1LUFJaU9HUlVwbHo4M2FscUd5NUIxWjJhbW1qdGhPOG9jaUFwZ3NJWDBYZGRuVW5FTQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:51:26 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
     }
   ],
   "analysisSignals": [
-    {
-      "title": "지방세 환급금, 12월부터 앱으로 찾는다…‘내 돈도?’ - 창원특례신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uQ3o0bnBXUExRQzBVVFpOSTlZWWFMU25feFlCMVBlZmFmXzUzM1dHY21GQlFmNUktdFIyRFlWRmZzYUp6ZVdxYTVmYTQ5S2tDNkM3U2tHSmp3N0VIZUxKNlptYVMteWPSAWtBVV95cUxQUG1nSG9fUzVPZ2lSRnF0LWZUbnhZLVZxRjdqRmdVcFZndDVaY21NcVNWaFRsNEFnYW1Gc3Y3SWdwc0VsTEcxb2NKVDBwWE9UMFpKclV3OHVQTlkzc3luUlJybGgxZFFvUjZTWQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 00:21:22 GMT",
-      "source": "창원특례신문",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[테크 차이나] 지원금 공고 밖에도 산업정책이 있다…중국 R&D 추가공제...",
-      "url": "https://www.etnews.com/20261015000391",
-      "publishedAt": "Fri, 23 Oct 2026 05:01:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "더 큰 성장의 길, 규제합리화가 열겠습니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFZFNUtEYWtTU0ctaXFXQTFhY2xwdElyZnhSSXAxdElrWG9ZVHRuTWhxcDd5Y3k3T2k4aXdQV2RnWTk5bTJvd1pZRmw1c3lUM2RDUmlCQkI2Ykp1UGx0SV9ldUpwZGJHNWZiYWFHYUYxM284ZDNjNVJoY1NTdFdYNEhDRE5QUTBwRHc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:11:15 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "[정책뉴스] “3.3% 시대 바뀐다”…N잡러·프리랜서 원천징수 2.2%로 인하 추진 - 아웃소싱타임스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85alZTX3BDbGhQYlhpWFZ5WUFySWhKdEFqcm1qTjBxczM0ZEpNLW1HTDlId2ZEYnBBcS1EWXp5OVRtQjdzRjVTLTlxT3VIZkY1MUNKeXBIZFR2MXZ4Z0lvMVdZVUMwVm1DcDhmdDRTY1NzQQ?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "source": "아웃소싱타임스",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "두 달 남은 2026 년…놓치면 사라지는 혜택들",
-      "url": "https://www.ajunews.com/view/20261021111016803",
-      "publishedAt": "Wed, 21 Oct 2026 11:16:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "「한국의 갯벌」 세계유산 확대등재 기념식 개최 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZDgyMHNYNk80SDJycmh2d2NBMmxubzhmUUF2SDBmN0k1WDZKTGM0dmNIS2lQclpGc09wQTl4MmVGZUEtNTRrVHhtYnc1MmQ5TjlfQzFXTmlqQko0Y0FXQWFHV3p6djFNRkc0VnFDSUxDR3dSdGxFY2I3dW80ejFkdHNCdDhaRzFtMXZHYTRUZUVyQ0JJLWswcmlzVm1pdC1pSUpDeUxnaTBkckRRUjBkTmpjRXhCbVJLS3FYLUp3dGNwMEhzRkUzeVZLM0JyTmxvbFFrODhJN2hjTHVtUVBjUDJlbUl0ZFQwbTZHTGpydw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:09:40 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "수출 0건인데 환급금 37억 ‘꿀꺽’한 남성…中 법원 “징역 14년, 벌금 37억” [여기는 중국] - 서울신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZWl3NTdaaE1qVGV5M2lVV0hpQm44S1pfQWYxZkdVRjFqWjk3aExYTlJKMEh3dXZMcG1HNVowZmZVNnhGT0lUTXhIQ1puTWRtZFlRU2J6c1YyZw?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "source": "서울신문",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[경제소식] 하나금융, 전 그룹사 임직원 '사랑 나눔 헌혈 캠페인'",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2119688",
-      "publishedAt": "Wed, 14 Oct 2026 11:34:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "국가유산청, 2026 국가유산 재난대응 안전한국훈련 실시 (10.28.) - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOc3FpMnAzSkNLcmhHRl9SSWJaSXI3Umg0QnZHRC1EUWVua0FWeGhQczZGc3RtbGZQRGJFMDliZ19fNlg4SGRSWGxwd0NtQmlLSENhb3hnQXEzNWNjcWNiLXpXcExIVktyZTViLURvVTJrYVZ0YTBHSk1pNVZMZHkyREJPbkxRdVJoei02UHVyYTY3OUdNWXVRdUFUVjYyalF4NGQ1NHhyWC1meVBCYi1Vek5rYVZGWXFHalQtczNlYnlwTVp3SDR4SzktQnNsUzVGcWpGNFNqRlhNSEhqaWZFNVhJdnpDcm5ER3VMdE1sZw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 00:05:48 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "호텔비 반값 터졌다! 2026 규슈 숙박비 지원 신청 전 필수 확인 - 네이트뷰",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSmV1RnB6b3NNb1J4UmlaUTRlNWJXaGxWdUJqWFhyRTFVSG5RUV9VX2g0WkZiNHRHcnU4cVFoTTY5ZFJ3M2t5TVBkbTBJR3dnZjNF0gFYQVVfeXFMUG5BeHA0bG9VT3UzR1d2WHl5Sk1NQU92VjdtYVpPMlBfT0k5SURrWGN6cWQtdkNTT2tjVDdPeU5LdWNORU0zX0lfam9uVkNhNlJ2VFp5MU9PeA?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "source": "네이트뷰",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[이봉구의 세무맛집] AI 기업은 정기 세무조사 제외, 일반 중소기업은 ...",
-      "url": "https://www.tfmedia.co.kr/news/article.html?no=207946",
-      "publishedAt": "Tue, 13 Oct 2026 11:40:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "제주에서 만난 전국체육대회의 숨은 주인공들 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oYlhwS250T21qcUxORUk5TTdULU9lRTdzV2t2czZWRklUYjBaVlhVUndYYnVoY0EyRWhJWWF4ZGxzdGJoSHUxUWhYNWlvaUo5MWtOTHNLRmJSc09rR0pVRE5LVjI3aWxjNHc?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 23:58:11 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "💰 근로장려금·자녀장려금 8월 27일 지급 확정 | 내 통장 확인 방법 총정리 - 블로그",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZMnR6WlgyTU9UcUpvLUNJV05kcloydy1zT2pWUlROeTE1U3NEMlo0bDhPckE4Uzd4QXBFc3BraTJkcUdpZ1hWTERDeVJ0UGd6ZHdzZmw4M3ZXU3Y4?oc=5",
-      "publishedAt": "Wed, 12 Aug 2026 07:00:00 GMT",
-      "source": "블로그",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "반값여행, 흥행을 넘어 지속가능한 닻으로",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273620&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "publishedAt": "Thu, 08 Oct 2026 12:06:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "10·29이태원참사 4주기…'그날을, 그리고 당신을' 기억합니다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VM25fcTZHR1VXdm0wbldXRnoxSzlQTmQ4WDhEMl9sd05TZHNsVHJhVW42UmZGNGlBQnNILS00dnZsMkxMZzZCOC1MNmpDcll6NDlEdlc0NlNHSV9pYmV3TWd1cXNqRmJ0TFE?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 23:48:45 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "5분 투자로 수십만원…잠자는 내 돈 찾는 가장 쉬운 방법 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00ZzNTNnRfb3IwOFpjTFN1YUItZmxoRzF1ekdDclVoR0dZWVRmd2dyU3d3aGVKTTh6WWhaN2tjRDA5d25LSDlGUENVN1NuZkRvSlM0WmlBdFRVZ9IBWEFVX3lxTE13b1RpVTNYYndIZWJPaWhTTm5ndmpQS2tGZG1xUGVaWk0xSllET3FjQUQzeUZyc3d3M0Fyc2I1NFNpdXZaWENlUGI5WHh2VUZiT0d3aDVTX2Y?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 07:00:00 GMT",
-      "source": "아주경제",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[플랫폼3.3%족쇄]① \"이재용은 근로소득, 라이더는 왜 사업소득인가\"",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=673015",
-      "publishedAt": "Wed, 09 Sep 2026 10:23:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "문체부 장관, 대중음악 전문 공연장 '서울아레나' 건설 현장 방문 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0tfYXhoR0tlV2QzQV9kZ1JUamg5MUxTaU9jZDF0cTFEa2I4czBaNmt5OG1uVXBsa1dRLTNzV3JRcllodzB6S2VPSlR1UUtnSmR1MW5BS0FwTUdOZk1zdDdRdWdpc05mLWtfdi1NbERNNFlFb1FvQjBKblo1dDlWczdobVlMVVYzR3A4QmFpblliZw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 23:33:32 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
     {
       "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁’ 있다 [세테크] - 서울신문",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQmdPaXhTY0ZwWGZJSEZBajZiQ3BlUTdjVzRRLUhQcmhoRWRzS1RZazd5Nl91UjAxUF81S3lNOW5fbjJpSW9weVBGRnZQSkVNTDM4RjNRSlU1YnA0MUgyem9TT1I0ZVdtZzNUZ3BRS19vcndaOWc?oc=5",
@@ -1149,17 +1005,17 @@
       "channel": "rss"
     },
     {
-      "title": "2027년, 당신의 1년은 이렇게 달라진다",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263445&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "publishedAt": "Tue, 01 Sep 2026 11:46:00 +0900",
+      "title": "[기고] 싱가포르 공동부모휴가 10주로 확대…기업이 알아야 할 가족휴가...",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=130&CONTENTS_NO=1&bbsGbn=246&bbsSn=246&pNttSn=244785",
+      "publishedAt": "Wed, 28 Oct 2026 14:17:00 +0900",
       "source": "Naver News Search",
       "query": "정부 지원금 신청 환급 세금 2026",
       "channel": "naver"
     },
     {
-      "title": "기후위기 극복할 지역 맞춤형 해법… 2027년 물순환 촉진구역 지정 공모 착수 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQVNWbjJkd04zVEh3RV9tY1dXUTFVa3NENzFtbEstZ1hWVmoxYm5mNHR2QUIwWGVqamRYcEtzZ1FIODA1YUVnNXhSNHYxMnRfWDI2QXFsbmRTeUhJZ1FWazhwVEtBSEhnajE4YlhldUNrY0doYmpUZFNSeTNZOGZERGptSGMtMmtDQmpqTHJGZ0x1dw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 21:00:00 GMT",
+      "title": "제조데이터로 자라는 M.AX,M.AX 얼라이언스 ｢데이터 분과｣ 출범 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZUJ2TUxWaGwzOV8wWjJNLWdRODI1R21lTEhtMG9nMEs1THlBR0NnT0pYQ2JxdmpmMHFDd0VDTjk4cGduN3VEdFZpMF9wZ1NiTkhiTm5SZlJHM0R5VWlpSExfbFA0Uzd1a0Rfb29sTDBobDJmLXBSM1phY2xURkttSjJITUFRUkZQSW9ETEN4OUluYVc1YUZieHV1THdWbzVrRTlsdE5Ld0xWd0pOM1Y3b1VfVFVRVDlpbFhLODlpNmV1TUljbFFTT2JuRUtKUkp6MDNIQnMzaE1oeWJuNC1SZl9VTEVWTGwwZXVieUVPVQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 00:08:27 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -1173,233 +1029,17 @@
       "channel": "rss"
     },
     {
-      "title": "내일까지 안쓰면 날라갑니다… 이 지원금 , 기한 지나면 전액 자동 소멸",
-      "url": "https://www.wikitree.co.kr/articles/1155948",
-      "publishedAt": "Sun, 30 Aug 2026 10:38:00 +0900",
+      "title": "[테크 차이나] 지원금 공고 밖에도 산업정책이 있다…중국 R&D 추가공제...",
+      "url": "https://www.etnews.com/20261015000391",
+      "publishedAt": "Fri, 23 Oct 2026 05:01:00 +0900",
       "source": "Naver News Search",
       "query": "정부 지원금 신청 환급 세금 2026",
       "channel": "naver"
     },
     {
-      "title": "(설명자료)최고가격제에 따른 정유사 손실보전 재정지원은 현 예산 범위 내에서 가능할 것으로 판단됩니다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vUHRUakpaVC14eFcwbzVRel9SWEdOWVdUamozdDB5YV9IMG5oQllCQnZOX19WZ0dZNHBhRGFtYlNxQTYyWUdVTTR6YlJuU3dSTWlxYTlSWGRQVk9WTzI4OElaalVfUWMzX2hLS1VkNA?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 17:24:12 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "놓치면 손해보는 2026 결혼 지원 제도 딱 정리해드려요! - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pWG5mX2NWeDRkeEtkSWtzb1gzV0F5NDdKSmtoREwzb05UMHBsZW1tekJzN2lCZjM2SlZXMms0Y2tQTlZsdThhWC1VaXNXNnl1LUdUNU5n?oc=5",
-      "publishedAt": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "source": "고향사랑기부제 위기브",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "“800만 원이 400만 원, 60만 원이 30만 원으로 뚝”… 없앤다던 ‘결혼...",
-      "url": "https://www.jibs.co.kr/news/articles/articlesDetail/64477?feed=na",
-      "publishedAt": "Thu, 13 Aug 2026 12:30:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "현장중심 「친환경농어업법」 개정 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zYVlScHAxT2pYT2VDT19qekZPUEZXMm9YWGhLNnRwc2lyZms4Nl9vRy05R2c0VzVzRUFYaEszQVBaa0NLRHJZbzRNM1dFSTJSd3hHQXlYcy13NkZpTWp5OWJtbmMwN0ZyaWg5a3lPbEthblk5?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 13:43:29 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "캐나다 장애인 세제 혜택 총정리: DTC 신청부터 RDSP 연계까지 — The Korea Times Daily - The Korea Times Daily",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fejVuT1NJVUlGdGdMeENBc0RUR1B3WTU1bnJEVGs3am9SejhWTkJlcGtrTlB0SEdyVnU2RGp2OVhWQ3V3bjMxRldKczFZeEh0NHA4?oc=5",
-      "publishedAt": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "The Korea Times Daily",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[ 2026 세제개편안] ① 근로장려금 73만가구 확대…월세·IRP 등 혜택 커진...",
-      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=66176",
-      "publishedAt": "Wed, 05 Aug 2026 00:00:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "농식품부 장관, 보은군 방문하여 농어촌 기본소득으로 나타난 지역사회 변화 확인 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUpHZ2l0OFVuanhGSjhvYnJoczUtNFh4VG9qUGFsVmFuaHUtLW5Qejc5c0tYQ0NPbXl2N0tOSXd1ZDBzYll5bXZKcWluZjUzbHFBdUpfM3pQR2lCeTF3enB3UEF6Q2tidzQxb2dOX0phNFF5a1BzRUR6dFRKVW1EdDhDSVpPbWFIbXY5MlVzbE83QQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 09:00:00 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "[톺아보기] '받을 거 다 받고 산다'…1인가구가 놓치기 쉬운 '정부지원 총정리' - 데일리팝",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xR0VuNU9oeUNwVDVRLTkxdDlzVG0zeFExVTZiVTZnSlBaLTFVYlNVYl92ZUZyQlVhaUdibDZXaC04R3pJVG1WWDhFS25OZWt6U1BtR2N4ZW9hXzhfaHZsajAwcWtINlZO?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "데일리팝",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "목차로 보는 2026 년 세제개편안",
-      "url": "https://www.taxtimes.co.kr/news/article.html?no=276259",
-      "publishedAt": "Tue, 04 Aug 2026 17:26:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "자동차·가전부터 한우·수산물까지...최대 50% 할인 정부, 「제2회 코리아 그랜드 페스티벌」 시작(10.29~11.15) - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjhTTlBBUDVxLXBkWExCVC1FekZ4cW5uX200VnBPYnR2Y3AzS3N6dkNCT1JPY0JOSUMzRXV3ckxUMlZoTTlrT044TXRNRzdpUTRoQUstaTQ3QXRQaW15OWxFOHhrWjRFTDN1YVNRRzFJU2dKVFFLT2gtZkJxUWplWTJZM3dMaXkxRGE5Q3d1aC1mUQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 08:38:20 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "모바일인덱스 인사이트 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aLXlrM19GbkZRSFQzVFMxbU1Palljd3R5eDdScm9ISGxwZGt2QTlYalRDajY3QjFMRzE3WmJXel9MSkoxeV9La1N0WTl5eTRUVVE?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "브런치",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "임신 중 받은 출산 지원금 도 비과세 추진… 정부 , 혼인·출산 세제 지원...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153471",
-      "publishedAt": "Tue, 04 Aug 2026 13:40:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "\"이번 특강을 통해 우리 ODA의 미래 비전에 대해 알게 되었습니다.\" 2026년 외교부 무상원조 정책 특강 성료 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMTUxN3djLXVKX0VrVnZJZU9SYVdid0R0U0k1ODlDR1pDekNHYWNqV3lPMzRnSFc2S1pWdDl0cUM1TzU0OEpDekMwcnNRb0JDc2s5WHlkcFR2R1VHTWZaRzBBOHg0ZkhOYnZDYkNBSlFONk9OcllxNFA0NnB6TS1ZTk81TkQwSWdkYlNNdWxqRC1WeklrbHRLdmxZdGQ1OGhyLWpBaXJOOVI5ZlFaR3l5alNDa2toVUFCQWRnTWtvQjdCMHlHMVlLMTRTeWFfQTdPSS1nR1RFX2R4VnBrT0tFWGw0Ql96LWp5cHVOSm5kOA?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 08:07:44 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "6월 22일 출시 '청년미래적금' 완전 정리… \"갈아탈까, 버틸까\" - 마을신문 금천in",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrUUUzTGtVbUZpY3NqdDhQUFZERTU5QjU3U1BYVDJxTU1vQW40S3ZXS0VlR04yT0tidVdzRjVvUGlocW9BVk5NSUQ3Z1NkMGZMcmc0UU5MYWZrajdrTk9BVDJPQ0FvbWNBaEE?oc=5",
-      "publishedAt": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "source": "마을신문 금천in",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "2026 년 세제개편안 세목별 핵심사항",
-      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052332",
-      "publishedAt": "Tue, 04 Aug 2026 11:40:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "'R&D부터 수출까지' K-방산, 지식재산으로 지킨다! - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ1hEbG5qOUVWZW9GMVRfcjFnOHpYOUFBa1E5MFF2WDlGMnQ1SGg2YkZJcnFKX3FlNzAza1FfZ095ZUUtSkJNaFJZLWg5SVIwbHhBT29RajJsMXJBRU5RSzVkNlI2cTRaZzhjM1pjdGxNVXBELWpFZHA4Z1BRWFNscjRHQ0Zhd1NtWDB4YVdkQ2VjVE9XR2U5TDllMkRGTjBFVXV1VmRMNGhqS0FjRVFRTkk2M041elRQTlVqM3lnekFFT015TUh0NWNMSWZPZEswUUdNamRkemd0UjY1cEdGSTVnbGpTZ19VUUZrU2lvWQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 07:00:12 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "[오늘의 Big PICK!] 美 관세 환급금 4조원 시대 열린다 - 코리아포스트 한글판",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ydmVGbnlWWGw1c2hjZTkza1p4ZUI0WDRzSlRsR2lBTFRoTEloTVZ6MzdHWE1HajR2VVlLU243dkFuV1dKbUxZVjYtU3ZuTHdYYmltLUdqcnB4QVpGMXpWbWxxVmM5eno0My0tMlRB?oc=5",
-      "publishedAt": "Sun, 07 Jun 2026 07:00:00 GMT",
-      "source": "코리아포스트 한글판",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[전문] 한국세무사회 정부 ' 2026 세제개편안' 논평",
-      "url": "https://www.taxtimes.co.kr/news/article.html?no=276264",
-      "publishedAt": "Tue, 04 Aug 2026 11:30:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "제46회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwTkJTVWY1WUJfdklvb0FpcGZPS2VFUGhONEhtdUwwdEZUMXBOQ2VYX1VZVDVSMlFiVWtLYWVlUzZmcE9kUXJXdjBqb0lET3hFTWN2bjBST3ZnemRWaVg0cldjTTZxX2NGMUVjY05PZlU?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 06:05:00 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "“하위 70%에 최소 10만원씩”…고유가 피해지원금 소득 변동도 반영 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KcUNpaVMzVFZ2QWI1NGxhQkJoOTdDbm1remxfM2JhVC1TSmh6Yy0xcEZuUFpZRFZVbUFBdmRlTXRHd01wSnF2RDMxZHVnc1UwVy1fUw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "source": "매일경제",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "' 2026 세제개편안' 한국세무사회 논평 [전문]",
-      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052318",
-      "publishedAt": "Mon, 03 Aug 2026 19:00:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "내년부터 농업인·전문가·소비자가 친환경농업 정책 결정에 참여 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pYncwMWhqdF9Lb1BsSjBfYXdDZEZPMnpRNGx1LVUyRG1waDltZFlGaGJETGw5cXJhMURlOElNRFZvaUJyOHNoWGRMR1pha3hrdTRIdVp1SjJlZlJJNV9yVzVIQWZNbHdPaWdNaw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 05:57:29 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "[2026년]청년미래적금 연 16.9% 실화? - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IU3BHVGMxaERJb2NnNjFEdFpCSVc3bFBrTGF3clBzdXUyX1Fnbk85QkdMSDdmMlJ0aGV5cFNxdlpIV3hDNllFZg?oc=5",
-      "publishedAt": "Thu, 02 Apr 2026 06:45:47 GMT",
-      "source": "브런치",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "[금융家] 보험 ③ㅣ 디지털 전환·소비자 보호로 달라지는 시장",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=590648",
-      "publishedAt": "Tue, 21 Jul 2026 14:36:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해! - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TNUdSWktUa2hMb0FWQi14VDgyU1BJcUctMVZEUk1mTUxtUzZBM3ZXQ2ttdzNnT2t4cndWQ2tDRmQwLWU1Vy1hTThFUlNOSzlfU3pHbm5XbHpHWk54Vm5lUmRwdVNVeTRyUUE?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 04:32:08 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "2026 경기도 청년기본소득 1분기 신청기간 및 잡아바 접수방법 (2001.1.2~2002.1.1 출생자) - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44eEtyOUpHX2MzRjR5bWZDWUtwVTN5MThwZWNoV3JQYU1icWJxT0dSWGF3eGxjTjhKY3p3eHhIRk1ieDVFeE15cGdBQjFZRmptYzFFLTBR?oc=5",
-      "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "source": "고향사랑기부제 위기브",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "2026 년 7월 나의 별자리 운세는?",
-      "url": "https://www.wkorea.com/2026/07/01/2026%eb%85%84-7%ec%9b%94-%eb%b3%84%ec%9e%90%eb%a6%ac-%ec%9a%b4%ec%84%b8/?utm_source=naver&utm_medium=partnership",
-      "publishedAt": "Wed, 01 Jul 2026 09:02:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "찻길 야생동물 출현, 인공지능으로 운전자에게 미리 알린다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWC1TMy10WmNWUExwQTIzMGRNT1phdXlVNzF3VkNLTnd3RzN1N1FXSzd4LVpQdnFhTE4wRXlNRGFOeXJkZTh0V0N1ZWc5Y3pSU05ZdjU3eGZHSmRhcmx6U2VWX1BLaHp1M1BYbXo5bGFiZjFFQm9DUXkwS2VLdGhRNVBtcHhGbS1hYUZCalZacDBXdmZhbDNXT1V0dmdNYW1MTWd2WS15VW9GUXVzRXJtM2VSWi1TTm9POUhWQXJDNlY4WlBwVnJxYWJ5dzlFUFFJNFVQNVNHNzlrVUxWbGtKOXdsbmplTElNSlhEMVR5bw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 03:00:00 GMT",
+      "title": "2026년 3분기 가축동향조사 결과 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IaEdzV09hYm1xY0ExUkJuUUZqTnozZmw3QWJKNk9pd0gzcUtaMkFLSi1zWE5JQ3QxY1NGMDZSMmdsRzFKZ2o2d0M0YlFuVG5ENnVyTmRBTmZ4WGhlcGpsR2toNWw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 23:58:38 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -1413,41 +1053,17 @@
       "channel": "rss"
     },
     {
-      "title": "[톺아보기] '받을 거 다 받고 산다'…1인가구가 놓치기 쉬운 ' 정부 지원...",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=99844",
-      "publishedAt": "Tue, 23 Jun 2026 16:46:00 +0900",
+      "title": "두 달 남은 2026 년…놓치면 사라지는 혜택들",
+      "url": "https://www.ajunews.com/view/20261021111016803",
+      "publishedAt": "Wed, 21 Oct 2026 11:16:00 +0900",
       "source": "Naver News Search",
       "query": "정부 지원금 신청 환급 세금 2026",
       "channel": "naver"
     },
     {
-      "title": "'달리는 국민신문고' 경북 청송군·문경시 찾아가 고충 상담·복지 지원 나선다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDRSbUJQcVlxbHZhSl9UU0FGZ2E2Z1NhT0hSTkoydmoySU52c1FzeHVBR1lQbUFBUktsNk45cE5uZFFpN0NydVNkMlZSSWM2elUydnQxVnNpMVZoSFJTQzhpTkMwN29lRmpMU1FkakdXNnZObjlBUVdfNjBfUVE5Q3QzUGpYclhXeEJFbXRnYkJ6QzJL?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 23:35:14 GMT",
-      "source": "대한민국 정책브리핑",
-      "query": "site:korea.kr 지원 신청 발표 2026 10월",
-      "channel": "rss"
-    },
-    {
-      "title": "청년월세지원 조건 총정리｜월 20만원 지원받고 고향사랑기부제로 세금까지 줄이는 법 - 고향사랑기부제 위기브",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSUxfLWtGNllVc01OZmV3Vk1kbFRhTEdMR3kwcEhKVGhsOHl2N19NdHU1VXlLZ1ctM0dKdTFLYWtMd200N2JUSHV1X1dyYXBVdk5ob2Zn?oc=5",
-      "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
-      "source": "고향사랑기부제 위기브",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "rss"
-    },
-    {
-      "title": "글로벌 첨단 산업 허브로 부상하는 허타우 선전-홍콩 과학기술혁신합작...",
-      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=241812",
-      "publishedAt": "Thu, 04 Jun 2026 11:34:00 +0900",
-      "source": "Naver News Search",
-      "query": "정부 지원금 신청 환급 세금 2026",
-      "channel": "naver"
-    },
-    {
-      "title": "\"낙엽이 떨어질수록 민원은 폭증\"… 낙엽 관련 '민원주의보' 발령 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFJyMVZhTktta0o0TlJSVjFMR3pxUlo0OG9QSFpFTGhRNzJRVmRBcmxCYl92bUhpbW9kamtKTFpUdXNzbVdSQ3RwWDlYYXNRQ2NiZmJqU2JRNHpoNmdYRW1QU2J0OWI5NjhqOHMzT3NBbVkwNWh1Q2tzd25rcU5Ecmhzd2QwbVdhVE1tVnpHX0hRUQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 23:34:21 GMT",
+      "title": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkgzV2poWUNhb2pkVXVNOGI0MzlSMHlibEV4azZzTnhvWHVWaVlEOGFnRV9icDRnTFJZeFFVSjg2UjdrX3FFYXQyenE3dWZwTWNpdExoMHg1Zld5bUp2NWRnWWJic09kM0tpcEMxRDc5RFBxRl9TYW5wRUR1aFNwT0JsdDdpaDYwc2JDVkd0dEw1UQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 23:57:27 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
@@ -1461,6 +1077,318 @@
       "channel": "rss"
     },
     {
+      "title": "[경제소식] 하나금융, 전 그룹사 임직원 '사랑 나눔 헌혈 캠페인'",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2119688",
+      "publishedAt": "Wed, 14 Oct 2026 11:34:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "'혁신기업의 성장 사다리, 공공조달로 잇는다' - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFIzcW5hVFppMEtaa25FbjVUYVNSSGQ5ak5jeWZFZ3QwNndNWGNMdFVzaVVUc3I4cGhXUUNFNTRlbUtya1RXaURxdTVJbkNmYV9zUHRqdmFXNVRhVmRzQ29Pbkp0cU0zM0dwZGVvQkFLS2FDcWY2Vks1LVhvX1d2aW9VdnNTYzBWYTd4Wmk1SFY1Zw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 23:55:29 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "2026 근로자 휴가지원사업, 여행도 하고, 세금도 줄이는 가장 똑똑한 방법 - 고향사랑기부제 위기브",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nanM1MjJxMmh5T1RyR1BpcV9hek9OQUNNQXhOeGNOQzZMT2tMV29iQWpWSjlBX3lYVHd3Q29udWFwd2tGWFBVRW1XTW94WTdEZXkxWkNR?oc=5",
+      "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "source": "고향사랑기부제 위기브",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "rss"
+    },
+    {
+      "title": "[이봉구의 세무맛집] AI 기업은 정기 세무조사 제외, 일반 중소기업은 ...",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=207946",
+      "publishedAt": "Tue, 13 Oct 2026 11:40:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "양육비 선지급제 소득기준 폐지 \"한부모가족 지원 대상 확대\" - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yaTFJQlVqY0gtbm5KeHhGTGZoNlp3NWNZUHpGdVV1amN2a2luWXVOeTlBRW1XeGlkOXJ6VGI3M1lpb29QSDlacVpPamN2cW9WXzdWT0o3akhGUWNveGZscS1GZE1VYlFNSWRVeg?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 23:39:20 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "2026년 청년미래적금 출시! 3년 만에 2,200만 원 만든다 (청년도약계좌 비교) - 고향사랑기부제 위기브",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wMG5faFk1d185RmFwQzU0UFlzM3VRRWxMUFo0Z18zcURVSi1OQmpOcFU4Qndra2pEeG1DVk9FZk5YT3Y2UXR3VFlCUEdNWkhGMjJ2bkZB?oc=5",
+      "publishedAt": "Sat, 17 Jan 2026 08:00:00 GMT",
+      "source": "고향사랑기부제 위기브",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "rss"
+    },
+    {
+      "title": "반값여행, 흥행을 넘어 지속가능한 닻으로",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273620&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "publishedAt": "Thu, 08 Oct 2026 12:06:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "2027년 유기농업자재지원 강화…녹비작물 종자 선택 폭 넓어진다. - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjdreUdpRUlYS1JycFVmQlkxZ0RjVTVyUUpFVjlJTXp0Z29Oblg0Tkc5Uld1UlZqU3pCOGlGRDZ5TWNxX0pZdUgxZG11Z2VwWlhseHA5dm8tdFR4dy1tWHV0REphN0dwSGhaMjdaV3RVRFl4aVg2R3dCbHJESE5tcHJFSjNOLWlYWFBuT0wtc1JvQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 21:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "새해 정부 환급금, 얼마나 늘어날까 - 밴쿠버 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iODF2aUI3c1VESHgxYXp0RG0ySWtwcjJQSWZ5Q2REaTFld3IyQmYzeXIzVGlUb3lZOVhLMFVjSTJNTFVJWkhOYlRB?oc=5",
+      "publishedAt": "Fri, 02 Jan 2026 08:00:00 GMT",
+      "source": "밴쿠버 조선일보",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "rss"
+    },
+    {
+      "title": "[플랫폼3.3%족쇄]① \"이재용은 근로소득, 라이더는 왜 사업소득인가\"",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=673015",
+      "publishedAt": "Wed, 09 Sep 2026 10:23:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "새싹을 지켜나가는 따스한 연결고리 '새싹지킴이병원' - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnRVQUZaZWZ6em5ickdSZi1wNFFWYXNDTUZfNUJmN3F6ZVdwTzIyRExBZFNGeDFhMnR5ZC1UM3Y2NmI3b214aExaYWVmbnp2MkQ0bi0zRWhRc3g3SmYtTDNqZVBYd3NlRllBc2txS0I2Y2hhb1RDVGlyaHJHYWozMktxb2VWZE0?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 19:07:30 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "태권도 학원비 세액공제, 대중 교통비 초과분 무제한 환급 [2026년 달라지는 정책] - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVSFBRdUI2UkFtTTctbmN6alZuNTBtQVRwVkYzLWxwRjVTNFFDU1dvd3JnOXBTQkVqcHRjWUk4QktQYTU2N2dTRWY5N085dU1FN3RMbWZ3?oc=5",
+      "publishedAt": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "source": "중앙일보",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "rss"
+    },
+    {
+      "title": "2027년, 당신의 1년은 이렇게 달라진다",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263445&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "publishedAt": "Tue, 01 Sep 2026 11:46:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "실손보험 청구가 간편해졌다…'실손24'가 확 바뀌었어요 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMlVGdFpVdjdrRTYxRmNRaGQ2WnFld0lILWJpVGk4RlBwVTBKOWwtYU9UMGdWbjVJUVNWaUhfWkJPd3pHaUFlWVF6bkstYmxfN1lrZlRKZmZCM0NwNU5IbHc2LW5jY1RTMmpEZ0s3WExjNXE5dzZRZXZLZGtMNHM2M3I5Q3QzOFE?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 17:45:43 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[경제뉴스] 5년 내 폐업했었으면 무조건 확인…세금 22% 돌려준다 - 아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nbGxTbjJhSVN2UVkyT0pUTVViQmNQMUJ1UUEyeU9zR3lsMGI5ZkhUT1dZLW1hTXpTZmxQOGFic0NXa2h5Z2pIWXByRzlQcXBUZ2pVUmhuZlk2Tm9yRnlNVU5fbjZ1T3ppRnFEdThDUHBvZw?oc=5",
+      "publishedAt": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "source": "아웃소싱타임스",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "rss"
+    },
+    {
+      "title": "내일까지 안쓰면 날라갑니다… 이 지원금 , 기한 지나면 전액 자동 소멸",
+      "url": "https://www.wikitree.co.kr/articles/1155948",
+      "publishedAt": "Sun, 30 Aug 2026 10:38:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORG8wOTZIOENOVVFKUFdidDQtZHh0SUFPb2pjQ0M4cjZ3YWxVM0ljU2NrTjVGTUV3cjhqX2xUdF9oSjUwc2h0THRqSUlNeFE4TkZ5dkpkQ3VVVDN1bUt0Y3JJSUlNU3R5R1RzWVZpSkxHdGtrYlJ3ZmdFeUFKX1c3VW9vTXpRaEZEbzM3ZWVvbmRNUTdoeUk0UnVuMkdlNURGZUx4aTNYNUlMem5PZldLV0RSd0E0RGVibnJKVURVRVROS0lOT1VhRWpXZU9LVTBUcG9qbVhxSjd5RktzTEZ3STVWOGE4QkJTbjMycV9zWQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 15:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "“800만 원이 400만 원, 60만 원이 30만 원으로 뚝”… 없앤다던 ‘결혼...",
+      "url": "https://www.jibs.co.kr/news/articles/articlesDetail/64477?feed=na",
+      "publishedAt": "Thu, 13 Aug 2026 12:30:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 제35차 새만금위원회 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVdXQnVLQkxNcWFYSlpWXzZ3eTYybExad2twN255SEJDbGFvVnAtdVRWZ0R0anJqaEM4LTV0VVQzS0VPTjlORUNBS0RmdmNjWjhuLVd6ZE5FN1dfSTEtTVRYRVBDRk9kTlJsM05ZN0V3SFYxbE9zODB5ZlBOX0J2ZUxvOFNjdi1wcmE1RHFRUWFEQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 12:52:46 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[ 2026 세제개편안] ① 근로장려금 73만가구 확대…월세·IRP 등 혜택 커진...",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=66176",
+      "publishedAt": "Wed, 05 Aug 2026 00:00:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "'해양수산 AX전략' 발표…2035년 자율 선박 세계 1위 수주 목표 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BRTNEaEJVeEQ0bDctX1NZYXNGdlJoUTEzaVBzRGp3cllzbmxTNWl6N3lvRnVZWGQ3YklHRHdlOGxZT2NDWDVaOFRvSFdWdWlQX0pnNjBQS3ZpTTVJc0U0aWdRTmdQamU0ODBYVQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 12:45:49 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "목차로 보는 2026 년 세제개편안",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=276259",
+      "publishedAt": "Tue, 04 Aug 2026 17:26:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "홈쇼핑 통한 중소기업 지원 실효성 높인다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1A1ZDkxRWJqM3lGMnJVUENZZ0JpTnhPdmg0c1hrbVhGZ044SGZJdUlqUHpMVU96NHAyZTk1d3lTWDA4YU84NEFXMmVDRm8zeXBiUHFNdzRfYXBSNmRfaTVlX2ZwYnJmRHJnOEpDTVREeXdEZklSVzNvVVVUWkZCa0g4ZGItM2hSY09Ma2NTTVFrQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:53:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "임신 중 받은 출산 지원금 도 비과세 추진… 정부 , 혼인·출산 세제 지원...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153471",
+      "publishedAt": "Tue, 04 Aug 2026 13:40:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "전통공예품을 우리 집에! 'K-CRAFT, 일상이 되다' - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00LXRKcjM4d254VGs4QzBVTXRFSUZNMFl3QVlDZDdIcnJ0eDBQelp3VUg1RFU0N196TmtsWVBYcHl1ZlFoRjBwR05sam5oZnBkbXF3TXB6RDNORjJfdWxGRWF5eHRNOG56X2c?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:35:59 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "2026 년 세제개편안 세목별 핵심사항",
+      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052332",
+      "publishedAt": "Tue, 04 Aug 2026 11:40:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 전국상인연합회 오찬간담회 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51VUY0R1h5d2JzcDRTOHhkYk1ScVpZVmtxOUdyRWZralFnVTN4Vk1hWWM3UlhJdGVlOUtDYTJaT2t4Uk9tNWJya3hqZ3BJdDJNRGVGWEduT1J6YnRlS2RrRnRQU2ZxQ05Tc1lRbC1rOTg5bWZ0?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:03:13 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[전문] 한국세무사회 정부 ' 2026 세제개편안' 논평",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=276264",
+      "publishedAt": "Tue, 04 Aug 2026 11:30:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "은행 '포용금융 종합평가체계' 도입…등급별 과징금·출연금 차등화 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ob2hrVVFUQ2xCS1VwZVMxbWhuTWhmelZyT0FjZ2Q3Y2hydkl4NWpUUFppQzJycjFLdU9lcVJFOC1xMFBka01OMDR0Y1ZYM0RRMkdVOVBoZ0VWcmlHZ0FEVWJTeWZHMjJXMFQ5YQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 08:49:57 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "' 2026 세제개편안' 한국세무사회 논평 [전문]",
+      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2052318",
+      "publishedAt": "Mon, 03 Aug 2026 19:00:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "옥동식 셰프 \"한식의 힘은 고유의 맛과 철학, 그리고 정(情)입니다\" - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwV0tNaXplcDJCSEJNbDZPRGx0d25aS0t3V2pZbXV5anVQQ1N3cTV6MUs2VWprVmltRUJZOUtOOW16SzRlak8tdFBGby1Sc3J6ZjhUdzlteXE1T3hWOGo1RnFYWnQ2RlJ6WDNxeQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 08:19:25 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[금융家] 보험 ③ㅣ 디지털 전환·소비자 보호로 달라지는 시장",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=590648",
+      "publishedAt": "Tue, 21 Jul 2026 14:36:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHNfVW9YR0VUZzR5ZTc0RnlOZU1VYlRxSnoyZEYyRlZ5NkJzREZmS2JZZklXWXlYaHhhcHhIdTlTTEVEMFRpWHByY3BueUJWUXRzWUZkMU1OOTBURG1HWE53NlpnTTRfczgyUmo2YUxjOXRwWkFFNmdrenBoSjdrbEJ6YmlTQUZUMU9RalFJeEtJZw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:50:48 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "2026 년 7월 나의 별자리 운세는?",
+      "url": "https://www.wkorea.com/2026/07/01/2026%eb%85%84-7%ec%9b%94-%eb%b3%84%ec%9e%90%eb%a6%ac-%ec%9a%b4%ec%84%b8/?utm_source=naver&utm_medium=partnership",
+      "publishedAt": "Wed, 01 Jul 2026 09:02:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "2026년 제46차 위원회 결과 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1N4d0dmb25xRUdoaDd0anVyeTRpSjdScmp1UU42dW1sbVUtTnUtNTJRamhfczdhSHVDU2dWUDh6bjZ4YkU4NHZsUDRCdWZtOFBOaFBaUXp5R0RJQklBU3FOVk52NjFVR2lQSTI2UFdudUxmckFyRFhxVmlhZ3FXNUNNdHpoQVQ2OXVGVHN5Qm9iUQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:29:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[톺아보기] '받을 거 다 받고 산다'…1인가구가 놓치기 쉬운 ' 정부 지원...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=99844",
+      "publishedAt": "Tue, 23 Jun 2026 16:46:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "정부, 가을 산불 대응체계 강화…실화 처벌 '징역 5년'으로 상향 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3hIazJIY1N5V0p3b0xKdlNkLVJTRjBoai1IZ1VTSDhOWVVlcGF2RG0wem50VnpWMjdFTGxsZTZIRDMxbDU1MmxxcnpGYUZQeU5ZRUJZdWdjWmFET2NSaF9DcjBJRkYxOTVaSTl6c20zWWlYRUhKN3NCcWNJZ0JGaFZTZ0hodWtjdlE?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:25:28 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "글로벌 첨단 산업 허브로 부상하는 허타우 선전-홍콩 과학기술혁신합작...",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=241812",
+      "publishedAt": "Thu, 04 Jun 2026 11:34:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMk9pWWlOT0swS1BTMzR6QktUR2pOVm0zb1dOemphWHNuZTFtelNDUUNoWG0xSEhySEd2eElnQWF1TVhoejZKYTh6akliRjNaR3lWRHpDVUxsRTdmOFVzUWdjdlg4YUFTQ09IMGV5Y0ZWT2pDVlNzaXl1T3FiSDFsSDZNbXZQY1N4WnJIelNsX1NqQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:24:51 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
       "title": "트럼프 계좌에 400만 아동, '드롭쉬핑'엔 세금 폭탄 [주요국 조세동향]",
       "url": "http://www.joseilbo.com/news/news_read.php?uid=568599&class=7&grp=",
       "publishedAt": "Wed, 20 May 2026 07:03:00 +0900",
@@ -1469,70 +1397,142 @@
       "channel": "naver"
     },
     {
-      "title": "「문화예술진흥법」 개정 논의, 예술 현장 목소리 듣는다 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWctVEQ3MXBROExGYlpHd0VBWnBfWTUwUnlSZzNiWHNueVZuM0pJZUJWYTc5Q1RLeml6T3JoV2tmaUYtR1BUcXFHeXRrZzh6bUI0X2poMkdBVmZrakZJSTJFUUNJb1ZzaHVla0prY2xXNzdmczhjMUZPN0ROOGJteHZRRkw5NzE5LXBFUGdia0wzNVp1?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 23:02:42 GMT",
+      "title": "정읍국유림관리소, 10월 안전보건협의체 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXk4dkRsUXRQLVktcFhUTnlHZFdzNmxZZkhmbERGeHNHZF92R05qb0dLY2NWU1prampTTFpnVElRVW9aV1dnYjZrRUhGaWdpLURTWEhOSnJESm01ME1zb2p2UnZha3VuSDgzSm1zQ29IWW5RTGxTQUhWdWV6OGlOdUgyMml2TTJmTjNqNDVRTnN1UQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:06:10 GMT",
       "source": "대한민국 정책브리핑",
       "query": "site:korea.kr 지원 신청 발표 2026 10월",
       "channel": "rss"
+    },
+    {
+      "title": "신한은행-신한자산운용-효성중공업, 글로벌 신재생에너지 사업 협력 확...",
+      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=30733",
+      "publishedAt": "Mon, 11 May 2026 17:38:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "[보도자료] 기후대응위, 산업부문 저탄소 전환 정책포럼 개최 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hZlozVFAxVW5QU21SU3lJdENuakVjWE5YaDhvdXhMQ0xZbWlqaVhtRHZ0emtRUkx1czNsVmxmaEJPR2wxeW9rb0tTdnF2V3RsOXVLbVVmem45MEVjYkdONXliYm81dC1NcDViNmVwTmRMS1ND?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 06:34:50 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "산업안전보건공단, 산업재해예방사업 점검 지적사항 개선 조치 시행",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202604291532567514f4ab64559d_12",
+      "publishedAt": "Wed, 29 Apr 2026 15:34:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "법무부, 농촌 인력난 해소를 위해 현장 찾아 농협과 협력 방안 논의 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONk5IUXhnVFRtU1d5MFNrX0lGbjVnWC1fU0Jjb0FJYlFCaUZ6T0tuWmhRSTFIbkJBNlhlQnpmZTZaa0NlQnJEMjdhRE1fRnBfV19HanVOa0VaWDcwNVU5TVFSNnV3Q1IxWWNmajVzNjZnRUxTUHV1UnRQbnRDX0VzdWVEMzk1S3NhUURv?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 06:29:35 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[ 정부 家] 이재명 대한민국 대통령 ⑩ ㅣ 권익·권력·외교까지…'자유·...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=568952",
+      "publishedAt": "Tue, 28 Apr 2026 15:32:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "중소기업 수출을 선도할 혁신제품 한자리에 - '26년 K-수출전략품목 출범식 개최 - - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVljcHkxRUVrM0l1bmVrTm5SYlRoSlFFeHotZjMwSDdVMW5mR3JfVDJaUF82TUVWTUV4OHJ5dW5JZVZvLWdjZnY2eG9kWl9UaTU4NldGQmQ3S2lPSW81Yi0ycVRfaUlFbnRPYXUyTFZsYjliTjk2c2tZQnRNeVNEMXVBcFNIUi1VWWExRHUzbnA1QQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 06:00:48 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[브리프] 국민은행 신한은행 농협은행 기업은행 신협 케이뱅크 카카오뱅...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=353173",
+      "publishedAt": "Mon, 27 Apr 2026 21:18:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
+    },
+    {
+      "title": "겨울철 화재, 예방부터 현장 대응까지 빈틈없이 대비한다 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZYUUtYjlja1NMTzVhMlRMc1o1YmxnNm5WeW5JRTdDcnF0eUoxakRXcVdnOWhDZnFTYkF4LXFCR0s4ZHdTVnF3WG5rNkFBbkxRajJzZXdOSFU4M0ZaT0htb2RmdHY3MXJfaVFtcGRSX3Ffemp4?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 05:00:00 GMT",
+      "source": "대한민국 정책브리핑",
+      "query": "site:korea.kr 지원 신청 발표 2026 10월",
+      "channel": "rss"
+    },
+    {
+      "title": "[패트롤] 익산시-익산교육청-하림-이원택 전북지사후보-이남호 전북교육...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260424029159647",
+      "publishedAt": "Fri, 24 Apr 2026 08:48:00 +0900",
+      "source": "Naver News Search",
+      "query": "정부 지원금 신청 환급 세금 2026",
+      "channel": "naver"
     }
   ],
   "topics": [
     {
-      "longevityScore": 68,
-      "competitionAngle": "행사 소개가 아니라 품목별 할인, 참여 채널, 중복 혜택을 표로 정리",
-      "monetizationScore": 82,
+      "longevityScore": 72,
+      "competitionAngle": "지원 품목 확대와 신청 물량 변경을 표로 정리",
+      "monetizationScore": 70,
       "action": "new",
-      "monetizationSignal": "할인·쇼핑·여행 검색과 높은 광고·제휴 적합성",
-      "siteFitScore": 94,
+      "monetizationSignal": "농업자재·농업경영·농기계 관련 광고와 정책 검색 수요",
+      "siteFitScore": 82,
       "subKeywords": [
-        "코리아 그랜드 페스티벌 할인",
-        "상생소비복권",
-        "디지털 온누리 환급",
-        "숙박세일페스타"
+        "2027 유기농업자재 지원",
+        "녹비작물 종자 신청",
+        "트리티케일 지원",
+        "네마장황 지원"
       ],
       "riskLevel": "low",
       "existingPost": "",
-      "demandScore": 91,
-      "riskNote": "세부 할인율과 참여처는 행사 중 변동 가능하므로 공식 페이지 재확인 필요",
-      "topicType": "breaking",
-      "freshnessScore": 98,
-      "category": "living-information",
-      "sourceTrustScore": 98,
-      "demandSignal": "2026년 10월 29일부터 11월 15일까지 개최되는 범정부 소비행사",
-      "readerValue": "어떤 행사에서 무엇을 어디서 신청·구매할 수 있는지 한 번에 비교",
-      "title": "2026 코리아 그랜드 페스티벌 할인행사와 참여방법 총정리",
-      "keyword": "코리아 그랜드 페스티벌 할인 참여방법",
+      "demandScore": 73,
+      "riskNote": "지역별 접수기관과 최종 공고는 지방자치단체별로 달라질 수 있음",
+      "topicType": "seasonal",
+      "freshnessScore": 99,
+      "category": "subsidy",
+      "sourceTrustScore": 99,
+      "demandSignal": "2026년 11~12월 신청·접수 예정",
+      "readerValue": "추가된 품목, 최소 신청 물량, 지방비 분담, 신청 시기를 한 번에 확인 가능",
+      "title": "2027 유기농업자재 지원 신청방법과 녹비작물 종자 품목 정리",
+      "keyword": "2027 유기농업자재 지원 신청방법",
       "sources": [
         {
           "sourceType": "official",
-          "title": "제2회 코리아 그랜드 페스티벌 개최 안내",
-          "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172335/view",
+          "title": "2027년 유기농업자재지원 강화",
+          "url": "https://www.mafra.go.kr/bbs/home/792/582080/artclView.do",
           "valid": true,
           "status": 200,
-          "finalUrl": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172335/view",
+          "finalUrl": "https://www.mafra.go.kr/bbs/home/792/582080/artclView.do",
           "validationNote": ""
         },
         {
           "sourceType": "official",
-          "title": "코리아 그랜드 페스티벌 혜택 안내",
-          "url": "https://www.motir.go.kr/kor/article/ATCL8764a1224/155119247/view",
+          "title": "농림축산식품부 유기농업자재 지원 자료",
+          "url": "https://www.mafra.go.kr/bbs/home/798/570299/download.do",
           "valid": true,
           "status": 200,
-          "finalUrl": "https://www.motir.go.kr/kor/article/ATCL8764a1224/155119247/view",
+          "finalUrl": "https://www.mafra.go.kr/bbs/home/798/570299/download.do",
           "validationNote": ""
         }
       ],
-      "publishBy": "2026-10-28T18:00:00+09:00",
-      "whyNow": "행사 시작 하루 전이며 할인·환급 혜택의 실제 사용처를 찾는 수요가 발생하는 시점",
+      "publishBy": "2026-11-02T09:00:00+09:00",
+      "whyNow": "연말 신청 전 자격과 품목을 확인하려는 농업인 수요가 발생하는 시점",
       "noveltyCovered": false,
-      "noveltyReason": "코리아 그랜드 페스티벌 자체를 다루는 기존 글이 없습니다.",
+      "noveltyReason": "유기농업자재 지원은 기존 농업·바우처 글과 다른 별도 지원사업입니다.",
       "naverDemand": {
-        "keyword": "코리아 그랜드 페스티벌 할인 참여방법",
-        "measuredAt": "2026-10-28T00:29:47.572Z",
+        "keyword": "2027 유기농업자재 지원 신청방법",
+        "measuredAt": "2026-10-29T00:53:18.400Z",
         "relatedKeywords": [
           {
-            "keyword": "코리아그랜드페스티벌할인참여방법",
+            "keyword": "2027유기농업자재지원신청방법",
             "monthlyPc": 5,
             "monthlyMobile": 5,
             "monthlyTotal": 10,
@@ -1543,14 +1543,14 @@
         ],
         "trends": [
           {
-            "keyword": "코리아 그랜드 페스티벌 할인 참여방법",
+            "keyword": "2027 유기농업자재 지원 신청방법",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
             "latestRatio": 0
           },
           {
-            "keyword": "코리아그랜드페스티벌할인참여방법",
+            "keyword": "2027유기농업자재지원신청방법",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
@@ -1558,7 +1558,7 @@
           }
         ],
         "warnings": [],
-        "representativeKeyword": "코리아그랜드페스티벌할인참여방법",
+        "representativeKeyword": "2027유기농업자재지원신청방법",
         "monthlyPc": 5,
         "monthlyMobile": 5,
         "monthlyTotal": 10,
@@ -1566,448 +1566,69 @@
         "volumeScore": 21
       },
       "isExistingTopic": false,
-      "score": 80,
-      "nearestExistingTitle": "2026 속초 썸머페스티벌 해수욕장 행사와 주차 준비물",
-      "nearestExistingPermalink": "/2026-sokcho-summer-festival/",
-      "similarity": 0.2702702702702703,
+      "score": 74,
+      "nearestExistingTitle": "2026 의료급여 신청방법과 대상 기준 정리",
+      "nearestExistingPermalink": "/2026-medical-benefits-application-method/",
+      "similarity": 0.25,
       "duplicatePenalty": 0,
       "riskPenalty": 0,
       "sourcePenalty": 0
     },
     {
-      "longevityScore": 42,
-      "competitionAngle": "일반 행사 소개 대신 상생소비복권과 온누리 환급의 조건·신청순서를 집중 설명",
-      "monetizationScore": 78,
+      "longevityScore": 78,
+      "competitionAngle": "정부24의 미성년 자녀 대리 민원이라는 신규 기능을 발급 대상별로 정리",
+      "monetizationScore": 76,
       "action": "new",
-      "monetizationSignal": "지역화폐·전통시장·소비지원 검색 수요",
-      "siteFitScore": 91,
+      "monetizationSignal": "정부24·민원·증명서 발급 검색은 반복 수요가 있고 금융·교육 광고와 연관성이 높음",
+      "siteFitScore": 95,
       "subKeywords": [
-        "상생소비복권 신청",
-        "온누리상품권 환급",
-        "전통시장 카드결제 이벤트"
+        "미성년 자녀 증명서",
+        "부모 대리 발급",
+        "정부24 자녀 민원",
+        "장애인증명서 온라인 발급"
       ],
       "riskLevel": "low",
       "existingPost": "",
       "demandScore": 88,
-      "riskNote": "누적 결제 기준과 기간을 혼동하지 않도록 공식 공고 기준으로 작성",
+      "riskNote": "서비스 대상 민원 종류가 순차 확대될 수 있어 작성 시 지원 범위를 확인해야 함",
       "topicType": "breaking",
-      "freshnessScore": 96,
-      "category": "subsidy",
-      "sourceTrustScore": 98,
-      "demandSignal": "10월 29일부터 연계 소비 이벤트 진행",
-      "readerValue": "대상 결제, 참여기간, 당첨·환급 확인 절차를 체크리스트로 제공",
-      "title": "상생소비복권 참여방법과 디지털 온누리상품권 환급 조건",
-      "keyword": "상생소비복권 참여방법",
-      "sources": [
-        {
-          "sourceType": "official",
-          "title": "상생소비복권 및 디지털 온누리 환급 안내",
-          "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?bcIdx=1062844&cbIdx=86",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?bcIdx=1062844&cbIdx=86",
-          "validationNote": ""
-        },
-        {
-          "sourceType": "official",
-          "title": "코리아 그랜드 페스티벌 통합 안내",
-          "url": "https://customs.go.kr/kcs/na/ntt/selectNttInfo.do?bbsId=1362&mi=2891&nttSn=10181243&nttSnUrl=54cd52cecefb3054449c634c66cf493a",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://customs.go.kr/kcs/na/ntt/selectNttInfo.do?bbsId=1362&mi=2891&nttSn=10181243&nttSnUrl=54cd52cecefb3054449c634c66cf493a",
-          "validationNote": ""
-        }
-      ],
-      "publishBy": "2026-10-28T18:00:00+09:00",
-      "whyNow": "이벤트가 10월 29일부터 시작되어 결제 전 조건 확인이 필요함",
-      "noveltyCovered": false,
-      "noveltyReason": "상생소비복권이라는 별도 이벤트를 다루는 기존 글이 없습니다.",
-      "naverDemand": {
-        "keyword": "상생소비복권 참여방법",
-        "measuredAt": "2026-10-28T00:29:48.164Z",
-        "relatedKeywords": [
-          {
-            "keyword": "상생소비복권참여방법",
-            "monthlyPc": 5,
-            "monthlyMobile": 5,
-            "monthlyTotal": 10,
-            "competition": "낮음",
-            "averagePcClicks": 0,
-            "averageMobileClicks": 0
-          }
-        ],
-        "trends": [
-          {
-            "keyword": "상생소비복권 참여방법",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          },
-          {
-            "keyword": "상생소비복권참여방법",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          }
-        ],
-        "warnings": [],
-        "representativeKeyword": "상생소비복권참여방법",
-        "monthlyPc": 5,
-        "monthlyMobile": 5,
-        "monthlyTotal": 10,
-        "competition": "낮음",
-        "volumeScore": 21
-      },
-      "isExistingTopic": false,
-      "score": 74,
-      "nearestExistingTitle": "2026 추석 온누리상품권 환급 기간과 농축산물 할인 받는법",
-      "nearestExistingPermalink": "/2026-chuseok-onnuri-refund-agricultural-discount/",
-      "similarity": 0.32558139534883723,
-      "duplicatePenalty": 0,
-      "riskPenalty": 0,
-      "sourcePenalty": 0
-    },
-    {
-      "longevityScore": 76,
-      "competitionAngle": "연말정산 전체 가이드가 아닌 미리보기에서 확인할 항목과 소비·공제 점검표 제공",
-      "monetizationScore": 86,
-      "action": "new",
-      "monetizationSignal": "연말정산·월세·신용카드 공제 검색의 계절성",
-      "siteFitScore": 95,
-      "subKeywords": [
-        "연말정산 미리보기",
-        "월세 세액공제 점검",
-        "신용카드 공제액 확인"
-      ],
-      "riskLevel": "medium",
-      "existingPost": "",
-      "demandScore": 84,
-      "riskNote": "공제 요건은 귀속연도 법령과 국세청 안내를 함께 확인해야 함",
-      "topicType": "seasonal",
-      "freshnessScore": 89,
-      "category": "tax-finance",
-      "sourceTrustScore": 97,
-      "demandSignal": "국세청이 연말정산 예상세액과 공제·감면 안내 기능을 운영",
-      "readerValue": "연말 소비 전에 부족한 공제 항목을 확인하는 실전 순서 제공",
-      "title": "연말정산 미리보기 사용법과 연말까지 점검할 공제 항목",
-      "keyword": "연말정산 미리보기 사용법",
-      "sources": [
-        {
-          "sourceType": "official",
-          "title": "국세청 연말정산 미리보기 안내",
-          "url": "https://s.nts.go.kr/webtv/na/ntt/selectNttInfo.do?mi=10675&nttSn=1346712",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://s.nts.go.kr/webtv/na/ntt/selectNttInfo.do?mi=10675&nttSn=1346712",
-          "validationNote": ""
-        },
-        {
-          "sourceType": "official",
-          "title": "국세청 연말정산 안내",
-          "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6461&cntntsId=7881",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6461&cntntsId=7881",
-          "validationNote": ""
-        }
-      ],
-      "publishBy": "2026년 11월 초",
-      "whyNow": "연말 소비·저축 결정을 하기 전 예상세액을 확인할 시기",
-      "noveltyCovered": false,
-      "noveltyReason": "기존 글은 환급금 조회나 간소화 서비스이며, 연말정산 미리보기 사용법과는 핵심 과제가 다릅니다.",
-      "naverDemand": {
-        "keyword": "연말정산 미리보기 사용법",
-        "measuredAt": "2026-10-28T00:29:48.614Z",
-        "relatedKeywords": [
-          {
-            "keyword": "연말정산미리보기사용법",
-            "monthlyPc": 5,
-            "monthlyMobile": 5,
-            "monthlyTotal": 10,
-            "competition": "낮음",
-            "averagePcClicks": 0,
-            "averageMobileClicks": 0
-          }
-        ],
-        "trends": [
-          {
-            "keyword": "연말정산 미리보기 사용법",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          },
-          {
-            "keyword": "연말정산미리보기사용법",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          }
-        ],
-        "warnings": [],
-        "representativeKeyword": "연말정산미리보기사용법",
-        "monthlyPc": 5,
-        "monthlyMobile": 5,
-        "monthlyTotal": 10,
-        "competition": "낮음",
-        "volumeScore": 21
-      },
-      "isExistingTopic": false,
-      "score": 74,
-      "nearestExistingTitle": "연말정산 환급금 조회 방법 2025 총정리",
-      "nearestExistingPermalink": "/year-end-tax-settlement-refund-inquiry-method/",
-      "similarity": 0.2,
-      "duplicatePenalty": 0,
-      "riskPenalty": 5,
-      "sourcePenalty": 0
-    },
-    {
-      "longevityScore": 70,
-      "competitionAngle": "궁 무료개방 단순 소개 대신 휴궁일·관람시간·해설 운영 변동을 표로 제공",
-      "monetizationScore": 72,
-      "action": "new",
-      "monetizationSignal": "서울 관광·궁궐 방문·무료입장 검색과 지역 광고 적합성",
-      "siteFitScore": 82,
-      "subKeywords": [
-        "코리아 그랜드 페스티벌 궁 무료",
-        "경복궁 무료개방 기간",
-        "경복궁 휴궁일"
-      ],
-      "riskLevel": "low",
-      "existingPost": "",
-      "demandScore": 78,
-      "riskNote": "궁별 운영시간이 다르므로 경복궁 외 4대 궁 공식 공지를 추가 확인",
-      "topicType": "breaking",
-      "freshnessScore": 95,
-      "category": "local-information",
-      "sourceTrustScore": 98,
-      "demandSignal": "코리아 그랜드 페스티벌 기간 경복궁·칠궁 무료개방 공지",
-      "readerValue": "무료입장 기간에도 휴궁일과 입장마감이 있다는 점을 명확히 안내",
-      "title": "코리아 그랜드 페스티벌 궁궐 무료개방 기간과 관람시간",
-      "keyword": "코리아 그랜드 페스티벌 궁 무료개방",
-      "sources": [
-        {
-          "sourceType": "official",
-          "title": "경복궁·칠궁 2026년 10~11월 관람 운영 안내",
-          "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schBcid=notice01&schM=view",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schBcid=notice01&schM=view",
-          "validationNote": ""
-        },
-        {
-          "sourceType": "official",
-          "title": "코리아 그랜드 페스티벌 공식 안내",
-          "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172335/view",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172335/view",
-          "validationNote": ""
-        }
-      ],
-      "publishBy": "2026-10-28T18:00:00+09:00",
-      "whyNow": "무료개방이 10월 29일부터 시작되어 방문 전 운영조건 확인이 필요",
-      "noveltyCovered": false,
-      "noveltyReason": "코리아 그랜드 페스티벌의 궁궐 무료개방이라는 구체적 관람 과제를 다루는 기존 글이 없습니다.",
-      "naverDemand": {
-        "keyword": "코리아 그랜드 페스티벌 궁 무료개방",
-        "measuredAt": "2026-10-28T00:29:52.916Z",
-        "relatedKeywords": [
-          {
-            "keyword": "코리아그랜드페스티벌궁무료개방",
-            "monthlyPc": 5,
-            "monthlyMobile": 5,
-            "monthlyTotal": 10,
-            "competition": "낮음",
-            "averagePcClicks": 0,
-            "averageMobileClicks": 0
-          }
-        ],
-        "trends": [
-          {
-            "keyword": "코리아 그랜드 페스티벌 궁 무료개방",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          },
-          {
-            "keyword": "코리아그랜드페스티벌궁무료개방",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          }
-        ],
-        "warnings": [],
-        "representativeKeyword": "코리아그랜드페스티벌궁무료개방",
-        "monthlyPc": 5,
-        "monthlyMobile": 5,
-        "monthlyTotal": 10,
-        "competition": "낮음",
-        "volumeScore": 21
-      },
-      "isExistingTopic": false,
-      "score": 74,
-      "nearestExistingTitle": "마틴 파 서울 전시 예약과 관람시간 무료 도슨트 안내",
-      "nearestExistingPermalink": "/martin-parr-seoul-exhibition/",
-      "similarity": 0.22727272727272727,
-      "duplicatePenalty": 0,
-      "riskPenalty": 0,
-      "sourcePenalty": 0
-    },
-    {
-      "longevityScore": 73,
-      "competitionAngle": "서울 전역 일반론 대신 제설함 위치, 시민 제설 범위, 신고·문의 채널을 지도형으로 구성",
-      "monetizationScore": 66,
-      "action": "new",
-      "monetizationSignal": "겨울철 지역 생활·안전 검색 수요",
-      "siteFitScore": 89,
-      "subKeywords": [
-        "서울 제설함 위치",
-        "내 집 앞 눈 치우기",
-        "서울 폭설 행동요령"
-      ],
-      "riskLevel": "low",
-      "existingPost": "",
-      "demandScore": 77,
-      "riskNote": "자치구별 제설함 위치와 책임범위를 별도 확인해야 함",
-      "topicType": "seasonal",
-      "freshnessScore": 88,
-      "category": "local-information",
-      "sourceTrustScore": 98,
-      "demandSignal": "서울시 겨울철 제설대책과 시민 행동요령이 공식 안내됨",
-      "readerValue": "눈이 왔을 때 주민이 해야 할 일과 제설함 확인 방법 제공",
-      "title": "서울 폭설 때 내 집 앞 눈 치우는 범위와 제설함 찾는 방법",
-      "keyword": "서울 제설함 위치 내 집 앞 눈 치우기",
-      "sources": [
-        {
-          "sourceType": "official",
-          "title": "서울시 겨울철 안전대책",
-          "url": "https://www.seoul.go.kr/story/safewinter/mobile.html",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://www.seoul.go.kr/story/safewinter/mobile.html",
-          "validationNote": ""
-        },
-        {
-          "sourceType": "official",
-          "title": "서울시 시민과 함께하는 제설대책",
-          "url": "https://news.seoul.go.kr/safe/archives/12294?listPage=1",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://news.seoul.go.kr/safe/archives/12294?listPage=1",
-          "validationNote": ""
-        }
-      ],
-      "publishBy": "2026년 11월 초",
-      "whyNow": "서울시 겨울철 제설대책 기간 시작 전 사전 준비 수요가 발생",
-      "noveltyCovered": false,
-      "noveltyReason": "서울 제설함 위치와 내 집 앞 제설 의무를 다루는 기존 글이 없습니다.",
-      "naverDemand": {
-        "keyword": "서울 제설함 위치 내 집 앞 눈 치우기",
-        "measuredAt": "2026-10-28T00:29:50.593Z",
-        "relatedKeywords": [
-          {
-            "keyword": "서울제설함위치내집앞눈치우기",
-            "monthlyPc": 5,
-            "monthlyMobile": 5,
-            "monthlyTotal": 10,
-            "competition": "낮음",
-            "averagePcClicks": 0,
-            "averageMobileClicks": 0
-          }
-        ],
-        "trends": [
-          {
-            "keyword": "서울 제설함 위치 내 집 앞 눈 치우",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          },
-          {
-            "keyword": "서울제설함위치내집앞눈치우기",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          }
-        ],
-        "warnings": [],
-        "representativeKeyword": "서울제설함위치내집앞눈치우기",
-        "monthlyPc": 5,
-        "monthlyMobile": 5,
-        "monthlyTotal": 10,
-        "competition": "낮음",
-        "volumeScore": 21
-      },
-      "isExistingTopic": false,
-      "score": 73,
-      "nearestExistingTitle": "2026 서울 여름축제 지도 행사 일정과 지역별 찾는 방법",
-      "nearestExistingPermalink": "/2026-seoul-summer-festival-map/",
-      "similarity": 0.25,
-      "duplicatePenalty": 0,
-      "riskPenalty": 0,
-      "sourcePenalty": 0
-    },
-    {
-      "longevityScore": 80,
-      "competitionAngle": "정부24 전체 사용법이 아니라 등본 전자문서지갑 제출과 출력 차이를 중심으로 구성",
-      "monetizationScore": 69,
-      "action": "new",
-      "monetizationSignal": "온라인 민원·전자증명서 제출 관련 상시 수요",
-      "siteFitScore": 90,
-      "subKeywords": [
-        "정부24 전자문서지갑",
-        "등본 전자문서 제출",
-        "민원서류 전자지갑"
-      ],
-      "riskLevel": "low",
-      "existingPost": "",
-      "demandScore": 74,
-      "riskNote": "기관별 전자문서 수신 가능 여부는 제출처 확인이 필요",
-      "topicType": "evergreen",
-      "freshnessScore": 80,
+      "freshnessScore": 97,
       "category": "civil-documents",
       "sourceTrustScore": 98,
-      "demandSignal": "정부24와 외국인용 공식 안내에 전자문서지갑 수령 기능 명시",
-      "readerValue": "파일 출력 없이 제출 가능한 경우와 불가능한 경우를 구분",
-      "title": "정부24 전자문서지갑 사용법과 등본 제출 가능 여부",
-      "keyword": "정부24 전자문서지갑 사용법",
+      "demandSignal": "2026년 6월 12일부터 부모의 미성년 자녀 온라인 대리 신청·발급 서비스가 시작됨",
+      "readerValue": "부모가 주민센터를 방문하지 않고 자녀 민원을 처리할 수 있는 대상, 본인인증, 신청 순서를 확인할 수 있음",
+      "title": "미성년 자녀 증명서 정부24 부모 대리 발급 방법과 가능한 민원",
+      "keyword": "미성년 자녀 증명서 정부24 대리 발급",
       "sources": [
         {
           "sourceType": "official",
-          "title": "정부24 등본·초본 발급 안내",
-          "url": "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000015&HighCtgCD=&tp_seq=01",
+          "title": "미성년 자녀 민원도 온라인으로 신청 가능",
+          "url": "https://mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do%3Bjsessionid%3DY2Qf0rU4wbVfJEUZtK102nCA903T7KiXTcMIrIP-.node10?bbsId=BBSMSTR_000000000008&nttId=126786",
           "valid": true,
           "status": 200,
-          "finalUrl": "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000015&HighCtgCD=&tp_seq=01",
+          "finalUrl": "https://mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do%3Bjsessionid%3DY2Qf0rU4wbVfJEUZtK102nCA903T7KiXTcMIrIP-.node10?bbsId=BBSMSTR_000000000008&nttId=126786",
           "validationNote": ""
         },
         {
           "sourceType": "official",
-          "title": "외국인용 정부 민원 안내서",
-          "url": "https://foreigner.gov.kr/foreignerService/for_guide/kor/UserGuideForeigners_ko.pdf",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://foreigner.gov.kr/foreignerService/for_guide/kor/UserGuideForeigners_ko.pdf",
-          "validationNote": ""
+          "title": "정부24",
+          "url": "https://m.gov.kr/portal/main/nologin",
+          "valid": false,
+          "status": 0,
+          "finalUrl": "",
+          "validationNote": "fetch failed"
         }
       ],
-      "publishBy": "상시 발행",
-      "whyNow": "전자증명서 제출 방식이 확대되면서 출력과 전자지갑의 차이를 찾는 수요가 지속",
+      "publishBy": "2026-10-30T09:00:00+09:00",
+      "whyNow": "이미 시행 중인 신규 민원 기능으로 사용법 검색 수요를 선점할 수 있음",
       "noveltyCovered": false,
-      "noveltyReason": "정부24 전자문서지갑 사용법을 주제로 한 기존 글이 없습니다.",
+      "noveltyReason": "미성년 자녀 증명서의 정부24 부모 대리 발급이라는 구체적 민원 주제를 다루는 기존 글이 없습니다.",
       "naverDemand": {
-        "keyword": "정부24 전자문서지갑 사용법",
-        "measuredAt": "2026-10-28T00:29:52.010Z",
+        "keyword": "미성년 자녀 증명서 정부24 대리 발급",
+        "measuredAt": "2026-10-29T00:53:18.002Z",
         "relatedKeywords": [
           {
-            "keyword": "정부24전자문서지갑사용법",
+            "keyword": "미성년자녀증명서정부24대리발급",
             "monthlyPc": 5,
             "monthlyMobile": 5,
             "monthlyTotal": 10,
@@ -2018,22 +1639,22 @@
         ],
         "trends": [
           {
-            "keyword": "정부24 전자문서지갑 사용법",
-            "recentAverage": 85.71,
+            "keyword": "미성년 자녀 증명서 정부24 대리 발",
+            "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
-            "latestRatio": 100
+            "latestRatio": 0
           },
           {
-            "keyword": "정부24전자문서지갑사용법",
-            "recentAverage": 85.71,
+            "keyword": "미성년자녀증명서정부24대리발급",
+            "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
-            "latestRatio": 100
+            "latestRatio": 0
           }
         ],
         "warnings": [],
-        "representativeKeyword": "정부24전자문서지갑사용법",
+        "representativeKeyword": "미성년자녀증명서정부24대리발급",
         "monthlyPc": 5,
         "monthlyMobile": 5,
         "monthlyTotal": 10,
@@ -2041,163 +1662,69 @@
         "volumeScore": 21
       },
       "isExistingTopic": false,
-      "score": 73,
-      "nearestExistingTitle": "청년미래적금 신청기간 정보와 도약계좌 갈아타기 가능 여부",
-      "nearestExistingPermalink": "/youth-future-savings-apply/",
-      "similarity": 0.25,
-      "duplicatePenalty": 0,
-      "riskPenalty": 0,
-      "sourcePenalty": 0
-    },
-    {
-      "longevityScore": 79,
-      "competitionAngle": "지방세 환급금 일반론 대신 위택스 신청 화면, 환급계좌 등록, 소멸 주의사항을 설명",
-      "monetizationScore": 80,
-      "action": "new",
-      "monetizationSignal": "환급금·위택스·지방세 조회의 높은 행동 의도",
-      "siteFitScore": 94,
-      "subKeywords": [
-        "지방세 환급금 조회",
-        "위택스 환급 신청",
-        "지방세 환급계좌"
-      ],
-      "riskLevel": "low",
-      "existingPost": "",
-      "demandScore": 83,
-      "riskNote": "창원 앱 도입 여부는 창원시 공식 공고를 추가 확인한 뒤 지역 한정으로 확장",
-      "topicType": "evergreen",
-      "freshnessScore": 85,
-      "category": "tax-finance",
-      "sourceTrustScore": 94,
-      "demandSignal": "위택스에 지방세 환급신청 메뉴가 공식 제공됨",
-      "readerValue": "환급금 조회부터 계좌 신청까지 실제 처리 순서를 안내",
-      "title": "지방세 환급금 조회와 위택스 환급 신청 방법",
-      "keyword": "지방세 환급금 조회 신청",
-      "sources": [
-        {
-          "sourceType": "official",
-          "title": "위택스 사용자 매뉴얼",
-          "url": "https://cdn.wetax.go.kr/static/guide/01%20%EA%B3%B5통/01_%EC%82%AC용자매뉴얼_대국민_공통.pdf",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://cdn.wetax.go.kr/static/guide/01%20%EA%B3%B5%ED%86%B5/01_%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A7%A4%EB%89%B4%EC%96%BC_%EB%8C%80%EA%B5%AD%EB%AF%BC_%EA%B3%B5%ED%86%B5.pdf",
-          "validationNote": ""
-        },
-        {
-          "sourceType": "news",
-          "title": "창원 지방세 환급금 앱 관련 발견 기사",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uQ3o0bnBXUExRQzBVVFpOSTlZWWFMU25feFlCMVBlZmFmXzUzM1dHY21GQlFmNUktdFIyRFlWRmZzYUp6ZVdxYTVmYTQ5S2tDNkM3U2tHSmp3N0VIZUxKNlptYVMteWPSAWtBVV95cUxQUG1nSG9fUzVPZ2lSRnF0LWZUbnhZLVZxRjdqRmdVcFZndDVaY21NcVNWaFRsNEFnYW1Gc3Y3SWdwc0VsTEcxb2NKVDBwWE9UMFpKclV3OHpV?oc=5",
-          "valid": false,
-          "status": 400,
-          "finalUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uQ3o0bnBXUExRQzBVVFpOSTlZWWFMU25feFlCMVBlZmFmXzUzM1dHY21GQlFmNUktdFIyRFlWRmZzYUp6ZVdxYTVmYTQ5S2tDNkM3U2tHSmp3N0VIZUxKNlptYVMteWPSAWtBVV95cUxQUG1nSG9fUzVPZ2lSRnF0LWZUbnhZLVZxRjdqRmdVcFZndDVaY21NcVNWaFRsNEFnYW1Gc3Y3SWdwc0VsTEcxb2NKVDBwWE9UMFpKclV3OHpV?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "validationNote": "HTTP 400"
-        }
-      ],
-      "publishBy": "상시 발행",
-      "whyNow": "지방세 환급 관련 지역 뉴스가 확산되어 전국 공통 신청 경로를 설명할 기회",
-      "noveltyCovered": false,
-      "noveltyReason": "기존 글은 자동차세 등 개별 환급이나 지방세 경정청구로, 지방세 환급금 일반 조회·신청과는 다릅니다.",
-      "naverDemand": {
-        "keyword": "지방세 환급금 조회 신청",
-        "measuredAt": "2026-10-28T00:29:50.003Z",
-        "relatedKeywords": [
-          {
-            "keyword": "지방세환급금조회신청",
-            "monthlyPc": 5,
-            "monthlyMobile": 5,
-            "monthlyTotal": 10,
-            "competition": "높음",
-            "averagePcClicks": 0,
-            "averageMobileClicks": 0
-          }
-        ],
-        "trends": [
-          {
-            "keyword": "지방세 환급금 조회 신청",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          },
-          {
-            "keyword": "지방세환급금조회신청",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          }
-        ],
-        "warnings": [],
-        "representativeKeyword": "지방세환급금조회신청",
-        "monthlyPc": 5,
-        "monthlyMobile": 5,
-        "monthlyTotal": 10,
-        "competition": "높음",
-        "volumeScore": 21
-      },
-      "isExistingTopic": false,
-      "score": 69,
-      "nearestExistingTitle": "자동차세 환급 신청방법｜차량 양도·폐차 후 위택스 환급금 조회",
-      "nearestExistingPermalink": "/car-tax-refund-application/",
-      "similarity": 0.5405405405405406,
+      "score": 72,
+      "nearestExistingTitle": "국세 납세증명서 발급 방법과 홈택스·정부24 유효기간 확인",
+      "nearestExistingPermalink": "/national-tax-payment-certificate-guide/",
+      "similarity": 0.3111111111111111,
       "duplicatePenalty": 0,
       "riskPenalty": 0,
       "sourcePenalty": 8
     },
     {
-      "longevityScore": 74,
-      "competitionAngle": "서울시 종합대책 전체가 아니라 한파쉼터·응급지원·120 신고를 실제 이용 순서로 정리",
-      "monetizationScore": 62,
+      "longevityScore": 70,
+      "competitionAngle": "품목·품종·신청기간·공급기관을 한 표에 통합",
+      "monetizationScore": 66,
       "action": "new",
-      "monetizationSignal": "한파·쉼터·긴급복지 관련 지역 생활 검색",
-      "siteFitScore": 86,
+      "monetizationSignal": "종자·농업자재·농업정책 검색과 관련 상품 광고",
+      "siteFitScore": 80,
       "subKeywords": [
-        "서울 한파쉼터",
-        "서울 겨울철 긴급복지",
-        "서울 120 한파 신고"
+        "2027 보급종 신청",
+        "동계작물 종자 신청",
+        "밀 보급종",
+        "보리 정부보급종"
       ],
-      "riskLevel": "medium",
+      "riskLevel": "low",
       "existingPost": "",
-      "demandScore": 72,
-      "riskNote": "지원 대상과 쉼터 운영시간은 자치구별 변동 가능",
+      "demandScore": 74,
+      "riskNote": "지역별 실제 신청기간은 종자원과 시군 공고를 추가 확인해야 함",
       "topicType": "seasonal",
-      "freshnessScore": 87,
-      "category": "local-information",
-      "sourceTrustScore": 98,
-      "demandSignal": "서울시가 한파·제설·생활 분야 겨울철 종합대책을 운영",
-      "readerValue": "추위로 곤란한 상황에서 이용할 시설과 연락처를 빠르게 확인",
-      "title": "서울 한파쉼터와 겨울철 긴급지원 이용방법",
-      "keyword": "서울 한파쉼터 위치 이용방법",
+      "freshnessScore": 94,
+      "category": "subsidy",
+      "sourceTrustScore": 99,
+      "demandSignal": "2027년산 동계작물 5품목 25종 공급계획이 발표됨",
+      "readerValue": "보리·밀·사료작물별 공급 품종과 신청 창구를 비교할 수 있음",
+      "title": "2027 동계작물 정부보급종 신청방법과 보리·밀 품종 안내",
+      "keyword": "2027 동계작물 보급종 신청",
       "sources": [
         {
           "sourceType": "official",
-          "title": "서울시 겨울철 종합대책",
-          "url": "https://news.seoul.go.kr/gov/archives/573121",
+          "title": "2027년산 동계작물 종자 공급 계획",
+          "url": "https://mafra.go.kr/bbs/home/792/579306/artclView.do",
           "valid": true,
           "status": 200,
-          "finalUrl": "https://news.seoul.go.kr/gov/archives/573121",
+          "finalUrl": "https://mafra.go.kr/bbs/home/792/579306/artclView.do",
           "validationNote": ""
         },
         {
           "sourceType": "official",
-          "title": "서울시 겨울철 안전대책",
-          "url": "https://www.seoul.go.kr/story/safewinter/",
+          "title": "농림축산식품부 공공데이터 개방 현황",
+          "url": "https://mafra.go.kr/home/5017/subview.do",
           "valid": true,
           "status": 200,
-          "finalUrl": "https://www.seoul.go.kr/story/safewinter/",
+          "finalUrl": "https://mafra.go.kr/home/5017/subview.do",
           "validationNote": ""
         }
       ],
-      "publishBy": "2026년 11월 초",
-      "whyNow": "겨울철 종합대책 기간에 들어가기 전 시설 이용 정보를 정리할 수 있음",
+      "publishBy": "2026-11-03T09:00:00+09:00",
+      "whyNow": "파종과 신청 시기가 가까워지는 가을·초겨울 시즌",
       "noveltyCovered": false,
-      "noveltyReason": "서울 한파쉼터와 겨울철 긴급지원 이용을 다루는 기존 글이 없습니다.",
+      "noveltyReason": "동계작물 정부보급종 신청이라는 별도 종자 지원 주제입니다.",
       "naverDemand": {
-        "keyword": "서울 한파쉼터 위치 이용방법",
-        "measuredAt": "2026-10-28T00:29:52.456Z",
+        "keyword": "2027 동계작물 보급종 신청",
+        "measuredAt": "2026-10-29T00:53:18.784Z",
         "relatedKeywords": [
           {
-            "keyword": "서울한파쉼터위치이용방법",
+            "keyword": "2027동계작물보급종신청",
             "monthlyPc": 5,
             "monthlyMobile": 5,
             "monthlyTotal": 10,
@@ -2208,14 +1735,14 @@
         ],
         "trends": [
           {
-            "keyword": "서울 한파쉼터 위치 이용방법",
+            "keyword": "2027 동계작물 보급종 신청",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
             "latestRatio": 0
           },
           {
-            "keyword": "서울한파쉼터위치이용방법",
+            "keyword": "2027동계작물보급종신청",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
@@ -2223,7 +1750,487 @@
           }
         ],
         "warnings": [],
-        "representativeKeyword": "서울한파쉼터위치이용방법",
+        "representativeKeyword": "2027동계작물보급종신청",
+        "monthlyPc": 5,
+        "monthlyMobile": 5,
+        "monthlyTotal": 10,
+        "competition": "낮음",
+        "volumeScore": 21
+      },
+      "isExistingTopic": false,
+      "score": 72,
+      "nearestExistingTitle": "2026 의료급여 신청방법과 대상 기준 정리",
+      "nearestExistingPermalink": "/2026-medical-benefits-application-method/",
+      "similarity": 0.14285714285714285,
+      "duplicatePenalty": 0,
+      "riskPenalty": 0,
+      "sourcePenalty": 0
+    },
+    {
+      "longevityScore": 81,
+      "competitionAngle": "서울시 교통요금표를 실제 출근 시간대와 환승 사례로 계산",
+      "monetizationScore": 68,
+      "action": "new",
+      "monetizationSignal": "교통카드·대중교통·지역 생활 광고와 적합",
+      "siteFitScore": 84,
+      "subKeywords": [
+        "서울 지하철 조조할인",
+        "대중교통 조조할인 시간",
+        "서울 버스 환승요금",
+        "교통카드 할인"
+      ],
+      "riskLevel": "low",
+      "existingPost": "",
+      "demandScore": 77,
+      "riskNote": "요금표 개정 여부를 발행 직전에 재확인해야 함",
+      "topicType": "evergreen",
+      "freshnessScore": 64,
+      "category": "local-information",
+      "sourceTrustScore": 98,
+      "demandSignal": "서울시 공식 교통요금 안내에 조조할인과 이용 조건이 명시됨",
+      "readerValue": "할인 적용 시간, 교통카드 조건, 환승 시 계산 방식을 사례로 확인 가능",
+      "title": "서울 대중교통 조조할인 시간과 교통카드 환승요금 계산",
+      "keyword": "서울 지하철 조조할인 시간",
+      "sources": [
+        {
+          "sourceType": "official",
+          "title": "서울시 교통 요금 안내",
+          "url": "https://news.seoul.go.kr/traffic/traffic_price",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://news.seoul.go.kr/traffic/traffic_price",
+          "validationNote": ""
+        },
+        {
+          "sourceType": "official",
+          "title": "서울시 대중교통 정보",
+          "url": "https://news.seoul.go.kr/traffic/",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://news.seoul.go.kr/traffic/",
+          "validationNote": ""
+        }
+      ],
+      "publishBy": "evergreen: 요금 변경 확인 후 상시 발행",
+      "whyNow": "기존 교통카드 주제와 겹치지 않는 서울시 요금 계산형 세부 검색어",
+      "noveltyCovered": false,
+      "noveltyReason": "서울 대중교통 조조할인 및 환승요금 계산을 다루는 기존 글이 없습니다.",
+      "naverDemand": {
+        "keyword": "서울 지하철 조조할인 시간",
+        "measuredAt": "2026-10-29T00:53:19.982Z",
+        "relatedKeywords": [
+          {
+            "keyword": "서울지하철조조할인시간",
+            "monthlyPc": 5,
+            "monthlyMobile": 20,
+            "monthlyTotal": 25,
+            "competition": "낮음",
+            "averagePcClicks": 0,
+            "averageMobileClicks": 0
+          }
+        ],
+        "trends": [
+          {
+            "keyword": "서울 지하철 조조할인 시간",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          },
+          {
+            "keyword": "서울지하철조조할인시간",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          }
+        ],
+        "warnings": [],
+        "representativeKeyword": "서울지하철조조할인시간",
+        "monthlyPc": 5,
+        "monthlyMobile": 20,
+        "monthlyTotal": 25,
+        "competition": "낮음",
+        "volumeScore": 28
+      },
+      "isExistingTopic": false,
+      "score": 71,
+      "nearestExistingTitle": "65세 이상 교통카드 신청 발급 방법 및 신청 서류",
+      "nearestExistingPermalink": "/senior-transportation-card-guide/",
+      "similarity": 0.14285714285714285,
+      "duplicatePenalty": 0,
+      "riskPenalty": 0,
+      "sourcePenalty": 0
+    },
+    {
+      "longevityScore": 62,
+      "competitionAngle": "서울시 추가보조금의 중복 가능 여부와 신청 주체를 중심으로 설명",
+      "monetizationScore": 79,
+      "action": "new",
+      "monetizationSignal": "전기이륜차·배달업·소상공인 구매 광고와 금융 상품 연계",
+      "siteFitScore": 86,
+      "subKeywords": [
+        "서울 전기이륜차 보조금",
+        "전기오토바이 추가지원",
+        "배달용 전기이륜차",
+        "전기이륜차 보조금 신청"
+      ],
+      "riskLevel": "medium",
+      "existingPost": "",
+      "demandScore": 84,
+      "riskNote": "예산 소진과 차종별 지원액 변동 가능성이 있으므로 신청 전 공고 확인 필요",
+      "topicType": "breaking",
+      "freshnessScore": 93,
+      "category": "subsidy",
+      "sourceTrustScore": 98,
+      "demandSignal": "2026년 하반기 신청기간이 12월 4일까지로 안내됨",
+      "readerValue": "폐차 후 추가지원, 배달용·소상공인 추가지원, 신청 경로를 구분할 수 있음",
+      "title": "2026 서울 전기이륜차 보조금 추가지원 대상과 신청방법",
+      "keyword": "2026 서울 전기이륜차 보조금",
+      "sources": [
+        {
+          "sourceType": "official",
+          "title": "서울시 전기이륜차 추가 보조금 안내",
+          "url": "https://news.seoul.go.kr/env/archives/516993?listPage=1",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://news.seoul.go.kr/env/archives/516993?listPage=1",
+          "validationNote": ""
+        },
+        {
+          "sourceType": "official",
+          "title": "서울시 전기이륜차 자주 묻는 질문",
+          "url": "https://news.seoul.go.kr/env/archives/517782",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://news.seoul.go.kr/env/archives/517782",
+          "validationNote": ""
+        }
+      ],
+      "publishBy": "2026-11-02T09:00:00+09:00",
+      "whyNow": "한시 지원 항목의 신청 마감 전 실제 구매 검토 수요가 있음",
+      "noveltyCovered": false,
+      "noveltyReason": "서울 전기이륜차 보조금은 기존 목록에 동일한 지원사업 글이 없습니다.",
+      "naverDemand": {
+        "keyword": "2026 서울 전기이륜차 보조금",
+        "measuredAt": "2026-10-29T00:53:19.172Z",
+        "relatedKeywords": [
+          {
+            "keyword": "2026서울전기이륜차보조금",
+            "monthlyPc": 5,
+            "monthlyMobile": 5,
+            "monthlyTotal": 10,
+            "competition": "낮음",
+            "averagePcClicks": 0,
+            "averageMobileClicks": 0
+          }
+        ],
+        "trends": [
+          {
+            "keyword": "2026 서울 전기이륜차 보조금",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          },
+          {
+            "keyword": "2026서울전기이륜차보조금",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          }
+        ],
+        "warnings": [],
+        "representativeKeyword": "2026서울전기이륜차보조금",
+        "monthlyPc": 5,
+        "monthlyMobile": 5,
+        "monthlyTotal": 10,
+        "competition": "낮음",
+        "volumeScore": 21
+      },
+      "isExistingTopic": false,
+      "score": 70,
+      "nearestExistingTitle": "포켓몬런 2026 서울 신청방법 및 신청기간 일정 완벽 가이드",
+      "nearestExistingPermalink": "/pokemon-run-seoul-application-guide/",
+      "similarity": 0.3333333333333333,
+      "duplicatePenalty": 0,
+      "riskPenalty": 5,
+      "sourcePenalty": 0
+    },
+    {
+      "longevityScore": 67,
+      "competitionAngle": "공공조달 제도 소개가 아니라 혁신제품 지정·등록·납품 흐름으로 재구성",
+      "monetizationScore": 77,
+      "action": "new",
+      "monetizationSignal": "B2B 조달·기업지원·인증 서비스 광고와 연관",
+      "siteFitScore": 73,
+      "subKeywords": [
+        "혁신제품 공공조달",
+        "혁신제품 지정 신청",
+        "공공조달 납품 방법",
+        "조달청 혁신제품"
+      ],
+      "riskLevel": "low",
+      "existingPost": "",
+      "demandScore": 61,
+      "riskNote": "공고별 신청기간과 대상 요건이 다르므로 최신 공고를 기준으로 작성",
+      "topicType": "evergreen",
+      "freshnessScore": 82,
+      "category": "subsidy",
+      "sourceTrustScore": 90,
+      "demandSignal": "공공조달을 통한 혁신기업 성장 지원 정책이 발표됨",
+      "readerValue": "기업이 혁신제품 신청 전 준비할 자료와 조달시장 진입 절차를 확인 가능",
+      "title": "혁신제품 공공조달 신청방법과 지정 후 납품 절차",
+      "keyword": "혁신제품 공공조달 신청방법",
+      "sources": [
+        {
+          "sourceType": "official",
+          "title": "혁신기업의 성장 사다리, 공공조달로 잇는다",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156736391",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156736391",
+          "validationNote": ""
+        },
+        {
+          "sourceType": "official",
+          "title": "조달청 혁신장터",
+          "url": "https://ppi.g2b.go.kr/",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://ppi.g2b.go.kr/",
+          "validationNote": ""
+        }
+      ],
+      "publishBy": "evergreen: 신규 지정 공고 확인 후 발행",
+      "whyNow": "정책 발표 직후 기업용 실무 가이드로 차별화 가능",
+      "noveltyCovered": false,
+      "noveltyReason": "혁신제품 공공조달 신청·지정·납품 절차라는 별도 조달 주제입니다.",
+      "naverDemand": {
+        "keyword": "혁신제품 공공조달 신청방법",
+        "measuredAt": "2026-10-29T00:53:22.382Z",
+        "relatedKeywords": [
+          {
+            "keyword": "혁신제품공공조달신청방법",
+            "monthlyPc": 5,
+            "monthlyMobile": 5,
+            "monthlyTotal": 10,
+            "competition": "낮음",
+            "averagePcClicks": 0,
+            "averageMobileClicks": 0
+          }
+        ],
+        "trends": [
+          {
+            "keyword": "혁신제품 공공조달 신청방법",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          },
+          {
+            "keyword": "혁신제품공공조달신청방법",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          }
+        ],
+        "warnings": [],
+        "representativeKeyword": "혁신제품공공조달신청방법",
+        "monthlyPc": 5,
+        "monthlyMobile": 5,
+        "monthlyTotal": 10,
+        "competition": "낮음",
+        "volumeScore": 21
+      },
+      "isExistingTopic": false,
+      "score": 68,
+      "nearestExistingTitle": "근로장려금 반기 신청 방법과 지급유보·정산 기준",
+      "nearestExistingPermalink": "/2026-earned-income-tax-credit-half-year/",
+      "similarity": 0.17142857142857143,
+      "duplicatePenalty": 0,
+      "riskPenalty": 0,
+      "sourcePenalty": 0
+    },
+    {
+      "longevityScore": 65,
+      "competitionAngle": "제조데이터 정책을 기업 참여 조건·데이터 활용 절차 중심으로 변환",
+      "monetizationScore": 69,
+      "action": "new",
+      "monetizationSignal": "제조 SaaS·데이터 컨설팅·기업지원 광고",
+      "siteFitScore": 68,
+      "subKeywords": [
+        "M.AX 얼라이언스 참여",
+        "제조데이터 분과",
+        "제조기업 데이터 지원",
+        "산업 데이터 활용"
+      ],
+      "riskLevel": "low",
+      "existingPost": "",
+      "demandScore": 57,
+      "riskNote": "일반 독자보다 제조기업·기관 독자 비중이 높음",
+      "topicType": "breaking",
+      "freshnessScore": 92,
+      "category": "subsidy",
+      "sourceTrustScore": 96,
+      "demandSignal": "2026년 10월 제조데이터 분과 출범 발표",
+      "readerValue": "제조기업이 참여 가능 여부와 협업·지원 창구를 파악할 수 있음",
+      "title": "M.AX 얼라이언스 제조데이터 분과 참여 대상과 기업 활용방법",
+      "keyword": "M.AX 얼라이언스 제조데이터",
+      "sources": [
+        {
+          "sourceType": "official",
+          "title": "제조데이터로 자라는 M.AX 얼라이언스 데이터 분과 출범",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156736461",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156736461",
+          "validationNote": ""
+        },
+        {
+          "sourceType": "official",
+          "title": "산업통상자원부",
+          "url": "https://www.motie.go.kr/",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://www.motir.go.kr/",
+          "validationNote": ""
+        }
+      ],
+      "publishBy": "2026-11-05T09:00:00+09:00",
+      "whyNow": "출범 직후 참여·활용 방법을 찾는 기업 독자 수요가 발생할 시점",
+      "noveltyCovered": false,
+      "noveltyReason": "M.AX 얼라이언스 제조데이터 분과 참여라는 특정 프로그램 주제가 기존 글에 없습니다.",
+      "naverDemand": {
+        "keyword": "M.AX 얼라이언스 제조데이터",
+        "measuredAt": "2026-10-29T00:53:22.782Z",
+        "relatedKeywords": [
+          {
+            "keyword": "M.AX얼라이언스제조데이터",
+            "monthlyPc": 5,
+            "monthlyMobile": 5,
+            "monthlyTotal": 10,
+            "competition": "낮음",
+            "averagePcClicks": 0,
+            "averageMobileClicks": 0
+          }
+        ],
+        "trends": [
+          {
+            "keyword": "M.AX 얼라이언스 제조데이터",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          },
+          {
+            "keyword": "M.AX얼라이언스제조데이터",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          }
+        ],
+        "warnings": [],
+        "representativeKeyword": "M.AX얼라이언스제조데이터",
+        "monthlyPc": 5,
+        "monthlyMobile": 5,
+        "monthlyTotal": 10,
+        "competition": "낮음",
+        "volumeScore": 21
+      },
+      "isExistingTopic": false,
+      "score": 67,
+      "nearestExistingTitle": "배당소득 분리과세 대상과 세율·고배당기업 확인 방법",
+      "nearestExistingPermalink": "/dividend-income-separate-tax-guide/",
+      "similarity": 0.15384615384615385,
+      "duplicatePenalty": 0,
+      "riskPenalty": 0,
+      "sourcePenalty": 0
+    },
+    {
+      "longevityScore": 75,
+      "competitionAngle": "판매승인 필요 여부와 보조금 환수 위험을 중고거래 상황별로 설명",
+      "monetizationScore": 72,
+      "action": "new",
+      "monetizationSignal": "전기차·이륜차·중고차 거래 광고와 연관",
+      "siteFitScore": 84,
+      "subKeywords": [
+        "전기이륜차 판매승인",
+        "전기오토바이 보조금 환수",
+        "서울 전기이륜차 중고판매",
+        "의무운행기간"
+      ],
+      "riskLevel": "medium",
+      "existingPost": "",
+      "demandScore": 72,
+      "riskNote": "차량별 등록일과 보조금 지급 이력을 확인해야 함",
+      "topicType": "evergreen",
+      "freshnessScore": 78,
+      "category": "civil-documents",
+      "sourceTrustScore": 98,
+      "demandSignal": "서울시가 의무운행기간 내 전기이륜차 판매승인 절차를 별도 안내",
+      "readerValue": "보조금을 받은 전기이륜차를 팔 때 필요한 승인과 환수 여부를 확인할 수 있음",
+      "title": "전기이륜차 보조금 받은 뒤 판매할 때 승인과 환수 기준",
+      "keyword": "전기이륜차 판매승인 보조금 환수",
+      "sources": [
+        {
+          "sourceType": "official",
+          "title": "서울시 의무운행기간 내 전기이륜차 판매승인",
+          "url": "https://news.seoul.go.kr/env/eco/eco-vehicle/sale_apprval",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://news.seoul.go.kr/env/eco/eco-vehicle/sale_apprval",
+          "validationNote": ""
+        },
+        {
+          "sourceType": "official",
+          "title": "서울시 전기이륜차 추가 보조금 안내",
+          "url": "https://news.seoul.go.kr/env/archives/516993?listPage=1",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://news.seoul.go.kr/env/archives/516993?listPage=1",
+          "validationNote": ""
+        }
+      ],
+      "publishBy": "evergreen: 중고판매 수요에 맞춰 상시 발행",
+      "whyNow": "전기이륜차 보급 확대에 따라 향후 중고판매·명의이전 문의가 누적될 주제",
+      "noveltyCovered": false,
+      "noveltyReason": "전기이륜차 보조금 수령 후 판매 승인·환수라는 사후관리 주제로, 후보 3의 보조금 신청 주제와는 독립적인 독자 과업입니다.",
+      "naverDemand": {
+        "keyword": "전기이륜차 판매승인 보조금 환수",
+        "measuredAt": "2026-10-29T00:53:20.379Z",
+        "relatedKeywords": [
+          {
+            "keyword": "전기이륜차판매승인보조금환수",
+            "monthlyPc": 5,
+            "monthlyMobile": 5,
+            "monthlyTotal": 10,
+            "competition": "낮음",
+            "averagePcClicks": 0,
+            "averageMobileClicks": 0
+          }
+        ],
+        "trends": [
+          {
+            "keyword": "전기이륜차 판매승인 보조금 환수",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          },
+          {
+            "keyword": "전기이륜차판매승인보조금환수",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          }
+        ],
+        "warnings": [],
+        "representativeKeyword": "전기이륜차판매승인보조금환수",
         "monthlyPc": 5,
         "monthlyMobile": 5,
         "monthlyTotal": 10,
@@ -2232,67 +2239,68 @@
       },
       "isExistingTopic": false,
       "score": 66,
-      "nearestExistingTitle": "2026 추석 고속도로 통행료 면제 기간과 하이패스 이용방법",
-      "nearestExistingPermalink": "/2026-chuseok-highway-toll-free-period/",
-      "similarity": 0.14285714285714285,
+      "nearestExistingTitle": "연금저축펀드 해지 후 재가입 조건 및 환수 기준",
+      "nearestExistingPermalink": "/pension-fund-termination-rejoining/",
+      "similarity": 0.25,
       "duplicatePenalty": 0,
       "riskPenalty": 5,
       "sourcePenalty": 0
     },
     {
-      "longevityScore": 77,
-      "competitionAngle": "코로나 증상 설명이 아니라 2026-2027절기 국가접종 대상·의료기관 조회 절차만 다룸",
-      "monetizationScore": 68,
+      "longevityScore": 84,
+      "competitionAngle": "정부 발표를 가정용 전열기·공사장·다중이용시설 체크리스트로 재구성",
+      "monetizationScore": 61,
       "action": "new",
-      "monetizationSignal": "예방접종 일정·접종기관 조회의 반복 검색",
-      "siteFitScore": 84,
+      "monetizationSignal": "난방용품·화재경보기·안전용품 광고와 연결 가능",
+      "siteFitScore": 90,
       "subKeywords": [
-        "2026 코로나 예방접종",
-        "예방접종도우미 의료기관 찾기",
-        "코로나 국가예방접종 일정"
+        "겨울철 화재 예방",
+        "전기장판 안전수칙",
+        "소방청 겨울철 화재",
+        "화재 예방 체크리스트"
       ],
-      "riskLevel": "medium",
+      "riskLevel": "low",
       "existingPost": "",
-      "demandScore": 80,
-      "riskNote": "의학적 판단은 제외하고 질병관리청의 접종 대상·기관 조회만 안내",
+      "demandScore": 86,
+      "riskNote": "안전 수칙은 소방청 원문 범위를 넘지 않도록 작성",
       "topicType": "seasonal",
-      "freshnessScore": 93,
+      "freshnessScore": 88,
       "category": "living-information",
       "sourceTrustScore": 99,
-      "demandSignal": "2026-2027절기 국가예방접종이 2026년 10월부터 진행",
-      "readerValue": "접종 전 대상 확인과 접종 가능한 기관 검색 방법 제공",
-      "title": "2026-2027절기 코로나 국가예방접종 대상과 의료기관 찾기",
-      "keyword": "2026 코로나 예방접종 대상 기관 찾기",
+      "demandSignal": "소방청이 겨울철 화재예방대책 추진을 예고",
+      "readerValue": "가정에서 바로 점검할 전기·난방기기와 화재 대응 순서를 제공",
+      "title": "겨울철 화재 예방 체크리스트 전기장판·난방기기 점검방법",
+      "keyword": "겨울철 화재 예방 체크리스트",
       "sources": [
         {
           "sourceType": "official",
-          "title": "질병관리청 2026-2027절기 코로나 예방접종 계획",
-          "url": "https://www.kdca.go.kr/bbs/kdca/42/309792/download.do",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://www.kdca.go.kr/bbs/kdca/42/309792/download.do",
-          "validationNote": ""
+          "title": "소방청 겨울철 화재예방대책",
+          "url": "https://www.nfa.go.kr/nfa/news/pressrelease/press/?cntId=2733&mode=view",
+          "valid": false,
+          "status": 404,
+          "finalUrl": "https://www.nfa.go.kr/nfa/news/pressrelease/press/?cntId=2733&mode=view",
+          "validationNote": "HTTP 404"
         },
         {
           "sourceType": "official",
-          "title": "예방접종도우미",
-          "url": "https://nip.kdca.go.kr/irgd/index.html",
+          "title": "소방청 겨울철 화재예방대책 추진실태 점검",
+          "url": "https://www.nfa.go.kr/nfa/news/pressrelease/press/?cntId=2818&mode=view&pageIdx=1&searchCondition=all",
           "valid": false,
-          "status": 0,
-          "finalUrl": "",
-          "validationNote": "fetch failed"
+          "status": 404,
+          "finalUrl": "https://www.nfa.go.kr/nfa/news/pressrelease/press/?cntId=2818&mode=view&pageIdx=1&searchCondition=all",
+          "validationNote": "HTTP 404"
         }
       ],
-      "publishBy": "2026년 10월 말",
-      "whyNow": "접종 사업이 진행 중이며 방문 전 기관과 가능 여부 확인이 필요",
+      "publishBy": "2026-11-02T09:00:00+09:00",
+      "whyNow": "11월부터 난방기기 사용이 늘어나는 계절성 검색 주제",
       "noveltyCovered": false,
-      "noveltyReason": "기존 글은 예방접종증명서 발급이며, 코로나 국가예방접종 대상·기관 찾기와는 다릅니다.",
+      "noveltyReason": "겨울철 화재 예방과 난방기기 점검을 다루는 글이 없습니다.",
       "naverDemand": {
-        "keyword": "2026 코로나 예방접종 대상 기관 찾기",
-        "measuredAt": "2026-10-28T00:29:51.494Z",
+        "keyword": "겨울철 화재 예방 체크리스트",
+        "measuredAt": "2026-10-29T00:53:19.582Z",
         "relatedKeywords": [
           {
-            "keyword": "2026코로나예방접종대상기관찾기",
+            "keyword": "겨울철화재예방체크리스트",
             "monthlyPc": 5,
             "monthlyMobile": 5,
             "monthlyTotal": 10,
@@ -2303,14 +2311,14 @@
         ],
         "trends": [
           {
-            "keyword": "2026 코로나 예방접종 대상 기관 ",
+            "keyword": "겨울철 화재 예방 체크리스트",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
             "latestRatio": 0
           },
           {
-            "keyword": "2026코로나예방접종대상기관찾기",
+            "keyword": "겨울철화재예방체크리스트",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
@@ -2318,7 +2326,7 @@
           }
         ],
         "warnings": [],
-        "representativeKeyword": "2026코로나예방접종대상기관찾기",
+        "representativeKeyword": "겨울철화재예방체크리스트",
         "monthlyPc": 5,
         "monthlyMobile": 5,
         "monthlyTotal": 10,
@@ -2326,43 +2334,44 @@
         "volumeScore": 21
       },
       "isExistingTopic": false,
-      "score": 62,
-      "nearestExistingTitle": "2026 의료급여 신청방법과 대상 기준 정리",
-      "nearestExistingPermalink": "/2026-medical-benefits-application-method/",
-      "similarity": 0.17647058823529413,
+      "score": 59,
+      "nearestExistingTitle": "원천세 신고방법 홈택스 제출과 무급여 신고 체크리스트",
+      "nearestExistingPermalink": "/withholding-tax-hometax-filing-guide/",
+      "similarity": 0.1951219512195122,
       "duplicatePenalty": 0,
-      "riskPenalty": 5,
-      "sourcePenalty": 8
+      "riskPenalty": 0,
+      "sourcePenalty": 16
     },
     {
-      "longevityScore": 72,
-      "competitionAngle": "수도 동파 예방법보다 부산의 무료 보온재 교체·긴급복구 연락 절차를 지역 특화",
-      "monetizationScore": 64,
+      "longevityScore": 73,
+      "competitionAngle": "법 시행일과 실무상 개인정보 처리 체크포인트를 표로 정리",
+      "monetizationScore": 74,
       "action": "new",
-      "monetizationSignal": "지역 생활민원과 겨울철 긴급서비스 검색",
-      "siteFitScore": 88,
+      "monetizationSignal": "개인정보보호·보안 솔루션·기업 교육 광고와 연결",
+      "siteFitScore": 70,
       "subKeywords": [
-        "부산 수도계량기 동파",
-        "부산 동파 신고",
-        "계량기 보온재 무료 교체"
+        "2027 개인정보보호법 시행",
+        "개인정보보호법 2027년 개정",
+        "개인정보 처리자 준비사항",
+        "개인정보보호법 시행일"
       ],
-      "riskLevel": "low",
+      "riskLevel": "medium",
       "existingPost": "",
-      "demandScore": 75,
-      "riskNote": "부산시 해당 연도 월동대책과 신청 채널을 발행 직전 재확인",
-      "topicType": "seasonal",
-      "freshnessScore": 86,
-      "category": "local-information",
+      "demandScore": 64,
+      "riskNote": "사업자 대상 법률 정보이므로 해석보다 법령상 의무와 공식 안내 중심으로 작성",
+      "topicType": "breaking",
+      "freshnessScore": 89,
+      "category": "living-information",
       "sourceTrustScore": 98,
-      "demandSignal": "부산 상수도사업본부가 동파 예방과 무료 보온재 교체를 안내",
-      "readerValue": "동파 전 점검, 동파 후 신고, 무료 지원 여부를 지역 기준으로 제공",
-      "title": "부산 수도계량기 동파 예방과 신고방법, 보온재 지원 확인",
-      "keyword": "부산 수도계량기 동파 신고",
+      "demandSignal": "개인정보 보호법의 2027년 시행 예정 개정 조문이 국가법령정보센터에 표시됨",
+      "readerValue": "사업자가 시행 전 확인할 적용 대상, 내부 문서, 동의·보관 절차를 체크 가능",
+      "title": "2027 개인정보보호법 시행 예정 내용과 사업자 준비 체크리스트",
+      "keyword": "2027 개인정보보호법 시행",
       "sources": [
         {
           "sourceType": "official",
-          "title": "부산시 겨울철 상수도 월동대책",
-          "url": "https://www.busan.go.kr/nbtnewsBU/1706107?curPage=141&srchBeginDt=&srchEndDt=&srchKey=sj&srchText=",
+          "title": "국가법령정보센터 개인정보 보호법",
+          "url": "https://law.go.kr/unSc.do?query=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EB%B2%95",
           "valid": false,
           "status": 0,
           "finalUrl": "",
@@ -2370,24 +2379,24 @@
         },
         {
           "sourceType": "official",
-          "title": "부산 상수도사업본부",
-          "url": "https://www.busan.go.kr/water/index",
-          "valid": false,
-          "status": 0,
-          "finalUrl": "",
-          "validationNote": "fetch failed"
+          "title": "개인정보보호위원회",
+          "url": "https://www.pipc.go.kr/",
+          "valid": true,
+          "status": 200,
+          "finalUrl": "https://pipc.go.kr/np/",
+          "validationNote": ""
         }
       ],
-      "publishBy": "2026년 11월 초",
-      "whyNow": "한파 전 계량기 보온과 긴급복구 절차를 미리 알아둘 필요가 있음",
+      "publishBy": "evergreen: 시행령·고시 확정 후 발행",
+      "whyNow": "시행 예정 법령을 미리 준비하려는 사업자 검색 수요를 확보할 수 있음",
       "noveltyCovered": false,
-      "noveltyReason": "부산 수도계량기 동파 예방·신고를 다루는 기존 글이 없습니다.",
+      "noveltyReason": "2027년 개인정보보호법 시행 및 사업자 준비사항을 다루는 기존 글이 없습니다.",
       "naverDemand": {
-        "keyword": "부산 수도계량기 동파 신고",
-        "measuredAt": "2026-10-28T00:29:51.031Z",
+        "keyword": "2027 개인정보보호법 시행",
+        "measuredAt": "2026-10-29T00:53:21.987Z",
         "relatedKeywords": [
           {
-            "keyword": "부산수도계량기동파신고",
+            "keyword": "2027개인정보보호법시행",
             "monthlyPc": 5,
             "monthlyMobile": 5,
             "monthlyTotal": 10,
@@ -2398,14 +2407,14 @@
         ],
         "trends": [
           {
-            "keyword": "부산 수도계량기 동파 신고",
+            "keyword": "2027 개인정보보호법 시행",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
             "latestRatio": 0
           },
           {
-            "keyword": "부산수도계량기동파신고",
+            "keyword": "2027개인정보보호법시행",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
@@ -2413,7 +2422,103 @@
           }
         ],
         "warnings": [],
-        "representativeKeyword": "부산수도계량기동파신고",
+        "representativeKeyword": "2027개인정보보호법시행",
+        "monthlyPc": 5,
+        "monthlyMobile": 5,
+        "monthlyTotal": 10,
+        "competition": "낮음",
+        "volumeScore": 21
+      },
+      "isExistingTopic": false,
+      "score": 57,
+      "nearestExistingTitle": "원천세 신고방법 홈택스 제출과 무급여 신고 체크리스트",
+      "nearestExistingPermalink": "/withholding-tax-hometax-filing-guide/",
+      "similarity": 0.18604651162790697,
+      "duplicatePenalty": 0,
+      "riskPenalty": 5,
+      "sourcePenalty": 8
+    },
+    {
+      "longevityScore": 69,
+      "competitionAngle": "2027년 시행 예정 조세특례를 세액공제 대상과 적용시기로 분리",
+      "monetizationScore": 86,
+      "action": "new",
+      "monetizationSignal": "연말정산·교육비·세금 계산 검색은 광고 단가가 높은 편",
+      "siteFitScore": 88,
+      "subKeywords": [
+        "2027 초등학생 학원비 세액공제",
+        "예체능 학원비 연말정산",
+        "2027 교육비 공제",
+        "소득세법 시행령 개정"
+      ],
+      "riskLevel": "medium",
+      "existingPost": "",
+      "demandScore": 79,
+      "riskNote": "법률 시행 전 세부 요건이 추가로 바뀔 수 있어 확정 조문 중심으로 작성",
+      "topicType": "breaking",
+      "freshnessScore": 91,
+      "category": "tax-finance",
+      "sourceTrustScore": 97,
+      "demandSignal": "소득세법 시행령 개정 이유에 초등학교 저학년 예체능 학원비 세액공제 내용이 확인됨",
+      "readerValue": "자녀 나이·교육비 종류·적용 연도를 구분해 연말정산 준비에 활용 가능",
+      "title": "2027 초등 저학년 예체능 학원비 세액공제 적용 대상과 준비서류",
+      "keyword": "2027 예체능 학원비 세액공제",
+      "sources": [
+        {
+          "sourceType": "official",
+          "title": "소득세법 시행령 개정이유",
+          "url": "https://www.law.go.kr/lsRvsRsnListP.do?lsId=003956",
+          "valid": false,
+          "status": 0,
+          "finalUrl": "",
+          "validationNote": "fetch failed"
+        },
+        {
+          "sourceType": "official",
+          "title": "국가법령정보센터 소득세 관련 법령",
+          "url": "https://law.go.kr/LSW/unSc.do?query=%EC%86%8C%EB%93%9D%EC%84%B8",
+          "valid": false,
+          "status": 0,
+          "finalUrl": "",
+          "validationNote": "fetch failed"
+        }
+      ],
+      "publishBy": "2026-11-06T09:00:00+09:00",
+      "whyNow": "2027년 연말정산 준비 검색이 시작되기 전 확정 법령 기반 선점 가능",
+      "noveltyCovered": false,
+      "noveltyReason": "초등학생 예체능 학원비 세액공제라는 구체적 공제 주제를 다루는 기존 글이 없습니다.",
+      "naverDemand": {
+        "keyword": "2027 예체능 학원비 세액공제",
+        "measuredAt": "2026-10-29T00:53:20.892Z",
+        "relatedKeywords": [
+          {
+            "keyword": "2027예체능학원비세액공제",
+            "monthlyPc": 5,
+            "monthlyMobile": 5,
+            "monthlyTotal": 10,
+            "competition": "낮음",
+            "averagePcClicks": 0,
+            "averageMobileClicks": 0
+          }
+        ],
+        "trends": [
+          {
+            "keyword": "2027 예체능 학원비 세액공제",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          },
+          {
+            "keyword": "2027예체능학원비세액공제",
+            "recentAverage": 0,
+            "previousAverage": 0,
+            "changePercent": null,
+            "latestRatio": 0
+          }
+        ],
+        "warnings": [],
+        "representativeKeyword": "2027예체능학원비세액공제",
         "monthlyPc": 5,
         "monthlyMobile": 5,
         "monthlyTotal": 10,
@@ -2422,354 +2527,70 @@
       },
       "isExistingTopic": false,
       "score": 56,
-      "nearestExistingTitle": "원천세 신고방법 홈택스 제출과 무급여 신고 체크리스트",
-      "nearestExistingPermalink": "/withholding-tax-hometax-filing-guide/",
-      "similarity": 0.25,
+      "nearestExistingTitle": "소상공인 고용보험료 지원 신청 방법과 지원비율·준비서류",
+      "nearestExistingPermalink": "/small-business-employment-insurance-support-guide/",
+      "similarity": 0.18181818181818182,
       "duplicatePenalty": 0,
-      "riskPenalty": 0,
+      "riskPenalty": 5,
       "sourcePenalty": 16
     }
   ],
   "rejectedTopics": [
     {
-      "longevityScore": 82,
-      "competitionAngle": "등본·초본 차이보다 온라인 무료 발급, 선택발급, 전자문서 제출 상황을 중심으로 구성",
-      "monetizationScore": 70,
+      "longevityScore": 68,
+      "competitionAngle": "정부24 신규 대리발급을 증명서 종류별 표로 세분화",
+      "monetizationScore": 71,
       "action": "new",
-      "monetizationSignal": "민원서류 발급은 상시 검색되는 고수요 행정 키워드",
-      "siteFitScore": 92,
+      "monetizationSignal": "장애인증명서·여권·복지서류 관련 행정 서비스 광고",
+      "siteFitScore": 91,
       "subKeywords": [
-        "주민등록등본 온라인 무료",
-        "주민등록초본 선택발급",
-        "전자문서지갑 제출"
-      ],
-      "riskLevel": "low",
-      "existingPost": "/resident-registration-abstract-online-guide/",
-      "demandScore": 86,
-      "riskNote": "기존 초본 단독 글과 의도 중복 여부를 편집 단계에서 재검토",
-      "topicType": "evergreen",
-      "freshnessScore": 78,
-      "category": "civil-documents",
-      "sourceTrustScore": 99,
-      "demandSignal": "정부24 서비스 정보가 2026년 9월 갱신됨",
-      "readerValue": "제출처별로 현재발급·선택발급을 고르는 기준 제공",
-      "title": "주민등록등본과 초본 온라인 발급, 선택발급과 무료 수수료 정리",
-      "keyword": "주민등록등본 초본 온라인 발급 차이",
-      "sources": [
-        {
-          "sourceType": "official",
-          "title": "정부24 주민등록표 등본·초본 발급",
-          "url": "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000015&HighCtgCD=&tp_seq=01",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000015&HighCtgCD=&tp_seq=01",
-          "validationNote": ""
-        },
-        {
-          "sourceType": "official",
-          "title": "정부24 모바일 발급 안내",
-          "url": "https://m.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000015&HighCtgCD=A01010&Mcode=10200",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://m.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000015&HighCtgCD=A01010&Mcode=10200",
-          "validationNote": ""
-        }
-      ],
-      "publishBy": "상시 발행",
-      "whyNow": "정부24 안내가 최근 갱신되어 현재 발급 방식과 수수료를 정리하기 좋음",
-      "noveltyCovered": true,
-      "noveltyReason": "주민등록초본 온라인 발급 및 선택 항목이라는 핵심 과제가 기존 글에 포함됩니다.",
-      "naverDemand": {
-        "keyword": "주민등록등본 초본 온라인 발급 차이",
-        "measuredAt": "2026-10-28T00:29:49.080Z",
-        "relatedKeywords": [
-          {
-            "keyword": "주민등록등본초본온라인발급차이",
-            "monthlyPc": 5,
-            "monthlyMobile": 5,
-            "monthlyTotal": 10,
-            "competition": "낮음",
-            "averagePcClicks": 0,
-            "averageMobileClicks": 0
-          }
-        ],
-        "trends": [
-          {
-            "keyword": "주민등록등본 초본 온라인 발급 차이",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          },
-          {
-            "keyword": "주민등록등본초본온라인발급차이",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          }
-        ],
-        "warnings": [],
-        "representativeKeyword": "주민등록등본초본온라인발급차이",
-        "monthlyPc": 5,
-        "monthlyMobile": 5,
-        "monthlyTotal": 10,
-        "competition": "낮음",
-        "volumeScore": 21
-      },
-      "isExistingTopic": true,
-      "score": 65,
-      "nearestExistingTitle": "주민등록초본 인터넷 발급 방법과 주소변동·병역사항 선택",
-      "nearestExistingPermalink": "/resident-registration-abstract-online-guide/",
-      "similarity": 0.2857142857142857,
-      "duplicatePenalty": 10,
-      "riskPenalty": 0,
-      "sourcePenalty": 0
-    },
-    {
-      "longevityScore": 71,
-      "competitionAngle": "행사 소개가 아닌 경복궁 관람시간·입장마감·화요일 휴궁 여부를 일정표로 제공",
-      "monetizationScore": 65,
-      "action": "new",
-      "monetizationSignal": "경복궁 방문·서울 관광·무료 관람 검색",
-      "siteFitScore": 83,
-      "subKeywords": [
-        "경복궁 11월 관람시간",
-        "경복궁 화요일 휴궁",
-        "경복궁 입장마감"
-      ],
-      "riskLevel": "low",
-      "existingPost": "",
-      "demandScore": 73,
-      "riskNote": "경복궁 단독 주제로 한정해 궁궐 전체 글과 중복을 피함",
-      "topicType": "seasonal",
-      "freshnessScore": 90,
-      "category": "local-information",
-      "sourceTrustScore": 98,
-      "demandSignal": "11월 관람시간과 코리아 그랜드 페스티벌 기간 운영이 별도 공지됨",
-      "readerValue": "방문일별 입장 가능 여부와 해설 운영 변동을 확인 가능",
-      "title": "2026년 11월 경복궁 관람시간과 무료개방 입장마감",
-      "keyword": "2026 경복궁 11월 관람시간",
-      "sources": [
-        {
-          "sourceType": "official",
-          "title": "경복궁 2026년 10~11월 관람 운영 안내",
-          "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schBcid=notice01&schM=view",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schBcid=notice01&schM=view",
-          "validationNote": ""
-        },
-        {
-          "sourceType": "official",
-          "title": "국가유산청 궁능유적본부",
-          "url": "https://royal.khs.go.kr/",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://royal.khs.go.kr/",
-          "validationNote": ""
-        }
-      ],
-      "publishBy": "2026-10-29T09:00:00+09:00",
-      "whyNow": "11월부터 관람시간이 변경되며 무료개방 기간이 진행 중",
-      "noveltyCovered": true,
-      "noveltyReason": "앞선 후보 11의 궁궐 무료개방 기간·관람시간 안내와 중복됩니다.",
-      "naverDemand": {
-        "keyword": "2026 경복궁 11월 관람시간",
-        "measuredAt": "2026-10-28T00:29:53.824Z",
-        "relatedKeywords": [
-          {
-            "keyword": "2026경복궁11월관람시간",
-            "monthlyPc": 5,
-            "monthlyMobile": 5,
-            "monthlyTotal": 10,
-            "competition": "낮음",
-            "averagePcClicks": 0,
-            "averageMobileClicks": 0
-          }
-        ],
-        "trends": [
-          {
-            "keyword": "2026 경복궁 11월 관람시간",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          },
-          {
-            "keyword": "2026경복궁11월관람시간",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          }
-        ],
-        "warnings": [],
-        "representativeKeyword": "2026경복궁11월관람시간",
-        "monthlyPc": 5,
-        "monthlyMobile": 5,
-        "monthlyTotal": 10,
-        "competition": "낮음",
-        "volumeScore": 21
-      },
-      "isExistingTopic": true,
-      "score": 65,
-      "nearestExistingTitle": "마틴 파 서울 전시 예약과 관람시간 무료 도슨트 안내",
-      "nearestExistingPermalink": "/martin-parr-seoul-exhibition/",
-      "similarity": 0.19047619047619047,
-      "duplicatePenalty": 7,
-      "riskPenalty": 0,
-      "sourcePenalty": 0
-    },
-    {
-      "longevityScore": 65,
-      "competitionAngle": "정책 홍보가 아니라 소비자가 실제로 확인할 할인 공개일과 구매 채널을 분리",
-      "monetizationScore": 84,
-      "action": "new",
-      "monetizationSignal": "가전·자동차 구매 비교 및 쇼핑 광고 수요",
-      "siteFitScore": 88,
-      "subKeywords": [
-        "코리아 그랜드 페스티벌 가전 할인",
-        "삼성전자 LG전자 할인",
-        "자동차 할인 공개"
+        "미성년 자녀 장애인증명서",
+        "부모 온라인 대리 민원",
+        "자녀 여권 재발급 정부24",
+        "정부24 대리 신청"
       ],
       "riskLevel": "low",
       "existingPost": "",
       "demandScore": 76,
-      "riskNote": "차종·제품별 할인율은 11월 1일 공개 예정이므로 공개 후 업데이트성 문서가 아닌 신규 기사로 작성",
-      "topicType": "breaking",
-      "freshnessScore": 97,
-      "category": "living-information",
-      "sourceTrustScore": 97,
-      "demandSignal": "정부 발표에서 자동차·가전 할인 세부내용을 11월 1일 공개한다고 안내",
-      "readerValue": "구매 전 공개일, 참여 브랜드, 비교해야 할 가격 기준을 제시",
-      "title": "코리아 그랜드 페스티벌 자동차와 가전 할인 공개일, 참여 브랜드 확인",
-      "keyword": "코리아 그랜드 페스티벌 가전 할인",
-      "sources": [
-        {
-          "sourceType": "official",
-          "title": "코리아 그랜드 페스티벌 혜택 안내",
-          "url": "https://www.motir.go.kr/kor/article/ATCL8764a1224/155119247/view",
-          "valid": false,
-          "status": 0,
-          "finalUrl": "",
-          "validationNote": "fetch failed"
-        },
-        {
-          "sourceType": "official",
-          "title": "코리아 그랜드 페스티벌 개최 보도자료",
-          "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172335/view",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172335/view",
-          "validationNote": ""
-        }
-      ],
-      "publishBy": "2026-10-30T10:00:00+09:00",
-      "whyNow": "자동차·가전 세부 할인 내용이 11월 1일 공개될 예정",
-      "noveltyCovered": true,
-      "noveltyReason": "앞선 후보 0의 코리아 그랜드 페스티벌 할인·참여 안내와 동일한 행사 할인 주제를 더 좁혀 다룹니다.",
-      "naverDemand": {
-        "keyword": "코리아 그랜드 페스티벌 가전 할인",
-        "measuredAt": "2026-10-28T00:29:53.376Z",
-        "relatedKeywords": [
-          {
-            "keyword": "코리아그랜드페스티벌가전할인",
-            "monthlyPc": 5,
-            "monthlyMobile": 5,
-            "monthlyTotal": 10,
-            "competition": "낮음",
-            "averagePcClicks": 0,
-            "averageMobileClicks": 0
-          }
-        ],
-        "trends": [
-          {
-            "keyword": "코리아 그랜드 페스티벌 가전 할인",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          },
-          {
-            "keyword": "코리아그랜드페스티벌가전할인",
-            "recentAverage": 0,
-            "previousAverage": 0,
-            "changePercent": null,
-            "latestRatio": 0
-          }
-        ],
-        "warnings": [],
-        "representativeKeyword": "코리아그랜드페스티벌가전할인",
-        "monthlyPc": 5,
-        "monthlyMobile": 5,
-        "monthlyTotal": 10,
-        "competition": "낮음",
-        "volumeScore": 21
-      },
-      "isExistingTopic": true,
-      "score": 60,
-      "nearestExistingTitle": "2025 한국 블랙프라이데이 기간 총정리 (주요 참여 브랜드 & 플랫폼 리스트)",
-      "nearestExistingPermalink": "/2025-korea-black-friday-period-participation-brand/",
-      "similarity": 0.2222222222222222,
-      "duplicatePenalty": 8,
-      "riskPenalty": 0,
-      "sourcePenalty": 8
-    },
-    {
-      "longevityScore": 84,
-      "competitionAngle": "전입신고 통보서비스와 구분해 세대주 변경·등초본 발급 알림까지 비교",
-      "monetizationScore": 74,
-      "action": "new",
-      "monetizationSignal": "전세·이사·명의도용 예방 관련 실용 검색",
-      "siteFitScore": 93,
-      "subKeywords": [
-        "주민등록 통보서비스",
-        "등본 발급 알림",
-        "세대주 변경 문자 알림"
-      ],
-      "riskLevel": "low",
-      "existingPost": "/move-in-report-notification-service/",
-      "demandScore": 79,
-      "riskNote": "알림 대상과 신청자격을 정부24 원문 기준으로 설명",
+      "riskNote": "서비스별 시행 시점과 대리 가능 조건을 구분해야 함",
       "topicType": "evergreen",
-      "freshnessScore": 81,
+      "freshnessScore": 86,
       "category": "civil-documents",
-      "sourceTrustScore": 99,
-      "demandSignal": "정부24에서 전입·세대주 변경·등본 발급 통보를 별도 신청 가능",
-      "readerValue": "명의도용이나 허위 전입을 조기에 확인하는 신청 절차 제공",
-      "title": "주민등록 통보서비스 신청방법, 전입·세대주 변경 알림 설정",
-      "keyword": "주민등록 통보서비스 신청방법",
+      "sourceTrustScore": 98,
+      "demandSignal": "행정안전부가 장애인증명서와 여권 재발급부터 순차 도입한다고 발표",
+      "readerValue": "자녀 대신 신청 가능한 민원과 아직 방문이 필요한 민원을 구별할 수 있음",
+      "title": "부모가 대신 신청할 수 있는 미성년 자녀 정부24 민원 종류",
+      "keyword": "미성년 자녀 정부24 대리 신청 민원",
       "sources": [
         {
           "sourceType": "official",
-          "title": "정부24 주민등록 관련 통보서비스",
-          "url": "https://m.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13110000039&HighCtgCD=A01008&tp_seq=01",
-          "valid": true,
-          "status": 200,
-          "finalUrl": "https://m.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13110000039&HighCtgCD=A01008&tp_seq=01",
-          "validationNote": ""
+          "title": "미성년 자녀 민원 부모 온라인 대리 발급 서비스",
+          "url": "https://mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do%3Bjsessionid%3DY2Qf0rU4wbVfJEUZtK102nCA903T7KiXTcMIrIP-.node10?bbsId=BBSMSTR_000000000008&nttId=126786",
+          "valid": false,
+          "status": 0,
+          "finalUrl": "",
+          "validationNote": "fetch failed"
         },
         {
           "sourceType": "official",
-          "title": "정부24 주민등록 서비스 안내",
-          "url": "https://www.gov.kr/portal/main?Mcode=9999",
+          "title": "정부24 민원 신청·발급",
+          "url": "https://m.gov.kr/portal/main/nologin",
           "valid": false,
           "status": 0,
           "finalUrl": "",
           "validationNote": "fetch failed"
         }
       ],
-      "publishBy": "상시 발행",
-      "whyNow": "이사와 임대차 계약이 많은 시기에 보안성 있는 행정 알림 수요가 있음",
+      "publishBy": "evergreen: 서비스 대상 확대 시 업데이트 없이 신규 발행 가능",
+      "whyNow": "신규 기능의 세부 민원 목록을 찾는 구체적 검색 의도가 존재",
       "noveltyCovered": true,
-      "noveltyReason": "전입신고 통보서비스 신청과 문자 알림을 동일하게 다룹니다.",
+      "noveltyReason": "후보 0의 ‘미성년 자녀 정부24 부모 대리 발급’과 동일한 핵심 독자 과업을 더 넓은 민원 종류로 반복합니다.",
       "naverDemand": {
-        "keyword": "주민등록 통보서비스 신청방법",
-        "measuredAt": "2026-10-28T00:29:49.555Z",
+        "keyword": "미성년 자녀 정부24 대리 신청 민원",
+        "measuredAt": "2026-10-29T00:53:21.461Z",
         "relatedKeywords": [
           {
-            "keyword": "주민등록통보서비스신청방법",
+            "keyword": "미성년자녀정부24대리신청민원",
             "monthlyPc": 5,
             "monthlyMobile": 5,
             "monthlyTotal": 10,
@@ -2780,14 +2601,14 @@
         ],
         "trends": [
           {
-            "keyword": "주민등록 통보서비스 신청방법",
+            "keyword": "미성년 자녀 정부24 대리 신청 민원",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
             "latestRatio": 0
           },
           {
-            "keyword": "주민등록통보서비스신청방법",
+            "keyword": "미성년자녀정부24대리신청민원",
             "recentAverage": 0,
             "previousAverage": 0,
             "changePercent": null,
@@ -2795,7 +2616,7 @@
           }
         ],
         "warnings": [],
-        "representativeKeyword": "주민등록통보서비스신청방법",
+        "representativeKeyword": "미성년자녀정부24대리신청민원",
         "monthlyPc": 5,
         "monthlyMobile": 5,
         "monthlyTotal": 10,
@@ -2803,13 +2624,13 @@
         "volumeScore": 21
       },
       "isExistingTopic": true,
-      "score": 52,
-      "nearestExistingTitle": "전입신고 통보서비스 신청 방법과 임대인·세대주 문자 알림",
-      "nearestExistingPermalink": "/move-in-report-notification-service/",
-      "similarity": 0.46511627906976744,
-      "duplicatePenalty": 16,
+      "score": 50,
+      "nearestExistingTitle": "2026 고유가 지원금 미성년자 신청방법",
+      "nearestExistingPermalink": "/2026-high-oil-subsidy-application/",
+      "similarity": 0.20512820512820512,
+      "duplicatePenalty": 7,
       "riskPenalty": 0,
-      "sourcePenalty": 8
+      "sourcePenalty": 16
     }
   ]
 }
